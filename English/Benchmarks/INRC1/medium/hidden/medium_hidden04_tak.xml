@@ -1,0 +1,2445 @@
+<?xml version="1.0" encoding ="UTF-8" standalone="yes"?>
+<Solution>
+<SchedulingPeriodID>medium_hidden04</SchedulingPeriodID>
+<Competitor>TAK</Competitor>
+	<Assignment>
+		<Date>2010-06-01</Date>
+<Employee>0</Employee>
+<ShiftType>N</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-02</Date>
+<Employee>0</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-03</Date>
+<Employee>0</Employee>
+<ShiftType>N</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-04</Date>
+<Employee>0</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-07</Date>
+<Employee>0</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-08</Date>
+<Employee>0</Employee>
+<ShiftType>D</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-09</Date>
+<Employee>0</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-10</Date>
+<Employee>0</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-11</Date>
+<Employee>0</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-14</Date>
+<Employee>0</Employee>
+<ShiftType>N</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-15</Date>
+<Employee>0</Employee>
+<ShiftType>N</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-16</Date>
+<Employee>0</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-17</Date>
+<Employee>0</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-18</Date>
+<Employee>0</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-21</Date>
+<Employee>0</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-22</Date>
+<Employee>0</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-23</Date>
+<Employee>0</Employee>
+<ShiftType>N</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-24</Date>
+<Employee>0</Employee>
+<ShiftType>N</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-25</Date>
+<Employee>0</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-28</Date>
+<Employee>0</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-01</Date>
+<Employee>1</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-02</Date>
+<Employee>1</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-03</Date>
+<Employee>1</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-04</Date>
+<Employee>1</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-07</Date>
+<Employee>1</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-08</Date>
+<Employee>1</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-09</Date>
+<Employee>1</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-10</Date>
+<Employee>1</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-11</Date>
+<Employee>1</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-14</Date>
+<Employee>1</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-15</Date>
+<Employee>1</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-16</Date>
+<Employee>1</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-17</Date>
+<Employee>1</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-18</Date>
+<Employee>1</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-21</Date>
+<Employee>1</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-22</Date>
+<Employee>1</Employee>
+<ShiftType>N</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-23</Date>
+<Employee>1</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-24</Date>
+<Employee>1</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-25</Date>
+<Employee>1</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-28</Date>
+<Employee>1</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-04</Date>
+<Employee>2</Employee>
+<ShiftType>D</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-05</Date>
+<Employee>2</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-06</Date>
+<Employee>2</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-07</Date>
+<Employee>2</Employee>
+<ShiftType>N</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-08</Date>
+<Employee>2</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-11</Date>
+<Employee>2</Employee>
+<ShiftType>N</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-12</Date>
+<Employee>2</Employee>
+<ShiftType>N</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-13</Date>
+<Employee>2</Employee>
+<ShiftType>N</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-14</Date>
+<Employee>2</Employee>
+<ShiftType>N</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-15</Date>
+<Employee>2</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-18</Date>
+<Employee>2</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-19</Date>
+<Employee>2</Employee>
+<ShiftType>D</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-20</Date>
+<Employee>2</Employee>
+<ShiftType>D</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-21</Date>
+<Employee>2</Employee>
+<ShiftType>D</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-22</Date>
+<Employee>2</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-23</Date>
+<Employee>2</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-25</Date>
+<Employee>2</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-26</Date>
+<Employee>2</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-27</Date>
+<Employee>2</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-28</Date>
+<Employee>2</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-04</Date>
+<Employee>3</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-05</Date>
+<Employee>3</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-06</Date>
+<Employee>3</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-07</Date>
+<Employee>3</Employee>
+<ShiftType>N</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-08</Date>
+<Employee>3</Employee>
+<ShiftType>N</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-11</Date>
+<Employee>3</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-12</Date>
+<Employee>3</Employee>
+<ShiftType>D</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-13</Date>
+<Employee>3</Employee>
+<ShiftType>D</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-14</Date>
+<Employee>3</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-15</Date>
+<Employee>3</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-18</Date>
+<Employee>3</Employee>
+<ShiftType>N</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-19</Date>
+<Employee>3</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-20</Date>
+<Employee>3</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-21</Date>
+<Employee>3</Employee>
+<ShiftType>N</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-22</Date>
+<Employee>3</Employee>
+<ShiftType>N</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-24</Date>
+<Employee>3</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-25</Date>
+<Employee>3</Employee>
+<ShiftType>N</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-26</Date>
+<Employee>3</Employee>
+<ShiftType>N</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-27</Date>
+<Employee>3</Employee>
+<ShiftType>N</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-28</Date>
+<Employee>3</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-01</Date>
+<Employee>4</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-02</Date>
+<Employee>4</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-03</Date>
+<Employee>4</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-04</Date>
+<Employee>4</Employee>
+<ShiftType>N</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-05</Date>
+<Employee>4</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-06</Date>
+<Employee>4</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-09</Date>
+<Employee>4</Employee>
+<ShiftType>D</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-10</Date>
+<Employee>4</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-11</Date>
+<Employee>4</Employee>
+<ShiftType>N</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-12</Date>
+<Employee>4</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-13</Date>
+<Employee>4</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-16</Date>
+<Employee>4</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-17</Date>
+<Employee>4</Employee>
+<ShiftType>D</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-18</Date>
+<Employee>4</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-21</Date>
+<Employee>4</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-22</Date>
+<Employee>4</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-23</Date>
+<Employee>4</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-24</Date>
+<Employee>4</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-25</Date>
+<Employee>4</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-28</Date>
+<Employee>4</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-01</Date>
+<Employee>5</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-02</Date>
+<Employee>5</Employee>
+<ShiftType>D</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-03</Date>
+<Employee>5</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-04</Date>
+<Employee>5</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-05</Date>
+<Employee>5</Employee>
+<ShiftType>D</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-06</Date>
+<Employee>5</Employee>
+<ShiftType>D</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-09</Date>
+<Employee>5</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-10</Date>
+<Employee>5</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-11</Date>
+<Employee>5</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-12</Date>
+<Employee>5</Employee>
+<ShiftType>N</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-13</Date>
+<Employee>5</Employee>
+<ShiftType>N</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-16</Date>
+<Employee>5</Employee>
+<ShiftType>N</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-17</Date>
+<Employee>5</Employee>
+<ShiftType>N</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-18</Date>
+<Employee>5</Employee>
+<ShiftType>N</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-19</Date>
+<Employee>5</Employee>
+<ShiftType>N</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-20</Date>
+<Employee>5</Employee>
+<ShiftType>N</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-23</Date>
+<Employee>5</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-24</Date>
+<Employee>5</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-25</Date>
+<Employee>5</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-28</Date>
+<Employee>5</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-01</Date>
+<Employee>6</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-02</Date>
+<Employee>6</Employee>
+<ShiftType>N</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-03</Date>
+<Employee>6</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-04</Date>
+<Employee>6</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-07</Date>
+<Employee>6</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-08</Date>
+<Employee>6</Employee>
+<ShiftType>D</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-09</Date>
+<Employee>6</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-10</Date>
+<Employee>6</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-11</Date>
+<Employee>6</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-14</Date>
+<Employee>6</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-15</Date>
+<Employee>6</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-16</Date>
+<Employee>6</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-17</Date>
+<Employee>6</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-18</Date>
+<Employee>6</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-21</Date>
+<Employee>6</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-22</Date>
+<Employee>6</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-23</Date>
+<Employee>6</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-24</Date>
+<Employee>6</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-25</Date>
+<Employee>6</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-28</Date>
+<Employee>6</Employee>
+<ShiftType>N</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-01</Date>
+<Employee>7</Employee>
+<ShiftType>D</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-02</Date>
+<Employee>7</Employee>
+<ShiftType>D</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-03</Date>
+<Employee>7</Employee>
+<ShiftType>D</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-04</Date>
+<Employee>7</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-07</Date>
+<Employee>7</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-08</Date>
+<Employee>7</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-09</Date>
+<Employee>7</Employee>
+<ShiftType>N</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-10</Date>
+<Employee>7</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-11</Date>
+<Employee>7</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-14</Date>
+<Employee>7</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-15</Date>
+<Employee>7</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-16</Date>
+<Employee>7</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-17</Date>
+<Employee>7</Employee>
+<ShiftType>N</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-18</Date>
+<Employee>7</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-21</Date>
+<Employee>7</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-22</Date>
+<Employee>7</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-23</Date>
+<Employee>7</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-24</Date>
+<Employee>7</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-25</Date>
+<Employee>7</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-28</Date>
+<Employee>7</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-01</Date>
+<Employee>8</Employee>
+<ShiftType>D</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-02</Date>
+<Employee>8</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-03</Date>
+<Employee>8</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-04</Date>
+<Employee>8</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-07</Date>
+<Employee>8</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-08</Date>
+<Employee>8</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-09</Date>
+<Employee>8</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-10</Date>
+<Employee>8</Employee>
+<ShiftType>D</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-11</Date>
+<Employee>8</Employee>
+<ShiftType>D</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-14</Date>
+<Employee>8</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-15</Date>
+<Employee>8</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-16</Date>
+<Employee>8</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-17</Date>
+<Employee>8</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-18</Date>
+<Employee>8</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-21</Date>
+<Employee>8</Employee>
+<ShiftType>N</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-22</Date>
+<Employee>8</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-23</Date>
+<Employee>8</Employee>
+<ShiftType>N</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-24</Date>
+<Employee>8</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-25</Date>
+<Employee>8</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-28</Date>
+<Employee>8</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-01</Date>
+<Employee>9</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-02</Date>
+<Employee>9</Employee>
+<ShiftType>N</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-03</Date>
+<Employee>9</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-04</Date>
+<Employee>9</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-07</Date>
+<Employee>9</Employee>
+<ShiftType>D</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-08</Date>
+<Employee>9</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-09</Date>
+<Employee>9</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-10</Date>
+<Employee>9</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-11</Date>
+<Employee>9</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-14</Date>
+<Employee>9</Employee>
+<ShiftType>N</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-15</Date>
+<Employee>9</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-16</Date>
+<Employee>9</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-17</Date>
+<Employee>9</Employee>
+<ShiftType>N</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-18</Date>
+<Employee>9</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-21</Date>
+<Employee>9</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-22</Date>
+<Employee>9</Employee>
+<ShiftType>N</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-23</Date>
+<Employee>9</Employee>
+<ShiftType>N</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-24</Date>
+<Employee>9</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-25</Date>
+<Employee>9</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-28</Date>
+<Employee>9</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-04</Date>
+<Employee>10</Employee>
+<ShiftType>N</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-05</Date>
+<Employee>10</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-06</Date>
+<Employee>10</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-07</Date>
+<Employee>10</Employee>
+<ShiftType>N</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-11</Date>
+<Employee>10</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-12</Date>
+<Employee>10</Employee>
+<ShiftType>D</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-13</Date>
+<Employee>10</Employee>
+<ShiftType>D</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-14</Date>
+<Employee>10</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-15</Date>
+<Employee>10</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-16</Date>
+<Employee>10</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-17</Date>
+<Employee>10</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-21</Date>
+<Employee>10</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-22</Date>
+<Employee>10</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-23</Date>
+<Employee>10</Employee>
+<ShiftType>D</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-24</Date>
+<Employee>10</Employee>
+<ShiftType>D</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-04</Date>
+<Employee>11</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-05</Date>
+<Employee>11</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-06</Date>
+<Employee>11</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-07</Date>
+<Employee>11</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-11</Date>
+<Employee>11</Employee>
+<ShiftType>N</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-12</Date>
+<Employee>11</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-13</Date>
+<Employee>11</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-14</Date>
+<Employee>11</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-18</Date>
+<Employee>11</Employee>
+<ShiftType>D</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-19</Date>
+<Employee>11</Employee>
+<ShiftType>D</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-20</Date>
+<Employee>11</Employee>
+<ShiftType>D</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-21</Date>
+<Employee>11</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-22</Date>
+<Employee>11</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-23</Date>
+<Employee>11</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-24</Date>
+<Employee>11</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-04</Date>
+<Employee>12</Employee>
+<ShiftType>D</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-05</Date>
+<Employee>12</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-06</Date>
+<Employee>12</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-07</Date>
+<Employee>12</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-08</Date>
+<Employee>12</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-09</Date>
+<Employee>12</Employee>
+<ShiftType>N</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-10</Date>
+<Employee>12</Employee>
+<ShiftType>N</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-14</Date>
+<Employee>12</Employee>
+<ShiftType>N</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-15</Date>
+<Employee>12</Employee>
+<ShiftType>N</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-16</Date>
+<Employee>12</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-17</Date>
+<Employee>12</Employee>
+<ShiftType>N</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-21</Date>
+<Employee>12</Employee>
+<ShiftType>D</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-22</Date>
+<Employee>12</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-23</Date>
+<Employee>12</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-24</Date>
+<Employee>12</Employee>
+<ShiftType>N</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-04</Date>
+<Employee>13</Employee>
+<ShiftType>DH</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-05</Date>
+<Employee>13</Employee>
+<ShiftType>DH</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-06</Date>
+<Employee>13</Employee>
+<ShiftType>DH</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-07</Date>
+<Employee>13</Employee>
+<ShiftType>DH</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-08</Date>
+<Employee>13</Employee>
+<ShiftType>DH</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-09</Date>
+<Employee>13</Employee>
+<ShiftType>DH</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-10</Date>
+<Employee>13</Employee>
+<ShiftType>DH</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-12</Date>
+<Employee>13</Employee>
+<ShiftType>DH</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-13</Date>
+<Employee>13</Employee>
+<ShiftType>DH</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-14</Date>
+<Employee>13</Employee>
+<ShiftType>DH</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-15</Date>
+<Employee>13</Employee>
+<ShiftType>DH</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-16</Date>
+<Employee>13</Employee>
+<ShiftType>DH</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-17</Date>
+<Employee>13</Employee>
+<ShiftType>DH</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-21</Date>
+<Employee>13</Employee>
+<ShiftType>DH</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-22</Date>
+<Employee>13</Employee>
+<ShiftType>D</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-23</Date>
+<Employee>13</Employee>
+<ShiftType>DH</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-24</Date>
+<Employee>13</Employee>
+<ShiftType>DH</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-25</Date>
+<Employee>13</Employee>
+<ShiftType>DH</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-04</Date>
+<Employee>14</Employee>
+<ShiftType>N</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-05</Date>
+<Employee>14</Employee>
+<ShiftType>N</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-06</Date>
+<Employee>14</Employee>
+<ShiftType>N</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-07</Date>
+<Employee>14</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-11</Date>
+<Employee>14</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-12</Date>
+<Employee>14</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-13</Date>
+<Employee>14</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-14</Date>
+<Employee>14</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-15</Date>
+<Employee>14</Employee>
+<ShiftType>D</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-16</Date>
+<Employee>14</Employee>
+<ShiftType>D</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-17</Date>
+<Employee>14</Employee>
+<ShiftType>D</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-21</Date>
+<Employee>14</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-22</Date>
+<Employee>14</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-23</Date>
+<Employee>14</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-24</Date>
+<Employee>14</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-01</Date>
+<Employee>15</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-02</Date>
+<Employee>15</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-03</Date>
+<Employee>15</Employee>
+<ShiftType>D</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-04</Date>
+<Employee>15</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-07</Date>
+<Employee>15</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-08</Date>
+<Employee>15</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-09</Date>
+<Employee>15</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-10</Date>
+<Employee>15</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-14</Date>
+<Employee>15</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-15</Date>
+<Employee>15</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-16</Date>
+<Employee>15</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-21</Date>
+<Employee>15</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-22</Date>
+<Employee>15</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-23</Date>
+<Employee>15</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-24</Date>
+<Employee>15</Employee>
+<ShiftType>N</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-01</Date>
+<Employee>16</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-02</Date>
+<Employee>16</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-03</Date>
+<Employee>16</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-04</Date>
+<Employee>16</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-07</Date>
+<Employee>16</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-08</Date>
+<Employee>16</Employee>
+<ShiftType>N</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-09</Date>
+<Employee>16</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-10</Date>
+<Employee>16</Employee>
+<ShiftType>N</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-14</Date>
+<Employee>16</Employee>
+<ShiftType>D</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-15</Date>
+<Employee>16</Employee>
+<ShiftType>D</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-16</Date>
+<Employee>16</Employee>
+<ShiftType>D</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-21</Date>
+<Employee>16</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-22</Date>
+<Employee>16</Employee>
+<ShiftType>D</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-23</Date>
+<Employee>16</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-24</Date>
+<Employee>16</Employee>
+<ShiftType>N</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-01</Date>
+<Employee>17</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-02</Date>
+<Employee>17</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-03</Date>
+<Employee>17</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-08</Date>
+<Employee>17</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-09</Date>
+<Employee>17</Employee>
+<ShiftType>N</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-10</Date>
+<Employee>17</Employee>
+<ShiftType>N</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-11</Date>
+<Employee>17</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-17</Date>
+<Employee>17</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-18</Date>
+<Employee>17</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-19</Date>
+<Employee>17</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-20</Date>
+<Employee>17</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-25</Date>
+<Employee>17</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-26</Date>
+<Employee>17</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-27</Date>
+<Employee>17</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-28</Date>
+<Employee>17</Employee>
+<ShiftType>D</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-01</Date>
+<Employee>18</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-02</Date>
+<Employee>18</Employee>
+<ShiftType>N</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-03</Date>
+<Employee>18</Employee>
+<ShiftType>N</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-07</Date>
+<Employee>18</Employee>
+<ShiftType>D</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-08</Date>
+<Employee>18</Employee>
+<ShiftType>D</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-09</Date>
+<Employee>18</Employee>
+<ShiftType>D</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-10</Date>
+<Employee>18</Employee>
+<ShiftType>D</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-15</Date>
+<Employee>18</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-16</Date>
+<Employee>18</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-17</Date>
+<Employee>18</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-18</Date>
+<Employee>18</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-25</Date>
+<Employee>18</Employee>
+<ShiftType>N</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-26</Date>
+<Employee>18</Employee>
+<ShiftType>N</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-27</Date>
+<Employee>18</Employee>
+<ShiftType>N</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-28</Date>
+<Employee>18</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-01</Date>
+<Employee>19</Employee>
+<ShiftType>N</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-02</Date>
+<Employee>19</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-03</Date>
+<Employee>19</Employee>
+<ShiftType>N</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-04</Date>
+<Employee>19</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-07</Date>
+<Employee>19</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-08</Date>
+<Employee>19</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-09</Date>
+<Employee>19</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-10</Date>
+<Employee>19</Employee>
+<ShiftType>N</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-14</Date>
+<Employee>19</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-15</Date>
+<Employee>19</Employee>
+<ShiftType>N</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-16</Date>
+<Employee>19</Employee>
+<ShiftType>N</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-21</Date>
+<Employee>19</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-22</Date>
+<Employee>19</Employee>
+<ShiftType>N</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-23</Date>
+<Employee>19</Employee>
+<ShiftType>N</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-24</Date>
+<Employee>19</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-01</Date>
+<Employee>20</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-02</Date>
+<Employee>20</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-03</Date>
+<Employee>20</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-07</Date>
+<Employee>20</Employee>
+<ShiftType>N</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-08</Date>
+<Employee>20</Employee>
+<ShiftType>N</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-09</Date>
+<Employee>20</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-10</Date>
+<Employee>20</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-14</Date>
+<Employee>20</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-15</Date>
+<Employee>20</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-16</Date>
+<Employee>20</Employee>
+<ShiftType>N</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-17</Date>
+<Employee>20</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-21</Date>
+<Employee>20</Employee>
+<ShiftType>N</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-22</Date>
+<Employee>20</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-23</Date>
+<Employee>20</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-28</Date>
+<Employee>20</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-01</Date>
+<Employee>21</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-02</Date>
+<Employee>21</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-03</Date>
+<Employee>21</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-08</Date>
+<Employee>21</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-09</Date>
+<Employee>21</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-10</Date>
+<Employee>21</Employee>
+<ShiftType>D</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-11</Date>
+<Employee>21</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-17</Date>
+<Employee>21</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-18</Date>
+<Employee>21</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-19</Date>
+<Employee>21</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-20</Date>
+<Employee>21</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-25</Date>
+<Employee>21</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-26</Date>
+<Employee>21</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-27</Date>
+<Employee>21</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-28</Date>
+<Employee>21</Employee>
+<ShiftType>N</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-01</Date>
+<Employee>22</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-02</Date>
+<Employee>22</Employee>
+<ShiftType>D</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-03</Date>
+<Employee>22</Employee>
+<ShiftType>D</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-08</Date>
+<Employee>22</Employee>
+<ShiftType>N</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-09</Date>
+<Employee>22</Employee>
+<ShiftType>N</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-10</Date>
+<Employee>22</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-11</Date>
+<Employee>22</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-18</Date>
+<Employee>22</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-19</Date>
+<Employee>22</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-20</Date>
+<Employee>22</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-21</Date>
+<Employee>22</Employee>
+<ShiftType>N</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-25</Date>
+<Employee>22</Employee>
+<ShiftType>D</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-26</Date>
+<Employee>22</Employee>
+<ShiftType>D</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-27</Date>
+<Employee>22</Employee>
+<ShiftType>D</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-28</Date>
+<Employee>22</Employee>
+<ShiftType>D</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-01</Date>
+<Employee>23</Employee>
+<ShiftType>D</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-02</Date>
+<Employee>23</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-03</Date>
+<Employee>23</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-08</Date>
+<Employee>23</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-09</Date>
+<Employee>23</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-10</Date>
+<Employee>23</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-16</Date>
+<Employee>23</Employee>
+<ShiftType>D</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-17</Date>
+<Employee>23</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-18</Date>
+<Employee>23</Employee>
+<ShiftType>N</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-19</Date>
+<Employee>23</Employee>
+<ShiftType>N</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-20</Date>
+<Employee>23</Employee>
+<ShiftType>N</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-25</Date>
+<Employee>23</Employee>
+<ShiftType>N</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-26</Date>
+<Employee>23</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-27</Date>
+<Employee>23</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-28</Date>
+<Employee>23</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-01</Date>
+<Employee>24</Employee>
+<ShiftType>N</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-02</Date>
+<Employee>24</Employee>
+<ShiftType>N</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-03</Date>
+<Employee>24</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-08</Date>
+<Employee>24</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-09</Date>
+<Employee>24</Employee>
+<ShiftType>D</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-10</Date>
+<Employee>24</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-11</Date>
+<Employee>24</Employee>
+<ShiftType>DH</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-17</Date>
+<Employee>24</Employee>
+<ShiftType>D</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-18</Date>
+<Employee>24</Employee>
+<ShiftType>D</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-19</Date>
+<Employee>24</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-20</Date>
+<Employee>24</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-25</Date>
+<Employee>24</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-26</Date>
+<Employee>24</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-27</Date>
+<Employee>24</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-28</Date>
+<Employee>24</Employee>
+<ShiftType>N</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-11</Date>
+<Employee>25</Employee>
+<ShiftType>N</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-12</Date>
+<Employee>25</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-13</Date>
+<Employee>25</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-14</Date>
+<Employee>25</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-15</Date>
+<Employee>25</Employee>
+<ShiftType>N</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-16</Date>
+<Employee>25</Employee>
+<ShiftType>N</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-17</Date>
+<Employee>25</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-18</Date>
+<Employee>25</Employee>
+<ShiftType>N</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-19</Date>
+<Employee>25</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-20</Date>
+<Employee>25</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-11</Date>
+<Employee>26</Employee>
+<ShiftType>D</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-12</Date>
+<Employee>26</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-13</Date>
+<Employee>26</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-14</Date>
+<Employee>26</Employee>
+<ShiftType>D</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-15</Date>
+<Employee>26</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-16</Date>
+<Employee>26</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-17</Date>
+<Employee>26</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-18</Date>
+<Employee>26</Employee>
+<ShiftType>D</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-01</Date>
+<Employee>27</Employee>
+<ShiftType>N</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-02</Date>
+<Employee>27</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-03</Date>
+<Employee>27</Employee>
+<ShiftType>N</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-04</Date>
+<Employee>27</Employee>
+<ShiftType>N</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-05</Date>
+<Employee>27</Employee>
+<ShiftType>N</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-06</Date>
+<Employee>27</Employee>
+<ShiftType>N</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-07</Date>
+<Employee>27</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-22</Date>
+<Employee>27</Employee>
+<ShiftType>D</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-23</Date>
+<Employee>27</Employee>
+<ShiftType>D</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-24</Date>
+<Employee>27</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-25</Date>
+<Employee>27</Employee>
+<ShiftType>N</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-26</Date>
+<Employee>27</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-27</Date>
+<Employee>27</Employee>
+<ShiftType>L</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-28</Date>
+<Employee>27</Employee>
+<ShiftType>N</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-11</Date>
+<Employee>28</Employee>
+<ShiftType>D</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-12</Date>
+<Employee>28</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-13</Date>
+<Employee>28</Employee>
+<ShiftType>E</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-14</Date>
+<Employee>28</Employee>
+<ShiftType>D</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-15</Date>
+<Employee>28</Employee>
+<ShiftType>D</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-24</Date>
+<Employee>28</Employee>
+<ShiftType>D</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-25</Date>
+<Employee>28</Employee>
+<ShiftType>D</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-26</Date>
+<Employee>28</Employee>
+<ShiftType>D</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-27</Date>
+<Employee>28</Employee>
+<ShiftType>D</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-28</Date>
+<Employee>28</Employee>
+<ShiftType>D</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-01</Date>
+<Employee>29</Employee>
+<ShiftType>DH</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-02</Date>
+<Employee>29</Employee>
+<ShiftType>DH</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-03</Date>
+<Employee>29</Employee>
+<ShiftType>DH</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-04</Date>
+<Employee>29</Employee>
+<ShiftType>D</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-05</Date>
+<Employee>29</Employee>
+<ShiftType>D</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-06</Date>
+<Employee>29</Employee>
+<ShiftType>D</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-07</Date>
+<Employee>29</Employee>
+<ShiftType>D</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-18</Date>
+<Employee>29</Employee>
+<ShiftType>DH</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-19</Date>
+<Employee>29</Employee>
+<ShiftType>DH</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-20</Date>
+<Employee>29</Employee>
+<ShiftType>DH</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-21</Date>
+<Employee>29</Employee>
+<ShiftType>D</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-22</Date>
+<Employee>29</Employee>
+<ShiftType>DH</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-23</Date>
+<Employee>29</Employee>
+<ShiftType>D</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-24</Date>
+<Employee>29</Employee>
+<ShiftType>D</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-25</Date>
+<Employee>29</Employee>
+<ShiftType>D</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-26</Date>
+<Employee>29</Employee>
+<ShiftType>DH</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-27</Date>
+<Employee>29</Employee>
+<ShiftType>DH</ShiftType>
+	</Assignment>
+	<Assignment>
+		<Date>2010-06-28</Date>
+<Employee>29</Employee>
+<ShiftType>DH</ShiftType>
+	</Assignment>
+</Solution>
