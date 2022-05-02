@@ -1,0 +1,2328 @@
+Preparing to compile.
+Calling solver
+
+	Compiling constraints..
+	Generating python property file finished.
+		AVX2 is available.
+		CLP is used.
+		node_count=14165
+		Elapsed time  synthesis: nurse11 403(sec)
+		node_count=14175
+		Elapsed time  synthesis: nurse15 478(sec)
+		node_count=14168
+		Elapsed time  synthesis: nurse10 508(sec)
+		node_count=13723
+		Elapsed time  synthesis: nurse7 981(sec)
+		node_count=13377
+		Elapsed time  synthesis: nurse8 1167(sec)
+		node_count=14201
+		Elapsed time  synthesis: nurse6 1231(sec)
+		node_count=13711
+		Elapsed time  synthesis: nurse9 1627(sec)
+		node_count=14158
+		Elapsed time  synthesis: nurse12 1649(sec)
+		node_count=14195
+		Elapsed time  synthesis: nurse14 1644(sec)
+		node_count=14296
+		Elapsed time  synthesis: nurse13 1749(sec)
+		node_count=16692
+		Elapsed time  synthesis: nurse1 2032(sec)
+		node_count=16824
+		Elapsed time  synthesis: nurse3 2030(sec)
+		node_count=16693
+		Elapsed time  synthesis: nurse4 2036(sec)
+		node_count=16720
+		Elapsed time  synthesis: nurse0 2042(sec)
+		node_count=16720
+		Elapsed time  synthesis: nurse5 2053(sec)
+		node_count=16348
+		Elapsed time  synthesis: nurse2 2133(sec)
+		node_count=11261
+		Elapsed time  synthesis: nurse17 2044(sec)
+		node_count=11186
+		Elapsed time  synthesis: nurse18 2079(sec)
+		node_count=11648
+		Elapsed time  synthesis: nurse19 1698(sec)
+		node_count=14201
+		Elapsed time  synthesis: nurse16 2348(sec)
+		node_count=11242
+		Elapsed time  synthesis: nurse20 1574(sec)
+		node_count=11676
+		Elapsed time  synthesis: nurse21 1915(sec)
+		node_count=11383
+		Elapsed time  synthesis: nurse24 2009(sec)
+		node_count=11241
+		Elapsed time  synthesis: nurse25 2071(sec)
+		node_count=11670
+		Elapsed time  synthesis: nurse22 2173(sec)
+		node_count=11257
+		Elapsed time  synthesis: nurse23 2185(sec)
+		node_count=11648
+		Elapsed time  synthesis: nurse28 1894(sec)
+		node_count=11255
+		Elapsed time  synthesis: nurse29 1916(sec)
+		node_count=11739
+		Elapsed time  synthesis: nurse31 1821(sec)
+		node_count=11262
+		Elapsed time  synthesis: nurse30 1899(sec)
+		node_count=11670
+		Elapsed time  synthesis: nurse26 2060(sec)
+		node_count=11651
+		Elapsed time  synthesis: nurse27 2127(sec)
+		node_count=11186
+		Elapsed time  synthesis: nurse32 1878(sec)
+		node_count=11661
+		Elapsed time  synthesis: nurse33 1867(sec)
+		node_count=11655
+		Elapsed time  synthesis: nurse34 1775(sec)
+		2 Soft_Card compiled out of 2 node sum=40050
+		2 Soft_Card compiled out of 2 node sum=54165
+		2 Soft_Card compiled out of 2 node sum=48302
+		2 Soft_Card compiled out of 2 node sum=40621
+		2 Soft_Card compiled out of 2 node sum=54186
+		2 Soft_Card compiled out of 2 node sum=54172
+		2 Soft_Card compiled out of 2 node sum=58380
+		2 Soft_Card compiled out of 2 node sum=64026
+		2 Soft_Card compiled out of 2 node sum=64185
+		2 Soft_Card compiled out of 2 node sum=92468
+		2 Soft_Card compiled out of 2 node sum=92333
+		2 Soft_Card compiled out of 2 node sum=92316
+		2 Soft_Card compiled out of 2 node sum=92309
+		2 Soft_Card compiled out of 2 node sum=108979
+		2 Soft_Card compiled out of 2 node sum=108979
+		2 Soft_Card compiled out of 2 node sum=108965
+		compressed ratio=5.80374[%]
+		card [8] max elements=67 sum=915865
+		compressed ratio=29.9781[%]
+		compressed ratio=5.56662[%]
+		card [9] max elements=67 sum=944432
+		subproblem[8] 886(msec)
+		compressed ratio=29.485[%]
+		subproblem[9] 912(msec)
+		compressed ratio=4.88862[%]
+		card [7] max elements=59 sum=1086950
+		2 Soft_Card compiled out of 2 node sum=54186
+		2 Soft_Card compiled out of 2 node sum=33755
+		compressed ratio=29.6469[%]
+		subproblem[7] 1003(msec)
+		compressed ratio=4.70556[%]
+		card [15] max elements=59 sum=1219942
+		compressed ratio=4.69788[%]
+		card [6] max elements=59 sum=1220575
+		compressed ratio=29.2961[%]
+		compressed ratio=29.56[%]
+		subproblem[15] 1068(msec)
+		compressed ratio=4.70656[%]
+		card [10] max elements=59 sum=1219634
+		2 Soft_Card compiled out of 2 node sum=33641
+		subproblem[6] 1080(msec)
+		compressed ratio=30.0081[%]
+		compressed ratio=4.34288[%]
+		card [2] max elements=59 sum=1308490
+		compressed ratio=6.13664[%]
+		card [14] max elements=41 sum=1130796
+		compressed ratio=6.12672[%]
+		subproblem[10] 1125(msec)
+		card [11] max elements=41 sum=1130339
+		compressed ratio=6.12824[%]
+		card [12] max elements=41 sum=1130146
+		compressed ratio=6.11779[%]
+		card [13] max elements=42 sum=1133031
+		compressed ratio=29.5129[%]
+		compressed ratio=4.16225[%]
+		card [3] max elements=59 sum=1440214
+		subproblem[2] 1225(msec)
+		compressed ratio=4.17644[%]
+		card [1] max elements=59 sum=1435434
+		compressed ratio=30.4916[%]
+		compressed ratio=30.4668[%]
+		compressed ratio=30.1043[%]
+		subproblem[14] 1269(msec)
+		compressed ratio=30.7757[%]
+		subproblem[11] 1277(msec)
+		compressed ratio=29.657[%]
+		subproblem[12] 1290(msec)
+		subproblem[13] 1300(msec)
+		compressed ratio=29.521[%]
+		subproblem[3] 1305(msec)
+		subproblem[1] 1322(msec)
+		compressed ratio=5.55341[%]
+		compressed ratio=5.53445[%]
+		card [4] max elements=41 sum=1323948
+		card [5] max elements=41 sum=1324316
+		compressed ratio=5.53445[%]
+		card [0] max elements=41 sum=1324316
+		compressed ratio=6.08948[%]
+		card [17] max elements=67 sum=788865
+		compressed ratio=30.5546[%]
+		compressed ratio=30.8296[%]
+		subproblem[4] 1444(msec)
+		compressed ratio=29.7391[%]
+		compressed ratio=30.9451[%]
+		subproblem[5] 1456(msec)
+		subproblem[17] 548(msec)
+		compressed ratio=6.16795[%]
+		card [18] max elements=67 sum=785956
+		subproblem[0] 1483(msec)
+		compressed ratio=29.8297[%]
+		subproblem[18] 518(msec)
+		compressed ratio=4.69788[%]
+		card [16] max elements=59 sum=1220575
+		2 Soft_Card compiled out of 2 node sum=75678
+		compressed ratio=29.807[%]
+		2 Soft_Card compiled out of 2 node sum=33718
+		subproblem[16] 786(msec)
+		compressed ratio=6.10687[%]
+		card [20] max elements=67 sum=788020
+		compressed ratio=30.3571[%]
+		subproblem[20] 877(msec)
+		compressed ratio=6.70525[%]
+		card [19] max elements=41 sum=936939
+		compressed ratio=29.9116[%]
+		subproblem[19] 996(msec)
+		2 Soft_Card compiled out of 2 node sum=44324
+		2 Soft_Card compiled out of 2 node sum=40477
+		2 Soft_Card compiled out of 2 node sum=33735
+		2 Soft_Card compiled out of 2 node sum=33756
+		2 Soft_Card compiled out of 2 node sum=75687
+		2 Soft_Card compiled out of 2 node sum=33641
+		compressed ratio=5.34283[%]
+		card [21] max elements=59 sum=1004755
+		2 Soft_Card compiled out of 2 node sum=44414
+		2 Soft_Card compiled out of 2 node sum=44321
+		2 Soft_Card compiled out of 2 node sum=72037
+		2 Soft_Card compiled out of 2 node sum=75687
+		compressed ratio=29.8807[%]
+		2 Soft_Card compiled out of 2 node sum=75678
+		2 Soft_Card compiled out of 2 node sum=75681
+		subproblem[21] 2136(msec)
+		2 Soft_Card compiled out of 2 node sum=72035
+		2 Soft_Card compiled out of 2 node sum=44315
+		compressed ratio=6.09762[%]
+		card [25] max elements=67 sum=788365
+		compressed ratio=29.4722[%]
+		subproblem[25] 2246(msec)
+		compressed ratio=6.08054[%]
+		card [30] max elements=67 sum=788974
+		compressed ratio=30.1154[%]
+		subproblem[30] 2134(msec)
+		compressed ratio=5.56835[%]
+		card [24] max elements=59 sum=917340
+		compressed ratio=6.16795[%]
+		card [32] max elements=67 sum=785956
+		compressed ratio=29.3831[%]
+		compressed ratio=29.356[%]
+		subproblem[32] 2143(msec)
+		subproblem[24] 2349(msec)
+		compressed ratio=6.8064[%]
+		card [23] max elements=41 sum=891757
+		compressed ratio=6.68033[%]
+		card [22] max elements=41 sum=937188
+		compressed ratio=5.34702[%]
+		card [33] max elements=59 sum=1004600
+		compressed ratio=5.31192[%]
+		card [31] max elements=59 sum=1006559
+		compressed ratio=6.68033[%]
+		card [26] max elements=41 sum=937188
+		compressed ratio=30.345[%]
+		compressed ratio=30.5545[%]
+		compressed ratio=6.70525[%]
+		compressed ratio=29.5988[%]
+		card [28] max elements=41 sum=936939
+		compressed ratio=29.3263[%]
+		subproblem[23] 2464(msec)
+		subproblem[33] 2213(msec)
+		compressed ratio=5.33122[%]
+		card [34] max elements=59 sum=1004306
+		subproblem[31] 2278(msec)
+		subproblem[22] 2514(msec)
+		compressed ratio=6.80786[%]
+		card [29] max elements=41 sum=891685
+		compressed ratio=29.8749[%]
+		compressed ratio=6.70279[%]
+		card [27] max elements=41 sum=937028
+		subproblem[26] 2455(msec)
+		compressed ratio=29.3933[%]
+		compressed ratio=29.3629[%]
+		subproblem[34] 2094(msec)
+		compressed ratio=29.8277[%]
+		subproblem[28] 2459(msec)
+		compressed ratio=29.7138[%]
+		subproblem[29] 2350(msec)
+		subproblem[27] 2494(msec)
+		ov=122975 ext=35 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=77365 ext=70 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=44900 ext=105 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=28694.2 ext=140 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=17680 ext=175 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=10863.4 ext=210 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=10142.1 ext=245 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=8837 ext=269 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=8295.47 ext=304 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=8008.89 ext=329 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=7685.42 ext=363 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=7532.55 ext=388 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=7394.7 ext=417 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=7193.96 ext=445 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=6939.17 ext=476 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=6781.06 ext=506 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=6546.96 ext=536 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=6267.28 ext=561 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=5933.62 ext=592 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=5671.39 ext=626 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=5434.66 ext=660 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=5205.89 ext=690 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=4782.01 ext=723 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=4483.54 ext=755 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=4273.05 ext=789 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=4016.67 ext=818 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=3822.38 ext=845 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=3557.93 ext=876 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=3425.73 ext=907 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=3226.89 ext=941 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=3050.48 ext=972 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=2968.81 ext=1005 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=2866.8 ext=1035 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=2714.28 ext=1068 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=2546.11 ext=1101 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=2458.16 ext=1135 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=2371.22 ext=1167 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=2312.89 ext=1198 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=2213.76 ext=1225 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=2134.43 ext=1252 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=2046.59 ext=1283 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=1975.42 ext=1314 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=1917.01 ext=1337 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=1824.58 ext=1367 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=1781.72 ext=1402 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=1704.03 ext=1430 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=1668.32 ext=1457 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=1633.6 ext=1487 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=1596.82 ext=1511 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=1550.73 ext=1544 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=1524.83 ext=1572 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=1490.6 ext=1599 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=1476.61 ext=1623 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=1452.56 ext=1647 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=1436.69 ext=1678 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=1416.57 ext=1709 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=1387.99 ext=1734 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=1373.65 ext=1763 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=1361.2 ext=1790 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=1347.81 ext=1815 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=1340.01 ext=1842 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=1333.23 ext=1863 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=1329.49 ext=1892 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=1325.2 ext=1915 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=1320.37 ext=1940 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=1317.34 ext=1967 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=1313.41 ext=1989 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=1311.93 ext=2011 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=1310.12 ext=2035 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=1306.25 ext=2059 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=1304.09 ext=2079 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=1302.69 ext=2101 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=1300.66 ext=2120 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=1299.04 ext=2141 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=1297.51 ext=2159 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=1296.45 ext=2181 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=1294.12 ext=2216 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=1293.86 ext=2230 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=1292.02 ext=2264 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=1291.03 ext=2286 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=1289.31 ext=2319 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=1288.86 ext=2347 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=1287.95 ext=2379 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=1287.62 ext=2412 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=1287.44 ext=2433 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=1287.34 ext=2457 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=1287.31 ext=2462 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=1287.25 ext=2467 depth=0 LB=1.79769e+308 UB=1.79769e+308
+	*********LB=1288(0)  16.329(cpu sec)
+	fixed lits=10623
+	Algorithm 1 Solving Process Started..
+			o 12835   0.246000(sec) 
+			o 12635   0.251000(sec) 
+			o 12535   0.254000(sec) 
+			o 12330   0.257000(sec) 
+			o 12115   0.259000(sec) 
+			o 12035   0.262000(sec) 
+			o 11820   0.264000(sec) 
+			o 11735   0.267000(sec) 
+			o 11720   0.271000(sec) 
+			o 11520   0.276000(sec) 
+			o 11460   0.278000(sec) 
+			o 11335   0.281000(sec) 
+			o 11260   0.283000(sec) 
+			o 11175   0.286000(sec) 
+			o 10925   0.288000(sec) 
+			o 10895   0.291000(sec) 
+			o 10770   0.293000(sec) 
+			o 10725   0.296000(sec) 
+			o 10635   0.298000(sec) 
+			o 10530   0.301000(sec) 
+			o 10260   0.303000(sec) 
+			o 10175   0.306000(sec) 
+			o 10025   0.309000(sec) 
+			o 9890   0.311000(sec) 
+			o 9575   0.314000(sec) 
+			o 9245   0.317000(sec) 
+			o 9090   0.320000(sec) 
+			o 9085   0.635000(sec) 
+			o 9025   0.640000(sec) 
+			o 8755   0.714000(sec) 
+			o 8710   0.719000(sec) 
+			o 8630   0.723000(sec) 
+			o 8510   0.727000(sec) 
+			o 8530   1.044000(sec) 
+			o 7905   1.054000(sec) 
+			o 7865   1.058000(sec) 
+			o 7815   1.061000(sec) 
+			o 7615   1.064000(sec) 
+			o 7555   1.067000(sec) 
+			o 7430   1.070000(sec) 
+			o 7325   1.073000(sec) 
+			o 7140   1.076000(sec) 
+			o 6950   1.082000(sec) 
+			o 6875   1.086000(sec) 
+			o 6835   1.089000(sec) 
+			o 6545   1.093000(sec) 
+			o 6465   1.099000(sec) 
+			o 6420   1.103000(sec) 
+			o 6360   1.106000(sec) 
+			o 6330   1.110000(sec) 
+			o 6270   1.116000(sec) 
+			o 6120   1.119000(sec) 
+			o 6065   1.122000(sec) 
+			o 5925   1.126000(sec) 
+			o 5910   1.130000(sec) 
+			o 5665   1.134000(sec) 
+			o 5575   1.138000(sec) 
+			o 5445   1.141000(sec) 
+			o 5415   1.145000(sec) 
+			o 5285   1.152000(sec) 
+			o 5180   1.156000(sec) 
+			o 4655   1.163000(sec) 
+			o 4505   1.167000(sec) 
+			o 4480   1.172000(sec) 
+			o 4435   1.176000(sec) 
+			o 4410   1.179000(sec) 
+			o 4100   1.182000(sec) 
+			o 4070   1.188000(sec) 
+			o 3995   1.209000(sec) 
+			o 3880   1.212000(sec) 
+			o 3850   1.219000(sec) 
+			o 3820   1.222000(sec) 
+			o 3790   1.229000(sec) 
+			o 3700   1.234000(sec) 
+			o 3680   1.241000(sec) 
+			o 3670   1.248000(sec) 
+			o 3640   1.251000(sec) 
+			o 3580   1.254000(sec) 
+			o 3555   1.258000(sec) 
+			o 3540   1.262000(sec) 
+			o 3520   1.287000(sec) 
+			o 3500   1.295000(sec) 
+			o 3440   1.300000(sec) 
+			o 3365   1.305000(sec) 
+			o 3305   1.309000(sec) 
+			o 3160   1.349000(sec) 
+			o 3035   1.537000(sec) 
+			o 3005   1.584000(sec) 
+			o 2955   1.611000(sec) 
+			o 2900   1.849000(sec) 
+			o 2825   6.019000(sec) 
+			o 2745   6.376000(sec) 
+			o 2725   8.986000(sec) 
+			o 2690   9.010000(sec) 
+			o 2670   9.038000(sec) 
+			o 2660   11.118000(sec) 
+			o 2605   25.957000(sec) 
+			o 2575   25.983000(sec) 
+			o 2515   26.002000(sec) 
+			o 2470   26.011000(sec) 
+			o 2455   26.019000(sec) 
+			o 2440   26.391000(sec) 
+			o 2365   26.483000(sec) 
+			o 2320   26.497000(sec) 
+			o 2245   26.530000(sec) 
+			o 2155   26.541000(sec) 
+			o 2095   26.664000(sec) 
+			o 2035   26.675000(sec) 
+			o 2020   26.684000(sec) 
+			o 1900   26.753000(sec) 
+			o 1870   26.879000(sec) 
+			o 1825   27.230000(sec) 
+			o 1765   27.687000(sec) 
+			o 1735   27.696000(sec) 
+			o 1690   27.759000(sec) 
+			o 1660   28.021000(sec) 
+			o 1645   28.139000(sec) 
+			o 1630   28.147000(sec) 
+			o 1615   28.470000(sec) 
+			o 1585   28.544000(sec) 
+			o 1570   28.676000(sec) 
+			o 1560   30.318000(sec) 
+			o 1555   31.547000(sec) 
+			o 1545   32.117000(sec) 
+			o 1530   32.813000(sec) 
+			o 1515   33.078000(sec) 
+			o 1490   33.792000(sec) 
+			o 1470   33.904000(sec) 
+			o 1460   34.485000(sec) 
+			o 1455   53.433000(sec) 
+			o 1435   53.545000(sec) 
+			o 1430   54.734000(sec) 
+			o 1410   54.910000(sec) 
+			o 1380   58.179000(sec) 
+			o 1370   58.408000(sec) 
+			o 1365   72.892000(sec) 
+			o 1360   73.067000(sec) 
+		o 1360(0)
+	*********UB=1360(0)  109.639(cpu sec)
+		Exhaustive Search obj 1287.25
+		109.806000(cpu sec)	Selecting Child Node De:0 N:255 D:4294967295 Y:0 Obj:1287.25
+		Fractionals=635 out of 6125 ratio=10.3673 root ratio=10.3673
+		ov=1293.57 ext=2496 depth=1 LB=1288 UB=1360
+		ov=1293.01 ext=2512 depth=1 LB=1288 UB=1360
+		ov=1291.66 ext=2540 depth=1 LB=1288 UB=1360
+		ov=1291.53 ext=2549 depth=1 LB=1288 UB=1360
+		ov=1291.13 ext=2574 depth=1 LB=1288 UB=1360
+		ov=1291.1 ext=2597 depth=1 LB=1288 UB=1360
+		ov=1291.1 ext=2598 depth=1 LB=1288 UB=1360
+		ov=1291.1 ext=2604 depth=1 LB=1288 UB=1360
+		ov=1291.1 ext=2605 depth=1 LB=1288 UB=1360
+		ov=1289.6 ext=2490 depth=1 LB=1288 UB=1360
+		ov=1289.6 ext=2499 depth=1 LB=1288 UB=1360
+		ov=1289.23 ext=2516 depth=1 LB=1288 UB=1360
+		ov=1289.23 ext=2517 depth=1 LB=1288 UB=1360
+		ov=1289.23 ext=2520 depth=1 LB=1288 UB=1360
+		ov=1293.09 ext=2470 depth=1 LB=1288 UB=1360
+		ov=1291.43 ext=2476 depth=1 LB=1288 UB=1360
+		ov=1291.37 ext=2478 depth=1 LB=1288 UB=1360
+		ov=1291.37 ext=2481 depth=1 LB=1288 UB=1360
+		ov=1291.28 ext=2483 depth=1 LB=1288 UB=1360
+		ov=1291.21 ext=2486 depth=1 LB=1288 UB=1360
+		ov=1291.21 ext=2489 depth=1 LB=1288 UB=1360
+		ov=1293.28 ext=2493 depth=1 LB=1288 UB=1360
+		ov=1292.95 ext=2497 depth=1 LB=1288 UB=1360
+		ov=1291.75 ext=2503 depth=1 LB=1288 UB=1360
+		ov=1291.39 ext=2509 depth=1 LB=1288 UB=1360
+		ov=1290.79 ext=2514 depth=1 LB=1288 UB=1360
+		ov=1290.63 ext=2520 depth=1 LB=1288 UB=1360
+		ov=1290.63 ext=2521 depth=1 LB=1288 UB=1360
+		ov=1289.68 ext=2492 depth=1 LB=1288 UB=1360
+		ov=1289.15 ext=2495 depth=1 LB=1288 UB=1360
+		ov=1289.01 ext=2523 depth=1 LB=1288 UB=1360
+		ov=1289.01 ext=2542 depth=1 LB=1288 UB=1360
+		ov=1289.01 ext=2549 depth=1 LB=1288 UB=1360
+		ov=1289.01 ext=2550 depth=1 LB=1288 UB=1360
+		ov=1289.01 ext=2551 depth=1 LB=1288 UB=1360
+		ov=1288.02 ext=2557 depth=1 LB=1288 UB=1360
+		ov=1288 ext=2559 depth=1 LB=1288 UB=1360
+		ov=1292.54 ext=2473 depth=1 LB=1288 UB=1360
+		ov=1292.54 ext=2474 depth=1 LB=1288 UB=1360
+		ov=1291.11 ext=2479 depth=1 LB=1288 UB=1360
+		ov=1290.93 ext=2482 depth=1 LB=1288 UB=1360
+		ov=1290.53 ext=2486 depth=1 LB=1288 UB=1360
+		ov=1290.53 ext=2491 depth=1 LB=1288 UB=1360
+		ov=1289.85 ext=2497 depth=1 LB=1288 UB=1360
+		ov=1289.8 ext=2502 depth=1 LB=1288 UB=1360
+		ov=1289.74 ext=2506 depth=1 LB=1288 UB=1360
+		ov=1289.17 ext=2507 depth=1 LB=1288 UB=1360
+		ov=1289.04 ext=2508 depth=1 LB=1288 UB=1360
+		ov=1288.91 ext=2513 depth=1 LB=1288 UB=1360
+		ov=1288.9 ext=2517 depth=1 LB=1288 UB=1360
+		ov=1288.9 ext=2518 depth=1 LB=1288 UB=1360
+		ov=1288.84 ext=2520 depth=1 LB=1288 UB=1360
+		ov=1288.81 ext=2524 depth=1 LB=1288 UB=1360
+		ov=1288.8 ext=2527 depth=1 LB=1288 UB=1360
+		ov=1288.77 ext=2530 depth=1 LB=1288 UB=1360
+		ov=1288.77 ext=2531 depth=1 LB=1288 UB=1360
+		ov=1288.93 ext=2496 depth=1 LB=1288 UB=1360
+		ov=1288.92 ext=2522 depth=1 LB=1288 UB=1360
+		ov=1288.68 ext=2532 depth=1 LB=1288 UB=1360
+		ov=1288.68 ext=2533 depth=1 LB=1288 UB=1360
+		ov=1289.08 ext=2496 depth=1 LB=1288 UB=1360
+		ov=1288.92 ext=2522 depth=1 LB=1288 UB=1360
+		ov=1288.75 ext=2533 depth=1 LB=1288 UB=1360
+		ov=1288.75 ext=2546 depth=1 LB=1288 UB=1360
+		ov=1288.68 ext=2563 depth=1 LB=1288 UB=1360
+		ov=1288.62 ext=2564 depth=1 LB=1288 UB=1360
+		ov=1296.36 ext=2472 depth=1 LB=1288 UB=1360
+		ov=1292.65 ext=2476 depth=1 LB=1288 UB=1360
+		ov=1291.51 ext=2482 depth=1 LB=1288 UB=1360
+		ov=1291.34 ext=2488 depth=1 LB=1288 UB=1360
+		ov=1290.95 ext=2493 depth=1 LB=1288 UB=1360
+		ov=1290.95 ext=2498 depth=1 LB=1288 UB=1360
+		ov=1290.61 ext=2500 depth=1 LB=1288 UB=1360
+		ov=1290.41 ext=2502 depth=1 LB=1288 UB=1360
+		ov=1290.41 ext=2503 depth=1 LB=1288 UB=1360
+		ov=1294.37 ext=2507 depth=1 LB=1288 UB=1360
+		ov=1293.09 ext=2512 depth=1 LB=1288 UB=1360
+		ov=1292.32 ext=2517 depth=1 LB=1288 UB=1360
+		ov=1291.97 ext=2520 depth=1 LB=1288 UB=1360
+		ov=1291.97 ext=2524 depth=1 LB=1288 UB=1360
+		ov=1291.23 ext=2528 depth=1 LB=1288 UB=1360
+		ov=1290.75 ext=2533 depth=1 LB=1288 UB=1360
+		ov=1290.33 ext=2534 depth=1 LB=1288 UB=1360
+		ov=1288.05 ext=2473 depth=1 LB=1288 UB=1360
+		ov=1288.03 ext=2479 depth=1 LB=1288 UB=1360
+		ov=1287.86 ext=2484 depth=1 LB=1288 UB=1360
+		ov=1292.82 ext=2492 depth=1 LB=1288 UB=1360
+		ov=1291.58 ext=2497 depth=1 LB=1288 UB=1360
+		ov=1291.39 ext=2502 depth=1 LB=1288 UB=1360
+		ov=1291.35 ext=2506 depth=1 LB=1288 UB=1360
+		ov=1291.31 ext=2509 depth=1 LB=1288 UB=1360
+		ov=1291.25 ext=2511 depth=1 LB=1288 UB=1360
+		ov=1291.25 ext=2513 depth=1 LB=1288 UB=1360
+		ov=1291.25 ext=2514 depth=1 LB=1288 UB=1360
+		ov=1287.25 ext=2492 depth=1 LB=1288 UB=1360
+		ov=1292.65 ext=2515 depth=1 LB=1288 UB=1360
+		ov=1290.3 ext=2538 depth=1 LB=1288 UB=1360
+		ov=1290.1 ext=2554 depth=1 LB=1288 UB=1360
+		ov=1290.03 ext=2572 depth=1 LB=1288 UB=1360
+		ov=1289.91 ext=2594 depth=1 LB=1288 UB=1360
+		ov=1289.7 ext=2616 depth=1 LB=1288 UB=1360
+		ov=1289.67 ext=2643 depth=1 LB=1288 UB=1360
+		ov=1289.67 ext=2646 depth=1 LB=1288 UB=1360
+		ov=1289.67 ext=2647 depth=1 LB=1288 UB=1360
+		strong branched depth=0 obj=1290.63
+		ov=1293.09 ext=2470 depth=1 LB=1288 UB=1360
+		ov=1292.84 ext=2474 depth=1 LB=1288 UB=1360
+		ov=1291.41 ext=2476 depth=1 LB=1288 UB=1360
+		ov=1291.36 ext=2477 depth=1 LB=1288 UB=1360
+		ov=1291.36 ext=2480 depth=1 LB=1288 UB=1360
+		ov=1291.28 ext=2484 depth=1 LB=1288 UB=1360
+		ov=1291.21 ext=2487 depth=1 LB=1288 UB=1360
+		 deleted compress_columns by node 31
+		ov=1291.84 ext=2473 depth=1 LB=1288 UB=1360
+		ov=1290.8 ext=2478 depth=1 LB=1288 UB=1360
+		ov=1290.74 ext=2480 depth=1 LB=1288 UB=1360
+		ov=1290.63 ext=2481 depth=1 LB=1288 UB=1360
+		ov=1290.63 ext=2483 depth=1 LB=1288 UB=1360
+		ov=1290.58 ext=2486 depth=1 LB=1288 UB=1360
+		ov=1290.57 ext=2488 depth=1 LB=1288 UB=1360
+		ov=1290.56 ext=2492 depth=1 LB=1288 UB=1360
+		ov=1290.56 ext=2496 depth=1 LB=1288 UB=1360
+		ov=1290.56 ext=2497 depth=1 LB=1288 UB=1360
+		 deleted compress_columns by node 32
+		Adding Node De:1 N:34 D:12 Y:0 Obj:1291.21
+		120.169000(cpu sec)	Selecting Child Node De:1 N:34 D:12 Y:1 Obj:1290.56
+		Fractionals=638 out of 6125 ratio=10.4163 root ratio=10.3673
+		ov=1296.94 ext=2494 depth=2 LB=1291.21 UB=1360
+		ov=1296.37 ext=2521 depth=2 LB=1291.21 UB=1360
+		ov=1295.29 ext=2546 depth=2 LB=1291.21 UB=1360
+		ov=1294.6 ext=2572 depth=2 LB=1291.21 UB=1360
+		ov=1294.4 ext=2581 depth=2 LB=1291.21 UB=1360
+		ov=1294.4 ext=2595 depth=2 LB=1291.21 UB=1360
+		ov=1294.4 ext=2608 depth=2 LB=1291.21 UB=1360
+		ov=1294.4 ext=2623 depth=2 LB=1291.21 UB=1360
+		ov=1292.9 ext=2494 depth=2 LB=1291.21 UB=1360
+		ov=1292.9 ext=2503 depth=2 LB=1291.21 UB=1360
+		ov=1292.53 ext=2517 depth=2 LB=1291.21 UB=1360
+		ov=1291.64 ext=2521 depth=2 LB=1291.21 UB=1360
+		ov=1316.11 ext=2471 depth=2 LB=1291.21 UB=1360
+		ov=1309.92 ext=2476 depth=2 LB=1291.21 UB=1360
+		ov=1308.07 ext=2480 depth=2 LB=1291.21 UB=1360
+		ov=1306.35 ext=2486 depth=2 LB=1291.21 UB=1360
+		ov=1303.52 ext=2491 depth=2 LB=1291.21 UB=1360
+		ov=1303.52 ext=2492 depth=2 LB=1291.21 UB=1360
+		ov=1301.45 ext=2495 depth=2 LB=1291.21 UB=1360
+		ov=1301.14 ext=2499 depth=2 LB=1291.21 UB=1360
+		ov=1300.83 ext=2500 depth=2 LB=1291.21 UB=1360
+		ov=1300.83 ext=2501 depth=2 LB=1291.21 UB=1360
+		ov=1300.82 ext=2502 depth=2 LB=1291.21 UB=1360
+		ov=1296.59 ext=2506 depth=2 LB=1291.21 UB=1360
+		ov=1295.58 ext=2510 depth=2 LB=1291.21 UB=1360
+		ov=1294.71 ext=2515 depth=2 LB=1291.21 UB=1360
+		ov=1294.15 ext=2521 depth=2 LB=1291.21 UB=1360
+		ov=1293.76 ext=2526 depth=2 LB=1291.21 UB=1360
+		ov=1292.25 ext=2532 depth=2 LB=1291.21 UB=1360
+		ov=1291.98 ext=2533 depth=2 LB=1291.21 UB=1360
+		ov=1291.91 ext=2535 depth=2 LB=1291.21 UB=1360
+		ov=1291.88 ext=2537 depth=2 LB=1291.21 UB=1360
+		ov=1291.84 ext=2539 depth=2 LB=1291.21 UB=1360
+		ov=1291.82 ext=2541 depth=2 LB=1291.21 UB=1360
+		ov=1291.81 ext=2544 depth=2 LB=1291.21 UB=1360
+		ov=1291.77 ext=2545 depth=2 LB=1291.21 UB=1360
+		ov=1292.64 ext=2470 depth=2 LB=1291.21 UB=1360
+		ov=1292.57 ext=2476 depth=2 LB=1291.21 UB=1360
+		ov=1292.38 ext=2479 depth=2 LB=1291.21 UB=1360
+		ov=1292.32 ext=2483 depth=2 LB=1291.21 UB=1360
+		ov=1292.31 ext=2489 depth=2 LB=1291.21 UB=1360
+		ov=1291.96 ext=2493 depth=2 LB=1291.21 UB=1360
+		ov=1291.94 ext=2497 depth=2 LB=1291.21 UB=1360
+		ov=1291.9 ext=2498 depth=2 LB=1291.21 UB=1360
+		ov=1291.88 ext=2499 depth=2 LB=1291.21 UB=1360
+		ov=1291.88 ext=2501 depth=2 LB=1291.21 UB=1360
+		ov=1291.87 ext=2502 depth=2 LB=1291.21 UB=1360
+		ov=1295.3 ext=2508 depth=2 LB=1291.21 UB=1360
+		ov=1293.71 ext=2514 depth=2 LB=1291.21 UB=1360
+		ov=1293.68 ext=2515 depth=2 LB=1291.21 UB=1360
+		ov=1293.51 ext=2518 depth=2 LB=1291.21 UB=1360
+		ov=1293.51 ext=2520 depth=2 LB=1291.21 UB=1360
+		ov=1293.47 ext=2525 depth=2 LB=1291.21 UB=1360
+		ov=1293.33 ext=2528 depth=2 LB=1291.21 UB=1360
+		ov=1292.98 ext=2494 depth=2 LB=1291.21 UB=1360
+		ov=1292.57 ext=2500 depth=2 LB=1291.21 UB=1360
+		ov=1292.32 ext=2519 depth=2 LB=1291.21 UB=1360
+		ov=1292.31 ext=2548 depth=2 LB=1291.21 UB=1360
+		ov=1291.32 ext=2550 depth=2 LB=1291.21 UB=1360
+		ov=1291.3 ext=2554 depth=2 LB=1291.21 UB=1360
+		ov=1291.29 ext=2567 depth=2 LB=1291.21 UB=1360
+		ov=1291.29 ext=2568 depth=2 LB=1291.21 UB=1360
+		ov=1322.5 ext=2471 depth=2 LB=1291.21 UB=1360
+		ov=1318.02 ext=2476 depth=2 LB=1291.21 UB=1360
+		ov=1306.78 ext=2480 depth=2 LB=1291.21 UB=1360
+		ov=1300.52 ext=2486 depth=2 LB=1291.21 UB=1360
+		ov=1290.77 ext=2492 depth=2 LB=1291.21 UB=1360
+		ov=1290.77 ext=2494 depth=2 LB=1291.21 UB=1360
+		ov=1290.77 ext=2497 depth=2 LB=1291.21 UB=1360
+		ov=1290.77 ext=2498 depth=2 LB=1291.21 UB=1360
+		ov=1290.77 ext=2499 depth=2 LB=1291.21 UB=1360
+		ov=1290.67 ext=2501 depth=2 LB=1291.21 UB=1360
+		ov=1292.26 ext=2494 depth=2 LB=1291.21 UB=1360
+		ov=1292.22 ext=2523 depth=2 LB=1291.21 UB=1360
+		ov=1291.98 ext=2533 depth=2 LB=1291.21 UB=1360
+		ov=1291.98 ext=2534 depth=2 LB=1291.21 UB=1360
+		ov=1290.56 ext=2543 depth=2 LB=1291.21 UB=1360
+		ov=1292.43 ext=2494 depth=2 LB=1291.21 UB=1360
+		ov=1292.22 ext=2520 depth=2 LB=1291.21 UB=1360
+		ov=1292.06 ext=2522 depth=2 LB=1291.21 UB=1360
+		ov=1291.92 ext=2547 depth=2 LB=1291.21 UB=1360
+		ov=1296.27 ext=2471 depth=2 LB=1291.21 UB=1360
+		ov=1296.13 ext=2474 depth=2 LB=1291.21 UB=1360
+		ov=1295.32 ext=2478 depth=2 LB=1291.21 UB=1360
+		ov=1294.95 ext=2483 depth=2 LB=1291.21 UB=1360
+		ov=1294.85 ext=2485 depth=2 LB=1291.21 UB=1360
+		ov=1294.85 ext=2486 depth=2 LB=1291.21 UB=1360
+		ov=1294.8 ext=2490 depth=2 LB=1291.21 UB=1360
+		ov=1294.76 ext=2491 depth=2 LB=1291.21 UB=1360
+		ov=1294.75 ext=2492 depth=2 LB=1291.21 UB=1360
+		ov=1294.73 ext=2494 depth=2 LB=1291.21 UB=1360
+		ov=1294.68 ext=2496 depth=2 LB=1291.21 UB=1360
+		ov=1294.68 ext=2497 depth=2 LB=1291.21 UB=1360
+		ov=1294.68 ext=2498 depth=2 LB=1291.21 UB=1360
+		ov=1294.68 ext=2499 depth=2 LB=1291.21 UB=1360
+		ov=1305.78 ext=2504 depth=2 LB=1291.21 UB=1360
+		ov=1298.94 ext=2508 depth=2 LB=1291.21 UB=1360
+		ov=1296.67 ext=2513 depth=2 LB=1291.21 UB=1360
+		ov=1290.56 ext=2494 depth=2 LB=1291.21 UB=1360
+		ov=1295.98 ext=2517 depth=2 LB=1291.21 UB=1360
+		ov=1293.65 ext=2538 depth=2 LB=1291.21 UB=1360
+		ov=1293.45 ext=2558 depth=2 LB=1291.21 UB=1360
+		ov=1293.3 ext=2584 depth=2 LB=1291.21 UB=1360
+		ov=1293.19 ext=2610 depth=2 LB=1291.21 UB=1360
+		ov=1293.09 ext=2630 depth=2 LB=1291.21 UB=1360
+		ov=1293.02 ext=2634 depth=2 LB=1291.21 UB=1360
+		ov=1293.02 ext=2656 depth=2 LB=1291.21 UB=1360
+		ov=1292.97 ext=2657 depth=2 LB=1291.21 UB=1360
+		strong branched depth=1 obj=1294.68
+		ov=1296.27 ext=2471 depth=2 LB=1291.21 UB=1360
+		ov=1296.13 ext=2474 depth=2 LB=1291.21 UB=1360
+		ov=1295.21 ext=2478 depth=2 LB=1291.21 UB=1360
+		ov=1294.95 ext=2481 depth=2 LB=1291.21 UB=1360
+		ov=1294.95 ext=2482 depth=2 LB=1291.21 UB=1360
+		ov=1294.85 ext=2484 depth=2 LB=1291.21 UB=1360
+		ov=1294.83 ext=2488 depth=2 LB=1291.21 UB=1360
+		ov=1294.8 ext=2490 depth=2 LB=1291.21 UB=1360
+		ov=1294.8 ext=2492 depth=2 LB=1291.21 UB=1360
+		ov=1294.76 ext=2494 depth=2 LB=1291.21 UB=1360
+		ov=1294.7 ext=2496 depth=2 LB=1291.21 UB=1360
+		 deleted compress_columns by node 31
+		ov=1298 ext=2471 depth=2 LB=1291.21 UB=1360
+		ov=1296.67 ext=2476 depth=2 LB=1291.21 UB=1360
+		 deleted compress_columns by node 44
+		Adding Node De:2 N:33 D:26 Y:1 Obj:1296.67
+		130.475000(cpu sec)	Selecting Child Node De:2 N:33 D:26 Y:0 Obj:1294.7
+		Fractionals=638 out of 6125 ratio=10.4163 root ratio=10.3673
+		ov=1301.08 ext=2494 depth=3 LB=1291.21 UB=1360
+		ov=1300.51 ext=2522 depth=3 LB=1291.21 UB=1360
+		ov=1299.41 ext=2549 depth=3 LB=1291.21 UB=1360
+		ov=1298.53 ext=2576 depth=3 LB=1291.21 UB=1360
+		ov=1298.53 ext=2589 depth=3 LB=1291.21 UB=1360
+		ov=1298.52 ext=2593 depth=3 LB=1291.21 UB=1360
+		ov=1298.52 ext=2600 depth=3 LB=1291.21 UB=1360
+		ov=1298.52 ext=2612 depth=3 LB=1291.21 UB=1360
+		ov=1298.52 ext=2631 depth=3 LB=1291.21 UB=1360
+		ov=1297.04 ext=2494 depth=3 LB=1291.21 UB=1360
+		ov=1297.02 ext=2505 depth=3 LB=1291.21 UB=1360
+		ov=1296.66 ext=2524 depth=3 LB=1291.21 UB=1360
+		ov=1296.66 ext=2526 depth=3 LB=1291.21 UB=1360
+		ov=1296.66 ext=2528 depth=3 LB=1291.21 UB=1360
+		ov=1295.76 ext=2535 depth=3 LB=1291.21 UB=1360
+		ov=1305.08 ext=2471 depth=3 LB=1291.21 UB=1360
+		ov=1304.59 ext=2475 depth=3 LB=1291.21 UB=1360
+		ov=1303.92 ext=2481 depth=3 LB=1291.21 UB=1360
+		ov=1300.98 ext=2487 depth=3 LB=1291.21 UB=1360
+		ov=1302.57 ext=2489 depth=3 LB=1291.21 UB=1360
+		ov=1301.35 ext=2495 depth=3 LB=1291.21 UB=1360
+		ov=1300.46 ext=2500 depth=3 LB=1291.21 UB=1360
+		ov=1300.08 ext=2505 depth=3 LB=1291.21 UB=1360
+		ov=1298.98 ext=2509 depth=3 LB=1291.21 UB=1360
+		ov=1298.19 ext=2514 depth=3 LB=1291.21 UB=1360
+		ov=1297.97 ext=2516 depth=3 LB=1291.21 UB=1360
+		ov=1297.85 ext=2520 depth=3 LB=1291.21 UB=1360
+		ov=1297.12 ext=2494 depth=3 LB=1291.21 UB=1360
+		ov=1296.7 ext=2501 depth=3 LB=1291.21 UB=1360
+		ov=1296.48 ext=2522 depth=3 LB=1291.21 UB=1360
+		ov=1296.43 ext=2546 depth=3 LB=1291.21 UB=1360
+		ov=1296.43 ext=2552 depth=3 LB=1291.21 UB=1360
+		ov=1296.2 ext=2470 depth=3 LB=1291.21 UB=1360
+		ov=1296.19 ext=2472 depth=3 LB=1291.21 UB=1360
+		ov=1296.11 ext=2475 depth=3 LB=1291.21 UB=1360
+		ov=1296.07 ext=2476 depth=3 LB=1291.21 UB=1360
+		ov=1296.07 ext=2477 depth=3 LB=1291.21 UB=1360
+		ov=1297.44 ext=2480 depth=3 LB=1291.21 UB=1360
+		ov=1297.42 ext=2485 depth=3 LB=1291.21 UB=1360
+		ov=1297.42 ext=2489 depth=3 LB=1291.21 UB=1360
+		ov=1296.67 ext=2493 depth=3 LB=1291.21 UB=1360
+		ov=1296.67 ext=2494 depth=3 LB=1291.21 UB=1360
+		ov=1296.4 ext=2494 depth=3 LB=1291.21 UB=1360
+		ov=1296.35 ext=2525 depth=3 LB=1291.21 UB=1360
+		ov=1296.11 ext=2536 depth=3 LB=1291.21 UB=1360
+		ov=1296.11 ext=2539 depth=3 LB=1291.21 UB=1360
+		ov=1296.11 ext=2541 depth=3 LB=1291.21 UB=1360
+		ov=1296.04 ext=2542 depth=3 LB=1291.21 UB=1360
+		ov=1296.6 ext=2494 depth=3 LB=1291.21 UB=1360
+		ov=1296.35 ext=2521 depth=3 LB=1291.21 UB=1360
+		ov=1296.19 ext=2523 depth=3 LB=1291.21 UB=1360
+		ov=1296.05 ext=2547 depth=3 LB=1291.21 UB=1360
+		ov=1296.04 ext=2548 depth=3 LB=1291.21 UB=1360
+		ov=1298.05 ext=2471 depth=3 LB=1291.21 UB=1360
+		ov=1297.8 ext=2473 depth=3 LB=1291.21 UB=1360
+		ov=1297.63 ext=2476 depth=3 LB=1291.21 UB=1360
+		ov=1297.5 ext=2477 depth=3 LB=1291.21 UB=1360
+		ov=1297.44 ext=2478 depth=3 LB=1291.21 UB=1360
+		ov=1297.38 ext=2480 depth=3 LB=1291.21 UB=1360
+		ov=1297.38 ext=2485 depth=3 LB=1291.21 UB=1360
+		ov=1307.82 ext=2490 depth=3 LB=1291.21 UB=1360
+		ov=1303.02 ext=2496 depth=3 LB=1291.21 UB=1360
+		ov=1294.72 ext=2469 depth=3 LB=1291.21 UB=1360
+		ov=1299.17 ext=2472 depth=3 LB=1291.21 UB=1360
+		ov=1299.17 ext=2478 depth=3 LB=1291.21 UB=1360
+		ov=1297.5 ext=2483 depth=3 LB=1291.21 UB=1360
+		ov=1294.68 ext=2496 depth=3 LB=1291.21 UB=1360
+		ov=1300.11 ext=2519 depth=3 LB=1291.21 UB=1360
+		ov=1297.72 ext=2541 depth=3 LB=1291.21 UB=1360
+		ov=1297.6 ext=2555 depth=3 LB=1291.21 UB=1360
+		ov=1297.48 ext=2579 depth=3 LB=1291.21 UB=1360
+		ov=1297.39 ext=2596 depth=3 LB=1291.21 UB=1360
+		ov=1297.22 ext=2612 depth=3 LB=1291.21 UB=1360
+		ov=1297.1 ext=2624 depth=3 LB=1291.21 UB=1360
+		ov=1297.09 ext=2647 depth=3 LB=1291.21 UB=1360
+		ov=1297.09 ext=2648 depth=3 LB=1291.21 UB=1360
+		strong branched depth=2 obj=1297.85
+		ov=1302.56 ext=2469 depth=3 LB=1291.21 UB=1360
+		ov=1300.91 ext=2475 depth=3 LB=1291.21 UB=1360
+		 deleted compress_columns by node 28
+		ov=1305.08 ext=2471 depth=3 LB=1291.21 UB=1360
+		ov=1304.59 ext=2475 depth=3 LB=1291.21 UB=1360
+		ov=1303.92 ext=2481 depth=3 LB=1291.21 UB=1360
+		ov=1300.98 ext=2487 depth=3 LB=1291.21 UB=1360
+		 deleted compress_columns by node 38
+		Adding Node De:3 N:31 D:12 Y:0 Obj:1300.98
+		139.004000(cpu sec)	Selecting Child Node De:3 N:31 D:12 Y:1 Obj:1300.91
+		Fractionals=635 out of 6125 ratio=10.3673 root ratio=10.3673
+		ov=1300.63 ext=2461 depth=4 LB=1291.21 UB=1360
+		ov=1300.35 ext=2466 depth=4 LB=1291.21 UB=1360
+		ov=1299.7 ext=2470 depth=4 LB=1291.21 UB=1360
+		ov=1299.21 ext=2482 depth=4 LB=1291.21 UB=1360
+		ov=1299.02 ext=2484 depth=4 LB=1291.21 UB=1360
+		ov=1298.86 ext=2486 depth=4 LB=1291.21 UB=1360
+		ov=1298.68 ext=2490 depth=4 LB=1291.21 UB=1360
+		ov=1298.68 ext=2493 depth=4 LB=1291.21 UB=1360
+		 deleted compress_columns by node 8
+		ov=1307.3 ext=2476 depth=4 LB=1291.21 UB=1360
+		ov=1305.72 ext=2508 depth=4 LB=1291.21 UB=1360
+		ov=1305.2 ext=2524 depth=4 LB=1291.21 UB=1360
+		ov=1303.11 ext=2554 depth=4 LB=1291.21 UB=1360
+		ov=1302.79 ext=2555 depth=4 LB=1291.21 UB=1360
+		ov=1302.64 ext=2558 depth=4 LB=1291.21 UB=1360
+		ov=1302.06 ext=2571 depth=4 LB=1291.21 UB=1360
+		ov=1301.9 ext=2600 depth=4 LB=1291.21 UB=1360
+		ov=1301.79 ext=2602 depth=4 LB=1291.21 UB=1360
+		ov=1301.69 ext=2606 depth=4 LB=1291.21 UB=1360
+		ov=1301.69 ext=2611 depth=4 LB=1291.21 UB=1360
+		 deleted compress_columns by node 45
+		Adding Node De:4 N:21 D:12 Y:0 Obj:1301.69
+		140.741000(cpu sec)	Selecting Child Node De:4 N:21 D:12 Y:1 Obj:1298.68
+		Fractionals=657 out of 6125 ratio=10.7265 root ratio=10.3673
+		ov=1299.49 ext=2489 depth=5 LB=1291.21 UB=1360
+		ov=1299.44 ext=2502 depth=5 LB=1291.21 UB=1360
+		ov=1299.43 ext=2530 depth=5 LB=1291.21 UB=1360
+		 deleted compress_columns by node 13
+		ov=1300.07 ext=2514 depth=5 LB=1291.21 UB=1360
+		 deleted compress_columns by node 39
+		Adding Node De:5 N:26 D:12 Y:0 Obj:1300.07
+		141.485000(cpu sec)	Selecting Child Node De:5 N:26 D:12 Y:1 Obj:1299.43
+		Fractionals=680 out of 6125 ratio=11.102 root ratio=10.3673
+		ov=1299.5 ext=2519 depth=6 LB=1291.21 UB=1360
+		ov=1299.49 ext=2528 depth=6 LB=1291.21 UB=1360
+		ov=1299.49 ext=2541 depth=6 LB=1291.21 UB=1360
+		 deleted compress_columns by node 23
+		ov=1307.28 ext=2546 depth=6 LB=1291.21 UB=1360
+		ov=1307.19 ext=2568 depth=6 LB=1291.21 UB=1360
+		ov=1306.32 ext=2588 depth=6 LB=1291.21 UB=1360
+		ov=1306.18 ext=2617 depth=6 LB=1291.21 UB=1360
+		ov=1306.18 ext=2618 depth=6 LB=1291.21 UB=1360
+		 deleted compress_columns by node 31
+		Adding Node De:6 N:17 D:12 Y:0 Obj:1306.18
+		142.591000(cpu sec)	Selecting Child Node De:6 N:17 D:12 Y:1 Obj:1299.49
+		Fractionals=674 out of 6125 ratio=11.0041 root ratio=10.3673
+		ov=1299.87 ext=2522 depth=7 LB=1291.21 UB=1360
+		ov=1299.87 ext=2527 depth=7 LB=1291.21 UB=1360
+		 deleted compress_columns by node 44
+		ov=1303.66 ext=2543 depth=7 LB=1291.21 UB=1360
+		ov=1303.53 ext=2561 depth=7 LB=1291.21 UB=1360
+		 deleted compress_columns by node 45
+		Adding Node De:7 N:6 D:12 Y:0 Obj:1303.53
+		143.283000(cpu sec)	Selecting Child Node De:7 N:6 D:12 Y:1 Obj:1299.87
+		Fractionals=630 out of 6125 ratio=10.2857 root ratio=10.3673
+		ov=1300.27 ext=2512 depth=8 LB=1291.21 UB=1360
+		 deleted compress_columns by node 5
+		ov=1305.55 ext=2512 depth=8 LB=1291.21 UB=1360
+		ov=1305.48 ext=2526 depth=8 LB=1291.21 UB=1360
+		ov=1305.37 ext=2553 depth=8 LB=1291.21 UB=1360
+		ov=1304.76 ext=2581 depth=8 LB=1291.21 UB=1360
+		ov=1304.71 ext=2583 depth=8 LB=1291.21 UB=1360
+		 deleted compress_columns by node 60
+		Adding Node De:8 N:22 D:12 Y:0 Obj:1304.71
+		144.329000(cpu sec)	Selecting Child Node De:8 N:22 D:12 Y:1 Obj:1300.27
+		Fractionals=614 out of 6125 ratio=10.0245 root ratio=10.3673
+		ov=1303.72 ext=2513 depth=9 LB=1291.21 UB=1360
+		ov=1303.68 ext=2519 depth=9 LB=1291.21 UB=1360
+		ov=1303.68 ext=2524 depth=9 LB=1291.21 UB=1360
+		ov=1303.48 ext=2529 depth=9 LB=1291.21 UB=1360
+		ov=1303.14 ext=2532 depth=9 LB=1291.21 UB=1360
+		ov=1303.14 ext=2535 depth=9 LB=1291.21 UB=1360
+		ov=1303.14 ext=2537 depth=9 LB=1291.21 UB=1360
+		ov=1303.14 ext=2541 depth=9 LB=1291.21 UB=1360
+		 deleted compress_columns by node 16
+		ov=1321.71 ext=2512 depth=9 LB=1291.21 UB=1360
+		ov=1320.49 ext=2515 depth=9 LB=1291.21 UB=1360
+		ov=1309.53 ext=2520 depth=9 LB=1291.21 UB=1360
+		ov=1308.33 ext=2523 depth=9 LB=1291.21 UB=1360
+		ov=1308 ext=2526 depth=9 LB=1291.21 UB=1360
+		ov=1307.84 ext=2528 depth=9 LB=1291.21 UB=1360
+		ov=1307.84 ext=2531 depth=9 LB=1291.21 UB=1360
+		ov=1307.59 ext=2533 depth=9 LB=1291.21 UB=1360
+		ov=1307.59 ext=2537 depth=9 LB=1291.21 UB=1360
+		ov=1307.48 ext=2540 depth=9 LB=1291.21 UB=1360
+		ov=1307.42 ext=2545 depth=9 LB=1291.21 UB=1360
+		 deleted compress_columns by node 74
+		Adding Node De:9 N:32 D:12 Y:0 Obj:1307.42
+		145.397000(cpu sec)	Selecting Child Node De:9 N:32 D:12 Y:1 Obj:1303.14
+		Fractionals=611 out of 6125 ratio=9.97551 root ratio=10.3673
+		ov=1303.54 ext=2531 depth=10 LB=1291.21 UB=1360
+		ov=1303.51 ext=2532 depth=10 LB=1291.21 UB=1360
+		 deleted compress_columns by node 7
+		ov=1350.68 ext=2531 depth=10 LB=1291.21 UB=1360
+		ov=1347.47 ext=2535 depth=10 LB=1291.21 UB=1360
+		ov=1325.17 ext=2539 depth=10 LB=1291.21 UB=1360
+		ov=1323.8 ext=2544 depth=10 LB=1291.21 UB=1360
+		ov=1322.54 ext=2548 depth=10 LB=1291.21 UB=1360
+		ov=1319.26 ext=2553 depth=10 LB=1291.21 UB=1360
+		ov=1319.16 ext=2554 depth=10 LB=1291.21 UB=1360
+		ov=1318.32 ext=2556 depth=10 LB=1291.21 UB=1360
+		ov=1317.67 ext=2562 depth=10 LB=1291.21 UB=1360
+		ov=1317.5 ext=2567 depth=10 LB=1291.21 UB=1360
+		ov=1317.26 ext=2572 depth=10 LB=1291.21 UB=1360
+		ov=1317.22 ext=2576 depth=10 LB=1291.21 UB=1360
+		ov=1317.01 ext=2581 depth=10 LB=1291.21 UB=1360
+		ov=1317.01 ext=2585 depth=10 LB=1291.21 UB=1360
+		ov=1316.72 ext=2587 depth=10 LB=1291.21 UB=1360
+		ov=1316.59 ext=2589 depth=10 LB=1291.21 UB=1360
+		 deleted compress_columns by node 41
+		Adding Node De:10 N:31 D:26 Y:1 Obj:1316.59
+		146.465000(cpu sec)	Selecting Child Node De:10 N:31 D:26 Y:0 Obj:1303.51
+		Fractionals=610 out of 6125 ratio=9.95918 root ratio=10.3673
+		ov=1303.51 ext=2527 depth=11 LB=1291.21 UB=1360
+		ov=1303.5 ext=2529 depth=11 LB=1291.21 UB=1360
+		 deleted compress_columns by node 24
+		ov=1304.54 ext=2556 depth=11 LB=1291.21 UB=1360
+		ov=1304.43 ext=2566 depth=11 LB=1291.21 UB=1360
+		ov=1304.42 ext=2585 depth=11 LB=1291.21 UB=1360
+		ov=1304.41 ext=2587 depth=11 LB=1291.21 UB=1360
+		 deleted compress_columns by node 43
+		Adding Node De:11 N:25 D:26 Y:0 Obj:1304.41
+		147.218000(cpu sec)	Selecting Child Node De:11 N:25 D:26 Y:1 Obj:1303.5
+		Fractionals=606 out of 6125 ratio=9.89388 root ratio=10.3673
+		ov=1304.78 ext=2511 depth=12 LB=1291.21 UB=1360
+		ov=1304.69 ext=2516 depth=12 LB=1291.21 UB=1360
+		ov=1304.46 ext=2518 depth=12 LB=1291.21 UB=1360
+		ov=1304.46 ext=2519 depth=12 LB=1291.21 UB=1360
+		 deleted compress_columns by node 15
+		ov=1332.31 ext=2511 depth=12 LB=1291.21 UB=1360
+		ov=1328.52 ext=2516 depth=12 LB=1291.21 UB=1360
+		ov=1323.32 ext=2522 depth=12 LB=1291.21 UB=1360
+		ov=1321.37 ext=2525 depth=12 LB=1291.21 UB=1360
+		ov=1316.75 ext=2529 depth=12 LB=1291.21 UB=1360
+		ov=1315.75 ext=2531 depth=12 LB=1291.21 UB=1360
+		ov=1314.84 ext=2536 depth=12 LB=1291.21 UB=1360
+		ov=1314.62 ext=2542 depth=12 LB=1291.21 UB=1360
+		ov=1313.96 ext=2546 depth=12 LB=1291.21 UB=1360
+		ov=1313.78 ext=2549 depth=12 LB=1291.21 UB=1360
+		ov=1313.73 ext=2555 depth=12 LB=1291.21 UB=1360
+		ov=1313.55 ext=2557 depth=12 LB=1291.21 UB=1360
+		ov=1313.54 ext=2560 depth=12 LB=1291.21 UB=1360
+		ov=1313.54 ext=2562 depth=12 LB=1291.21 UB=1360
+		 deleted compress_columns by node 67
+		Adding Node De:12 N:32 D:26 Y:1 Obj:1313.54
+		148.266000(cpu sec)	Selecting Child Node De:12 N:32 D:26 Y:0 Obj:1304.46
+		Fractionals=605 out of 6125 ratio=9.87755 root ratio=10.3673
+		ov=1309.4 ext=2509 depth=13 LB=1291.21 UB=1360
+		ov=1308.24 ext=2512 depth=13 LB=1291.21 UB=1360
+		ov=1308.22 ext=2515 depth=13 LB=1291.21 UB=1360
+		ov=1308.18 ext=2520 depth=13 LB=1291.21 UB=1360
+		ov=1308.09 ext=2525 depth=13 LB=1291.21 UB=1360
+		ov=1308.09 ext=2528 depth=13 LB=1291.21 UB=1360
+		ov=1308 ext=2530 depth=13 LB=1291.21 UB=1360
+		ov=1307.95 ext=2531 depth=13 LB=1291.21 UB=1360
+		ov=1307.93 ext=2532 depth=13 LB=1291.21 UB=1360
+		 deleted compress_columns by node 37
+		ov=1323.83 ext=2509 depth=13 LB=1291.21 UB=1360
+		ov=1323.78 ext=2512 depth=13 LB=1291.21 UB=1360
+		ov=1318.2 ext=2518 depth=13 LB=1291.21 UB=1360
+		ov=1317.03 ext=2522 depth=13 LB=1291.21 UB=1360
+		ov=1317.03 ext=2527 depth=13 LB=1291.21 UB=1360
+		ov=1315.24 ext=2532 depth=13 LB=1291.21 UB=1360
+		ov=1314.45 ext=2535 depth=13 LB=1291.21 UB=1360
+		ov=1312.59 ext=2541 depth=13 LB=1291.21 UB=1360
+		 deleted compress_columns by node 29
+		Adding Node De:13 N:34 D:26 Y:0 Obj:1312.59
+		149.243000(cpu sec)	Selecting Child Node De:13 N:34 D:26 Y:1 Obj:1307.93
+		Fractionals=606 out of 6125 ratio=9.89388 root ratio=10.3673
+		ov=1308.59 ext=2497 depth=14 LB=1291.21 UB=1360
+		ov=1308.59 ext=2498 depth=14 LB=1291.21 UB=1360
+		ov=1308.59 ext=2499 depth=14 LB=1291.21 UB=1360
+		 deleted compress_columns by node 43
+		ov=1349.73 ext=2500 depth=14 LB=1291.21 UB=1360
+		ov=1348.14 ext=2505 depth=14 LB=1291.21 UB=1360
+		ov=1347.22 ext=2510 depth=14 LB=1291.21 UB=1360
+		ov=1344.26 ext=2515 depth=14 LB=1291.21 UB=1360
+		ov=1338.9 ext=2518 depth=14 LB=1291.21 UB=1360
+		ov=1335.96 ext=2524 depth=14 LB=1291.21 UB=1360
+		ov=1335.06 ext=2526 depth=14 LB=1291.21 UB=1360
+		ov=1333.7 ext=2532 depth=14 LB=1291.21 UB=1360
+		ov=1333.48 ext=2533 depth=14 LB=1291.21 UB=1360
+		ov=1332.81 ext=2538 depth=14 LB=1291.21 UB=1360
+		ov=1332.25 ext=2544 depth=14 LB=1291.21 UB=1360
+		ov=1331.35 ext=2550 depth=14 LB=1291.21 UB=1360
+		ov=1331.04 ext=2555 depth=14 LB=1291.21 UB=1360
+		ov=1330.76 ext=2560 depth=14 LB=1291.21 UB=1360
+		ov=1330.73 ext=2565 depth=14 LB=1291.21 UB=1360
+		ov=1330.64 ext=2570 depth=14 LB=1291.21 UB=1360
+		ov=1330.36 ext=2574 depth=14 LB=1291.21 UB=1360
+		ov=1330.2 ext=2578 depth=14 LB=1291.21 UB=1360
+		ov=1330.15 ext=2583 depth=14 LB=1291.21 UB=1360
+		ov=1329.71 ext=2588 depth=14 LB=1291.21 UB=1360
+		ov=1329.49 ext=2593 depth=14 LB=1291.21 UB=1360
+		ov=1329.29 ext=2598 depth=14 LB=1291.21 UB=1360
+		ov=1329.09 ext=2601 depth=14 LB=1291.21 UB=1360
+		ov=1329.09 ext=2605 depth=14 LB=1291.21 UB=1360
+		ov=1329.09 ext=2609 depth=14 LB=1291.21 UB=1360
+		ov=1329.09 ext=2612 depth=14 LB=1291.21 UB=1360
+		ov=1329.09 ext=2615 depth=14 LB=1291.21 UB=1360
+		ov=1329.09 ext=2617 depth=14 LB=1291.21 UB=1360
+		ov=1329.09 ext=2622 depth=14 LB=1291.21 UB=1360
+		ov=1329.09 ext=2627 depth=14 LB=1291.21 UB=1360
+		ov=1329.09 ext=2628 depth=14 LB=1291.21 UB=1360
+		ov=1329.09 ext=2631 depth=14 LB=1291.21 UB=1360
+		ov=1329.09 ext=2632 depth=14 LB=1291.21 UB=1360
+		ov=1329.09 ext=2633 depth=14 LB=1291.21 UB=1360
+		ov=1329.09 ext=2635 depth=14 LB=1291.21 UB=1360
+		 deleted compress_columns by node 58
+		Adding Node De:14 N:30 D:26 Y:0 Obj:1329.09
+		151.325000(cpu sec)	Selecting Child Node De:14 N:30 D:26 Y:1 Obj:1308.59
+		Fractionals=601 out of 6125 ratio=9.81224 root ratio=10.3673
+		ov=1309.02 ext=2459 depth=15 LB=1291.21 UB=1360
+		ov=1308.83 ext=2460 depth=15 LB=1291.21 UB=1360
+		ov=1308.79 ext=2461 depth=15 LB=1291.21 UB=1360
+		ov=1308.79 ext=2462 depth=15 LB=1291.21 UB=1360
+		 deleted compress_columns by node 31
+		ov=1309.58 ext=2485 depth=15 LB=1291.21 UB=1360
+		ov=1309.5 ext=2514 depth=15 LB=1291.21 UB=1360
+		ov=1309.5 ext=2515 depth=15 LB=1291.21 UB=1360
+		ov=1309.5 ext=2516 depth=15 LB=1291.21 UB=1360
+		 deleted compress_columns by node 36
+		Adding Node De:15 N:20 D:26 Y:0 Obj:1309.5
+		152.142000(cpu sec)	Selecting Child Node De:15 N:20 D:26 Y:1 Obj:1308.79
+		Fractionals=658 out of 6125 ratio=10.7429 root ratio=10.3673
+		 deleted compress_columns by node 50
+		ov=1313.94 ext=2460 depth=16 LB=1291.21 UB=1360
+		ov=1313.4 ext=2480 depth=16 LB=1291.21 UB=1360
+		ov=1312.75 ext=2508 depth=16 LB=1291.21 UB=1360
+		 deleted compress_columns by node 33
+		Adding Node De:16 N:13 D:12 Y:0 Obj:1312.75
+		152.840000(cpu sec)	Selecting Child Node De:16 N:13 D:12 Y:1 Obj:1308.83
+		Fractionals=649 out of 6125 ratio=10.5959 root ratio=10.3673
+		ov=1309.07 ext=2382 depth=17 LB=1291.21 UB=1360
+		ov=1309.03 ext=2386 depth=17 LB=1291.21 UB=1360
+		ov=1309.02 ext=2408 depth=17 LB=1291.21 UB=1360
+		 deleted compress_columns by node 18
+		ov=1313.25 ext=2410 depth=17 LB=1291.21 UB=1360
+		ov=1311.24 ext=2412 depth=17 LB=1291.21 UB=1360
+		 deleted compress_columns by node 26
+		Adding Node De:17 N:26 D:26 Y:1 Obj:1311.24
+		153.603000(cpu sec)	Selecting Child Node De:17 N:26 D:26 Y:0 Obj:1309.02
+		Fractionals=618 out of 6125 ratio=10.0898 root ratio=10.3673
+		 deleted compress_columns by node 7
+		ov=1311.3 ext=2391 depth=18 LB=1291.21 UB=1360
+		ov=1311.09 ext=2396 depth=18 LB=1291.21 UB=1360
+		 deleted compress_columns by node 20
+		Adding Node De:18 N:26 D:27 Y:1 Obj:1311.09
+		154.117000(cpu sec)	Selecting Child Node De:18 N:26 D:27 Y:0 Obj:1309.5
+		Fractionals=639 out of 6125 ratio=10.4327 root ratio=10.3673
+		 deleted compress_columns by node 4
+		ov=1314.9 ext=2412 depth=19 LB=1291.21 UB=1360
+		ov=1314.12 ext=2438 depth=19 LB=1291.21 UB=1360
+		ov=1314.12 ext=2453 depth=19 LB=1291.21 UB=1360
+		ov=1313.93 ext=2454 depth=19 LB=1291.21 UB=1360
+		ov=1313.93 ext=2457 depth=19 LB=1291.21 UB=1360
+		 deleted compress_columns by node 29
+		Adding Node De:19 N:17 D:26 Y:1 Obj:1313.93
+		154.879000(cpu sec)	Selecting Child Node De:19 N:17 D:26 Y:0 Obj:1309.5
+		Fractionals=630 out of 6125 ratio=10.2857 root ratio=10.3673
+		 deleted compress_columns by node 11
+		ov=1316.2 ext=2408 depth=20 LB=1291.21 UB=1360
+		ov=1315.99 ext=2423 depth=20 LB=1291.21 UB=1360
+		ov=1314.4 ext=2451 depth=20 LB=1291.21 UB=1360
+		ov=1314.14 ext=2468 depth=20 LB=1291.21 UB=1360
+		ov=1313.94 ext=2490 depth=20 LB=1291.21 UB=1360
+		 deleted compress_columns by node 41
+		Adding Node De:20 N:18 D:26 Y:1 Obj:1313.94
+		155.817000(cpu sec)	Selecting Child Node De:20 N:18 D:26 Y:0 Obj:1309.5
+		Fractionals=631 out of 6125 ratio=10.302 root ratio=10.3673
+		 deleted compress_columns by node 30
+		 deleted compress_columns by node 38
+		Adding Node De:21 N:24 D:26 Y:0 Obj:1315.21
+		156.123000(cpu sec)	Selecting Child Node De:21 N:24 D:26 Y:1 Obj:1309.5
+		Fractionals=630 out of 6125 ratio=10.2857 root ratio=10.3673
+		ov=1310.62 ext=2344 depth=22 LB=1291.21 UB=1360
+		ov=1310.62 ext=2350 depth=22 LB=1291.21 UB=1360
+		ov=1310.45 ext=2353 depth=22 LB=1291.21 UB=1360
+		ov=1310.45 ext=2354 depth=22 LB=1291.21 UB=1360
+		ov=1310.45 ext=2356 depth=22 LB=1291.21 UB=1360
+		ov=1310.45 ext=2361 depth=22 LB=1291.21 UB=1360
+		ov=1310.45 ext=2362 depth=22 LB=1291.21 UB=1360
+		ov=1310.45 ext=2365 depth=22 LB=1291.21 UB=1360
+		ov=1310.45 ext=2368 depth=22 LB=1291.21 UB=1360
+		 deleted compress_columns by node 5
+		ov=1368.57 ext=2343 depth=22 LB=1291.21 UB=1360
+		ov=1355.84 ext=2348 depth=22 LB=1291.21 UB=1360
+		ov=1352.31 ext=2353 depth=22 LB=1291.21 UB=1360
+		ov=1348.94 ext=2358 depth=22 LB=1291.21 UB=1360
+		ov=1347.24 ext=2363 depth=22 LB=1291.21 UB=1360
+		ov=1346.91 ext=2367 depth=22 LB=1291.21 UB=1360
+		ov=1345.23 ext=2372 depth=22 LB=1291.21 UB=1360
+		ov=1342.42 ext=2377 depth=22 LB=1291.21 UB=1360
+		ov=1342.09 ext=2380 depth=22 LB=1291.21 UB=1360
+		ov=1340.56 ext=2386 depth=22 LB=1291.21 UB=1360
+		ov=1340.46 ext=2390 depth=22 LB=1291.21 UB=1360
+		ov=1339.97 ext=2395 depth=22 LB=1291.21 UB=1360
+		ov=1339.63 ext=2401 depth=22 LB=1291.21 UB=1360
+		ov=1338.02 ext=2406 depth=22 LB=1291.21 UB=1360
+		ov=1338.02 ext=2407 depth=22 LB=1291.21 UB=1360
+		ov=1337.5 ext=2411 depth=22 LB=1291.21 UB=1360
+		ov=1337.5 ext=2415 depth=22 LB=1291.21 UB=1360
+		ov=1337.5 ext=2417 depth=22 LB=1291.21 UB=1360
+		ov=1337.5 ext=2420 depth=22 LB=1291.21 UB=1360
+		ov=1337.5 ext=2422 depth=22 LB=1291.21 UB=1360
+		ov=1337.5 ext=2423 depth=22 LB=1291.21 UB=1360
+		 deleted compress_columns by node 32
+		Adding Node De:22 N:34 D:27 Y:0 Obj:1337.5
+		157.836000(cpu sec)	Selecting Child Node De:22 N:34 D:27 Y:1 Obj:1310.45
+		Fractionals=625 out of 6125 ratio=10.2041 root ratio=10.3673
+		 deleted compress_columns by node 20
+		ov=1343.86 ext=2368 depth=23 LB=1291.21 UB=1360
+		ov=1331.33 ext=2373 depth=23 LB=1291.21 UB=1360
+		ov=1330.17 ext=2377 depth=23 LB=1291.21 UB=1360
+		ov=1330.17 ext=2381 depth=23 LB=1291.21 UB=1360
+		ov=1327.16 ext=2386 depth=23 LB=1291.21 UB=1360
+		ov=1326.87 ext=2390 depth=23 LB=1291.21 UB=1360
+		ov=1324.53 ext=2394 depth=23 LB=1291.21 UB=1360
+		ov=1323.92 ext=2398 depth=23 LB=1291.21 UB=1360
+		ov=1323.57 ext=2403 depth=23 LB=1291.21 UB=1360
+		ov=1323.57 ext=2406 depth=23 LB=1291.21 UB=1360
+		 deleted compress_columns by node 42
+		Adding Node De:23 N:31 D:19 Y:0 Obj:1323.57
+		158.516000(cpu sec)	Selecting Child Node De:23 N:31 D:19 Y:1 Obj:1315
+		Fractionals=632 out of 6125 ratio=10.3184 root ratio=10.3673
+		ov=1320.83 ext=2347 depth=24 LB=1291.21 UB=1360
+		ov=1317.73 ext=2352 depth=24 LB=1291.21 UB=1360
+		ov=1317.59 ext=2355 depth=24 LB=1291.21 UB=1360
+		ov=1315.37 ext=2359 depth=24 LB=1291.21 UB=1360
+		ov=1315 ext=2360 depth=24 LB=1291.21 UB=1360
+		ov=1315 ext=2362 depth=24 LB=1291.21 UB=1360
+		ov=1315 ext=2364 depth=24 LB=1291.21 UB=1360
+		ov=1315 ext=2365 depth=24 LB=1291.21 UB=1360
+		ov=1315 ext=2366 depth=24 LB=1291.21 UB=1360
+		ov=1315 ext=2367 depth=24 LB=1291.21 UB=1360
+		 deleted compress_columns by node 12
+		ov=1395.9 ext=2349 depth=24 LB=1291.21 UB=1360
+		ov=1385.12 ext=2354 depth=24 LB=1291.21 UB=1360
+		ov=1381.29 ext=2357 depth=24 LB=1291.21 UB=1360
+		ov=1379.04 ext=2361 depth=24 LB=1291.21 UB=1360
+		ov=1372.17 ext=2364 depth=24 LB=1291.21 UB=1360
+		ov=1372.17 ext=2365 depth=24 LB=1291.21 UB=1360
+		ov=1371.86 ext=2370 depth=24 LB=1291.21 UB=1360
+		ov=1370.56 ext=2376 depth=24 LB=1291.21 UB=1360
+		ov=1367.54 ext=2382 depth=24 LB=1291.21 UB=1360
+		ov=1367.36 ext=2383 depth=24 LB=1291.21 UB=1360
+		ov=1366.47 ext=2385 depth=24 LB=1291.21 UB=1360
+		ov=1363.51 ext=2390 depth=24 LB=1291.21 UB=1360
+		 deleted compress_columns by node 54
+		159.748000(cpu sec)	Selecting Child Node De:24 N:30 D:27 Y:1 Obj:1315
+		Fractionals=618 out of 6125 ratio=10.0898 root ratio=10.3673
+		ov=1321.43 ext=2361 depth=25 LB=1291.21 UB=1360
+		ov=1320.35 ext=2363 depth=25 LB=1291.21 UB=1360
+		ov=1320 ext=2368 depth=25 LB=1291.21 UB=1360
+		ov=1320 ext=2370 depth=25 LB=1291.21 UB=1360
+		ov=1319.21 ext=2372 depth=25 LB=1291.21 UB=1360
+		ov=1319.21 ext=2377 depth=25 LB=1291.21 UB=1360
+		ov=1318.89 ext=2382 depth=25 LB=1291.21 UB=1360
+		ov=1318.33 ext=2384 depth=25 LB=1291.21 UB=1360
+		ov=1318.33 ext=2385 depth=25 LB=1291.21 UB=1360
+		ov=1318.24 ext=2389 depth=25 LB=1291.21 UB=1360
+		 deleted compress_columns by node 28
+		ov=1335.89 ext=2359 depth=25 LB=1291.21 UB=1360
+		ov=1330 ext=2363 depth=25 LB=1291.21 UB=1360
+		ov=1328.69 ext=2368 depth=25 LB=1291.21 UB=1360
+		ov=1326.29 ext=2371 depth=25 LB=1291.21 UB=1360
+		ov=1325 ext=2372 depth=25 LB=1291.21 UB=1360
+		ov=1325 ext=2376 depth=25 LB=1291.21 UB=1360
+		ov=1323.81 ext=2378 depth=25 LB=1291.21 UB=1360
+		ov=1322.66 ext=2381 depth=25 LB=1291.21 UB=1360
+		ov=1322.66 ext=2385 depth=25 LB=1291.21 UB=1360
+		ov=1322.58 ext=2388 depth=25 LB=1291.21 UB=1360
+		ov=1322.14 ext=2391 depth=25 LB=1291.21 UB=1360
+		ov=1321.9 ext=2397 depth=25 LB=1291.21 UB=1360
+		ov=1321.82 ext=2403 depth=25 LB=1291.21 UB=1360
+		ov=1321.67 ext=2409 depth=25 LB=1291.21 UB=1360
+		ov=1321.67 ext=2411 depth=25 LB=1291.21 UB=1360
+		 deleted compress_columns by node 29
+		161.171000(cpu sec)	Selecting Child Node De:25 N:29 D:19 Y:1 Obj:1318.24
+		Fractionals=610 out of 6125 ratio=9.95918 root ratio=10.3673
+		ov=1318.24 ext=2364 depth=26 LB=1291.21 UB=1360
+		ov=1318.24 ext=2365 depth=26 LB=1291.21 UB=1360
+		 deleted compress_columns by node 12
+		161.375000(cpu sec)	Selecting Child Node De:26 N:26 D:19 Y:1 Obj:1318.24
+		Fractionals=599 out of 6125 ratio=9.77959 root ratio=10.3673
+		ov=1322.57 ext=2358 depth=28 LB=1291.21 UB=1360
+		ov=1322.5 ext=2359 depth=28 LB=1291.21 UB=1360
+		ov=1322.5 ext=2361 depth=28 LB=1291.21 UB=1360
+		ov=1322.4 ext=2363 depth=28 LB=1291.21 UB=1360
+		ov=1322.4 ext=2366 depth=28 LB=1291.21 UB=1360
+		ov=1321.73 ext=2370 depth=28 LB=1291.21 UB=1360
+		ov=1321.67 ext=2376 depth=28 LB=1291.21 UB=1360
+		ov=1321.67 ext=2377 depth=28 LB=1291.21 UB=1360
+		 deleted compress_columns by node 42
+		ov=1318.24 ext=2354 depth=27 LB=1291.21 UB=1360
+		ov=1318.24 ext=2355 depth=27 LB=1291.21 UB=1360
+		ov=1318.24 ext=2356 depth=27 LB=1291.21 UB=1360
+		 deleted compress_columns by node 29
+		162.233000(cpu sec)	Selecting Child Node De:27 N:10 D:19 Y:0 Obj:1318.24
+		Fractionals=601 out of 6125 ratio=9.81224 root ratio=10.3673
+		ov=1322.57 ext=2359 depth=29 LB=1291.21 UB=1360
+		ov=1322.5 ext=2360 depth=29 LB=1291.21 UB=1360
+		ov=1322.5 ext=2361 depth=29 LB=1291.21 UB=1360
+		ov=1321.73 ext=2364 depth=29 LB=1291.21 UB=1360
+		ov=1321.67 ext=2369 depth=29 LB=1291.21 UB=1360
+		ov=1321.67 ext=2373 depth=29 LB=1291.21 UB=1360
+		ov=1321.67 ext=2375 depth=29 LB=1291.21 UB=1360
+		ov=1321.67 ext=2378 depth=29 LB=1291.21 UB=1360
+		ov=1321.47 ext=2379 depth=29 LB=1291.21 UB=1360
+		ov=1321.47 ext=2380 depth=29 LB=1291.21 UB=1360
+		ov=1321.43 ext=2385 depth=29 LB=1291.21 UB=1360
+		ov=1321.43 ext=2389 depth=29 LB=1291.21 UB=1360
+		ov=1321.43 ext=2391 depth=29 LB=1291.21 UB=1360
+		 deleted compress_columns by node 27
+		ov=1322.57 ext=2332 depth=28 LB=1291.21 UB=1360
+		ov=1322.57 ext=2333 depth=28 LB=1291.21 UB=1360
+		ov=1321.7 ext=2338 depth=28 LB=1291.21 UB=1360
+		ov=1321.67 ext=2343 depth=28 LB=1291.21 UB=1360
+		ov=1321.67 ext=2345 depth=28 LB=1291.21 UB=1360
+		ov=1321.67 ext=2346 depth=28 LB=1291.21 UB=1360
+		ov=1321.67 ext=2348 depth=28 LB=1291.21 UB=1360
+		ov=1321.47 ext=2349 depth=28 LB=1291.21 UB=1360
+		ov=1321.46 ext=2351 depth=28 LB=1291.21 UB=1360
+		ov=1321.43 ext=2356 depth=28 LB=1291.21 UB=1360
+		ov=1321.43 ext=2361 depth=28 LB=1291.21 UB=1360
+		 deleted compress_columns by node 13
+		ov=1360.6 ext=2333 depth=28 LB=1291.21 UB=1360
+		ov=1358.38 ext=2337 depth=28 LB=1291.21 UB=1360
+		ov=1347.18 ext=2338 depth=28 LB=1291.21 UB=1360
+		ov=1342.35 ext=2342 depth=28 LB=1291.21 UB=1360
+		ov=1338 ext=2347 depth=28 LB=1291.21 UB=1360
+		ov=1338 ext=2352 depth=28 LB=1291.21 UB=1360
+		ov=1338 ext=2358 depth=28 LB=1291.21 UB=1360
+		ov=1337.11 ext=2363 depth=28 LB=1291.21 UB=1360
+		ov=1337 ext=2369 depth=28 LB=1291.21 UB=1360
+		ov=1336.64 ext=2374 depth=28 LB=1291.21 UB=1360
+		ov=1335.8 ext=2380 depth=28 LB=1291.21 UB=1360
+		ov=1335 ext=2385 depth=28 LB=1291.21 UB=1360
+		ov=1335 ext=2390 depth=28 LB=1291.21 UB=1360
+		ov=1335 ext=2394 depth=28 LB=1291.21 UB=1360
+		ov=1335 ext=2398 depth=28 LB=1291.21 UB=1360
+		ov=1335 ext=2401 depth=28 LB=1291.21 UB=1360
+		ov=1335 ext=2403 depth=28 LB=1291.21 UB=1360
+		ov=1335 ext=2404 depth=28 LB=1291.21 UB=1360
+		ov=1335 ext=2405 depth=28 LB=1291.21 UB=1360
+		ov=1335 ext=2409 depth=28 LB=1291.21 UB=1360
+		ov=1335 ext=2413 depth=28 LB=1291.21 UB=1360
+		ov=1335 ext=2418 depth=28 LB=1291.21 UB=1360
+		ov=1335 ext=2421 depth=28 LB=1291.21 UB=1360
+		ov=1335 ext=2424 depth=28 LB=1291.21 UB=1360
+		ov=1335 ext=2425 depth=28 LB=1291.21 UB=1360
+		ov=1335 ext=2426 depth=28 LB=1291.21 UB=1360
+		 deleted compress_columns by node 50
+		164.963000(cpu sec)	Selecting Child Node De:28 N:30 D:19 Y:0 Obj:1321.43
+		Fractionals=597 out of 6125 ratio=9.74694 root ratio=10.3673
+		ov=1325 ext=2352 depth=29 LB=1291.21 UB=1360
+		ov=1325 ext=2355 depth=29 LB=1291.21 UB=1360
+		ov=1325 ext=2356 depth=29 LB=1291.21 UB=1360
+		ov=1325 ext=2357 depth=29 LB=1291.21 UB=1360
+		 deleted compress_columns by node 61
+		ov=1344.16 ext=2353 depth=29 LB=1291.21 UB=1360
+		ov=1339.71 ext=2359 depth=29 LB=1291.21 UB=1360
+		ov=1330 ext=2364 depth=29 LB=1291.21 UB=1360
+		 deleted compress_columns by node 21
+		165.462000(cpu sec)	Selecting Child Node De:29 N:32 D:20 Y:1 Obj:1325
+		Fractionals=606 out of 6125 ratio=9.89388 root ratio=10.3673
+		ov=1325 ext=2326 depth=30 LB=1291.21 UB=1360
+		ov=1325 ext=2327 depth=30 LB=1291.21 UB=1360
+		 deleted compress_columns by node 14
+		165.702000(cpu sec)	Selecting Child Node De:30 N:24 D:19 Y:0 Obj:1325
+		Fractionals=587 out of 6125 ratio=9.58367 root ratio=10.3673
+		 deleted compress_columns by node 85
+		165.834000(cpu sec)	Selecting Child Node De:32 N:25 D:19 Y:1 Obj:1325
+		Fractionals=570 out of 6125 ratio=9.30612 root ratio=10.3673
+		ov=1328.56 ext=2262 depth=35 LB=1291.21 UB=1360
+		ov=1328.06 ext=2289 depth=35 LB=1291.21 UB=1360
+		ov=1327.78 ext=2322 depth=35 LB=1291.21 UB=1360
+		ov=1327.69 ext=2326 depth=35 LB=1291.21 UB=1360
+		ov=1327.5 ext=2330 depth=35 LB=1291.21 UB=1360
+		ov=1327.5 ext=2334 depth=35 LB=1291.21 UB=1360
+		 deleted compress_columns by node 152
+		ov=1327.86 ext=2233 depth=33 LB=1291.21 UB=1360
+		ov=1327.78 ext=2235 depth=33 LB=1291.21 UB=1360
+		ov=1327.78 ext=2241 depth=33 LB=1291.21 UB=1360
+		ov=1327.57 ext=2249 depth=33 LB=1291.21 UB=1360
+		ov=1327.52 ext=2251 depth=33 LB=1291.21 UB=1360
+		ov=1327.5 ext=2255 depth=33 LB=1291.21 UB=1360
+		ov=1327.5 ext=2256 depth=33 LB=1291.21 UB=1360
+		ov=1327.5 ext=2257 depth=33 LB=1291.21 UB=1360
+		ov=1327.5 ext=2258 depth=33 LB=1291.21 UB=1360
+		ov=1327.5 ext=2260 depth=33 LB=1291.21 UB=1360
+		 deleted compress_columns by node 55
+		ov=1380 ext=2233 depth=33 LB=1291.21 UB=1360
+		ov=1375.69 ext=2238 depth=33 LB=1291.21 UB=1360
+		ov=1370.73 ext=2243 depth=33 LB=1291.21 UB=1360
+		ov=1360.79 ext=2247 depth=33 LB=1291.21 UB=1360
+		ov=1359.09 ext=2253 depth=33 LB=1291.21 UB=1360
+		ov=1359.09 ext=2254 depth=33 LB=1291.21 UB=1360
+		ov=1358.1 ext=2257 depth=33 LB=1291.21 UB=1360
+		ov=1356.38 ext=2264 depth=33 LB=1291.21 UB=1360
+		ov=1355.87 ext=2271 depth=33 LB=1291.21 UB=1360
+		ov=1354.17 ext=2276 depth=33 LB=1291.21 UB=1360
+		 deleted compress_columns by node 54
+		167.595000(cpu sec)	Selecting Child Node De:33 N:33 D:19 Y:0 Obj:1327.5
+		Fractionals=553 out of 6125 ratio=9.02857 root ratio=10.3673
+		ov=1328.19 ext=2234 depth=34 LB=1291.21 UB=1360
+		ov=1327.82 ext=2257 depth=34 LB=1291.21 UB=1360
+		ov=1327.5 ext=2286 depth=34 LB=1291.21 UB=1360
+		ov=1327.5 ext=2290 depth=34 LB=1291.21 UB=1360
+		ov=1327.5 ext=2291 depth=34 LB=1291.21 UB=1360
+		ov=1327.5 ext=2299 depth=34 LB=1291.21 UB=1360
+		ov=1327.5 ext=2300 depth=34 LB=1291.21 UB=1360
+		 deleted compress_columns by node 60
+		168.329000(cpu sec)	Selecting Child Node De:34 N:1 D:20 Y:1 Obj:1327.5
+		Fractionals=490 out of 6125 ratio=8 root ratio=10.3673
+		ov=1327.5 ext=2249 depth=36 LB=1291.21 UB=1360
+		ov=1327.5 ext=2253 depth=36 LB=1291.21 UB=1360
+		ov=1327.5 ext=2258 depth=36 LB=1291.21 UB=1360
+		ov=1327.5 ext=2261 depth=36 LB=1291.21 UB=1360
+		ov=1327.5 ext=2264 depth=36 LB=1291.21 UB=1360
+		ov=1327.5 ext=2265 depth=36 LB=1291.21 UB=1360
+		ov=1327.5 ext=2266 depth=36 LB=1291.21 UB=1360
+		 deleted compress_columns by node 21
+		168.794000(cpu sec)	Selecting Child Node De:36 N:25 D:33 Y:1 Obj:1327.5
+		Fractionals=471 out of 6125 ratio=7.6898 root ratio=10.3673
+	fixed lits=11476
+	Algorithm 1 Solving Process Started..
+			o 5915   0.174000(sec) 
+			o 5875   0.177000(sec) 
+			o 5705   0.179000(sec) 
+			o 5545   0.396000(sec) 
+			o 5485   0.400000(sec) 
+			o 5455   0.404000(sec) 
+			o 5425   0.405000(sec) 
+			o 5245   0.407000(sec) 
+			o 5200   0.413000(sec) 
+			o 5190   0.646000(sec) 
+			o 5160   0.648000(sec) 
+			o 4910   0.653000(sec) 
+			o 4845   0.658000(sec) 
+			o 4800   0.660000(sec) 
+			o 4760   0.662000(sec) 
+			o 4745   0.669000(sec) 
+			o 4645   0.671000(sec) 
+			o 4585   0.674000(sec) 
+			o 4560   0.676000(sec) 
+			o 4535   0.678000(sec) 
+			o 4445   0.680000(sec) 
+			o 4415   0.682000(sec) 
+			o 4380   0.687000(sec) 
+			o 4335   0.689000(sec) 
+			o 4325   0.692000(sec) 
+			o 4285   0.695000(sec) 
+			o 4180   0.700000(sec) 
+			o 4140   0.702000(sec) 
+			o 4110   0.705000(sec) 
+			o 4055   0.709000(sec) 
+			o 3990   0.712000(sec) 
+			o 3875   0.714000(sec) 
+			o 3830   0.717000(sec) 
+			o 3790   0.719000(sec) 
+			o 3780   0.721000(sec) 
+			o 3650   0.726000(sec) 
+			o 3635   0.728000(sec) 
+			o 3560   0.731000(sec) 
+			o 3505   0.734000(sec) 
+			o 3475   0.737000(sec) 
+			o 3435   0.740000(sec) 
+			o 3370   0.744000(sec) 
+			o 3325   0.747000(sec) 
+			o 3310   0.750000(sec) 
+			o 3125   0.752000(sec) 
+			o 3050   0.756000(sec) 
+			o 3035   0.761000(sec) 
+			o 3005   0.764000(sec) 
+			o 2975   0.766000(sec) 
+			o 2935   0.769000(sec) 
+			o 2920   0.791000(sec) 
+			o 2875   0.810000(sec) 
+			o 2815   0.812000(sec) 
+			o 2815   3.286000(sec) 
+			o 2745   3.444000(sec) 
+			o 2680   3.553000(sec) 
+			o 2660   4.128000(sec) 
+			o 2625   4.141000(sec) 
+			o 2610   17.315000(sec) 
+			o 2565   17.329000(sec) 
+			o 2460   17.335000(sec) 
+			o 2430   17.341000(sec) 
+			o 2370   17.354000(sec) 
+			o 2310   17.366000(sec) 
+			o 2220   17.372000(sec) 
+			o 2160   17.377000(sec) 
+			o 2055   17.394000(sec) 
+			o 1995   17.399000(sec) 
+			o 1935   17.405000(sec) 
+			o 1905   17.503000(sec) 
+			o 1815   17.522000(sec) 
+			o 1800   17.528000(sec) 
+			o 1770   17.591000(sec) 
+			o 1710   17.597000(sec) 
+			o 1680   17.607000(sec) 
+			o 1650   17.614000(sec) 
+			o 1605   17.674000(sec) 
+			o 1590   17.681000(sec) 
+			o 1575   17.811000(sec) 
+			o 1530   17.819000(sec) 
+			o 1515   17.837000(sec) 
+			o 1500   17.918000(sec) 
+			o 1455   17.999000(sec) 
+			o 1440   18.008000(sec) 
+			o 1425   18.015000(sec) 
+			o 1410   18.023000(sec) 
+			o 1395   18.067000(sec) 
+			o 1380   18.359000(sec) 
+			o 1365   18.446000(sec) 
+			o 1335   24.262000(sec) 
+			o 1330   40.119000(sec) 
+		o 1330(0)
+	*********UB=1330(0)  229.187(cpu sec)
+		ov=1331.67 ext=2268 depth=39 LB=1291.21 UB=1330
+		ov=1331.67 ext=2273 depth=39 LB=1291.21 UB=1330
+		ov=1331.67 ext=2277 depth=39 LB=1291.21 UB=1330
+		ov=1331.67 ext=2279 depth=39 LB=1291.21 UB=1330
+		ov=1331.67 ext=2280 depth=39 LB=1291.21 UB=1330
+		ov=1331.67 ext=2281 depth=39 LB=1291.21 UB=1330
+		 deleted compress_columns by node 109
+		ov=1327.5 ext=2267 depth=37 LB=1291.21 UB=1330
+		ov=1327.5 ext=2269 depth=37 LB=1291.21 UB=1330
+		 deleted compress_columns by node 38
+		branch_node_map.size()=23
+		230.102000(cpu sec)	Selecting Child Node De:1 N:34 D:12 Y:0 Obj:1291.21
+		Fractionals=633 out of 6125 ratio=10.3347 root ratio=10.3673
+		ov=1297.93 ext=2462 depth=2 LB=1296.67 UB=1330
+		ov=1297.38 ext=2468 depth=2 LB=1296.67 UB=1330
+		ov=1295.72 ext=2473 depth=2 LB=1296.67 UB=1330
+		ov=1295.72 ext=2474 depth=2 LB=1296.67 UB=1330
+		ov=1295.57 ext=2476 depth=2 LB=1296.67 UB=1330
+		ov=1294.65 ext=2481 depth=2 LB=1296.67 UB=1330
+		ov=1294.61 ext=2487 depth=2 LB=1296.67 UB=1330
+		ov=1294.28 ext=2491 depth=2 LB=1296.67 UB=1330
+		ov=1294.17 ext=2493 depth=2 LB=1296.67 UB=1330
+		ov=1293.94 ext=2494 depth=2 LB=1296.67 UB=1330
+		ov=1372.03 ext=2499 depth=2 LB=1296.67 UB=1330
+		ov=1350.12 ext=2505 depth=2 LB=1296.67 UB=1330
+		ov=1341.17 ext=2511 depth=2 LB=1296.67 UB=1330
+		ov=1338.04 ext=2516 depth=2 LB=1296.67 UB=1330
+		ov=1320.63 ext=2521 depth=2 LB=1296.67 UB=1330
+		ov=1319.92 ext=2524 depth=2 LB=1296.67 UB=1330
+		ov=1318.33 ext=2530 depth=2 LB=1296.67 UB=1330
+		ov=1318.29 ext=2534 depth=2 LB=1296.67 UB=1330
+		ov=1318.23 ext=2539 depth=2 LB=1296.67 UB=1330
+		ov=1317.67 ext=2544 depth=2 LB=1296.67 UB=1330
+		ov=1317.08 ext=2549 depth=2 LB=1296.67 UB=1330
+		ov=1317.08 ext=2554 depth=2 LB=1296.67 UB=1330
+		ov=1316.67 ext=2560 depth=2 LB=1296.67 UB=1330
+		ov=1316.03 ext=2562 depth=2 LB=1296.67 UB=1330
+		ov=1315.78 ext=2568 depth=2 LB=1296.67 UB=1330
+		ov=1315.67 ext=2574 depth=2 LB=1296.67 UB=1330
+		ov=1315.42 ext=2580 depth=2 LB=1296.67 UB=1330
+		ov=1297.61 ext=2485 depth=2 LB=1296.67 UB=1330
+		ov=1297.04 ext=2511 depth=2 LB=1296.67 UB=1330
+		ov=1295.35 ext=2534 depth=2 LB=1296.67 UB=1330
+		ov=1295.06 ext=2555 depth=2 LB=1296.67 UB=1330
+		ov=1295.06 ext=2581 depth=2 LB=1296.67 UB=1330
+		ov=1295.06 ext=2585 depth=2 LB=1296.67 UB=1330
+		ov=1295.06 ext=2588 depth=2 LB=1296.67 UB=1330
+		ov=1295.06 ext=2596 depth=2 LB=1296.67 UB=1330
+		ov=1295.06 ext=2608 depth=2 LB=1296.67 UB=1330
+		ov=1293.55 ext=2485 depth=2 LB=1296.67 UB=1330
+		ov=1293.55 ext=2492 depth=2 LB=1296.67 UB=1330
+		ov=1293.19 ext=2508 depth=2 LB=1296.67 UB=1330
+		ov=1292.29 ext=2511 depth=2 LB=1296.67 UB=1330
+		ov=1328.87 ext=2462 depth=2 LB=1296.67 UB=1330
+		ov=1327.18 ext=2468 depth=2 LB=1296.67 UB=1330
+		ov=1322.38 ext=2473 depth=2 LB=1296.67 UB=1330
+		ov=1320.32 ext=2476 depth=2 LB=1296.67 UB=1330
+		ov=1316.51 ext=2479 depth=2 LB=1296.67 UB=1330
+		ov=1316.51 ext=2480 depth=2 LB=1296.67 UB=1330
+		ov=1316.51 ext=2481 depth=2 LB=1296.67 UB=1330
+		ov=1316.43 ext=2487 depth=2 LB=1296.67 UB=1330
+		ov=1315.35 ext=2493 depth=2 LB=1296.67 UB=1330
+		ov=1314.77 ext=2498 depth=2 LB=1296.67 UB=1330
+		ov=1293.64 ext=2485 depth=2 LB=1296.67 UB=1330
+		ov=1293.21 ext=2490 depth=2 LB=1296.67 UB=1330
+		ov=1293.03 ext=2503 depth=2 LB=1296.67 UB=1330
+		ov=1292.97 ext=2526 depth=2 LB=1296.67 UB=1330
+		ov=1314.44 ext=2462 depth=2 LB=1296.67 UB=1330
+		ov=1311.61 ext=2467 depth=2 LB=1296.67 UB=1330
+		ov=1306.24 ext=2472 depth=2 LB=1296.67 UB=1330
+		ov=1305.81 ext=2475 depth=2 LB=1296.67 UB=1330
+		ov=1305.65 ext=2480 depth=2 LB=1296.67 UB=1330
+		ov=1305.08 ext=2486 depth=2 LB=1296.67 UB=1330
+		ov=1303.88 ext=2491 depth=2 LB=1296.67 UB=1330
+		ov=1302.11 ext=2496 depth=2 LB=1296.67 UB=1330
+		ov=1302.11 ext=2498 depth=2 LB=1296.67 UB=1330
+		ov=1301.82 ext=2502 depth=2 LB=1296.67 UB=1330
+		ov=1301.77 ext=2507 depth=2 LB=1296.67 UB=1330
+		ov=1301.67 ext=2513 depth=2 LB=1296.67 UB=1330
+		ov=1301.51 ext=2514 depth=2 LB=1296.67 UB=1330
+		ov=1301.51 ext=2515 depth=2 LB=1296.67 UB=1330
+		ov=1301.49 ext=2521 depth=2 LB=1296.67 UB=1330
+		ov=1292.91 ext=2485 depth=2 LB=1296.67 UB=1330
+		ov=1292.88 ext=2510 depth=2 LB=1296.67 UB=1330
+		ov=1292.64 ext=2519 depth=2 LB=1296.67 UB=1330
+		ov=1292.64 ext=2520 depth=2 LB=1296.67 UB=1330
+		ov=1291.21 ext=2522 depth=2 LB=1296.67 UB=1330
+		ov=1291.21 ext=2524 depth=2 LB=1296.67 UB=1330
+		ov=1297.84 ext=2462 depth=2 LB=1296.67 UB=1330
+		ov=1297.8 ext=2467 depth=2 LB=1296.67 UB=1330
+		ov=1296.67 ext=2473 depth=2 LB=1296.67 UB=1330
+		ov=1296.67 ext=2476 depth=2 LB=1296.67 UB=1330
+		ov=1296.06 ext=2478 depth=2 LB=1296.67 UB=1330
+		ov=1295.85 ext=2479 depth=2 LB=1296.67 UB=1330
+		ov=1295.76 ext=2484 depth=2 LB=1296.67 UB=1330
+		ov=1305.4 ext=2489 depth=2 LB=1296.67 UB=1330
+		ov=1303.68 ext=2492 depth=2 LB=1296.67 UB=1330
+		ov=1295.67 ext=2496 depth=2 LB=1296.67 UB=1330
+		ov=1295.64 ext=2497 depth=2 LB=1296.67 UB=1330
+		ov=1293.11 ext=2485 depth=2 LB=1296.67 UB=1330
+		ov=1292.88 ext=2512 depth=2 LB=1296.67 UB=1330
+		ov=1292.74 ext=2522 depth=2 LB=1296.67 UB=1330
+		ov=1292.64 ext=2540 depth=2 LB=1296.67 UB=1330
+		ov=1291.21 ext=2543 depth=2 LB=1296.67 UB=1330
+		ov=1294.6 ext=2459 depth=2 LB=1296.67 UB=1330
+		ov=1293.48 ext=2464 depth=2 LB=1296.67 UB=1330
+		ov=1293.1 ext=2469 depth=2 LB=1296.67 UB=1330
+		ov=1293.1 ext=2473 depth=2 LB=1296.67 UB=1330
+		ov=1292.98 ext=2474 depth=2 LB=1296.67 UB=1330
+		ov=1311.8 ext=2479 depth=2 LB=1296.67 UB=1330
+		ov=1306.07 ext=2484 depth=2 LB=1296.67 UB=1330
+		ov=1301.53 ext=2488 depth=2 LB=1296.67 UB=1330
+		ov=1301.3 ext=2491 depth=2 LB=1296.67 UB=1330
+		ov=1300.73 ext=2494 depth=2 LB=1296.67 UB=1330
+		ov=1300.67 ext=2497 depth=2 LB=1296.67 UB=1330
+		ov=1300.3 ext=2500 depth=2 LB=1296.67 UB=1330
+		ov=1300.13 ext=2505 depth=2 LB=1296.67 UB=1330
+		ov=1300.13 ext=2506 depth=2 LB=1296.67 UB=1330
+		ov=1300.13 ext=2507 depth=2 LB=1296.67 UB=1330
+		ov=1300 ext=2513 depth=2 LB=1296.67 UB=1330
+		ov=1300 ext=2514 depth=2 LB=1296.67 UB=1330
+		strong branched depth=1 obj=1295.64
+		ov=1297.77 ext=2461 depth=2 LB=1296.67 UB=1330
+		ov=1296.32 ext=2465 depth=2 LB=1296.67 UB=1330
+		ov=1296.25 ext=2467 depth=2 LB=1296.67 UB=1330
+		ov=1295.63 ext=2471 depth=2 LB=1296.67 UB=1330
+		ov=1295.63 ext=2474 depth=2 LB=1296.67 UB=1330
+		 deleted compress_columns by node 46
+		ov=1297.84 ext=2462 depth=2 LB=1296.67 UB=1330
+		ov=1297.8 ext=2467 depth=2 LB=1296.67 UB=1330
+		ov=1296.67 ext=2473 depth=2 LB=1296.67 UB=1330
+		ov=1296.67 ext=2476 depth=2 LB=1296.67 UB=1330
+		ov=1296.06 ext=2478 depth=2 LB=1296.67 UB=1330
+		ov=1295.85 ext=2481 depth=2 LB=1296.67 UB=1330
+		ov=1295.76 ext=2487 depth=2 LB=1296.67 UB=1330
+		 deleted compress_columns by node 27
+		Adding Node De:2 N:33 D:26 Y:0 Obj:1295.76
+		239.796000(cpu sec)	Selecting Child Node De:2 N:33 D:26 Y:1 Obj:1295.63
+		Fractionals=626 out of 6125 ratio=10.2204 root ratio=10.3673
+		ov=1301.99 ext=2458 depth=3 LB=1295.76 UB=1330
+		ov=1301.29 ext=2486 depth=3 LB=1295.76 UB=1330
+		ov=1300.02 ext=2514 depth=3 LB=1295.76 UB=1330
+		ov=1299.19 ext=2538 depth=3 LB=1295.76 UB=1330
+		ov=1299.12 ext=2563 depth=3 LB=1295.76 UB=1330
+		ov=1299.12 ext=2569 depth=3 LB=1295.76 UB=1330
+		ov=1299.12 ext=2573 depth=3 LB=1295.76 UB=1330
+		ov=1299.12 ext=2586 depth=3 LB=1295.76 UB=1330
+		ov=1299.11 ext=2598 depth=3 LB=1295.76 UB=1330
+		ov=1296.1 ext=2600 depth=3 LB=1295.76 UB=1330
+		ov=1296.1 ext=2603 depth=3 LB=1295.76 UB=1330
+		ov=1300.21 ext=2431 depth=3 LB=1295.76 UB=1330
+		ov=1299.36 ext=2435 depth=3 LB=1295.76 UB=1330
+		ov=1299.36 ext=2440 depth=3 LB=1295.76 UB=1330
+		ov=1298.79 ext=2446 depth=3 LB=1295.76 UB=1330
+		ov=1298.58 ext=2450 depth=3 LB=1295.76 UB=1330
+		ov=1297.92 ext=2455 depth=3 LB=1295.76 UB=1330
+		ov=1297.34 ext=2458 depth=3 LB=1295.76 UB=1330
+		ov=1297.15 ext=2462 depth=3 LB=1295.76 UB=1330
+		ov=1296.85 ext=2465 depth=3 LB=1295.76 UB=1330
+		ov=1296.67 ext=2468 depth=3 LB=1295.76 UB=1330
+		ov=1296.67 ext=2470 depth=3 LB=1295.76 UB=1330
+		ov=1296.67 ext=2473 depth=3 LB=1295.76 UB=1330
+		ov=1296.67 ext=2478 depth=3 LB=1295.76 UB=1330
+		ov=1296.67 ext=2482 depth=3 LB=1295.76 UB=1330
+		ov=1296.67 ext=2485 depth=3 LB=1295.76 UB=1330
+		ov=1296.67 ext=2487 depth=3 LB=1295.76 UB=1330
+		ov=1348.84 ext=2492 depth=3 LB=1295.76 UB=1330
+		ov=1335.54 ext=2498 depth=3 LB=1295.76 UB=1330
+		ov=1334.41 ext=2501 depth=3 LB=1295.76 UB=1330
+		ov=1324.97 ext=2507 depth=3 LB=1295.76 UB=1330
+		ov=1320.53 ext=2513 depth=3 LB=1295.76 UB=1330
+		ov=1320.53 ext=2516 depth=3 LB=1295.76 UB=1330
+		ov=1318.52 ext=2522 depth=3 LB=1295.76 UB=1330
+		ov=1318.27 ext=2524 depth=3 LB=1295.76 UB=1330
+		ov=1317.87 ext=2529 depth=3 LB=1295.76 UB=1330
+		ov=1317.53 ext=2533 depth=3 LB=1295.76 UB=1330
+		ov=1317.44 ext=2538 depth=3 LB=1295.76 UB=1330
+		ov=1316.9 ext=2542 depth=3 LB=1295.76 UB=1330
+		ov=1316.9 ext=2548 depth=3 LB=1295.76 UB=1330
+		ov=1316.67 ext=2554 depth=3 LB=1295.76 UB=1330
+		ov=1316.67 ext=2555 depth=3 LB=1295.76 UB=1330
+		ov=1297.95 ext=2458 depth=3 LB=1295.76 UB=1330
+		ov=1297.82 ext=2461 depth=3 LB=1295.76 UB=1330
+		ov=1297.25 ext=2482 depth=3 LB=1295.76 UB=1330
+		ov=1297.25 ext=2486 depth=3 LB=1295.76 UB=1330
+		ov=1297.25 ext=2492 depth=3 LB=1295.76 UB=1330
+		ov=1296.35 ext=2498 depth=3 LB=1295.76 UB=1330
+		ov=1296.35 ext=2502 depth=3 LB=1295.76 UB=1330
+		ov=1296.23 ext=2503 depth=3 LB=1295.76 UB=1330
+		ov=1298.03 ext=2458 depth=3 LB=1295.76 UB=1330
+		ov=1297.5 ext=2470 depth=3 LB=1295.76 UB=1330
+		ov=1297.17 ext=2494 depth=3 LB=1295.76 UB=1330
+		ov=1297.03 ext=2515 depth=3 LB=1295.76 UB=1330
+		ov=1325.76 ext=2434 depth=3 LB=1295.76 UB=1330
+		ov=1322.78 ext=2439 depth=3 LB=1295.76 UB=1330
+		ov=1320.46 ext=2442 depth=3 LB=1295.76 UB=1330
+		ov=1315.28 ext=2447 depth=3 LB=1295.76 UB=1330
+		ov=1314.28 ext=2450 depth=3 LB=1295.76 UB=1330
+		ov=1310.56 ext=2456 depth=3 LB=1295.76 UB=1330
+		ov=1308.29 ext=2460 depth=3 LB=1295.76 UB=1330
+		ov=1307.51 ext=2462 depth=3 LB=1295.76 UB=1330
+		ov=1307.12 ext=2467 depth=3 LB=1295.76 UB=1330
+		ov=1307.12 ext=2473 depth=3 LB=1295.76 UB=1330
+		ov=1307.12 ext=2477 depth=3 LB=1295.76 UB=1330
+		ov=1307.12 ext=2481 depth=3 LB=1295.76 UB=1330
+		ov=1307.12 ext=2484 depth=3 LB=1295.76 UB=1330
+		ov=1307.08 ext=2487 depth=3 LB=1295.76 UB=1330
+		ov=1307.05 ext=2492 depth=3 LB=1295.76 UB=1330
+		ov=1307.04 ext=2497 depth=3 LB=1295.76 UB=1330
+		ov=1307.04 ext=2498 depth=3 LB=1295.76 UB=1330
+		ov=1307.04 ext=2499 depth=3 LB=1295.76 UB=1330
+		ov=1306.99 ext=2501 depth=3 LB=1295.76 UB=1330
+		ov=1299.29 ext=2504 depth=3 LB=1295.76 UB=1330
+		ov=1299.13 ext=2507 depth=3 LB=1295.76 UB=1330
+		ov=1298.24 ext=2511 depth=3 LB=1295.76 UB=1330
+		ov=1297.98 ext=2517 depth=3 LB=1295.76 UB=1330
+		ov=1297.71 ext=2520 depth=3 LB=1295.76 UB=1330
+		ov=1297.58 ext=2523 depth=3 LB=1295.76 UB=1330
+		ov=1297.33 ext=2525 depth=3 LB=1295.76 UB=1330
+		ov=1297.3 ext=2458 depth=3 LB=1295.76 UB=1330
+		ov=1297.14 ext=2486 depth=3 LB=1295.76 UB=1330
+		ov=1296.7 ext=2499 depth=3 LB=1295.76 UB=1330
+		ov=1296.7 ext=2503 depth=3 LB=1295.76 UB=1330
+		ov=1296.7 ext=2504 depth=3 LB=1295.76 UB=1330
+		ov=1296.64 ext=2505 depth=3 LB=1295.76 UB=1330
+		ov=1295.27 ext=2513 depth=3 LB=1295.76 UB=1330
+		ov=1297.48 ext=2458 depth=3 LB=1295.76 UB=1330
+		ov=1297.14 ext=2483 depth=3 LB=1295.76 UB=1330
+		ov=1296.72 ext=2487 depth=3 LB=1295.76 UB=1330
+		ov=1296.64 ext=2512 depth=3 LB=1295.76 UB=1330
+		ov=1296.64 ext=2513 depth=3 LB=1295.76 UB=1330
+		ov=1296.64 ext=2514 depth=3 LB=1295.76 UB=1330
+		ov=1296.64 ext=2521 depth=3 LB=1295.76 UB=1330
+		ov=1295.6 ext=2458 depth=3 LB=1295.76 UB=1330
+		ov=1295.48 ext=2459 depth=3 LB=1295.76 UB=1330
+		ov=1295.27 ext=2460 depth=3 LB=1295.76 UB=1330
+		ov=1295.27 ext=2463 depth=3 LB=1295.76 UB=1330
+		ov=1295.27 ext=2465 depth=3 LB=1295.76 UB=1330
+		ov=1300.94 ext=2489 depth=3 LB=1295.76 UB=1330
+		ov=1300.26 ext=2514 depth=3 LB=1295.76 UB=1330
+		ov=1298.17 ext=2538 depth=3 LB=1295.76 UB=1330
+		ov=1298.08 ext=2557 depth=3 LB=1295.76 UB=1330
+		ov=1298 ext=2581 depth=3 LB=1295.76 UB=1330
+		ov=1297.96 ext=2598 depth=3 LB=1295.76 UB=1330
+		ov=1297.7 ext=2622 depth=3 LB=1295.76 UB=1330
+		ov=1297.69 ext=2643 depth=3 LB=1295.76 UB=1330
+		ov=1299 ext=2431 depth=3 LB=1295.76 UB=1330
+		ov=1297.92 ext=2433 depth=3 LB=1295.76 UB=1330
+		ov=1297.92 ext=2437 depth=3 LB=1295.76 UB=1330
+		ov=1297.71 ext=2443 depth=3 LB=1295.76 UB=1330
+		ov=1297.63 ext=2447 depth=3 LB=1295.76 UB=1330
+		ov=1296.74 ext=2449 depth=3 LB=1295.76 UB=1330
+		ov=1296.72 ext=2454 depth=3 LB=1295.76 UB=1330
+		ov=1296.72 ext=2456 depth=3 LB=1295.76 UB=1330
+		ov=1296.71 ext=2457 depth=3 LB=1295.76 UB=1330
+		ov=1296.67 ext=2459 depth=3 LB=1295.76 UB=1330
+		ov=1296.67 ext=2461 depth=3 LB=1295.76 UB=1330
+		ov=1296.67 ext=2462 depth=3 LB=1295.76 UB=1330
+		ov=1326.31 ext=2468 depth=3 LB=1295.76 UB=1330
+		ov=1318.86 ext=2472 depth=3 LB=1295.76 UB=1330
+		ov=1318.48 ext=2476 depth=3 LB=1295.76 UB=1330
+		ov=1314.96 ext=2482 depth=3 LB=1295.76 UB=1330
+		ov=1296.27 ext=2452 depth=3 LB=1295.76 UB=1330
+		ov=1296.14 ext=2453 depth=3 LB=1295.76 UB=1330
+		ov=1295.94 ext=2454 depth=3 LB=1295.76 UB=1330
+		ov=1295.94 ext=2458 depth=3 LB=1295.76 UB=1330
+		ov=1296.19 ext=2483 depth=3 LB=1295.76 UB=1330
+		ov=1296.1 ext=2511 depth=3 LB=1295.76 UB=1330
+		ov=1296.1 ext=2521 depth=3 LB=1295.76 UB=1330
+		strong branched depth=2 obj=1297.33
+		ov=1299.33 ext=2432 depth=3 LB=1295.76 UB=1330
+		ov=1297.83 ext=2436 depth=3 LB=1295.76 UB=1330
+		ov=1297.82 ext=2439 depth=3 LB=1295.76 UB=1330
+		ov=1297.72 ext=2445 depth=3 LB=1295.76 UB=1330
+		ov=1297.55 ext=2451 depth=3 LB=1295.76 UB=1330
+		ov=1297.18 ext=2453 depth=3 LB=1295.76 UB=1330
+		ov=1296.9 ext=2456 depth=3 LB=1295.76 UB=1330
+		 deleted compress_columns by node 46
+		ov=1325.76 ext=2434 depth=3 LB=1295.76 UB=1330
+		ov=1322.78 ext=2439 depth=3 LB=1295.76 UB=1330
+		ov=1320.46 ext=2442 depth=3 LB=1295.76 UB=1330
+		ov=1315.38 ext=2446 depth=3 LB=1295.76 UB=1330
+		ov=1314.28 ext=2449 depth=3 LB=1295.76 UB=1330
+		ov=1310.05 ext=2455 depth=3 LB=1295.76 UB=1330
+		ov=1308.31 ext=2459 depth=3 LB=1295.76 UB=1330
+		ov=1307.52 ext=2461 depth=3 LB=1295.76 UB=1330
+		ov=1307.12 ext=2465 depth=3 LB=1295.76 UB=1330
+		ov=1307.12 ext=2470 depth=3 LB=1295.76 UB=1330
+		ov=1307.12 ext=2475 depth=3 LB=1295.76 UB=1330
+		ov=1307.12 ext=2480 depth=3 LB=1295.76 UB=1330
+		ov=1307.12 ext=2485 depth=3 LB=1295.76 UB=1330
+		ov=1307.12 ext=2490 depth=3 LB=1295.76 UB=1330
+		ov=1307.12 ext=2491 depth=3 LB=1295.76 UB=1330
+		ov=1307.12 ext=2493 depth=3 LB=1295.76 UB=1330
+		ov=1307.08 ext=2495 depth=3 LB=1295.76 UB=1330
+		ov=1307.05 ext=2500 depth=3 LB=1295.76 UB=1330
+		ov=1306.99 ext=2501 depth=3 LB=1295.76 UB=1330
+		ov=1306.99 ext=2503 depth=3 LB=1295.76 UB=1330
+		ov=1306.94 ext=2504 depth=3 LB=1295.76 UB=1330
+		ov=1306.94 ext=2505 depth=3 LB=1295.76 UB=1330
+		ov=1306.94 ext=2507 depth=3 LB=1295.76 UB=1330
+		 deleted compress_columns by node 29
+		Adding Node De:3 N:30 D:12 Y:0 Obj:1306.94
+		252.687000(cpu sec)	Selecting Child Node De:3 N:30 D:12 Y:1 Obj:1296.9
+		Fractionals=633 out of 6125 ratio=10.3347 root ratio=10.3673
+		ov=1297.73 ext=2413 depth=4 LB=1295.76 UB=1330
+		ov=1297.65 ext=2423 depth=4 LB=1295.76 UB=1330
+		ov=1297.5 ext=2426 depth=4 LB=1295.76 UB=1330
+		 deleted compress_columns by node 8
+		ov=1303.26 ext=2441 depth=4 LB=1295.76 UB=1330
+		ov=1302.69 ext=2469 depth=4 LB=1295.76 UB=1330
+		ov=1301.44 ext=2493 depth=4 LB=1295.76 UB=1330
+		ov=1300.8 ext=2519 depth=4 LB=1295.76 UB=1330
+		ov=1300.64 ext=2528 depth=4 LB=1295.76 UB=1330
+		ov=1300.51 ext=2553 depth=4 LB=1295.76 UB=1330
+		ov=1300.51 ext=2554 depth=4 LB=1295.76 UB=1330
+		 deleted compress_columns by node 45
+		Adding Node De:4 N:21 D:12 Y:0 Obj:1300.51
+		253.996000(cpu sec)	Selecting Child Node De:4 N:21 D:12 Y:1 Obj:1297.5
+		Fractionals=645 out of 6125 ratio=10.5306 root ratio=10.3673
+		ov=1297.85 ext=2423 depth=5 LB=1295.76 UB=1330
+		ov=1297.85 ext=2426 depth=5 LB=1295.76 UB=1330
+		ov=1297.85 ext=2429 depth=5 LB=1295.76 UB=1330
+		ov=1297.83 ext=2431 depth=5 LB=1295.76 UB=1330
+		ov=1297.8 ext=2433 depth=5 LB=1295.76 UB=1330
+		ov=1297.8 ext=2435 depth=5 LB=1295.76 UB=1330
+		ov=1297.5 ext=2439 depth=5 LB=1295.76 UB=1330
+		ov=1297.5 ext=2442 depth=5 LB=1295.76 UB=1330
+		 deleted compress_columns by node 21
+		ov=1357.38 ext=2423 depth=5 LB=1295.76 UB=1330
+		ov=1352.51 ext=2427 depth=5 LB=1295.76 UB=1330
+		ov=1344.64 ext=2431 depth=5 LB=1295.76 UB=1330
+		ov=1343.96 ext=2435 depth=5 LB=1295.76 UB=1330
+		ov=1339.53 ext=2440 depth=5 LB=1295.76 UB=1330
+		ov=1337.29 ext=2442 depth=5 LB=1295.76 UB=1330
+		ov=1337.29 ext=2443 depth=5 LB=1295.76 UB=1330
+		ov=1329.67 ext=2446 depth=5 LB=1295.76 UB=1330
+		ov=1326.07 ext=2448 depth=5 LB=1295.76 UB=1330
+		ov=1326.07 ext=2449 depth=5 LB=1295.76 UB=1330
+		ov=1324.12 ext=2455 depth=5 LB=1295.76 UB=1330
+		ov=1324.09 ext=2456 depth=5 LB=1295.76 UB=1330
+		ov=1324.09 ext=2462 depth=5 LB=1295.76 UB=1330
+		ov=1322.5 ext=2467 depth=5 LB=1295.76 UB=1330
+		ov=1322.5 ext=2468 depth=5 LB=1295.76 UB=1330
+		ov=1322.5 ext=2472 depth=5 LB=1295.76 UB=1330
+		ov=1322.5 ext=2477 depth=5 LB=1295.76 UB=1330
+		ov=1322.5 ext=2481 depth=5 LB=1295.76 UB=1330
+		ov=1322.22 ext=2487 depth=5 LB=1295.76 UB=1330
+		ov=1317.5 ext=2491 depth=5 LB=1295.76 UB=1330
+		ov=1317.5 ext=2494 depth=5 LB=1295.76 UB=1330
+		ov=1317.5 ext=2497 depth=5 LB=1295.76 UB=1330
+		ov=1317.5 ext=2503 depth=5 LB=1295.76 UB=1330
+		ov=1317.5 ext=2509 depth=5 LB=1295.76 UB=1330
+		ov=1317.5 ext=2515 depth=5 LB=1295.76 UB=1330
+		ov=1317.5 ext=2520 depth=5 LB=1295.76 UB=1330
+		ov=1317.5 ext=2526 depth=5 LB=1295.76 UB=1330
+		ov=1317.5 ext=2532 depth=5 LB=1295.76 UB=1330
+		ov=1317.5 ext=2536 depth=5 LB=1295.76 UB=1330
+		ov=1317.5 ext=2540 depth=5 LB=1295.76 UB=1330
+		ov=1317.5 ext=2545 depth=5 LB=1295.76 UB=1330
+		ov=1317.5 ext=2550 depth=5 LB=1295.76 UB=1330
+		ov=1317.5 ext=2556 depth=5 LB=1295.76 UB=1330
+		ov=1317.5 ext=2561 depth=5 LB=1295.76 UB=1330
+		ov=1317.5 ext=2567 depth=5 LB=1295.76 UB=1330
+		ov=1317.5 ext=2573 depth=5 LB=1295.76 UB=1330
+		ov=1317.5 ext=2579 depth=5 LB=1295.76 UB=1330
+		ov=1317.5 ext=2585 depth=5 LB=1295.76 UB=1330
+		ov=1317.5 ext=2590 depth=5 LB=1295.76 UB=1330
+		ov=1317.5 ext=2594 depth=5 LB=1295.76 UB=1330
+		ov=1317.5 ext=2598 depth=5 LB=1295.76 UB=1330
+		ov=1317.5 ext=2599 depth=5 LB=1295.76 UB=1330
+		ov=1317.5 ext=2600 depth=5 LB=1295.76 UB=1330
+		ov=1317.5 ext=2605 depth=5 LB=1295.76 UB=1330
+		ov=1317.5 ext=2608 depth=5 LB=1295.76 UB=1330
+		ov=1317.5 ext=2610 depth=5 LB=1295.76 UB=1330
+		ov=1317.5 ext=2611 depth=5 LB=1295.76 UB=1330
+		ov=1317.5 ext=2612 depth=5 LB=1295.76 UB=1330
+		ov=1317.5 ext=2615 depth=5 LB=1295.76 UB=1330
+		ov=1317.5 ext=2617 depth=5 LB=1295.76 UB=1330
+		 deleted compress_columns by node 28
+		Adding Node De:5 N:29 D:12 Y:1 Obj:1317.5
+		257.031000(cpu sec)	Selecting Child Node De:5 N:29 D:12 Y:0 Obj:1297.5
+		Fractionals=632 out of 6125 ratio=10.3184 root ratio=10.3673
+		ov=1298.35 ext=2424 depth=6 LB=1295.76 UB=1330
+		ov=1298.29 ext=2439 depth=6 LB=1295.76 UB=1330
+		ov=1298.25 ext=2469 depth=6 LB=1295.76 UB=1330
+		 deleted compress_columns by node 13
+		ov=1298.89 ext=2452 depth=6 LB=1295.76 UB=1330
+		ov=1298.7 ext=2467 depth=6 LB=1295.76 UB=1330
+		 deleted compress_columns by node 38
+		Adding Node De:6 N:26 D:12 Y:0 Obj:1298.7
+		257.854000(cpu sec)	Selecting Child Node De:6 N:26 D:12 Y:1 Obj:1298.25
+		Fractionals=659 out of 6125 ratio=10.7592 root ratio=10.3673
+		 deleted compress_columns by node 22
+		ov=1306.29 ext=2485 depth=7 LB=1295.76 UB=1330
+		ov=1305.53 ext=2512 depth=7 LB=1295.76 UB=1330
+		ov=1305.15 ext=2538 depth=7 LB=1295.76 UB=1330
+		ov=1305 ext=2567 depth=7 LB=1295.76 UB=1330
+		ov=1305 ext=2568 depth=7 LB=1295.76 UB=1330
+		 deleted compress_columns by node 31
+		Adding Node De:7 N:17 D:12 Y:0 Obj:1305
+		258.737000(cpu sec)	Selecting Child Node De:7 N:17 D:12 Y:1 Obj:1298.31
+		Fractionals=655 out of 6125 ratio=10.6939 root ratio=10.3673
+		ov=1298.42 ext=2440 depth=8 LB=1295.76 UB=1330
+		 deleted compress_columns by node 5
+		ov=1306.39 ext=2463 depth=8 LB=1295.76 UB=1330
+		ov=1304.1 ext=2492 depth=8 LB=1295.76 UB=1330
+		ov=1303.62 ext=2511 depth=8 LB=1295.76 UB=1330
+		ov=1303.39 ext=2538 depth=8 LB=1295.76 UB=1330
+		 deleted compress_columns by node 59
+		Adding Node De:8 N:22 D:12 Y:0 Obj:1303.39
+		259.676000(cpu sec)	Selecting Child Node De:8 N:22 D:12 Y:1 Obj:1298.42
+		Fractionals=648 out of 6125 ratio=10.5796 root ratio=10.3673
+		ov=1299.09 ext=2463 depth=9 LB=1295.76 UB=1330
+		 deleted compress_columns by node 42
+		ov=1302.47 ext=2460 depth=9 LB=1295.76 UB=1330
+		ov=1302.36 ext=2473 depth=9 LB=1295.76 UB=1330
+		ov=1302.35 ext=2491 depth=9 LB=1295.76 UB=1330
+		ov=1302.35 ext=2492 depth=9 LB=1295.76 UB=1330
+		ov=1302.35 ext=2493 depth=9 LB=1295.76 UB=1330
+		 deleted compress_columns by node 44
+		Adding Node De:9 N:6 D:12 Y:0 Obj:1302.35
+		260.527000(cpu sec)	Selecting Child Node De:9 N:6 D:12 Y:1 Obj:1299.09
+		Fractionals=585 out of 6125 ratio=9.55102 root ratio=10.3673
+		 deleted compress_columns by node 30
+		ov=1300.06 ext=2448 depth=10 LB=1295.76 UB=1330
+		ov=1300 ext=2474 depth=10 LB=1295.76 UB=1330
+		ov=1300 ext=2477 depth=10 LB=1295.76 UB=1330
+		ov=1300 ext=2479 depth=10 LB=1295.76 UB=1330
+		 deleted compress_columns by node 32
+		Adding Node De:10 N:20 D:26 Y:0 Obj:1300
+		261.147000(cpu sec)	Selecting Child Node De:10 N:20 D:26 Y:1 Obj:1299.09
+		Fractionals=595 out of 6125 ratio=9.71429 root ratio=10.3673
+		ov=1299.29 ext=2393 depth=11 LB=1295.76 UB=1330
+		 deleted compress_columns by node 23
+		ov=1300.04 ext=2419 depth=11 LB=1295.76 UB=1330
+		ov=1300 ext=2440 depth=11 LB=1295.76 UB=1330
+		ov=1300 ext=2448 depth=11 LB=1295.76 UB=1330
+		ov=1300 ext=2450 depth=11 LB=1295.76 UB=1330
+		ov=1300 ext=2451 depth=11 LB=1295.76 UB=1330
+		 deleted compress_columns by node 40
+		Adding Node De:11 N:25 D:26 Y:0 Obj:1300
+		261.965000(cpu sec)	Selecting Child Node De:11 N:25 D:26 Y:1 Obj:1299.29
+		Fractionals=650 out of 6125 ratio=10.6122 root ratio=10.3673
+		ov=1299.33 ext=2372 depth=12 LB=1295.76 UB=1330
+		 deleted compress_columns by node 50
+		ov=1304.26 ext=2390 depth=12 LB=1295.76 UB=1330
+		ov=1303.94 ext=2413 depth=12 LB=1295.76 UB=1330
+		ov=1303.25 ext=2433 depth=12 LB=1295.76 UB=1330
+		 deleted compress_columns by node 34
+		Adding Node De:12 N:13 D:12 Y:0 Obj:1303.25
+		262.671000(cpu sec)	Selecting Child Node De:12 N:13 D:12 Y:1 Obj:1299.33
+		Fractionals=636 out of 6125 ratio=10.3837 root ratio=10.3673
+		ov=1299.57 ext=2324 depth=13 LB=1295.76 UB=1330
+		ov=1299.52 ext=2325 depth=13 LB=1295.76 UB=1330
+		ov=1299.52 ext=2326 depth=13 LB=1295.76 UB=1330
+		ov=1299.52 ext=2327 depth=13 LB=1295.76 UB=1330
+		ov=1299.52 ext=2328 depth=13 LB=1295.76 UB=1330
+		ov=1299.52 ext=2329 depth=13 LB=1295.76 UB=1330
+		 deleted compress_columns by node 16
+		ov=1301.83 ext=2351 depth=13 LB=1295.76 UB=1330
+		 deleted compress_columns by node 25
+		Adding Node De:13 N:26 D:26 Y:1 Obj:1301.83
+		263.431000(cpu sec)	Selecting Child Node De:13 N:26 D:26 Y:0 Obj:1299.52
+		Fractionals=589 out of 6125 ratio=9.61633 root ratio=10.3673
+		ov=1300 ext=2314 depth=14 LB=1295.76 UB=1330
+		 deleted compress_columns by node 5
+		ov=1305.19 ext=2330 depth=14 LB=1295.76 UB=1330
+		ov=1301.61 ext=2334 depth=14 LB=1295.76 UB=1330
+		ov=1301.59 ext=2352 depth=14 LB=1295.76 UB=1330
+		 deleted compress_columns by node 20
+		Adding Node De:14 N:26 D:27 Y:1 Obj:1301.59
+		264.052000(cpu sec)	Selecting Child Node De:14 N:26 D:27 Y:0 Obj:1300
+		Fractionals=610 out of 6125 ratio=9.95918 root ratio=10.3673
+		ov=1300 ext=2310 depth=15 LB=1295.76 UB=1330
+		 deleted compress_columns by node 4
+		ov=1305.35 ext=2337 depth=15 LB=1295.76 UB=1330
+		ov=1305.35 ext=2357 depth=15 LB=1295.76 UB=1330
+		ov=1304.54 ext=2359 depth=15 LB=1295.76 UB=1330
+		ov=1304.43 ext=2371 depth=15 LB=1295.76 UB=1330
+		 deleted compress_columns by node 29
+		Adding Node De:15 N:17 D:26 Y:1 Obj:1304.43
+		264.819000(cpu sec)	Selecting Child Node De:15 N:17 D:26 Y:0 Obj:1300
+		Fractionals=613 out of 6125 ratio=10.0082 root ratio=10.3673
+		 deleted compress_columns by node 1
+		ov=1312.64 ext=2335 depth=16 LB=1295.76 UB=1330
+		ov=1312.61 ext=2350 depth=16 LB=1295.76 UB=1330
+		ov=1312.56 ext=2368 depth=16 LB=1295.76 UB=1330
+		ov=1311.41 ext=2390 depth=16 LB=1295.76 UB=1330
+		 deleted compress_columns by node 64
+		Adding Node De:16 N:27 D:12 Y:0 Obj:1311.41
+		265.623000(cpu sec)	Selecting Child Node De:16 N:27 D:12 Y:1 Obj:1300
+		Fractionals=606 out of 6125 ratio=9.89388 root ratio=10.3673
+		 deleted compress_columns by node 11
+		ov=1307 ext=2334 depth=17 LB=1295.76 UB=1330
+		ov=1306.78 ext=2346 depth=17 LB=1295.76 UB=1330
+		ov=1305.07 ext=2370 depth=17 LB=1295.76 UB=1330
+		ov=1304.56 ext=2379 depth=17 LB=1295.76 UB=1330
+		ov=1304.44 ext=2395 depth=17 LB=1295.76 UB=1330
+		 deleted compress_columns by node 39
+		Adding Node De:17 N:18 D:26 Y:1 Obj:1304.44
+		266.495000(cpu sec)	Selecting Child Node De:17 N:18 D:26 Y:0 Obj:1300
+		Fractionals=612 out of 6125 ratio=9.99184 root ratio=10.3673
+		 deleted compress_columns by node 31
+		ov=1305.71 ext=2320 depth=18 LB=1295.76 UB=1330
+		 deleted compress_columns by node 34
+		Adding Node De:18 N:24 D:26 Y:0 Obj:1305.71
+		266.923000(cpu sec)	Selecting Child Node De:18 N:24 D:26 Y:1 Obj:1300
+		Fractionals=596 out of 6125 ratio=9.73061 root ratio=10.3673
+		ov=1300 ext=2291 depth=19 LB=1295.76 UB=1330
+		 deleted compress_columns by node 28
+		ov=1301.98 ext=2291 depth=19 LB=1295.76 UB=1330
+		ov=1301.28 ext=2310 depth=19 LB=1295.76 UB=1330
+		ov=1300.78 ext=2337 depth=19 LB=1295.76 UB=1330
+		ov=1300.4 ext=2355 depth=19 LB=1295.76 UB=1330
+		ov=1300.05 ext=2375 depth=19 LB=1295.76 UB=1330
+		ov=1300 ext=2392 depth=19 LB=1295.76 UB=1330
+		ov=1300 ext=2393 depth=19 LB=1295.76 UB=1330
+		ov=1300 ext=2394 depth=19 LB=1295.76 UB=1330
+		 deleted compress_columns by node 57
+		Adding Node De:19 N:10 D:19 Y:1 Obj:1300
+		268.128000(cpu sec)	Selecting Child Node De:19 N:10 D:19 Y:0 Obj:1300
+		Fractionals=608 out of 6125 ratio=9.92653 root ratio=10.3673
+		ov=1306.5 ext=2267 depth=20 LB=1295.76 UB=1330
+		ov=1303.75 ext=2272 depth=20 LB=1295.76 UB=1330
+		ov=1303.33 ext=2273 depth=20 LB=1295.76 UB=1330
+		ov=1303 ext=2276 depth=20 LB=1295.76 UB=1330
+		ov=1302.5 ext=2281 depth=20 LB=1295.76 UB=1330
+		ov=1302.5 ext=2285 depth=20 LB=1295.76 UB=1330
+		ov=1302.5 ext=2288 depth=20 LB=1295.76 UB=1330
+		ov=1301.62 ext=2292 depth=20 LB=1295.76 UB=1330
+		ov=1301.56 ext=2297 depth=20 LB=1295.76 UB=1330
+		ov=1300 ext=2300 depth=20 LB=1295.76 UB=1330
+		ov=1300 ext=2302 depth=20 LB=1295.76 UB=1330
+		ov=1300 ext=2307 depth=20 LB=1295.76 UB=1330
+		ov=1300 ext=2310 depth=20 LB=1295.76 UB=1330
+		ov=1300 ext=2315 depth=20 LB=1295.76 UB=1330
+		ov=1300 ext=2320 depth=20 LB=1295.76 UB=1330
+		ov=1300 ext=2324 depth=20 LB=1295.76 UB=1330
+		ov=1300 ext=2329 depth=20 LB=1295.76 UB=1330
+		ov=1300 ext=2332 depth=20 LB=1295.76 UB=1330
+		ov=1300 ext=2336 depth=20 LB=1295.76 UB=1330
+		 deleted compress_columns by node 21
+		ov=1316.67 ext=2269 depth=20 LB=1295.76 UB=1330
+		ov=1316 ext=2273 depth=20 LB=1295.76 UB=1330
+		ov=1313.24 ext=2280 depth=20 LB=1295.76 UB=1330
+		ov=1312.12 ext=2284 depth=20 LB=1295.76 UB=1330
+		ov=1311.67 ext=2290 depth=20 LB=1295.76 UB=1330
+		ov=1310 ext=2293 depth=20 LB=1295.76 UB=1330
+		ov=1310 ext=2298 depth=20 LB=1295.76 UB=1330
+		ov=1310 ext=2302 depth=20 LB=1295.76 UB=1330
+		ov=1310 ext=2308 depth=20 LB=1295.76 UB=1330
+		ov=1310 ext=2309 depth=20 LB=1295.76 UB=1330
+		ov=1310 ext=2313 depth=20 LB=1295.76 UB=1330
+		ov=1310 ext=2317 depth=20 LB=1295.76 UB=1330
+		ov=1310 ext=2323 depth=20 LB=1295.76 UB=1330
+		ov=1310 ext=2329 depth=20 LB=1295.76 UB=1330
+		ov=1310 ext=2335 depth=20 LB=1295.76 UB=1330
+		ov=1310 ext=2338 depth=20 LB=1295.76 UB=1330
+		 deleted compress_columns by node 11
+		Adding Node De:20 N:29 D:19 Y:0 Obj:1310
+		270.086000(cpu sec)	Selecting Child Node De:20 N:29 D:19 Y:1 Obj:1300
+		Fractionals=499 out of 6125 ratio=8.14694 root ratio=10.3673
+		 deleted compress_columns by node 12
+		ov=1305.39 ext=2344 depth=21 LB=1295.76 UB=1330
+		ov=1304.85 ext=2372 depth=21 LB=1295.76 UB=1330
+		ov=1304.83 ext=2401 depth=21 LB=1295.76 UB=1330
+		ov=1304.83 ext=2403 depth=21 LB=1295.76 UB=1330
+		ov=1304.71 ext=2405 depth=21 LB=1295.76 UB=1330
+		 deleted compress_columns by node 9
+		Adding Node De:21 N:26 D:19 Y:0 Obj:1304.71
+		270.828000(cpu sec)	Selecting Child Node De:21 N:26 D:19 Y:1 Obj:1300
+		Fractionals=495 out of 6125 ratio=8.08163 root ratio=10.3673
+		 deleted compress_columns by node 11
+		ov=1303.51 ext=2329 depth=22 LB=1295.76 UB=1330
+		ov=1303.33 ext=2354 depth=22 LB=1295.76 UB=1330
+		ov=1303.33 ext=2355 depth=22 LB=1295.76 UB=1330
+		 deleted compress_columns by node 24
+		Adding Node De:22 N:24 D:19 Y:1 Obj:1303.33
+		271.393000(cpu sec)	Selecting Child Node De:22 N:24 D:19 Y:0 Obj:1300
+		Fractionals=474 out of 6125 ratio=7.73878 root ratio=10.3673
+	fixed lits=11290
+	Algorithm 1 Solving Process Started..
+			o 5045   0.191000(sec) 
+			o 4835   0.195000(sec) 
+			o 4820   0.198000(sec) 
+			o 4680   0.254000(sec) 
+			o 4550   0.544000(sec) 
+			o 4530   0.806000(sec) 
+			o 4455   0.811000(sec) 
+			o 4410   0.827000(sec) 
+			o 4335   0.830000(sec) 
+			o 4290   0.833000(sec) 
+			o 4230   0.836000(sec) 
+			o 4145   0.839000(sec) 
+			o 4125   0.858000(sec) 
+			o 4050   0.862000(sec) 
+			o 4040   0.865000(sec) 
+			o 4035   0.870000(sec) 
+			o 4030   0.873000(sec) 
+			o 3940   0.876000(sec) 
+			o 3900   0.882000(sec) 
+			o 3855   0.886000(sec) 
+			o 3825   0.889000(sec) 
+			o 3795   0.892000(sec) 
+			o 3720   0.898000(sec) 
+			o 3625   0.903000(sec) 
+			o 3555   0.907000(sec) 
+			o 3540   0.911000(sec) 
+			o 3510   0.915000(sec) 
+			o 3480   0.921000(sec) 
+			o 3465   0.925000(sec) 
+			o 3420   0.928000(sec) 
+			o 3360   0.932000(sec) 
+			o 3215   0.936000(sec) 
+			o 3205   0.947000(sec) 
+			o 3175   0.950000(sec) 
+			o 3100   0.953000(sec) 
+			o 3090   1.164000(sec) 
+			o 3085   2.478000(sec) 
+			o 3075   2.485000(sec) 
+			o 3070   2.490000(sec) 
+			o 3050   2.498000(sec) 
+			o 2975   2.541000(sec) 
+			o 2945   2.614000(sec) 
+			o 2910   2.747000(sec) 
+			o 2875   3.395000(sec) 
+			o 2705   3.893000(sec) 
+			o 2625   10.981000(sec) 
+			o 2615   13.829000(sec) 
+			o 2525   24.632000(sec) 
+			o 2450   24.645000(sec) 
+			o 2405   24.651000(sec) 
+			o 2360   24.659000(sec) 
+			o 2300   24.669000(sec) 
+			o 2195   24.675000(sec) 
+			o 2165   24.684000(sec) 
+			o 2105   24.689000(sec) 
+			o 2075   24.694000(sec) 
+			o 2045   24.742000(sec) 
+			o 2015   24.747000(sec) 
+			o 1970   24.757000(sec) 
+			o 1940   24.772000(sec) 
+			o 1895   24.777000(sec) 
+			o 1850   24.785000(sec) 
+			o 1805   24.891000(sec) 
+			o 1775   24.897000(sec) 
+			o 1760   24.905000(sec) 
+			o 1670   24.912000(sec) 
+			o 1640   24.917000(sec) 
+			o 1625   24.923000(sec) 
+			o 1610   24.929000(sec) 
+			o 1595   24.935000(sec) 
+			o 1535   24.990000(sec) 
+			o 1520   25.003000(sec) 
+			o 1505   25.055000(sec) 
+			o 1490   25.067000(sec) 
+			o 1460   25.073000(sec) 
+			o 1445   25.083000(sec) 
+			o 1430   25.135000(sec) 
+			o 1420   25.497000(sec) 
+			o 1415   25.543000(sec) 
+			o 1405   25.788000(sec) 
+			o 1400   25.905000(sec) 
+			o 1385   26.648000(sec) 
+			o 1375   26.846000(sec) 
+			o 1370   30.760000(sec) 
+			o 1345   31.538000(sec) 
+			o 1330   32.059000(sec) 
+			o 1320   41.800000(sec) 
+			o 1315   44.898000(sec) 
+		o 1315(0)
+	*********UB=1315(0)  348.39(cpu sec)
+		ov=1300 ext=2309 depth=23 LB=1295.76 UB=1315
+		ov=1300 ext=2310 depth=23 LB=1295.76 UB=1315
+		ov=1300 ext=2320 depth=23 LB=1295.76 UB=1315
+		 deleted compress_columns by node 55
+		ov=1300.58 ext=2320 depth=23 LB=1295.76 UB=1315
+		ov=1300.31 ext=2338 depth=23 LB=1295.76 UB=1315
+		ov=1300.06 ext=2357 depth=23 LB=1295.76 UB=1315
+		ov=1300 ext=2384 depth=23 LB=1295.76 UB=1315
+		 deleted compress_columns by node 30
+		Adding Node De:23 N:7 D:19 Y:0 Obj:1300
+		349.391000(cpu sec)	Selecting Child Node De:23 N:7 D:19 Y:1 Obj:1300
+		Fractionals=468 out of 6125 ratio=7.64082 root ratio=10.3673
+		ov=1300 ext=2272 depth=24 LB=1295.76 UB=1315
+		ov=1300 ext=2273 depth=24 LB=1295.76 UB=1315
+		 deleted compress_columns by node 25
+		ov=1300 ext=2293 depth=24 LB=1295.76 UB=1315
+		 deleted compress_columns by node 16
+		Adding Node De:24 N:25 D:19 Y:0 Obj:1300
+		349.891000(cpu sec)	Selecting Child Node De:24 N:25 D:19 Y:1 Obj:1300
+		Fractionals=451 out of 6125 ratio=7.36327 root ratio=10.3673
+		ov=1300.46 ext=2267 depth=25 LB=1295.76 UB=1315
+		ov=1300.13 ext=2284 depth=25 LB=1295.76 UB=1315
+		ov=1300 ext=2313 depth=25 LB=1295.76 UB=1315
+		 deleted compress_columns by node 38
+		350.385000(cpu sec)	Selecting Child Node De:25 N:15 D:19 Y:0 Obj:1300
+		Fractionals=406 out of 6125 ratio=6.62857 root ratio=10.3673
+		ov=1300 ext=2298 depth=27 LB=1295.76 UB=1315
+		ov=1300 ext=2304 depth=27 LB=1295.76 UB=1315
+		ov=1300 ext=2309 depth=27 LB=1295.76 UB=1315
+		ov=1300 ext=2315 depth=27 LB=1295.76 UB=1315
+		ov=1300 ext=2323 depth=27 LB=1295.76 UB=1315
+		ov=1300 ext=2325 depth=27 LB=1295.76 UB=1315
+		ov=1300 ext=2326 depth=27 LB=1295.76 UB=1315
+		ov=1300 ext=2327 depth=27 LB=1295.76 UB=1315
+		ov=1300 ext=2329 depth=27 LB=1295.76 UB=1315
+		ov=1300 ext=2330 depth=27 LB=1295.76 UB=1315
+		 deleted compress_columns by node 51
+		351.147000(cpu sec)	Selecting Child Node De:27 N:3 D:33 Y:0 Obj:1300
+		Fractionals=383 out of 6125 ratio=6.25306 root ratio=10.3673
+		ov=1300 ext=2304 depth=30 LB=1295.76 UB=1315
+		ov=1300 ext=2305 depth=30 LB=1295.76 UB=1315
+		 deleted compress_columns by node 91
+		351.425000(cpu sec)	Selecting Child Node De:30 N:28 D:33 Y:1 Obj:1300
+		Fractionals=376 out of 6125 ratio=6.13878 root ratio=10.3673
+		ov=1310.01 ext=2241 depth=34 LB=1295.76 UB=1315
+		ov=1309.26 ext=2261 depth=34 LB=1295.76 UB=1315
+		ov=1308.97 ext=2279 depth=34 LB=1295.76 UB=1315
+		 deleted compress_columns by node 160
+		 deleted compress_columns by node 37
+		352.131000(cpu sec)	Selecting Child Node De:31 N:12 D:33 Y:1 Obj:1300
+		Fractionals=371 out of 6125 ratio=6.05714 root ratio=10.3673
+		ov=1301.05 ext=2205 depth=33 LB=1295.76 UB=1315
+		ov=1300 ext=2223 depth=33 LB=1295.76 UB=1315
+		 deleted compress_columns by node 94
+		352.531000(cpu sec)	Selecting Child Node De:33 N:4 D:33 Y:0 Obj:1300
+		Fractionals=355 out of 6125 ratio=5.79592 root ratio=10.3673
+		ov=1300 ext=2149 depth=36 LB=1295.76 UB=1315
+		 deleted compress_columns by node 67
+		352.768000(cpu sec)	Selecting Child Node De:36 N:22 D:18 Y:1 Obj:1300
+		Fractionals=349 out of 6125 ratio=5.69796 root ratio=10.3673
+		ov=1300 ext=2101 depth=40 LB=1295.76 UB=1315
+		ov=1300 ext=2103 depth=40 LB=1295.76 UB=1315
+		 deleted compress_columns by node 152
+		353.067000(cpu sec)	Selecting Child Node De:40 N:14 D:14 Y:1 Obj:1300
+		Fractionals=333 out of 6125 ratio=5.43673 root ratio=10.3673
+		ov=1300 ext=1980 depth=45 LB=1295.76 UB=1315
+		 deleted compress_columns by node 77
+		353.362000(cpu sec)	Selecting Child Node De:45 N:19 D:7 Y:0 Obj:1300
+		Fractionals=319 out of 6125 ratio=5.20816 root ratio=10.3673
+		ov=1300 ext=1931 depth=51 LB=1295.76 UB=1315
+		 deleted compress_columns by node 62
+		353.658000(cpu sec)	Selecting Child Node De:51 N:28 D:24 Y:0 Obj:1300
+		Fractionals=322 out of 6125 ratio=5.25714 root ratio=10.3673
+		ov=1300 ext=1898 depth=58 LB=1295.76 UB=1315
+		ov=1300 ext=1902 depth=58 LB=1295.76 UB=1315
+		ov=1300 ext=1904 depth=58 LB=1295.76 UB=1315
+		ov=1300 ext=1909 depth=58 LB=1295.76 UB=1315
+		ov=1300 ext=1911 depth=58 LB=1295.76 UB=1315
+		ov=1300 ext=1912 depth=58 LB=1295.76 UB=1315
+		ov=1300 ext=1917 depth=58 LB=1295.76 UB=1315
+		ov=1300 ext=1918 depth=58 LB=1295.76 UB=1315
+		 deleted compress_columns by node 133
+		354.278000(cpu sec)	Selecting Child Node De:58 N:23 D:28 Y:1 Obj:1300
+		Fractionals=314 out of 6125 ratio=5.12653 root ratio=10.3673
+	fixed lits=12320
+	Algorithm 1 Solving Process Started..
+			o 4555   0.291000(sec) 
+			o 4530   0.340000(sec) 
+			o 4505   0.343000(sec) 
+			o 4445   0.345000(sec) 
+			o 4355   0.348000(sec) 
+			o 4280   0.555000(sec) 
+			o 4250   0.557000(sec) 
+			o 4235   0.559000(sec) 
+			o 4190   0.561000(sec) 
+			o 4145   0.564000(sec) 
+			o 4115   0.567000(sec) 
+			o 4040   0.569000(sec) 
+			o 4010   0.574000(sec) 
+			o 3980   0.591000(sec) 
+			o 3950   0.593000(sec) 
+			o 3920   0.597000(sec) 
+			o 3865   0.600000(sec) 
+			o 3775   0.603000(sec) 
+			o 3745   0.606000(sec) 
+			o 3585   0.608000(sec) 
+			o 3480   0.611000(sec) 
+			o 3450   0.614000(sec) 
+			o 3390   0.617000(sec) 
+			o 3375   0.619000(sec) 
+			o 3345   0.622000(sec) 
+			o 3270   0.624000(sec) 
+			o 3220   0.626000(sec) 
+			o 3150   0.630000(sec) 
+			o 3135   0.632000(sec) 
+			o 3060   0.636000(sec) 
+			o 3030   0.639000(sec) 
+			o 2910   0.643000(sec) 
+			o 2850   0.646000(sec) 
+			o 2760   0.649000(sec) 
+			o 2670   0.668000(sec) 
+			o 2595   0.670000(sec) 
+			o 2585   0.674000(sec) 
+			o 2510   0.676000(sec) 
+			o 2405   0.679000(sec) 
+			o 2375   0.682000(sec) 
+			o 2345   0.852000(sec) 
+			o 2315   0.860000(sec) 
+			o 2285   0.868000(sec) 
+			o 2255   0.894000(sec) 
+			o 2195   1.712000(sec) 
+			o 2085   1.729000(sec) 
+			o 1990   1.811000(sec) 
+			o 1945   3.271000(sec) 
+			o 1810   3.279000(sec) 
+			o 1780   3.285000(sec) 
+			o 1765   3.290000(sec) 
+			o 1735   3.299000(sec) 
+			o 1705   3.310000(sec) 
+			o 1660   3.316000(sec) 
+			o 1645   3.323000(sec) 
+			o 1585   3.334000(sec) 
+			o 1540   3.339000(sec) 
+			o 1495   3.344000(sec) 
+			o 1450   3.350000(sec) 
+			o 1420   3.360000(sec) 
+			o 1390   3.365000(sec) 
+			o 1360   3.371000(sec) 
+			o 1345   3.375000(sec) 
+			o 1315   3.380000(sec) 
+			o 1300   3.384000(sec) 
+		o 1300(0)
+	*********UB=1300(0)  359.613(cpu sec)
+		ov=1305.09 ext=1807 depth=65 LB=1295.76 UB=1300
+		ov=1301.15 ext=1824 depth=65 LB=1295.76 UB=1300
+		ov=1300 ext=1846 depth=65 LB=1295.76 UB=1300
+		ov=1300 ext=1853 depth=65 LB=1295.76 UB=1300
+		ov=1300 ext=1866 depth=65 LB=1295.76 UB=1300
+		ov=1300 ext=1868 depth=65 LB=1295.76 UB=1300
+		 deleted compress_columns by node 77
+		branch_node_map.size()=44
+	Remaining objs
+		1296.67
+		1298.7
+		1300
+		1300
+		1300
+		1300
+		1300.07
+		1300.51
+		1300.98
+		1301.59
+		1301.69
+		1301.83
+		1302.35
+		1303.25
+		1303.33
+		1303.39
+		1303.53
+		1304.41
+		1304.43
+		1304.44
+		1304.71
+		1304.71
+		1305
+		1305.71
+		1306.18
+		1306.94
+		1307.42
+		1309.5
+		1310
+		1311.09
+		1311.24
+		1311.41
+		1312.59
+		1312.75
+		1313.54
+		1313.93
+		1313.94
+		1315.21
+		1316.59
+		1317.5
+		1323.57
+		1329.09
+		1337.5
+		Final LB=1288 UB=1300 360.425[sec]
+Finished solving process. 361 (sec)
+Getting Successful Result.

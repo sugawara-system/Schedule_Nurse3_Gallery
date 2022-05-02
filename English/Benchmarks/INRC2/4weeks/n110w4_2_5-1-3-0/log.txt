@@ -1,0 +1,3490 @@
+Preparing to compile.
+Calling solver
+
+	Compiling constraints..
+	Generating python property file finished.
+		AVX2 is available.
+		CLP is used.
+		node_count=14441
+		Elapsed time  synthesis: nurse2 249(sec)
+		node_count=14393
+		Elapsed time  synthesis: nurse26 275(sec)
+		node_count=13207
+		Elapsed time  synthesis: nurse18 386(sec)
+		node_count=14644
+		Elapsed time  synthesis: nurse12 543(sec)
+		node_count=13711
+		Elapsed time  synthesis: nurse16 543(sec)
+		node_count=14605
+		Elapsed time  synthesis: nurse30 572(sec)
+		node_count=13711
+		Elapsed time  synthesis: nurse22 610(sec)
+		node_count=14719
+		Elapsed time  synthesis: nurse4 897(sec)
+		node_count=14719
+		Elapsed time  synthesis: nurse28 1166(sec)
+		node_count=14623
+		Elapsed time  synthesis: nurse14 1157(sec)
+		node_count=14317
+		Elapsed time  synthesis: nurse24 1171(sec)
+		node_count=14644
+		Elapsed time  synthesis: nurse20 1199(sec)
+		node_count=22264
+		Elapsed time  synthesis: nurse10 1606(sec)
+		node_count=22245
+		Elapsed time  synthesis: nurse8 1622(sec)
+		node_count=22419
+		Elapsed time  synthesis: nurse6 1652(sec)
+		node_count=22264
+		Elapsed time  synthesis: nurse0 1682(sec)
+		node_count=14393
+		Elapsed time  synthesis: nurse27 1619(sec)
+		node_count=13213
+		Elapsed time  synthesis: nurse3 1697(sec)
+		node_count=14582
+		Elapsed time  synthesis: nurse17 1432(sec)
+		node_count=14623
+		Elapsed time  synthesis: nurse31 1489(sec)
+		node_count=14623
+		Elapsed time  synthesis: nurse23 1534(sec)
+		node_count=14582
+		Elapsed time  synthesis: nurse5 1518(sec)
+		node_count=13817
+		Elapsed time  synthesis: nurse21 1210(sec)
+		node_count=14281
+		Elapsed time  synthesis: nurse25 1228(sec)
+		node_count=22264
+		Elapsed time  synthesis: nurse13 1959(sec)
+		node_count=21386
+		Elapsed time  synthesis: nurse19 2207(sec)
+		node_count=14441
+		Elapsed time  synthesis: nurse11 1336(sec)
+		node_count=22414
+		Elapsed time  synthesis: nurse15 1848(sec)
+		node_count=14425
+		Elapsed time  synthesis: nurse1 1311(sec)
+		node_count=14582
+		Elapsed time  synthesis: nurse9 1503(sec)
+		node_count=21680
+		Elapsed time  synthesis: nurse29 2181(sec)
+		node_count=13225
+		Elapsed time  synthesis: nurse32 1407(sec)
+		node_count=22253
+		Elapsed time  synthesis: nurse7 1874(sec)
+		node_count=14393
+		Elapsed time  synthesis: nurse34 1467(sec)
+		node_count=11943
+		Elapsed time  synthesis: nurse40 1333(sec)
+		node_count=14605
+		Elapsed time  synthesis: nurse36 1678(sec)
+		node_count=13358
+		Elapsed time  synthesis: nurse38 1600(sec)
+		node_count=11241
+		Elapsed time  synthesis: nurse42 1554(sec)
+		node_count=12119
+		Elapsed time  synthesis: nurse44 1479(sec)
+		node_count=12119
+		Elapsed time  synthesis: nurse48 1308(sec)
+		node_count=12119
+		Elapsed time  synthesis: nurse46 1514(sec)
+		node_count=12024
+		Elapsed time  synthesis: nurse56 1202(sec)
+		node_count=11907
+		Elapsed time  synthesis: nurse58 1082(sec)
+		node_count=10784
+		Elapsed time  synthesis: nurse54 1299(sec)
+		node_count=18239
+		Elapsed time  synthesis: nurse50 1745(sec)
+		node_count=18091
+		Elapsed time  synthesis: nurse52 1486(sec)
+		node_count=11186
+		Elapsed time  synthesis: nurse62 949(sec)
+		node_count=11796
+		Elapsed time  synthesis: nurse60 1240(sec)
+		node_count=13814
+		Elapsed time  synthesis: nurse33 1268(sec)
+		node_count=11943
+		Elapsed time  synthesis: nurse41 1080(sec)
+		node_count=22264
+		Elapsed time  synthesis: nurse35 1395(sec)
+		node_count=11943
+		Elapsed time  synthesis: nurse43 943(sec)
+		node_count=14692
+		Elapsed time  synthesis: nurse37 1163(sec)
+		node_count=11186
+		Elapsed time  synthesis: nurse49 916(sec)
+		node_count=11254
+		Elapsed time  synthesis: nurse47 989(sec)
+		node_count=18091
+		Elapsed time  synthesis: nurse45 1180(sec)
+		node_count=22428
+		Elapsed time  synthesis: nurse39 1496(sec)
+		node_count=11919
+		Elapsed time  synthesis: nurse55 864(sec)
+		node_count=12119
+		Elapsed time  synthesis: nurse57 1048(sec)
+		node_count=11906
+		Elapsed time  synthesis: nurse61 782(sec)
+		node_count=12102
+		Elapsed time  synthesis: nurse53 949(sec)
+		node_count=12102
+		Elapsed time  synthesis: nurse51 1005(sec)
+		node_count=18098
+		Elapsed time  synthesis: nurse59 1363(sec)
+		node_count=11697
+		Elapsed time  synthesis: nurse64 962(sec)
+		node_count=18087
+		Elapsed time  synthesis: nurse63 1116(sec)
+		node_count=17383
+		Elapsed time  synthesis: nurse66 1203(sec)
+		node_count=11943
+		Elapsed time  synthesis: nurse72 883(sec)
+		node_count=12102
+		Elapsed time  synthesis: nurse68 991(sec)
+		node_count=11943
+		Elapsed time  synthesis: nurse74 874(sec)
+		node_count=10785
+		Elapsed time  synthesis: nurse76 998(sec)
+		node_count=18087
+		Elapsed time  synthesis: nurse70 1231(sec)
+		node_count=10891
+		Elapsed time  synthesis: nurse78 995(sec)
+		node_count=12119
+		Elapsed time  synthesis: nurse82 926(sec)
+		node_count=12119
+		Elapsed time  synthesis: nurse86 887(sec)
+		node_count=18098
+		Elapsed time  synthesis: nurse80 1215(sec)
+		node_count=11688
+		Elapsed time  synthesis: nurse90 927(sec)
+		node_count=11954
+		Elapsed time  synthesis: nurse92 717(sec)
+		node_count=18091
+		Elapsed time  synthesis: nurse84 1172(sec)
+		node_count=11186
+		Elapsed time  synthesis: nurse65 892(sec)
+		node_count=12073
+		Elapsed time  synthesis: nurse94 1081(sec)
+		node_count=11912
+		Elapsed time  synthesis: nurse73 842(sec)
+		node_count=18091
+		Elapsed time  synthesis: nurse88 1379(sec)
+		node_count=11907
+		Elapsed time  synthesis: nurse67 877(sec)
+		node_count=12119
+		Elapsed time  synthesis: nurse69 1089(sec)
+		node_count=11907
+		Elapsed time  synthesis: nurse71 850(sec)
+		node_count=11943
+		Elapsed time  synthesis: nurse79 830(sec)
+		node_count=11186
+		Elapsed time  synthesis: nurse77 938(sec)
+		node_count=18098
+		Elapsed time  synthesis: nurse75 1218(sec)
+		node_count=11907
+		Elapsed time  synthesis: nurse85 565(sec)
+		node_count=10885
+		Elapsed time  synthesis: nurse91 755(sec)
+		node_count=12119
+		Elapsed time  synthesis: nurse93 756(sec)
+		node_count=12079
+		Elapsed time  synthesis: nurse81 783(sec)
+		node_count=18098
+		Elapsed time  synthesis: nurse87 1130(sec)
+		node_count=11931
+		Elapsed time  synthesis: nurse95 649(sec)
+		node_count=18213
+		Elapsed time  synthesis: nurse83 1265(sec)
+		node_count=11256
+		Elapsed time  synthesis: nurse89 895(sec)
+		node_count=18091
+		Elapsed time  synthesis: nurse96 1267(sec)
+		node_count=11186
+		Elapsed time  synthesis: nurse100 1056(sec)
+		node_count=11931
+		Elapsed time  synthesis: nurse102 1358(sec)
+		node_count=11943
+		Elapsed time  synthesis: nurse108 1347(sec)
+		node_count=18098
+		Elapsed time  synthesis: nurse98 1809(sec)
+		node_count=11263
+		Elapsed time  synthesis: nurse104 1497(sec)
+		node_count=11262
+		Elapsed time  synthesis: nurse106 1493(sec)
+		node_count=10891
+		Elapsed time  synthesis: nurse97 814(sec)
+		node_count=11186
+		Elapsed time  synthesis: nurse101 627(sec)
+		node_count=12119
+		Elapsed time  synthesis: nurse103 278(sec)
+		node_count=17571
+		Elapsed time  synthesis: nurse109 284(sec)
+		node_count=18087
+		Elapsed time  synthesis: nurse99 309(sec)
+		node_count=17386
+		Elapsed time  synthesis: nurse105 348(sec)
+		node_count=18087
+		Elapsed time  synthesis: nurse107 361(sec)
+		subproblem[8] 11(msec)
+		subproblem[6] 12(msec)
+		subproblem[0] 17(msec)
+		subproblem[10] 18(msec)
+		subproblem[7] 12(msec)
+		2 Soft_Card compiled out of 2 node sum=40621
+		2 Soft_Card compiled out of 2 node sum=39799
+		2 Soft_Card compiled out of 2 node sum=40621
+		2 Soft_Card compiled out of 2 node sum=39809
+		2 Soft_Card compiled out of 2 node sum=119987
+		2 Soft_Card compiled out of 2 node sum=119972
+		2 Soft_Card compiled out of 2 node sum=93599
+		2 Soft_Card compiled out of 2 node sum=93426
+		2 Soft_Card compiled out of 2 node sum=93441
+		2 Soft_Card compiled out of 2 node sum=89791
+		2 Soft_Card compiled out of 2 node sum=93449
+		2 Soft_Card compiled out of 2 node sum=93436
+		2 Soft_Card compiled out of 2 node sum=93449
+		2 Soft_Card compiled out of 2 node sum=93599
+		2 Soft_Card compiled out of 2 node sum=119982
+		2 Soft_Card compiled out of 2 node sum=119987
+		compressed ratio=5.73279[%]
+		card [32] max elements=67 sum=904825
+		compressed ratio=5.56662[%]
+		card [16] max elements=67 sum=944432
+		compressed ratio=5.73554[%]
+		card [18] max elements=67 sum=904430
+		compressed ratio=29.4482[%]
+		subproblem[32] 1050(msec)
+		compressed ratio=29.9457[%]
+		compressed ratio=30.0351[%]
+		subproblem[16] 1092(msec)
+		compressed ratio=5.56662[%]
+		card [22] max elements=67 sum=944432
+		subproblem[18] 1097(msec)
+		subproblem[19] 9(msec)
+		compressed ratio=29.9779[%]
+		subproblem[22] 1134(msec)
+		2 Soft_Card compiled out of 2 node sum=40784
+		2 Soft_Card compiled out of 2 node sum=93426
+		2 Soft_Card compiled out of 2 node sum=119972
+		compressed ratio=7.60802[%]
+		card [26] max elements=31 sum=1110766
+		compressed ratio=5.78795[%]
+		card [24] max elements=47 sum=1145988
+		2 Soft_Card compiled out of 2 node sum=93441
+		compressed ratio=5.72079[%]
+		card [14] max elements=47 sum=1192986
+		compressed ratio=5.70183[%]
+		card [9] max elements=47 sum=1192468
+		compressed ratio=5.70622[%]
+		card [4] max elements=48 sum=1195693
+		compressed ratio=5.70645[%]
+		card [12] max elements=47 sum=1193290
+		compressed ratio=7.68392[%]
+		card [2] max elements=31 sum=1111063
+		compressed ratio=5.73597[%]
+		card [30] max elements=47 sum=1192795
+		compressed ratio=5.70645[%]
+		card [20] max elements=47 sum=1193290
+		compressed ratio=5.70622[%]
+		card [28] max elements=48 sum=1195693
+		compressed ratio=7.7005[%]
+		card [1] max elements=31 sum=1110964
+		compressed ratio=30.8552[%]
+		compressed ratio=7.68392[%]
+		card [11] max elements=31 sum=1111063
+		compressed ratio=30.1589[%]
+		compressed ratio=30.8083[%]
+		compressed ratio=30.7613[%]
+		compressed ratio=30.8828[%]
+		subproblem[24] 1391(msec)
+		compressed ratio=30.567[%]
+		compressed ratio=30.1771[%]
+		compressed ratio=30.4826[%]
+		compressed ratio=30.5339[%]
+		subproblem[26] 1410(msec)
+		compressed ratio=30.6167[%]
+		subproblem[9] 1404(msec)
+		subproblem[4] 1421(msec)
+		subproblem[14] 1423(msec)
+		subproblem[12] 1428(msec)
+		subproblem[15] 12(msec)
+		subproblem[30] 1442(msec)
+		subproblem[28] 1442(msec)
+		subproblem[2] 1443(msec)
+		compressed ratio=30.4365[%]
+		subproblem[20] 1450(msec)
+		compressed ratio=30.2224[%]
+		subproblem[1] 1455(msec)
+		subproblem[29] 33(msec)
+		subproblem[13] 60(msec)
+		subproblem[11] 1474(msec)
+		compressed ratio=5.48796[%]
+		card [33] max elements=67 sum=949339
+		compressed ratio=30.2893[%]
+		subproblem[33] 567(msec)
+		compressed ratio=5.70183[%]
+		card [17] max elements=47 sum=1192468
+		compressed ratio=7.60802[%]
+		card [34] max elements=31 sum=1110766
+		compressed ratio=5.72079[%]
+		compressed ratio=30.2347[%]
+		card [23] max elements=47 sum=1192986
+		subproblem[17] 977(msec)
+		compressed ratio=30.5394[%]
+		subproblem[34] 1085(msec)
+		compressed ratio=30.5358[%]
+		subproblem[35] 68(msec)
+		subproblem[23] 1154(msec)
+		2 Soft_Card compiled out of 2 node sum=40019
+		2 Soft_Card compiled out of 2 node sum=40787
+		2 Soft_Card compiled out of 2 node sum=33735
+		2 Soft_Card compiled out of 2 node sum=99615
+		2 Soft_Card compiled out of 2 node sum=39805
+		2 Soft_Card compiled out of 2 node sum=119972
+		2 Soft_Card compiled out of 2 node sum=76803
+		2 Soft_Card compiled out of 2 node sum=89754
+		2 Soft_Card compiled out of 2 node sum=76803
+		2 Soft_Card compiled out of 2 node sum=93436
+		2 Soft_Card compiled out of 2 node sum=93426
+		2 Soft_Card compiled out of 2 node sum=93441
+		2 Soft_Card compiled out of 2 node sum=32988
+		2 Soft_Card compiled out of 2 node sum=76803
+		2 Soft_Card compiled out of 2 node sum=66334
+		2 Soft_Card compiled out of 2 node sum=66141
+		compressed ratio=5.80336[%]
+		card [38] max elements=67 sum=914672
+		compressed ratio=6.09762[%]
+		card [42] max elements=67 sum=788365
+		compressed ratio=29.8725[%]
+		compressed ratio=31.1437[%]
+		subproblem[42] 2947(msec)
+		subproblem[38] 2993(msec)
+		subproblem[39] 25(msec)
+		compressed ratio=5.73421[%]
+		card [3] max elements=67 sum=904629
+		compressed ratio=5.48269[%]
+		card [21] max elements=67 sum=949454
+		compressed ratio=30.2342[%]
+		subproblem[3] 3066(msec)
+		compressed ratio=30.8374[%]
+		compressed ratio=6.33248[%]
+		card [54] max elements=67 sum=754004
+		subproblem[21] 3076(msec)
+		compressed ratio=29.0313[%]
+		subproblem[54] 2263(msec)
+		2 Soft_Card compiled out of 2 node sum=99615
+		compressed ratio=8.2186[%]
+		card [40] max elements=31 sum=942037
+		2 Soft_Card compiled out of 2 node sum=99696
+		compressed ratio=6.19734[%]
+		card [44] max elements=47 sum=992047
+		compressed ratio=30.0779[%]
+		2 Soft_Card compiled out of 2 node sum=99612
+		subproblem[40] 3181(msec)
+		compressed ratio=30.0851[%]
+		compressed ratio=6.19734[%]
+		2 Soft_Card compiled out of 2 node sum=73802
+		card [46] max elements=47 sum=992047
+		subproblem[44] 3188(msec)
+		2 Soft_Card compiled out of 2 node sum=99613
+		compressed ratio=30.0016[%]
+		compressed ratio=6.19734[%]
+		card [48] max elements=47 sum=992047
+		subproblem[46] 3227(msec)
+		compressed ratio=29.6589[%]
+		compressed ratio=5.79598[%]
+		card [25] max elements=48 sum=1145218
+		subproblem[48] 3127(msec)
+		compressed ratio=7.60802[%]
+		card [27] max elements=31 sum=1110766
+		2 Soft_Card compiled out of 2 node sum=99615
+		2 Soft_Card compiled out of 2 node sum=66141
+		2 Soft_Card compiled out of 2 node sum=33748
+		compressed ratio=5.73597[%]
+		card [36] max elements=47 sum=1192795
+		compressed ratio=30.6422[%]
+		compressed ratio=5.70183[%]
+		card [5] max elements=47 sum=1192468
+		subproblem[25] 3438(msec)
+		compressed ratio=5.72079[%]
+		card [31] max elements=47 sum=1192986
+		2 Soft_Card compiled out of 2 node sum=33641
+		compressed ratio=30.4673[%]
+		compressed ratio=30.439[%]
+		compressed ratio=30.1368[%]
+		subproblem[27] 3468(msec)
+		subproblem[36] 3465(msec)
+		compressed ratio=30.2432[%]
+		subproblem[5] 3468(msec)
+		subproblem[31] 3465(msec)
+		2 Soft_Card compiled out of 2 node sum=33641
+		compressed ratio=5.54444[%]
+		card [52] max elements=70 sum=1468314
+		compressed ratio=5.50089[%]
+		card [50] max elements=70 sum=1473145
+		compressed ratio=29.6269[%]
+		compressed ratio=29.4789[%]
+		subproblem[52] 2733(msec)
+		subproblem[50] 2938(msec)
+		compressed ratio=8.2186[%]
+		card [43] max elements=31 sum=942037
+		compressed ratio=8.20085[%]
+		card [56] max elements=31 sum=942574
+		compressed ratio=6.09464[%]
+		card [47] max elements=67 sum=788875
+		compressed ratio=6.32062[%]
+		card [60] max elements=48 sum=952441
+		compressed ratio=30.6129[%]
+		compressed ratio=29.8453[%]
+		compressed ratio=29.8087[%]
+		subproblem[47] 475(msec)
+		compressed ratio=8.1396[%]
+		card [58] max elements=31 sum=941980
+		subproblem[43] 789(msec)
+		compressed ratio=30.4062[%]
+		subproblem[56] 767(msec)
+		compressed ratio=6.16795[%]
+		card [49] max elements=67 sum=785956
+		subproblem[60] 711(msec)
+		compressed ratio=8.19977[%]
+		card [55] max elements=31 sum=941999
+		compressed ratio=29.9801[%]
+		subproblem[58] 781(msec)
+		compressed ratio=6.16795[%]
+		card [62] max elements=67 sum=785956
+		compressed ratio=8.2186[%]
+		compressed ratio=29.9772[%]
+		card [41] max elements=31 sum=942037
+		subproblem[49] 555(msec)
+		compressed ratio=30.0662[%]
+		compressed ratio=30.8839[%]
+		subproblem[55] 833(msec)
+		subproblem[62] 565(msec)
+		2 Soft_Card compiled out of 2 node sum=73154
+		compressed ratio=30.1959[%]
+		subproblem[41] 796(msec)
+		compressed ratio=5.54444[%]
+		card [45] max elements=70 sum=1468314
+		compressed ratio=30.5655[%]
+		subproblem[45] 887(msec)
+		compressed ratio=6.30475[%]
+		card [64] max elements=47 sum=943455
+		compressed ratio=30.2041[%]
+		subproblem[64] 950(msec)
+		2 Soft_Card compiled out of 2 node sum=59711
+		2 Soft_Card compiled out of 2 node sum=93548
+		2 Soft_Card compiled out of 2 node sum=76799
+		compressed ratio=5.74637[%]
+		card [66] max elements=70 sum=1329829
+		compressed ratio=30.0465[%]
+		subproblem[66] 1395(msec)
+		compressed ratio=6.20556[%]
+		card [68] max elements=47 sum=991863
+		compressed ratio=30.6123[%]
+		compressed ratio=5.71213[%]
+		subproblem[68] 1485(msec)
+		card [37] max elements=48 sum=1195100
+		compressed ratio=31.0866[%]
+		subproblem[37] 1574(msec)
+		2 Soft_Card compiled out of 2 node sum=76799
+		2 Soft_Card compiled out of 2 node sum=76799
+		compressed ratio=6.20556[%]
+		card [53] max elements=47 sum=991863
+		compressed ratio=30.7841[%]
+		subproblem[53] 2063(msec)
+		compressed ratio=6.20556[%]
+		card [51] max elements=47 sum=991863
+		compressed ratio=30.7024[%]
+		subproblem[51] 2197(msec)
+		2 Soft_Card compiled out of 2 node sum=99615
+		2 Soft_Card compiled out of 2 node sum=99611
+		2 Soft_Card compiled out of 2 node sum=99615
+		2 Soft_Card compiled out of 2 node sum=32988
+		2 Soft_Card compiled out of 2 node sum=76803
+		2 Soft_Card compiled out of 2 node sum=66137
+		2 Soft_Card compiled out of 2 node sum=33145
+		2 Soft_Card compiled out of 2 node sum=66148
+		2 Soft_Card compiled out of 2 node sum=66137
+		2 Soft_Card compiled out of 2 node sum=33641
+		2 Soft_Card compiled out of 2 node sum=66148
+		compressed ratio=8.2186[%]
+		card [72] max elements=31 sum=942037
+		compressed ratio=30.4304[%]
+		subproblem[72] 2583(msec)
+		2 Soft_Card compiled out of 2 node sum=99612
+		2 Soft_Card compiled out of 2 node sum=76803
+		2 Soft_Card compiled out of 2 node sum=76803
+		2 Soft_Card compiled out of 2 node sum=66141
+		2 Soft_Card compiled out of 2 node sum=76803
+		compressed ratio=8.13983[%]
+		card [61] max elements=31 sum=941959
+		compressed ratio=6.33452[%]
+		card [76] max elements=67 sum=754024
+		compressed ratio=30.93[%]
+		subproblem[76] 2536(msec)
+		compressed ratio=30.3494[%]
+		compressed ratio=6.42884[%]
+		card [78] max elements=67 sum=761431
+		subproblem[61] 2728(msec)
+		2 Soft_Card compiled out of 2 node sum=99617
+		compressed ratio=30.2347[%]
+		subproblem[78] 2539(msec)
+		2 Soft_Card compiled out of 2 node sum=33641
+		compressed ratio=6.16795[%]
+		card [65] max elements=67 sum=785956
+		2 Soft_Card compiled out of 2 node sum=66141
+		compressed ratio=29.5331[%]
+		subproblem[65] 2269(msec)
+		compressed ratio=8.2186[%]
+		card [74] max elements=31 sum=942037
+		compressed ratio=6.19734[%]
+		card [57] max elements=47 sum=992047
+		2 Soft_Card compiled out of 2 node sum=99615
+		compressed ratio=30.685[%]
+		compressed ratio=30.5901[%]
+		subproblem[57] 2947(msec)
+		subproblem[74] 2854(msec)
+		2 Soft_Card compiled out of 2 node sum=73151
+		2 Soft_Card compiled out of 2 node sum=66148
+		2 Soft_Card compiled out of 2 node sum=99617
+		compressed ratio=5.54443[%]
+		card [70] max elements=70 sum=1468119
+		compressed ratio=5.55029[%]
+		card [59] max elements=70 sum=1468607
+		compressed ratio=30.3359[%]
+		subproblem[70] 3210(msec)
+		compressed ratio=29.7344[%]
+		compressed ratio=6.16795[%]
+		card [77] max elements=67 sum=785956
+		compressed ratio=8.1396[%]
+		card [67] max elements=31 sum=941980
+		compressed ratio=6.19734[%]
+		card [82] max elements=47 sum=992047
+		subproblem[59] 3146(msec)
+		compressed ratio=5.54443[%]
+		card [63] max elements=70 sum=1468119
+		compressed ratio=30.2127[%]
+		compressed ratio=6.19734[%]
+		card [86] max elements=47 sum=992047
+		subproblem[77] 542(msec)
+		compressed ratio=30.0064[%]
+		compressed ratio=30.2587[%]
+		compressed ratio=6.19734[%]
+		card [69] max elements=47 sum=992047
+		compressed ratio=29.9369[%]
+		compressed ratio=5.55029[%]
+		card [80] max elements=70 sum=1468607
+		subproblem[63] 3100(msec)
+		subproblem[82] 2042(msec)
+		compressed ratio=30.2363[%]
+		subproblem[67] 2226(msec)
+		subproblem[86] 1315(msec)
+		compressed ratio=30.211[%]
+		compressed ratio=29.7567[%]
+		subproblem[80] 2985(msec)
+		subproblem[69] 2157(msec)
+		compressed ratio=8.13946[%]
+		card [73] max elements=31 sum=942078
+		2 Soft_Card compiled out of 2 node sum=99612
+		2 Soft_Card compiled out of 2 node sum=76796
+		compressed ratio=30.2514[%]
+		subproblem[73] 819(msec)
+		compressed ratio=5.54444[%]
+		card [84] max elements=70 sum=1468314
+		2 Soft_Card compiled out of 2 node sum=66141
+		compressed ratio=30.1878[%]
+		subproblem[84] 1621(msec)
+		compressed ratio=8.2186[%]
+		card [79] max elements=31 sum=942037
+		compressed ratio=30.3854[%]
+		subproblem[79] 757(msec)
+		compressed ratio=6.29884[%]
+		card [90] max elements=48 sum=943335
+		compressed ratio=30.3866[%]
+		compressed ratio=5.54444[%]
+		card [88] max elements=70 sum=1468314
+		subproblem[90] 707(msec)
+		compressed ratio=8.21564[%]
+		card [92] max elements=31 sum=942082
+		compressed ratio=29.7128[%]
+		subproblem[88] 893(msec)
+		compressed ratio=29.9374[%]
+		subproblem[92] 712(msec)
+		compressed ratio=5.55029[%]
+		card [75] max elements=70 sum=1468607
+		compressed ratio=6.22546[%]
+		compressed ratio=8.1396[%]
+		card [94] max elements=47 sum=991705
+		card [71] max elements=31 sum=941980
+		compressed ratio=29.7484[%]
+		subproblem[75] 822(msec)
+		compressed ratio=30.5658[%]
+		2 Soft_Card compiled out of 2 node sum=66148
+		compressed ratio=30.2191[%]
+		subproblem[94] 602(msec)
+		subproblem[71] 658(msec)
+		compressed ratio=5.54444[%]
+		card [96] max elements=70 sum=1468314
+		compressed ratio=30.4885[%]
+		subproblem[96] 739(msec)
+		2 Soft_Card compiled out of 2 node sum=66361
+		compressed ratio=5.55029[%]
+		card [98] max elements=70 sum=1468607
+		2 Soft_Card compiled out of 2 node sum=33641
+		compressed ratio=29.8451[%]
+		subproblem[98] 1017(msec)
+		compressed ratio=5.49422[%]
+		card [83] max elements=70 sum=1473605
+		compressed ratio=30.0047[%]
+		subproblem[83] 1203(msec)
+		2 Soft_Card compiled out of 2 node sum=99614
+		compressed ratio=6.16795[%]
+		card [100] max elements=67 sum=785956
+		compressed ratio=30.6102[%]
+		subproblem[100] 1225(msec)
+		2 Soft_Card compiled out of 2 node sum=66148
+		2 Soft_Card compiled out of 2 node sum=76802
+		2 Soft_Card compiled out of 2 node sum=33739
+		compressed ratio=8.19754[%]
+		card [102] max elements=31 sum=942018
+		compressed ratio=30.123[%]
+		subproblem[102] 1545(msec)
+		compressed ratio=6.22476[%]
+		card [81] max elements=47 sum=991871
+		compressed ratio=6.10601[%]
+		card [104] max elements=67 sum=788800
+		compressed ratio=30.9046[%]
+		compressed ratio=30.3838[%]
+		subproblem[104] 1564(msec)
+		2 Soft_Card compiled out of 2 node sum=99612
+		subproblem[81] 1647(msec)
+		compressed ratio=5.55029[%]
+		card [87] max elements=70 sum=1468607
+		compressed ratio=30.5428[%]
+		subproblem[87] 1734(msec)
+		2 Soft_Card compiled out of 2 node sum=33756
+		2 Soft_Card compiled out of 2 node sum=33142
+		2 Soft_Card compiled out of 2 node sum=33750
+		compressed ratio=8.1396[%]
+		card [85] max elements=31 sum=941980
+		compressed ratio=6.08054[%]
+		card [106] max elements=67 sum=788974
+		compressed ratio=30.3117[%]
+		compressed ratio=30.6683[%]
+		2 Soft_Card compiled out of 2 node sum=76803
+		2 Soft_Card compiled out of 2 node sum=99615
+		subproblem[106] 1826(msec)
+		subproblem[85] 1900(msec)
+		compressed ratio=6.42007[%]
+		card [91] max elements=67 sum=761213
+		2 Soft_Card compiled out of 2 node sum=99614
+		compressed ratio=31.2881[%]
+		subproblem[91] 1818(msec)
+		2 Soft_Card compiled out of 2 node sum=33145
+		compressed ratio=6.10033[%]
+		card [89] max elements=67 sum=788874
+		compressed ratio=31.0223[%]
+		subproblem[89] 1822(msec)
+		2 Soft_Card compiled out of 2 node sum=66137
+		2 Soft_Card compiled out of 2 node sum=33641
+		compressed ratio=6.42884[%]
+		card [97] max elements=67 sum=761431
+		compressed ratio=30.4512[%]
+		subproblem[97] 1701(msec)
+		compressed ratio=6.19734[%]
+		card [93] max elements=47 sum=992047
+		compressed ratio=30.6049[%]
+		subproblem[93] 2067(msec)
+		2 Soft_Card compiled out of 2 node sum=59704
+		compressed ratio=8.19754[%]
+		card [95] max elements=31 sum=942018
+		compressed ratio=8.2186[%]
+		card [108] max elements=31 sum=942037
+		2 Soft_Card compiled out of 2 node sum=76803
+		compressed ratio=30.382[%]
+		subproblem[95] 1994(msec)
+		2 Soft_Card compiled out of 2 node sum=66137
+		compressed ratio=29.985[%]
+		subproblem[108] 2049(msec)
+		compressed ratio=6.16795[%]
+		card [101] max elements=67 sum=785956
+		compressed ratio=30.8186[%]
+		subproblem[101] 1403(msec)
+		2 Soft_Card compiled out of 2 node sum=60869
+		compressed ratio=6.19734[%]
+		card [103] max elements=47 sum=992047
+		compressed ratio=30.9193[%]
+		compressed ratio=5.54443[%]
+		subproblem[103] 1246(msec)
+		card [99] max elements=70 sum=1468119
+		compressed ratio=5.74633[%]
+		card [105] max elements=70 sum=1329644
+		compressed ratio=30.3211[%]
+		subproblem[99] 1862(msec)
+		compressed ratio=30.2908[%]
+		subproblem[105] 1216(msec)
+		compressed ratio=5.54443[%]
+		card [107] max elements=70 sum=1468119
+		compressed ratio=30.4318[%]
+		subproblem[107] 905(msec)
+		compressed ratio=5.77068[%]
+		card [109] max elements=70 sum=1355207
+		compressed ratio=29.9966[%]
+		subproblem[109] 547(msec)
+		ov=380730 ext=110 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=164180 ext=220 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=61883 ext=330 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=35143.7 ext=417 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=23500 ext=502 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=23194.3 ext=545 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=21942.2 ext=617 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=21251.6 ext=673 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=20259.2 ext=727 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=19831.6 ext=786 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=18920.3 ext=860 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=18467.6 ext=927 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=18075.7 ext=990 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=17500.4 ext=1051 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=16953 ext=1109 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=16095.7 ext=1185 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=15588.8 ext=1260 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=15045 ext=1323 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=14450.1 ext=1400 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=13901.4 ext=1483 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=13314.3 ext=1573 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=12456.1 ext=1665 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=11927.1 ext=1741 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=11257.2 ext=1832 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=10673.4 ext=1904 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=9842.84 ext=2003 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=9357.54 ext=2084 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=8992.52 ext=2169 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=8549.64 ext=2268 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=8089.36 ext=2372 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=7578.84 ext=2469 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=7086.56 ext=2570 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=6591.26 ext=2673 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=6111.85 ext=2767 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=5617.38 ext=2872 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=5272.24 ext=2957 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=4887.98 ext=3051 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=4514.38 ext=3147 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=4250.39 ext=3242 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=4046.7 ext=3343 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=3840.45 ext=3442 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=3662.57 ext=3517 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=3574.83 ext=3600 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=3450.29 ext=3675 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=3327.81 ext=3750 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=3244.38 ext=3837 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=3145.55 ext=3923 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=3062.08 ext=4002 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=2993.8 ext=4074 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=2931.03 ext=4166 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=2871.89 ext=4242 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=2818.26 ext=4300 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=2775.35 ext=4354 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=2741.16 ext=4425 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=2714.98 ext=4488 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=2701.09 ext=4536 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=2689.08 ext=4578 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=2676.88 ext=4630 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=2674.64 ext=4661 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=2663 ext=4767 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=2660.96 ext=4791 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=2640.29 ext=4897 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=2639.95 ext=4920 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=2639.21 ext=4935 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=2638.17 ext=4964 depth=0 LB=1.79769e+308 UB=1.79769e+308
+		ov=2637.5 ext=4990 depth=0 LB=1.79769e+308 UB=1.79769e+308
+	*********LB=2638(0)  39.91(cpu sec)
+	fixed lits=30794
+	Algorithm 1 Solving Process Started..
+			o 37970   1.492000(sec) 
+			o 37765   1.507000(sec) 
+			o 37385   1.520000(sec) 
+			o 37215   1.532000(sec) 
+			o 36705   1.545000(sec) 
+			o 36550   1.557000(sec) 
+			o 36365   1.569000(sec) 
+			o 36265   1.580000(sec) 
+			o 36180   1.592000(sec) 
+			o 36035   1.603000(sec) 
+			o 35860   1.615000(sec) 
+			o 35670   1.638000(sec) 
+			o 35490   1.672000(sec) 
+			o 35220   1.684000(sec) 
+			o 35120   1.696000(sec) 
+			o 35055   1.707000(sec) 
+			o 34995   1.719000(sec) 
+			o 34980   3.651000(sec) 
+			o 34515   3.663000(sec) 
+			o 34290   3.681000(sec) 
+			o 34105   3.693000(sec) 
+			o 34070   3.706000(sec) 
+			o 34015   3.719000(sec) 
+			o 33925   3.731000(sec) 
+			o 33800   3.743000(sec) 
+			o 33715   3.755000(sec) 
+			o 33605   3.768000(sec) 
+			o 33395   3.780000(sec) 
+			o 33330   3.795000(sec) 
+			o 33105   3.807000(sec) 
+			o 32955   3.819000(sec) 
+			o 32880   3.831000(sec) 
+			o 32730   3.842000(sec) 
+			o 32700   3.856000(sec) 
+			o 32540   3.868000(sec) 
+			o 32275   3.883000(sec) 
+			o 31890   3.896000(sec) 
+			o 31680   3.908000(sec) 
+			o 31320   3.920000(sec) 
+			o 31195   3.932000(sec) 
+			o 31120   3.945000(sec) 
+			o 31100   3.958000(sec) 
+			o 31070   3.971000(sec) 
+			o 30845   3.983000(sec) 
+			o 30660   3.996000(sec) 
+			o 30500   4.008000(sec) 
+			o 30365   4.020000(sec) 
+			o 30330   4.033000(sec) 
+			o 30170   4.045000(sec) 
+			o 30155   4.057000(sec) 
+			o 29960   4.069000(sec) 
+			o 29765   4.082000(sec) 
+			o 29615   4.095000(sec) 
+			o 29525   4.107000(sec) 
+			o 29315   4.119000(sec) 
+			o 29195   4.131000(sec) 
+			o 29090   4.143000(sec) 
+			o 29000   4.154000(sec) 
+			o 28895   4.166000(sec) 
+			o 28860   4.178000(sec) 
+			o 28715   4.191000(sec) 
+			o 28495   4.205000(sec) 
+			o 28345   4.216000(sec) 
+			o 28160   4.228000(sec) 
+			o 28040   4.240000(sec) 
+			o 27935   4.252000(sec) 
+			o 27900   4.263000(sec) 
+			o 27785   4.275000(sec) 
+			o 27770   4.287000(sec) 
+			o 27580   4.300000(sec) 
+			o 27355   4.312000(sec) 
+			o 27265   4.324000(sec) 
+			o 27130   4.336000(sec) 
+			o 26955   4.348000(sec) 
+			o 26835   4.360000(sec) 
+			o 26825   4.371000(sec) 
+			o 26705   4.383000(sec) 
+			o 26645   4.396000(sec) 
+			o 26510   4.408000(sec) 
+			o 26455   4.424000(sec) 
+			o 26405   4.441000(sec) 
+			o 26120   4.456000(sec) 
+			o 25985   4.468000(sec) 
+			o 25850   4.479000(sec) 
+			o 25720   4.503000(sec) 
+			o 25400   4.516000(sec) 
+			o 25240   4.853000(sec) 
+			o 25195   6.738000(sec) 
+			o 25080   6.762000(sec) 
+			o 25055   6.775000(sec) 
+			o 24845   6.789000(sec) 
+			o 24840   6.803000(sec) 
+			o 24810   6.816000(sec) 
+			o 24750   6.829000(sec) 
+			o 24695   6.843000(sec) 
+			o 24605   6.856000(sec) 
+			o 24530   6.870000(sec) 
+			o 24470   6.912000(sec) 
+			o 24455   6.951000(sec) 
+			o 24405   6.965000(sec) 
+			o 24375   6.991000(sec) 
+			o 24345   7.004000(sec) 
+			o 24325   7.044000(sec) 
+			o 24295   7.057000(sec) 
+			o 24265   7.070000(sec) 
+			o 24235   7.083000(sec) 
+			o 24195   7.097000(sec) 
+			o 24165   7.110000(sec) 
+			o 24090   7.123000(sec) 
+			o 24060   7.135000(sec) 
+			o 24025   7.148000(sec) 
+			o 23980   7.161000(sec) 
+			o 23945   9.306000(sec) 
+			o 23885   9.355000(sec) 
+			o 23775   9.371000(sec) 
+			o 23730   9.387000(sec) 
+			o 23530   9.405000(sec) 
+			o 23490   9.431000(sec) 
+			o 23410   9.451000(sec) 
+			o 23110   9.472000(sec) 
+			o 22605   9.488000(sec) 
+			o 22395   9.510000(sec) 
+			o 22295   9.530000(sec) 
+			o 21805   9.556000(sec) 
+			o 21695   9.594000(sec) 
+			o 21630   9.611000(sec) 
+			o 21530   9.628000(sec) 
+			o 21130   9.650000(sec) 
+			o 20585   9.673000(sec) 
+			o 20410   9.692000(sec) 
+			o 20115   9.711000(sec) 
+			o 20095   9.730000(sec) 
+			o 19930   9.765000(sec) 
+			o 19710   9.789000(sec) 
+			o 19665   9.810000(sec) 
+			o 19605   9.826000(sec) 
+			o 19485   9.844000(sec) 
+			o 19430   9.861000(sec) 
+			o 19190   9.905000(sec) 
+			o 18930   9.929000(sec) 
+			o 18920   9.946000(sec) 
+			o 18910   9.970000(sec) 
+			o 18850   9.988000(sec) 
+			o 18805   10.007000(sec) 
+			o 18260   10.031000(sec) 
+			o 18155   10.048000(sec) 
+			o 18145   10.064000(sec) 
+			o 18085   10.080000(sec) 
+			o 17990   10.097000(sec) 
+			o 17820   10.114000(sec) 
+			o 17790   10.135000(sec) 
+			o 17600   10.155000(sec) 
+			o 17520   10.171000(sec) 
+			o 17420   10.189000(sec) 
+			o 17140   10.218000(sec) 
+			o 17075   10.244000(sec) 
+			o 16910   10.270000(sec) 
+			o 16880   10.289000(sec) 
+			o 16755   10.312000(sec) 
+			o 16480   10.330000(sec) 
+			o 16415   10.347000(sec) 
+			o 16310   10.365000(sec) 
+			o 16250   10.381000(sec) 
+			o 16145   10.421000(sec) 
+			o 15920   10.440000(sec) 
+			o 15840   10.464000(sec) 
+			o 15640   10.480000(sec) 
+			o 15490   10.502000(sec) 
+			o 15400   10.522000(sec) 
+			o 15310   10.538000(sec) 
+			o 15245   10.555000(sec) 
+			o 14865   10.582000(sec) 
+			o 14805   10.601000(sec) 
+			o 14520   10.620000(sec) 
+			o 13990   10.650000(sec) 
+			o 13935   10.705000(sec) 
+			o 13885   10.721000(sec) 
+			o 13725   10.739000(sec) 
+			o 13670   10.759000(sec) 
+			o 13640   10.776000(sec) 
+			o 13575   10.794000(sec) 
+			o 13500   10.816000(sec) 
+			o 13475   10.837000(sec) 
+			o 13430   10.857000(sec) 
+			o 13375   10.880000(sec) 
+			o 13305   10.905000(sec) 
+			o 13125   10.923000(sec) 
+			o 13015   10.941000(sec) 
+			o 12915   10.960000(sec) 
+			o 12830   10.984000(sec) 
+			o 12785   11.002000(sec) 
+			o 12755   11.020000(sec) 
+			o 12635   11.048000(sec) 
+			o 12520   11.067000(sec) 
+			o 12385   11.085000(sec) 
+			o 12290   11.104000(sec) 
+			o 12150   11.129000(sec) 
+			o 11960   11.153000(sec) 
+			o 11885   11.173000(sec) 
+			o 11875   11.191000(sec) 
+			o 11830   11.228000(sec) 
+			o 11820   11.251000(sec) 
+			o 11705   11.269000(sec) 
+			o 11615   11.289000(sec) 
+			o 11375   11.306000(sec) 
+			o 11325   11.326000(sec) 
+			o 11245   11.345000(sec) 
+			o 11175   11.437000(sec) 
+			o 11145   11.457000(sec) 
+			o 11000   11.475000(sec) 
+			o 10925   11.496000(sec) 
+			o 10805   11.524000(sec) 
+			o 10775   11.544000(sec) 
+			o 10720   11.561000(sec) 
+			o 10660   11.577000(sec) 
+			o 10635   11.595000(sec) 
+			o 10520   11.618000(sec) 
+			o 10435   11.661000(sec) 
+			o 10400   11.681000(sec) 
+			o 10285   11.706000(sec) 
+			o 10180   11.723000(sec) 
+			o 10150   11.746000(sec) 
+			o 10135   11.763000(sec) 
+			o 10025   11.786000(sec) 
+			o 9965   11.804000(sec) 
+			o 9920   11.821000(sec) 
+			o 9880   11.868000(sec) 
+			o 9815   11.887000(sec) 
+			o 9800   11.921000(sec) 
+			o 9790   11.938000(sec) 
+			o 9740   11.961000(sec) 
+			o 9645   11.979000(sec) 
+			o 9620   12.000000(sec) 
+			o 9580   12.018000(sec) 
+			o 9520   12.039000(sec) 
+			o 9400   12.096000(sec) 
+			o 9355   12.115000(sec) 
+			o 9320   12.134000(sec) 
+			o 9295   12.151000(sec) 
+			o 9250   12.172000(sec) 
+			o 9205   12.190000(sec) 
+			o 9145   12.208000(sec) 
+			o 9130   12.225000(sec) 
+			o 9095   12.243000(sec) 
+			o 9070   12.262000(sec) 
+			o 9055   12.462000(sec) 
+			o 9030   12.478000(sec) 
+			o 9000   12.498000(sec) 
+			o 8990   12.519000(sec) 
+			o 8980   12.540000(sec) 
+			o 8920   12.567000(sec) 
+			o 8855   12.592000(sec) 
+			o 8795   12.610000(sec) 
+			o 8690   12.630000(sec) 
+			o 8595   12.666000(sec) 
+			o 8580   12.738000(sec) 
+			o 8420   12.769000(sec) 
+			o 8385   12.854000(sec) 
+			o 8335   12.880000(sec) 
+			o 8260   12.901000(sec) 
+			o 8215   12.918000(sec) 
+			o 8175   12.942000(sec) 
+			o 8070   15.645000(sec) 
+			o 8020   15.700000(sec) 
+			o 7970   15.718000(sec) 
+			o 7905   15.738000(sec) 
+			o 7875   15.862000(sec) 
+			o 7785   15.932000(sec) 
+			o 7780   15.950000(sec) 
+			o 7685   15.996000(sec) 
+			o 7640   16.055000(sec) 
+			o 7605   16.079000(sec) 
+			o 7585   16.108000(sec) 
+			o 7225   16.189000(sec) 
+			o 7080   16.267000(sec) 
+			o 7020   16.285000(sec) 
+			o 6955   16.310000(sec) 
+			o 6940   16.374000(sec) 
+			o 6885   16.515000(sec) 
+			o 6865   16.532000(sec) 
+			o 6840   16.600000(sec) 
+			o 6725   16.647000(sec) 
+			o 6615   16.811000(sec) 
+			o 6600   16.862000(sec) 
+			o 6500   16.947000(sec) 
+			o 6410   17.173000(sec) 
+			o 6405   17.996000(sec) 
+			o 6340   19.076000(sec) 
+			o 6320   19.825000(sec) 
+			o 6285   19.874000(sec) 
+			o 6280   20.809000(sec) 
+			o 6200   24.549000(sec) 
+			o 6135   25.369000(sec) 
+			o 6120   38.161000(sec) 
+			o 6030   38.391000(sec) 
+			o 5970   38.415000(sec) 
+			o 5910   38.587000(sec) 
+			o 5835   38.609000(sec) 
+			o 5805   38.633000(sec) 
+			o 5760   38.678000(sec) 
+			o 5610   38.711000(sec) 
+			o 5490   38.933000(sec) 
+			o 5400   38.964000(sec) 
+			o 5370   38.983000(sec) 
+			o 5340   39.003000(sec) 
+			o 5325   39.031000(sec) 
+			o 5295   39.068000(sec) 
+			o 5235   39.087000(sec) 
+			o 5130   39.194000(sec) 
+			o 5055   39.214000(sec) 
+			o 5010   39.252000(sec) 
+			o 4995   39.338000(sec) 
+			o 4935   39.357000(sec) 
+			o 4875   39.499000(sec) 
+			o 4815   39.558000(sec) 
+			o 4755   39.590000(sec) 
+			o 4725   39.622000(sec) 
+			o 4710   39.667000(sec) 
+			o 4665   39.694000(sec) 
+			o 4650   39.841000(sec) 
+			o 4620   39.880000(sec) 
+			o 4575   39.901000(sec) 
+			o 4545   39.921000(sec) 
+			o 4515   39.974000(sec) 
+			o 4425   40.047000(sec) 
+			o 4350   40.074000(sec) 
+			o 4335   40.095000(sec) 
+			o 4305   40.127000(sec) 
+			o 4275   40.148000(sec) 
+			o 4245   40.168000(sec) 
+			o 4170   40.197000(sec) 
+			o 4110   40.314000(sec) 
+			o 4080   40.363000(sec) 
+			o 4065   40.404000(sec) 
+			o 3990   40.445000(sec) 
+			o 3960   40.597000(sec) 
+			o 3915   40.764000(sec) 
+			o 3885   40.804000(sec) 
+			o 3855   40.973000(sec) 
+			o 3840   40.993000(sec) 
+			o 3795   41.244000(sec) 
+			o 3780   41.389000(sec) 
+			o 3765   41.549000(sec) 
+			o 3735   41.589000(sec) 
+			o 3675   41.823000(sec) 
+			o 3630   41.847000(sec) 
+			o 3600   41.881000(sec) 
+			o 3540   42.023000(sec) 
+			o 3495   42.142000(sec) 
+			o 3480   42.192000(sec) 
+			o 3450   42.223000(sec) 
+			o 3405   42.419000(sec) 
+			o 3360   42.454000(sec) 
+			o 3330   42.609000(sec) 
+			o 3315   42.755000(sec) 
+			o 3300   42.833000(sec) 
+			o 3255   43.071000(sec) 
+			o 3240   44.058000(sec) 
+			o 3225   44.136000(sec) 
+			o 3210   44.309000(sec) 
+			o 3195   44.504000(sec) 
+			o 3180   44.679000(sec) 
+			o 3170   49.779000(sec) 
+			o 3155   58.768000(sec) 
+			o 3135   59.203000(sec) 
+			o 3120   60.225000(sec) 
+			o 3105   60.540000(sec) 
+			o 3090   60.863000(sec) 
+			o 3075   61.165000(sec) 
+			o 3065   63.766000(sec) 
+			o 3050   63.954000(sec) 
+			o 3040   88.707000(sec) 
+			o 3025   99.282000(sec) 
+			o 3015   99.497000(sec) 
+		o 3015(0)
+	*********UB=3015(0)  160.137(cpu sec)
+		Exhaustive Search obj 2637.5
+		160.856000(cpu sec)	Selecting Child Node De:0 N:255 D:4294967295 Y:0 Obj:2637.5
+		Fractionals=1861 out of 19250 ratio=9.66753 root ratio=9.66753
+		ov=2639 ext=5019 depth=1 LB=2638 UB=3015
+		ov=2638.64 ext=5022 depth=1 LB=2638 UB=3015
+		ov=2638.05 ext=5023 depth=1 LB=2638 UB=3015
+		ov=2637.92 ext=5037 depth=1 LB=2638 UB=3015
+		ov=2637.86 ext=5038 depth=1 LB=2638 UB=3015
+		ov=2640 ext=4993 depth=1 LB=2638 UB=3015
+		ov=2637.86 ext=5020 depth=1 LB=2638 UB=3015
+		strong branched depth=0 obj=2637.86
+		ov=2638.52 ext=4991 depth=1 LB=2638 UB=3015
+		ov=2638 ext=5008 depth=1 LB=2638 UB=3015
+		ov=2637.86 ext=5009 depth=1 LB=2638 UB=3015
+		 deleted compress_columns by node 27
+		ov=2639 ext=5019 depth=1 LB=2638 UB=3015
+		ov=2638.64 ext=5022 depth=1 LB=2638 UB=3015
+		 deleted compress_columns by node 18
+		Adding Node De:1 N:106 D:12 Y:0 Obj:2638.64
+		168.280000(cpu sec)	Selecting Child Node De:1 N:106 D:12 Y:1 Obj:2637.86
+		Fractionals=1893 out of 19250 ratio=9.83377 root ratio=9.66753
+		strong branched depth=1 obj=2637.86
+		 deleted compress_columns by node 22
+		 deleted compress_columns by node 23
+		Adding Node De:2 N:98 D:12 Y:0 Obj:2638.75
+		173.555000(cpu sec)	Selecting Child Node De:2 N:98 D:12 Y:1 Obj:2637.86
+		Fractionals=1874 out of 19250 ratio=9.73506 root ratio=9.66753
+		strong branched depth=2 obj=2638
+		ov=2637.86 ext=4961 depth=3 LB=2638.64 UB=3015
+		 deleted compress_columns by node 21
+		 deleted compress_columns by node 26
+		Adding Node De:3 N:91 D:12 Y:0 Obj:2640
+		179.830000(cpu sec)	Selecting Child Node De:3 N:91 D:12 Y:1 Obj:2637.86
+		Fractionals=1869 out of 19250 ratio=9.70909 root ratio=9.66753
+		 deleted compress_columns by node 27
+		 deleted compress_columns by node 9
+		Adding Node De:4 N:46 D:12 Y:0 Obj:2637.86
+		180.414000(cpu sec)	Selecting Child Node De:4 N:46 D:12 Y:1 Obj:2637.86
+		Fractionals=1879 out of 19250 ratio=9.76104 root ratio=9.66753
+		 deleted compress_columns by node 9
+		 deleted compress_columns by node 48
+		Adding Node De:5 N:34 D:12 Y:0 Obj:2637.86
+		181.194000(cpu sec)	Selecting Child Node De:5 N:34 D:12 Y:1 Obj:2637.86
+		Fractionals=1854 out of 19250 ratio=9.63117 root ratio=9.66753
+		 deleted compress_columns by node 4
+		 deleted compress_columns by node 34
+		Adding Node De:6 N:44 D:12 Y:0 Obj:2637.86
+		181.679000(cpu sec)	Selecting Child Node De:6 N:44 D:12 Y:1 Obj:2637.86
+		Fractionals=1862 out of 19250 ratio=9.67273 root ratio=9.66753
+		 deleted compress_columns by node 35
+		 deleted compress_columns by node 4
+		Adding Node De:7 N:69 D:12 Y:0 Obj:2637.86
+		182.256000(cpu sec)	Selecting Child Node De:7 N:69 D:12 Y:1 Obj:2637.86
+		Fractionals=1856 out of 19250 ratio=9.64156 root ratio=9.66753
+		 deleted compress_columns by node 29
+		 deleted compress_columns by node 7
+		Adding Node De:8 N:72 D:12 Y:1 Obj:2637.86
+		182.815000(cpu sec)	Selecting Child Node De:8 N:72 D:12 Y:0 Obj:2637.86
+		Fractionals=1851 out of 19250 ratio=9.61558 root ratio=9.66753
+		 deleted compress_columns by node 31
+		 deleted compress_columns by node 11
+		Adding Node De:9 N:76 D:12 Y:1 Obj:2637.86
+		183.499000(cpu sec)	Selecting Child Node De:9 N:76 D:12 Y:0 Obj:2637.86
+		Fractionals=1829 out of 19250 ratio=9.5013 root ratio=9.66753
+		 deleted compress_columns by node 6
+		 deleted compress_columns by node 33
+		Adding Node De:10 N:40 D:12 Y:0 Obj:2637.86
+		184.141000(cpu sec)	Selecting Child Node De:10 N:40 D:12 Y:1 Obj:2637.86
+		Fractionals=1859 out of 19250 ratio=9.65714 root ratio=9.66753
+		 deleted compress_columns by node 3
+		 deleted compress_columns by node 33
+		Adding Node De:11 N:53 D:12 Y:0 Obj:2637.86
+		184.829000(cpu sec)	Selecting Child Node De:11 N:53 D:12 Y:1 Obj:2637.86
+		Fractionals=1864 out of 19250 ratio=9.68312 root ratio=9.66753
+		ov=2640 ext=4853 depth=12 LB=2637.86 UB=3015
+		 deleted compress_columns by node 28
+		 deleted compress_columns by node 17
+		Adding Node De:12 N:103 D:12 Y:0 Obj:2640
+		185.369000(cpu sec)	Selecting Child Node De:12 N:103 D:12 Y:1 Obj:2637.86
+		Fractionals=1858 out of 19250 ratio=9.65195 root ratio=9.66753
+		 deleted compress_columns by node 28
+		 deleted compress_columns by node 16
+		Adding Node De:13 N:86 D:12 Y:1 Obj:2640
+		185.804000(cpu sec)	Selecting Child Node De:13 N:86 D:12 Y:0 Obj:2640
+		Fractionals=1889 out of 19250 ratio=9.81299 root ratio=9.66753
+		 deleted compress_columns by node 7
+		ov=2640 ext=4863 depth=14 LB=2637.86 UB=3015
+		 deleted compress_columns by node 29
+		Adding Node De:14 N:75 D:12 Y:1 Obj:2640
+		186.668000(cpu sec)	Selecting Child Node De:14 N:75 D:12 Y:0 Obj:2640
+		Fractionals=1875 out of 19250 ratio=9.74026 root ratio=9.66753
+		 deleted compress_columns by node 5
+		 deleted compress_columns by node 34
+		Adding Node De:15 N:74 D:12 Y:0 Obj:2640
+		187.256000(cpu sec)	Selecting Child Node De:15 N:74 D:12 Y:1 Obj:2640
+		Fractionals=1867 out of 19250 ratio=9.6987 root ratio=9.66753
+		ov=2640 ext=4812 depth=16 LB=2637.86 UB=3015
+		 deleted compress_columns by node 11
+		ov=2655 ext=4840 depth=16 LB=2637.86 UB=3015
+		ov=2650.36 ext=4844 depth=16 LB=2637.86 UB=3015
+		ov=2650.16 ext=4846 depth=16 LB=2637.86 UB=3015
+		ov=2650 ext=4847 depth=16 LB=2637.86 UB=3015
+		 deleted compress_columns by node 37
+		Adding Node De:16 N:89 D:12 Y:1 Obj:2650
+		188.436000(cpu sec)	Selecting Child Node De:16 N:89 D:12 Y:0 Obj:2640
+		Fractionals=1825 out of 19250 ratio=9.48052 root ratio=9.66753
+		 deleted compress_columns by node 5
+		 deleted compress_columns by node 36
+		Adding Node De:17 N:41 D:12 Y:0 Obj:2640
+		189.059000(cpu sec)	Selecting Child Node De:17 N:41 D:12 Y:1 Obj:2640
+		Fractionals=1823 out of 19250 ratio=9.47013 root ratio=9.66753
+		 deleted compress_columns by node 24
+		ov=2640 ext=4876 depth=18 LB=2637.86 UB=3015
+		 deleted compress_columns by node 23
+		Adding Node De:18 N:28 D:12 Y:0 Obj:2640
+		190.042000(cpu sec)	Selecting Child Node De:18 N:28 D:12 Y:1 Obj:2640
+		Fractionals=1837 out of 19250 ratio=9.54286 root ratio=9.66753
+		 deleted compress_columns by node 37
+		 deleted compress_columns by node 19
+		Adding Node De:19 N:14 D:12 Y:0 Obj:2640
+		190.793000(cpu sec)	Selecting Child Node De:19 N:14 D:12 Y:1 Obj:2640
+		Fractionals=1768 out of 19250 ratio=9.18442 root ratio=9.66753
+		 deleted compress_columns by node 40
+		ov=2640 ext=4833 depth=20 LB=2637.86 UB=3015
+		 deleted compress_columns by node 19
+		Adding Node De:20 N:12 D:12 Y:0 Obj:2640
+		191.926000(cpu sec)	Selecting Child Node De:20 N:12 D:12 Y:1 Obj:2640
+		Fractionals=1867 out of 19250 ratio=9.6987 root ratio=9.66753
+		 deleted compress_columns by node 2
+		 deleted compress_columns by node 37
+		Adding Node De:21 N:55 D:12 Y:1 Obj:2640
+		192.677000(cpu sec)	Selecting Child Node De:21 N:55 D:12 Y:0 Obj:2640
+		Fractionals=1839 out of 19250 ratio=9.55325 root ratio=9.66753
+		 deleted compress_columns by node 10
+		 deleted compress_columns by node 31
+		Adding Node De:22 N:48 D:12 Y:0 Obj:2640
+		193.346000(cpu sec)	Selecting Child Node De:22 N:48 D:12 Y:1 Obj:2640
+		Fractionals=1855 out of 19250 ratio=9.63636 root ratio=9.66753
+		 deleted compress_columns by node 5
+		ov=2640 ext=4847 depth=23 LB=2637.86 UB=3015
+		 deleted compress_columns by node 37
+		Adding Node De:23 N:43 D:12 Y:0 Obj:2640
+		194.345000(cpu sec)	Selecting Child Node De:23 N:43 D:12 Y:1 Obj:2640
+		Fractionals=1805 out of 19250 ratio=9.37662 root ratio=9.66753
+		 deleted compress_columns by node 31
+		ov=2640 ext=4842 depth=24 LB=2637.86 UB=3015
+		 deleted compress_columns by node 26
+		Adding Node De:24 N:4 D:12 Y:0 Obj:2640
+		195.587000(cpu sec)	Selecting Child Node De:24 N:4 D:12 Y:1 Obj:2640
+		Fractionals=1792 out of 19250 ratio=9.30909 root ratio=9.66753
+		 deleted compress_columns by node 5
+		195.801000(cpu sec)	Selecting Child Node De:25 N:50 D:12 Y:1 Obj:2640
+		Fractionals=1790 out of 19250 ratio=9.2987 root ratio=9.66753
+		ov=2640 ext=4806 depth=27 LB=2637.86 UB=3015
+		 deleted compress_columns by node 50
+		196.511000(cpu sec)	Selecting Child Node De:27 N:39 D:12 Y:0 Obj:2640
+		Fractionals=1786 out of 19250 ratio=9.27792 root ratio=9.66753
+		 deleted compress_columns by node 107
+		196.812000(cpu sec)	Selecting Child Node De:30 N:7 D:12 Y:1 Obj:2640
+		Fractionals=1818 out of 19250 ratio=9.44416 root ratio=9.66753
+		ov=2640 ext=4724 depth=34 LB=2637.86 UB=3015
+		 deleted compress_columns by node 115
+		197.549000(cpu sec)	Selecting Child Node De:34 N:18 D:12 Y:1 Obj:2640
+		Fractionals=1756 out of 19250 ratio=9.12208 root ratio=9.66753
+		 deleted compress_columns by node 123
+		197.849000(cpu sec)	Selecting Child Node De:39 N:79 D:13 Y:0 Obj:2640
+		Fractionals=1782 out of 19250 ratio=9.25714 root ratio=9.66753
+		ov=2640 ext=4554 depth=45 LB=2637.86 UB=3015
+		 deleted compress_columns by node 92
+		198.699000(cpu sec)	Selecting Child Node De:45 N:2 D:13 Y:0 Obj:2640
+		Fractionals=1824 out of 19250 ratio=9.47532 root ratio=9.66753
+		ov=2640 ext=4467 depth=52 LB=2637.86 UB=3015
+		 deleted compress_columns by node 81
+		199.168000(cpu sec)	Selecting Child Node De:52 N:76 D:19 Y:1 Obj:2640
+		Fractionals=1825 out of 19250 ratio=9.48052 root ratio=9.66753
+		 deleted compress_columns by node 94
+		199.490000(cpu sec)	Selecting Child Node De:60 N:59 D:19 Y:0 Obj:2640
+		Fractionals=1781 out of 19250 ratio=9.25195 root ratio=9.66753
+		 deleted compress_columns by node 183
+		ov=2641.67 ext=4296 depth=61 LB=2637.86 UB=3015
+		 deleted compress_columns by node 35
+		ov=2640 ext=4324 depth=61 LB=2637.86 UB=3015
+		ov=2640 ext=4325 depth=61 LB=2637.86 UB=3015
+		 deleted compress_columns by node 6
+		200.632000(cpu sec)	Selecting Child Node De:61 N:83 D:19 Y:1 Obj:2640
+		Fractionals=1801 out of 19250 ratio=9.35584 root ratio=9.66753
+		 deleted compress_columns by node 16
+		ov=2640.38 ext=4320 depth=62 LB=2637.86 UB=3015
+		 deleted compress_columns by node 20
+		201.127000(cpu sec)	Selecting Child Node De:62 N:83 D:12 Y:0 Obj:2640.38
+		Fractionals=1798 out of 19250 ratio=9.34026 root ratio=9.66753
+		ov=2641.15 ext=4329 depth=63 LB=2637.86 UB=3015
+		 deleted compress_columns by node 21
+		ov=2641.67 ext=4304 depth=63 LB=2637.86 UB=3015
+		 deleted compress_columns by node 31
+		201.882000(cpu sec)	Selecting Child Node De:63 N:80 D:12 Y:1 Obj:2641.15
+		Fractionals=1803 out of 19250 ratio=9.36623 root ratio=9.66753
+		 deleted compress_columns by node 26
+		 deleted compress_columns by node 11
+		202.315000(cpu sec)	Selecting Child Node De:64 N:81 D:19 Y:0 Obj:2641.87
+		Fractionals=1801 out of 19250 ratio=9.35584 root ratio=9.66753
+		ov=2642 ext=4283 depth=65 LB=2637.86 UB=3015
+		 deleted compress_columns by node 4
+		ov=2661.25 ext=4283 depth=65 LB=2637.86 UB=3015
+		ov=2660 ext=4285 depth=65 LB=2637.86 UB=3015
+		ov=2656.93 ext=4288 depth=65 LB=2637.86 UB=3015
+		ov=2656.26 ext=4299 depth=65 LB=2637.86 UB=3015
+		ov=2656 ext=4323 depth=65 LB=2637.86 UB=3015
+		 deleted compress_columns by node 47
+		203.583000(cpu sec)	Selecting Child Node De:65 N:104 D:12 Y:0 Obj:2642
+		Fractionals=1754 out of 19250 ratio=9.11169 root ratio=9.66753
+		 deleted compress_columns by node 26
+		203.845000(cpu sec)	Selecting Child Node De:66 N:40 D:19 Y:0 Obj:2642
+		Fractionals=1731 out of 19250 ratio=8.99221 root ratio=9.66753
+		ov=2642 ext=4256 depth=68 LB=2637.86 UB=3015
+		 deleted compress_columns by node 38
+		204.211000(cpu sec)	Selecting Child Node De:68 N:10 D:19 Y:0 Obj:2642
+		Fractionals=1738 out of 19250 ratio=9.02857 root ratio=9.66753
+		 deleted compress_columns by node 47
+		204.484000(cpu sec)	Selecting Child Node De:71 N:48 D:19 Y:1 Obj:2642
+		Fractionals=1743 out of 19250 ratio=9.05455 root ratio=9.66753
+		 deleted compress_columns by node 50
+		 deleted compress_columns by node 25
+		204.917000(cpu sec)	Selecting Child Node De:72 N:104 D:19 Y:1 Obj:2642
+		Fractionals=1748 out of 19250 ratio=9.08052 root ratio=9.66753
+		 deleted compress_columns by node 17
+		 deleted compress_columns by node 8
+		 deleted compress_columns by node 33
+		205.565000(cpu sec)	Selecting Child Node De:73 N:95 D:19 Y:1 Obj:2642.22
+		Fractionals=1756 out of 19250 ratio=9.12208 root ratio=9.66753
+		 deleted compress_columns by node 9
+		205.782000(cpu sec)	Selecting Child Node De:74 N:64 D:19 Y:1 Obj:2642.22
+		Fractionals=1762 out of 19250 ratio=9.15325 root ratio=9.66753
+		 deleted compress_columns by node 57
+		206.059000(cpu sec)	Selecting Child Node De:76 N:29 D:19 Y:0 Obj:2642.22
+		Fractionals=1764 out of 19250 ratio=9.16364 root ratio=9.66753
+		ov=2642.22 ext=4073 depth=79 LB=2637.86 UB=3015
+		 deleted compress_columns by node 52
+		206.423000(cpu sec)	Selecting Child Node De:79 N:60 D:19 Y:1 Obj:2642.22
+		Fractionals=1711 out of 19250 ratio=8.88831 root ratio=9.66753
+		ov=2643.33 ext=4023 depth=83 LB=2637.86 UB=3015
+		ov=2643.33 ext=4036 depth=83 LB=2637.86 UB=3015
+		ov=2642.86 ext=4040 depth=83 LB=2637.86 UB=3015
+		 deleted compress_columns by node 70
+		 deleted compress_columns by node 16
+		207.459000(cpu sec)	Selecting Child Node De:80 N:51 D:19 Y:1 Obj:2642.22
+		Fractionals=1735 out of 19250 ratio=9.01299 root ratio=9.66753
+		 deleted compress_columns by node 7
+		207.676000(cpu sec)	Selecting Child Node De:82 N:61 D:19 Y:1 Obj:2642.22
+		Fractionals=1720 out of 19250 ratio=8.93506 root ratio=9.66753
+		ov=2642.86 ext=4002 depth=85 LB=2637.86 UB=3015
+		 deleted compress_columns by node 50
+		 deleted compress_columns by node 4
+		208.351000(cpu sec)	Selecting Child Node De:83 N:43 D:19 Y:1 Obj:2642.22
+		Fractionals=1736 out of 19250 ratio=9.01818 root ratio=9.66753
+		 deleted compress_columns by node 35
+		208.586000(cpu sec)	Selecting Child Node De:85 N:6 D:19 Y:0 Obj:2642.22
+		Fractionals=1736 out of 19250 ratio=9.01818 root ratio=9.66753
+		ov=2643.33 ext=3963 depth=88 LB=2637.86 UB=3015
+		ov=2642.86 ext=3964 depth=88 LB=2637.86 UB=3015
+		 deleted compress_columns by node 59
+		 deleted compress_columns by node 13
+		209.325000(cpu sec)	Selecting Child Node De:86 N:27 D:19 Y:1 Obj:2642.22
+		Fractionals=1732 out of 19250 ratio=8.9974 root ratio=9.66753
+		ov=2643.33 ext=3948 depth=88 LB=2637.86 UB=3015
+		ov=2643.33 ext=3949 depth=88 LB=2637.86 UB=3015
+		ov=2642.86 ext=3950 depth=88 LB=2637.86 UB=3015
+		 deleted compress_columns by node 36
+		 deleted compress_columns by node 12
+		210.121000(cpu sec)	Selecting Child Node De:87 N:26 D:19 Y:1 Obj:2642.22
+		Fractionals=1736 out of 19250 ratio=9.01818 root ratio=9.66753
+		ov=2643.33 ext=3957 depth=89 LB=2637.86 UB=3015
+		ov=2642.86 ext=3962 depth=89 LB=2637.86 UB=3015
+		 deleted compress_columns by node 46
+		ov=2643.33 ext=3938 depth=88 LB=2637.86 UB=3015
+		ov=2642.86 ext=3941 depth=88 LB=2637.86 UB=3015
+		 deleted compress_columns by node 24
+		 deleted compress_columns by node 15
+		211.419000(cpu sec)	Selecting Child Node De:88 N:89 D:19 Y:1 Obj:2642.86
+		Fractionals=1724 out of 19250 ratio=8.95584 root ratio=9.66753
+		 deleted compress_columns by node 4
+		ov=2655 ext=3947 depth=89 LB=2637.86 UB=3015
+		 deleted compress_columns by node 52
+		212.035000(cpu sec)	Selecting Child Node De:89 N:84 D:12 Y:1 Obj:2643.33
+		Fractionals=1708 out of 19250 ratio=8.87273 root ratio=9.66753
+		 deleted compress_columns by node 8
+		212.240000(cpu sec)	Selecting Child Node De:90 N:87 D:12 Y:1 Obj:2643.33
+		Fractionals=1707 out of 19250 ratio=8.86753 root ratio=9.66753
+		 deleted compress_columns by node 33
+		212.455000(cpu sec)	Selecting Child Node De:92 N:84 D:19 Y:0 Obj:2643.33
+		Fractionals=1719 out of 19250 ratio=8.92987 root ratio=9.66753
+		ov=2643.33 ext=3874 depth=95 LB=2637.86 UB=3015
+		 deleted compress_columns by node 50
+		212.955000(cpu sec)	Selecting Child Node De:95 N:23 D:19 Y:1 Obj:2643.33
+		Fractionals=1658 out of 19250 ratio=8.61299 root ratio=9.66753
+		 deleted compress_columns by node 73
+		213.267000(cpu sec)	Selecting Child Node De:99 N:14 D:19 Y:0 Obj:2643.33
+		Fractionals=1664 out of 19250 ratio=8.64416 root ratio=9.66753
+		ov=2643.33 ext=3831 depth=104 LB=2637.86 UB=3015
+		 deleted compress_columns by node 58
+		213.954000(cpu sec)	Selecting Child Node De:104 N:5 D:19 Y:1 Obj:2643.33
+		Fractionals=1636 out of 19250 ratio=8.4987 root ratio=9.66753
+		ov=2643.33 ext=3774 depth=110 LB=2637.86 UB=3015
+		 deleted compress_columns by node 86
+		214.410000(cpu sec)	Selecting Child Node De:110 N:27 D:20 Y:1 Obj:2643.33
+		Fractionals=1622 out of 19250 ratio=8.42597 root ratio=9.66753
+		 deleted compress_columns by node 70
+		214.763000(cpu sec)	Selecting Child Node De:117 N:89 D:33 Y:1 Obj:2643.33
+		Fractionals=1559 out of 19250 ratio=8.0987 root ratio=9.66753
+		ov=2643.33 ext=3620 depth=125 LB=2637.86 UB=3015
+		ov=2643.33 ext=3626 depth=125 LB=2637.86 UB=3015
+		 deleted compress_columns by node 154
+		215.426000(cpu sec)	Selecting Child Node De:125 N:70 D:33 Y:0 Obj:2643.33
+		Fractionals=1565 out of 19250 ratio=8.12987 root ratio=9.66753
+		ov=2643.33 ext=3581 depth=134 LB=2637.86 UB=3015
+		ov=2643.33 ext=3584 depth=134 LB=2637.86 UB=3015
+		ov=2643.33 ext=3585 depth=134 LB=2637.86 UB=3015
+		ov=2643.33 ext=3587 depth=134 LB=2637.86 UB=3015
+		 deleted compress_columns by node 133
+		216.500000(cpu sec)	Selecting Child Node De:134 N:105 D:33 Y:0 Obj:2643.33
+		Fractionals=1597 out of 19250 ratio=8.2961 root ratio=9.66753
+		ov=2643.33 ext=3455 depth=144 LB=2637.86 UB=3015
+		 deleted compress_columns by node 133
+		217.150000(cpu sec)	Selecting Child Node De:144 N:22 D:33 Y:0 Obj:2643.33
+		Fractionals=1579 out of 19250 ratio=8.2026 root ratio=9.66753
+		ov=2643.33 ext=3402 depth=155 LB=2637.86 UB=3015
+		 deleted compress_columns by node 210
+		217.798000(cpu sec)	Selecting Child Node De:155 N:88 D:26 Y:1 Obj:2643.33
+		Fractionals=1536 out of 19250 ratio=7.97922 root ratio=9.66753
+		ov=2656.67 ext=3221 depth=167 LB=2637.86 UB=3015
+		ov=2651.67 ext=3224 depth=167 LB=2637.86 UB=3015
+		 deleted compress_columns by node 207
+		 deleted compress_columns by node 16
+		218.639000(cpu sec)	Selecting Child Node De:156 N:58 D:34 Y:0 Obj:2643.33
+		Fractionals=1581 out of 19250 ratio=8.21299 root ratio=9.66753
+		 deleted compress_columns by node 35
+		218.904000(cpu sec)	Selecting Child Node De:158 N:26 D:34 Y:1 Obj:2643.33
+		Fractionals=1544 out of 19250 ratio=8.02078 root ratio=9.66753
+		 deleted compress_columns by node 37
+		219.158000(cpu sec)	Selecting Child Node De:161 N:101 D:26 Y:1 Obj:2643.33
+		Fractionals=1491 out of 19250 ratio=7.74545 root ratio=9.66753
+		ov=2643.33 ext=3125 depth=165 LB=2637.86 UB=3015
+		ov=2643.33 ext=3127 depth=165 LB=2637.86 UB=3015
+		 deleted compress_columns by node 61
+		219.625000(cpu sec)	Selecting Child Node De:165 N:96 D:26 Y:0 Obj:2643.33
+		Fractionals=1477 out of 19250 ratio=7.67273 root ratio=9.66753
+		ov=2643.33 ext=3067 depth=170 LB=2637.86 UB=3015
+		 deleted compress_columns by node 60
+		219.976000(cpu sec)	Selecting Child Node De:170 N:22 D:26 Y:0 Obj:2643.33
+		Fractionals=1473 out of 19250 ratio=7.65195 root ratio=9.66753
+		 deleted compress_columns by node 45
+		220.271000(cpu sec)	Selecting Child Node De:176 N:21 D:16 Y:1 Obj:2643.33
+		Fractionals=1434 out of 19250 ratio=7.44935 root ratio=9.66753
+		 deleted compress_columns by node 39
+		220.633000(cpu sec)	Selecting Child Node De:183 N:11 D:23 Y:1 Obj:2643.33
+		Fractionals=1418 out of 19250 ratio=7.36623 root ratio=9.66753
+		 deleted compress_columns by node 108
+		220.923000(cpu sec)	Selecting Child Node De:191 N:64 D:9 Y:0 Obj:2643.33
+		Fractionals=1415 out of 19250 ratio=7.35065 root ratio=9.66753
+		ov=2643.33 ext=2895 depth=200 LB=2637.86 UB=3015
+		ov=2643.33 ext=2896 depth=200 LB=2637.86 UB=3015
+		 deleted compress_columns by node 119
+		221.632000(cpu sec)	Selecting Child Node De:200 N:47 D:10 Y:1 Obj:2643.33
+		Fractionals=1390 out of 19250 ratio=7.22078 root ratio=9.66753
+	fixed lits=32505
+	Algorithm 1 Solving Process Started..
+			o 15850   1.166000(sec) 
+			o 15605   1.178000(sec) 
+			o 15350   2.669000(sec) 
+			o 15005   2.681000(sec) 
+			o 14930   2.710000(sec) 
+			o 14815   2.720000(sec) 
+			o 14625   2.739000(sec) 
+			o 14545   2.758000(sec) 
+			o 14100   2.778000(sec) 
+			o 14045   4.389000(sec) 
+			o 13955   4.401000(sec) 
+			o 13870   4.421000(sec) 
+			o 13785   4.431000(sec) 
+			o 13755   4.440000(sec) 
+			o 13725   4.460000(sec) 
+			o 13695   4.470000(sec) 
+			o 13650   4.480000(sec) 
+			o 13625   4.490000(sec) 
+			o 13575   4.500000(sec) 
+			o 13495   6.026000(sec) 
+			o 13465   6.039000(sec) 
+			o 13405   6.052000(sec) 
+			o 13310   6.064000(sec) 
+			o 13295   6.092000(sec) 
+			o 13265   6.105000(sec) 
+			o 13205   6.119000(sec) 
+			o 13190   6.132000(sec) 
+			o 13180   6.156000(sec) 
+			o 13125   6.193000(sec) 
+			o 13085   6.205000(sec) 
+			o 13040   6.233000(sec) 
+			o 13015   6.247000(sec) 
+			o 12990   6.259000(sec) 
+			o 12915   6.271000(sec) 
+			o 12855   6.285000(sec) 
+			o 12840   6.298000(sec) 
+			o 12735   6.311000(sec) 
+			o 12690   6.323000(sec) 
+			o 12660   6.347000(sec) 
+			o 12600   6.359000(sec) 
+			o 12555   6.374000(sec) 
+			o 12345   6.388000(sec) 
+			o 12315   6.401000(sec) 
+			o 12290   6.413000(sec) 
+			o 12115   6.425000(sec) 
+			o 12005   6.438000(sec) 
+			o 11930   6.453000(sec) 
+			o 11860   6.500000(sec) 
+			o 11725   6.548000(sec) 
+			o 11665   6.561000(sec) 
+			o 11560   6.586000(sec) 
+			o 11530   6.647000(sec) 
+			o 11470   6.672000(sec) 
+			o 11380   6.693000(sec) 
+			o 11320   6.706000(sec) 
+			o 11180   6.722000(sec) 
+			o 11160   6.737000(sec) 
+			o 11100   6.750000(sec) 
+			o 11090   6.776000(sec) 
+			o 10995   6.789000(sec) 
+			o 10965   6.801000(sec) 
+			o 10940   6.815000(sec) 
+			o 10855   6.828000(sec) 
+			o 10800   6.841000(sec) 
+			o 10775   6.854000(sec) 
+			o 10730   6.870000(sec) 
+			o 10700   6.888000(sec) 
+			o 10505   6.919000(sec) 
+			o 10465   6.936000(sec) 
+			o 10205   6.991000(sec) 
+			o 10175   7.008000(sec) 
+			o 10160   7.049000(sec) 
+			o 10055   7.070000(sec) 
+			o 10030   7.098000(sec) 
+			o 10000   7.124000(sec) 
+			o 9910   7.140000(sec) 
+			o 9880   7.153000(sec) 
+			o 9775   7.170000(sec) 
+			o 9685   7.185000(sec) 
+			o 9595   7.216000(sec) 
+			o 9550   7.229000(sec) 
+			o 9520   7.246000(sec) 
+			o 9475   7.272000(sec) 
+			o 9400   7.285000(sec) 
+			o 9255   7.326000(sec) 
+			o 9105   7.341000(sec) 
+			o 9070   7.362000(sec) 
+			o 9025   7.390000(sec) 
+			o 8975   7.404000(sec) 
+			o 8930   7.419000(sec) 
+			o 8860   7.432000(sec) 
+			o 8770   7.446000(sec) 
+			o 8690   7.467000(sec) 
+			o 8600   7.481000(sec) 
+			o 8590   7.526000(sec) 
+			o 8545   7.539000(sec) 
+			o 8380   7.586000(sec) 
+			o 8370   7.602000(sec) 
+			o 8340   7.616000(sec) 
+			o 8285   7.649000(sec) 
+			o 8225   7.669000(sec) 
+			o 8180   7.686000(sec) 
+			o 8155   7.705000(sec) 
+			o 8075   7.741000(sec) 
+			o 8045   7.756000(sec) 
+			o 8010   7.783000(sec) 
+			o 7980   7.797000(sec) 
+			o 7970   7.811000(sec) 
+			o 7940   7.825000(sec) 
+			o 7850   7.845000(sec) 
+			o 7790   7.916000(sec) 
+			o 7765   7.931000(sec) 
+			o 7690   7.968000(sec) 
+			o 7650   7.981000(sec) 
+			o 7600   7.996000(sec) 
+			o 7550   8.009000(sec) 
+			o 7545   8.042000(sec) 
+			o 7530   8.056000(sec) 
+			o 7500   8.071000(sec) 
+			o 7490   8.150000(sec) 
+			o 7430   9.787000(sec) 
+			o 7340   9.807000(sec) 
+			o 7305   9.821000(sec) 
+			o 7295   9.837000(sec) 
+			o 7230   9.862000(sec) 
+			o 7190   9.893000(sec) 
+			o 7170   9.903000(sec) 
+			o 7115   9.920000(sec) 
+			o 7035   9.931000(sec) 
+			o 7030   9.952000(sec) 
+			o 6995   9.963000(sec) 
+			o 6940   9.982000(sec) 
+			o 6870   9.997000(sec) 
+			o 6835   10.060000(sec) 
+			o 6750   10.235000(sec) 
+			o 6680   10.260000(sec) 
+			o 6660   10.281000(sec) 
+			o 6565   10.407000(sec) 
+			o 6525   12.198000(sec) 
+			o 6340   14.314000(sec) 
+			o 6220   25.915000(sec) 
+			o 6175   25.961000(sec) 
+			o 6070   25.982000(sec) 
+			o 6040   25.998000(sec) 
+			o 5995   26.051000(sec) 
+			o 5905   26.070000(sec) 
+			o 5875   26.146000(sec) 
+			o 5830   26.159000(sec) 
+			o 5800   26.173000(sec) 
+			o 5785   26.186000(sec) 
+			o 5740   26.199000(sec) 
+			o 5590   26.221000(sec) 
+			o 5530   26.294000(sec) 
+			o 5470   26.350000(sec) 
+			o 5425   26.364000(sec) 
+			o 5395   26.386000(sec) 
+			o 5335   26.399000(sec) 
+			o 5275   26.412000(sec) 
+			o 5185   26.430000(sec) 
+			o 5140   26.443000(sec) 
+			o 5050   26.466000(sec) 
+			o 5005   26.484000(sec) 
+			o 4960   26.500000(sec) 
+			o 4900   26.513000(sec) 
+			o 4840   26.580000(sec) 
+			o 4780   26.595000(sec) 
+			o 4750   26.613000(sec) 
+			o 4735   26.767000(sec) 
+			o 4675   26.843000(sec) 
+			o 4645   26.866000(sec) 
+			o 4615   26.880000(sec) 
+			o 4540   26.911000(sec) 
+			o 4450   26.925000(sec) 
+			o 4390   26.947000(sec) 
+			o 4375   26.985000(sec) 
+			o 4315   27.010000(sec) 
+			o 4285   27.029000(sec) 
+			o 4255   27.043000(sec) 
+			o 4240   27.180000(sec) 
+			o 4225   27.194000(sec) 
+			o 4135   27.292000(sec) 
+			o 4090   27.306000(sec) 
+			o 4045   27.319000(sec) 
+			o 4000   27.333000(sec) 
+			o 3985   27.372000(sec) 
+			o 3955   27.387000(sec) 
+			o 3925   27.401000(sec) 
+			o 3910   27.490000(sec) 
+			o 3895   27.504000(sec) 
+			o 3880   27.518000(sec) 
+			o 3865   27.536000(sec) 
+			o 3820   27.550000(sec) 
+			o 3775   27.565000(sec) 
+			o 3730   27.587000(sec) 
+			o 3685   27.603000(sec) 
+			o 3625   27.619000(sec) 
+			o 3580   27.638000(sec) 
+			o 3550   27.652000(sec) 
+			o 3520   27.736000(sec) 
+			o 3490   27.751000(sec) 
+			o 3475   27.830000(sec) 
+			o 3460   27.843000(sec) 
+			o 3415   27.859000(sec) 
+			o 3370   27.876000(sec) 
+			o 3355   27.900000(sec) 
+			o 3325   28.019000(sec) 
+			o 3235   28.041000(sec) 
+			o 3205   28.146000(sec) 
+			o 3190   28.170000(sec) 
+			o 3175   28.194000(sec) 
+			o 3130   28.212000(sec) 
+			o 3085   28.226000(sec) 
+			o 3055   28.239000(sec) 
+			o 3040   28.305000(sec) 
+			o 3025   28.322000(sec) 
+			o 2965   28.420000(sec) 
+			o 2950   28.503000(sec) 
+			o 2905   28.561000(sec) 
+			o 2890   28.607000(sec) 
+			o 2875   28.625000(sec) 
+			o 2860   28.639000(sec) 
+			o 2855   30.224000(sec) 
+			o 2840   30.419000(sec) 
+			o 2830   31.895000(sec) 
+			o 2825   32.313000(sec) 
+			o 2810   35.440000(sec) 
+			o 2795   41.876000(sec) 
+			o 2785   65.297000(sec) 
+			o 2780   65.661000(sec) 
+			o 2765   78.839000(sec) 
+			o 2750   81.417000(sec) 
+		o 2750(0)
+	*********UB=2750(0)  323.782(cpu sec)
+		ov=2643.33 ext=2785 depth=210 LB=2637.86 UB=2750
+		 deleted compress_columns by node 139
+		324.800000(cpu sec)	Selecting Child Node De:210 N:9 D:10 Y:0 Obj:2643.33
+		Fractionals=1400 out of 19250 ratio=7.27273 root ratio=9.66753
+		ov=2643.33 ext=2665 depth=221 LB=2637.86 UB=2750
+		 deleted compress_columns by node 177
+		325.372000(cpu sec)	Selecting Child Node De:221 N:7 D:7 Y:1 Obj:2643.33
+		Fractionals=1440 out of 19250 ratio=7.48052 root ratio=9.66753
+		ov=2644 ext=2569 depth=233 LB=2637.86 UB=2750
+		 deleted compress_columns by node 57
+		 deleted compress_columns by node 1
+		326.224000(cpu sec)	Selecting Child Node De:222 N:55 D:9 Y:0 Obj:2643.33
+		Fractionals=1451 out of 19250 ratio=7.53766 root ratio=9.66753
+		 deleted compress_columns by node 3
+		326.429000(cpu sec)	Selecting Child Node De:224 N:2 D:23 Y:0 Obj:2643.33
+		Fractionals=1451 out of 19250 ratio=7.53766 root ratio=9.66753
+		 deleted compress_columns by node 12
+		326.670000(cpu sec)	Selecting Child Node De:227 N:74 D:9 Y:1 Obj:2643.33
+		Fractionals=1413 out of 19250 ratio=7.34026 root ratio=9.66753
+		ov=2643.33 ext=2552 depth=231 LB=2637.86 UB=2750
+		 deleted compress_columns by node 19
+		327.238000(cpu sec)	Selecting Child Node De:231 N:17 D:7 Y:1 Obj:2643.33
+		Fractionals=1410 out of 19250 ratio=7.32468 root ratio=9.66753
+		ov=2643.33 ext=2578 depth=236 LB=2637.86 UB=2750
+		 deleted compress_columns by node 39
+		327.745000(cpu sec)	Selecting Child Node De:236 N:29 D:7 Y:0 Obj:2643.33
+		Fractionals=1416 out of 19250 ratio=7.35584 root ratio=9.66753
+		ov=2643.33 ext=2619 depth=242 LB=2637.86 UB=2750
+		ov=2643.33 ext=2633 depth=242 LB=2637.86 UB=2750
+		 deleted compress_columns by node 36
+		328.499000(cpu sec)	Selecting Child Node De:242 N:39 D:8 Y:1 Obj:2643.33
+		Fractionals=1419 out of 19250 ratio=7.37143 root ratio=9.66753
+		ov=2649.21 ext=2643 depth=249 LB=2637.86 UB=2750
+		ov=2648.98 ext=2665 depth=249 LB=2637.86 UB=2750
+		ov=2648.33 ext=2734 depth=249 LB=2637.86 UB=2750
+		ov=2648.33 ext=2735 depth=249 LB=2637.86 UB=2750
+		ov=2648.33 ext=2736 depth=249 LB=2637.86 UB=2750
+		 deleted compress_columns by node 91
+		 deleted compress_columns by node 7
+		330.110000(cpu sec)	Selecting Child Node De:243 N:69 D:8 Y:1 Obj:2643.33
+		Fractionals=1415 out of 19250 ratio=7.35065 root ratio=9.66753
+		 deleted compress_columns by node 20
+		330.423000(cpu sec)	Selecting Child Node De:245 N:75 D:8 Y:1 Obj:2643.33
+		Fractionals=1420 out of 19250 ratio=7.37662 root ratio=9.66753
+		ov=2643.33 ext=2610 depth=248 LB=2637.86 UB=2750
+		 deleted compress_columns by node 42
+		331.017000(cpu sec)	Selecting Child Node De:248 N:15 D:8 Y:0 Obj:2643.33
+		Fractionals=1393 out of 19250 ratio=7.23636 root ratio=9.66753
+		 deleted compress_columns by node 25
+		331.437000(cpu sec)	Selecting Child Node De:252 N:20 D:11 Y:1 Obj:2643.33
+		Fractionals=1390 out of 19250 ratio=7.22078 root ratio=9.66753
+		ov=2643.33 ext=2586 depth=257 LB=2637.86 UB=2750
+		ov=2643.33 ext=2587 depth=257 LB=2637.86 UB=2750
+		 deleted compress_columns by node 51
+		332.102000(cpu sec)	Selecting Child Node De:257 N:31 D:11 Y:1 Obj:2643.33
+		Fractionals=1405 out of 19250 ratio=7.2987 root ratio=9.66753
+		 deleted compress_columns by node 50
+		 deleted compress_columns by node 9
+		332.676000(cpu sec)	Selecting Child Node De:258 N:75 D:14 Y:1 Obj:2643.33
+		Fractionals=1390 out of 19250 ratio=7.22078 root ratio=9.66753
+		ov=2643.33 ext=2528 depth=260 LB=2637.86 UB=2750
+		 deleted compress_columns by node 9
+		333.024000(cpu sec)	Selecting Child Node De:260 N:26 D:14 Y:1 Obj:2643.33
+		Fractionals=1383 out of 19250 ratio=7.18442 root ratio=9.66753
+		 deleted compress_columns by node 18
+		333.336000(cpu sec)	Selecting Child Node De:263 N:64 D:14 Y:0 Obj:2643.33
+		Fractionals=1398 out of 19250 ratio=7.26234 root ratio=9.66753
+		ov=2646.25 ext=2502 depth=267 LB=2637.86 UB=2750
+		ov=2644 ext=2503 depth=267 LB=2637.86 UB=2750
+		ov=2644 ext=2505 depth=267 LB=2637.86 UB=2750
+		 deleted compress_columns by node 24
+		 deleted compress_columns by node 5
+		334.221000(cpu sec)	Selecting Child Node De:264 N:29 D:11 Y:0 Obj:2643.33
+		Fractionals=1379 out of 19250 ratio=7.16364 root ratio=9.66753
+		ov=2646.25 ext=2503 depth=266 LB=2637.86 UB=2750
+		ov=2644 ext=2505 depth=266 LB=2637.86 UB=2750
+		ov=2644 ext=2506 depth=266 LB=2637.86 UB=2750
+		 deleted compress_columns by node 15
+		 deleted compress_columns by node 4
+		335.141000(cpu sec)	Selecting Child Node De:265 N:60 D:14 Y:0 Obj:2643.33
+		Fractionals=1405 out of 19250 ratio=7.2987 root ratio=9.66753
+		ov=2646.25 ext=2493 depth=267 LB=2637.86 UB=2750
+		ov=2644 ext=2494 depth=267 LB=2637.86 UB=2750
+		ov=2644 ext=2495 depth=267 LB=2637.86 UB=2750
+		 deleted compress_columns by node 16
+		 deleted compress_columns by node 11
+		 deleted compress_columns by node 10
+		336.168000(cpu sec)	Selecting Child Node De:266 N:108 D:14 Y:0 Obj:2646.25
+		Fractionals=1431 out of 19250 ratio=7.43377 root ratio=9.66753
+		ov=2644 ext=2482 depth=267 LB=2637.86 UB=2750
+		 deleted compress_columns by node 9
+		336.551000(cpu sec)	Selecting Child Node De:267 N:109 D:26 Y:1 Obj:2644
+		Fractionals=1407 out of 19250 ratio=7.30909 root ratio=9.66753
+		ov=2649.5 ext=2474 depth=269 LB=2637.86 UB=2750
+		ov=2646.67 ext=2479 depth=269 LB=2637.86 UB=2750
+		ov=2646.67 ext=2480 depth=269 LB=2637.86 UB=2750
+		 deleted compress_columns by node 6
+		 deleted compress_columns by node 1
+		 deleted compress_columns by node 10
+		337.547000(cpu sec)	Selecting Child Node De:268 N:108 D:23 Y:1 Obj:2649.5
+		Fractionals=1439 out of 19250 ratio=7.47532 root ratio=9.66753
+		ov=2646.67 ext=2481 depth=269 LB=2637.86 UB=2750
+		ov=2646.67 ext=2482 depth=269 LB=2637.86 UB=2750
+		 deleted compress_columns by node 8
+		337.976000(cpu sec)	Selecting Child Node De:269 N:88 D:12 Y:1 Obj:2646.67
+		Fractionals=1428 out of 19250 ratio=7.41818 root ratio=9.66753
+		 deleted compress_columns by node 15
+		338.202000(cpu sec)	Selecting Child Node De:271 N:94 D:26 Y:1 Obj:2646.67
+		Fractionals=1391 out of 19250 ratio=7.22597 root ratio=9.66753
+		ov=2646.67 ext=2489 depth=274 LB=2637.86 UB=2750
+		 deleted compress_columns by node 21
+		338.600000(cpu sec)	Selecting Child Node De:274 N:28 D:14 Y:0 Obj:2646.67
+		Fractionals=1400 out of 19250 ratio=7.27273 root ratio=9.66753
+		ov=2648.33 ext=2469 depth=278 LB=2637.86 UB=2750
+		ov=2648.24 ext=2470 depth=278 LB=2637.86 UB=2750
+		ov=2648.18 ext=2471 depth=278 LB=2637.86 UB=2750
+		 deleted compress_columns by node 31
+		ov=2648.33 ext=2471 depth=275 LB=2637.86 UB=2750
+		ov=2648.24 ext=2474 depth=275 LB=2637.86 UB=2750
+		 deleted compress_columns by node 6
+		 deleted compress_columns by node 12
+		339.890000(cpu sec)	Selecting Child Node De:275 N:92 D:23 Y:1 Obj:2648.24
+		Fractionals=1456 out of 19250 ratio=7.56364 root ratio=9.66753
+		 deleted compress_columns by node 1
+		ov=2672 ext=2496 depth=276 LB=2637.86 UB=2750
+		ov=2670 ext=2501 depth=276 LB=2637.86 UB=2750
+		ov=2662.27 ext=2510 depth=276 LB=2637.86 UB=2750
+		 deleted compress_columns by node 14
+		340.832000(cpu sec)	Selecting Child Node De:276 N:107 D:12 Y:1 Obj:2648.33
+		Fractionals=1431 out of 19250 ratio=7.43377 root ratio=9.66753
+		ov=2649 ext=2475 depth=277 LB=2637.86 UB=2750
+		 deleted compress_columns by node 17
+		ov=2660.56 ext=2468 depth=277 LB=2637.86 UB=2750
+		ov=2657 ext=2470 depth=277 LB=2637.86 UB=2750
+		 deleted compress_columns by node 19
+		341.727000(cpu sec)	Selecting Child Node De:277 N:94 D:19 Y:1 Obj:2649
+		Fractionals=1449 out of 19250 ratio=7.52727 root ratio=9.66753
+		 deleted compress_columns by node 4
+		ov=2655 ext=2485 depth=278 LB=2637.86 UB=2750
+		 deleted compress_columns by node 11
+		342.359000(cpu sec)	Selecting Child Node De:278 N:107 D:26 Y:1 Obj:2649.17
+		Fractionals=1434 out of 19250 ratio=7.44935 root ratio=9.66753
+		ov=2649.5 ext=2457 depth=279 LB=2637.86 UB=2750
+		 deleted compress_columns by node 3
+		ov=2670 ext=2482 depth=279 LB=2637.86 UB=2750
+		ov=2670 ext=2484 depth=279 LB=2637.86 UB=2750
+		 deleted compress_columns by node 47
+		343.162000(cpu sec)	Selecting Child Node De:279 N:90 D:26 Y:1 Obj:2649.5
+		Fractionals=1435 out of 19250 ratio=7.45455 root ratio=9.66753
+		 deleted compress_columns by node 1
+		343.376000(cpu sec)	Selecting Child Node De:280 N:106 D:26 Y:1 Obj:2649.5
+		Fractionals=1433 out of 19250 ratio=7.44416 root ratio=9.66753
+		ov=2650 ext=2454 depth=282 LB=2637.86 UB=2750
+		 deleted compress_columns by node 12
+		 deleted compress_columns by node 1
+		 deleted compress_columns by node 7
+		344.152000(cpu sec)	Selecting Child Node De:281 N:91 D:26 Y:1 Obj:2650
+		Fractionals=1430 out of 19250 ratio=7.42857 root ratio=9.66753
+		 deleted compress_columns by node 10
+		344.359000(cpu sec)	Selecting Child Node De:282 N:98 D:19 Y:0 Obj:2650
+		Fractionals=1427 out of 19250 ratio=7.41299 root ratio=9.66753
+		ov=2650 ext=2446 depth=284 LB=2637.86 UB=2750
+		 deleted compress_columns by node 27
+		344.726000(cpu sec)	Selecting Child Node De:284 N:101 D:33 Y:0 Obj:2650
+		Fractionals=1407 out of 19250 ratio=7.30909 root ratio=9.66753
+		 deleted compress_columns by node 23
+		345.071000(cpu sec)	Selecting Child Node De:287 N:68 D:14 Y:0 Obj:2650
+		Fractionals=1407 out of 19250 ratio=7.30909 root ratio=9.66753
+		ov=2650 ext=2477 depth=291 LB=2637.86 UB=2750
+		 deleted compress_columns by node 33
+		345.629000(cpu sec)	Selecting Child Node De:291 N:5 D:14 Y:0 Obj:2650
+		Fractionals=1393 out of 19250 ratio=7.23636 root ratio=9.66753
+		ov=2650 ext=2494 depth=296 LB=2637.86 UB=2750
+		 deleted compress_columns by node 24
+		346.258000(cpu sec)	Selecting Child Node De:296 N:68 D:15 Y:0 Obj:2650
+		Fractionals=1412 out of 19250 ratio=7.33506 root ratio=9.66753
+		ov=2651.46 ext=2521 depth=302 LB=2637.86 UB=2750
+		ov=2650 ext=2550 depth=302 LB=2637.86 UB=2750
+		 deleted compress_columns by node 66
+		347.197000(cpu sec)	Selecting Child Node De:302 N:7 D:15 Y:0 Obj:2650
+		Fractionals=1437 out of 19250 ratio=7.46494 root ratio=9.66753
+		ov=2650 ext=2529 depth=309 LB=2637.86 UB=2750
+		 deleted compress_columns by node 44
+		347.728000(cpu sec)	Selecting Child Node De:309 N:28 D:17 Y:1 Obj:2650
+		Fractionals=1424 out of 19250 ratio=7.3974 root ratio=9.66753
+		ov=2650 ext=2494 depth=317 LB=2637.86 UB=2750
+		ov=2650 ext=2495 depth=317 LB=2637.86 UB=2750
+		ov=2650 ext=2496 depth=317 LB=2637.86 UB=2750
+		ov=2650 ext=2497 depth=317 LB=2637.86 UB=2750
+		ov=2650 ext=2498 depth=317 LB=2637.86 UB=2750
+		 deleted compress_columns by node 88
+		348.740000(cpu sec)	Selecting Child Node De:317 N:0 D:17 Y:1 Obj:2650
+		Fractionals=1427 out of 19250 ratio=7.41299 root ratio=9.66753
+		ov=2650 ext=2416 depth=326 LB=2637.86 UB=2750
+		ov=2650 ext=2421 depth=326 LB=2637.86 UB=2750
+		ov=2650 ext=2423 depth=326 LB=2637.86 UB=2750
+		 deleted compress_columns by node 48
+		349.444000(cpu sec)	Selecting Child Node De:326 N:4 D:17 Y:0 Obj:2650
+		Fractionals=1376 out of 19250 ratio=7.14805 root ratio=9.66753
+		ov=2650 ext=2416 depth=336 LB=2637.86 UB=2750
+		 deleted compress_columns by node 41
+		350.116000(cpu sec)	Selecting Child Node De:336 N:29 D:18 Y:1 Obj:2650
+		Fractionals=1361 out of 19250 ratio=7.07013 root ratio=9.66753
+		ov=2650 ext=2445 depth=347 LB=2637.86 UB=2750
+		 deleted compress_columns by node 65
+		350.803000(cpu sec)	Selecting Child Node De:347 N:85 D:24 Y:0 Obj:2650
+		Fractionals=1334 out of 19250 ratio=6.92987 root ratio=9.66753
+		ov=2650 ext=2448 depth=359 LB=2637.86 UB=2750
+		 deleted compress_columns by node 67
+		351.483000(cpu sec)	Selecting Child Node De:359 N:4 D:24 Y:1 Obj:2650
+		Fractionals=1327 out of 19250 ratio=6.89351 root ratio=9.66753
+		ov=2650.5 ext=2457 depth=372 LB=2637.86 UB=2750
+		ov=2650 ext=2486 depth=372 LB=2637.86 UB=2750
+		ov=2650 ext=2489 depth=372 LB=2637.86 UB=2750
+		ov=2650 ext=2490 depth=372 LB=2637.86 UB=2750
+		ov=2650 ext=2491 depth=372 LB=2637.86 UB=2750
+		ov=2650 ext=2492 depth=372 LB=2637.86 UB=2750
+		 deleted compress_columns by node 101
+		352.904000(cpu sec)	Selecting Child Node De:372 N:67 D:30 Y:1 Obj:2650
+		Fractionals=1297 out of 19250 ratio=6.73766 root ratio=9.66753
+		ov=2650 ext=2435 depth=386 LB=2637.86 UB=2750
+		 deleted compress_columns by node 134
+		353.672000(cpu sec)	Selecting Child Node De:386 N:93 D:21 Y:1 Obj:2650
+		Fractionals=1281 out of 19250 ratio=6.65455 root ratio=9.66753
+		ov=2650 ext=2348 depth=401 LB=2637.86 UB=2750
+		ov=2650 ext=2355 depth=401 LB=2637.86 UB=2750
+		 deleted compress_columns by node 148
+		354.478000(cpu sec)	Selecting Child Node De:401 N:61 D:25 Y:1 Obj:2650
+		Fractionals=1252 out of 19250 ratio=6.5039 root ratio=9.66753
+		ov=2652.02 ext=2250 depth=417 LB=2637.86 UB=2750
+		ov=2650 ext=2287 depth=417 LB=2637.86 UB=2750
+		ov=2650 ext=2291 depth=417 LB=2637.86 UB=2750
+		ov=2650 ext=2294 depth=417 LB=2637.86 UB=2750
+		ov=2650 ext=2298 depth=417 LB=2637.86 UB=2750
+		ov=2650 ext=2299 depth=417 LB=2637.86 UB=2750
+		 deleted compress_columns by node 79
+		356.011000(cpu sec)	Selecting Child Node De:417 N:11 D:29 Y:1 Obj:2650
+		Fractionals=1264 out of 19250 ratio=6.56623 root ratio=9.66753
+		ov=2650 ext=2268 depth=434 LB=2637.86 UB=2750
+		ov=2650 ext=2271 depth=434 LB=2637.86 UB=2750
+		ov=2650 ext=2275 depth=434 LB=2637.86 UB=2750
+		ov=2650 ext=2283 depth=434 LB=2637.86 UB=2750
+		ov=2650 ext=2286 depth=434 LB=2637.86 UB=2750
+		ov=2650 ext=2290 depth=434 LB=2637.86 UB=2750
+		ov=2650 ext=2292 depth=434 LB=2637.86 UB=2750
+		ov=2650 ext=2293 depth=434 LB=2637.86 UB=2750
+		 deleted compress_columns by node 165
+		357.551000(cpu sec)	Selecting Child Node De:434 N:99 D:31 Y:0 Obj:2650
+		Fractionals=1205 out of 19250 ratio=6.25974 root ratio=9.66753
+		ov=2650 ext=2202 depth=452 LB=2637.86 UB=2750
+		ov=2650 ext=2206 depth=452 LB=2637.86 UB=2750
+		ov=2650 ext=2208 depth=452 LB=2637.86 UB=2750
+		ov=2650 ext=2210 depth=452 LB=2637.86 UB=2750
+		ov=2650 ext=2213 depth=452 LB=2637.86 UB=2750
+		 deleted compress_columns by node 182
+		358.729000(cpu sec)	Selecting Child Node De:452 N:14 D:28 Y:1 Obj:2650
+		Fractionals=1140 out of 19250 ratio=5.92208 root ratio=9.66753
+		ov=2657.72 ext=2120 depth=471 LB=2637.86 UB=2750
+		ov=2651.38 ext=2163 depth=471 LB=2637.86 UB=2750
+		ov=2650 ext=2192 depth=471 LB=2637.86 UB=2750
+		ov=2650 ext=2194 depth=471 LB=2637.86 UB=2750
+		ov=2650 ext=2196 depth=471 LB=2637.86 UB=2750
+		ov=2650 ext=2198 depth=471 LB=2637.86 UB=2750
+		ov=2650 ext=2203 depth=471 LB=2637.86 UB=2750
+		ov=2650 ext=2206 depth=471 LB=2637.86 UB=2750
+		 deleted compress_columns by node 178
+		360.597000(cpu sec)	Selecting Child Node De:471 N:0 D:32 Y:1 Obj:2650
+		Fractionals=1145 out of 19250 ratio=5.94805 root ratio=9.66753
+		ov=2670 ext=2030 depth=478 LB=2637.86 UB=2750
+		ov=2663.58 ext=2037 depth=478 LB=2637.86 UB=2750
+		ov=2660 ext=2101 depth=478 LB=2637.86 UB=2750
+		ov=2660 ext=2104 depth=478 LB=2637.86 UB=2750
+		ov=2660 ext=2108 depth=478 LB=2637.86 UB=2750
+		ov=2660 ext=2112 depth=478 LB=2637.86 UB=2750
+		ov=2660 ext=2113 depth=478 LB=2637.86 UB=2750
+		 deleted compress_columns by node 37
+		ov=2650 ext=2030 depth=472 LB=2637.86 UB=2750
+		ov=2650 ext=2033 depth=472 LB=2637.86 UB=2750
+		 deleted compress_columns by node 2
+		362.393000(cpu sec)	Selecting Child Node De:472 N:40 D:21 Y:1 Obj:2650
+		Fractionals=1138 out of 19250 ratio=5.91169 root ratio=9.66753
+		ov=2650 ext=2076 depth=474 LB=2637.86 UB=2750
+		 deleted compress_columns by node 9
+		362.911000(cpu sec)	Selecting Child Node De:474 N:45 D:32 Y:0 Obj:2650
+		Fractionals=1163 out of 19250 ratio=6.04156 root ratio=9.66753
+		 deleted compress_columns by node 12
+		363.200000(cpu sec)	Selecting Child Node De:477 N:70 D:28 Y:1 Obj:2650
+		Fractionals=1156 out of 19250 ratio=6.00519 root ratio=9.66753
+		Fractionals=1156 out of 19250 ratio=6.00519 root ratio=9.66753
+		ov=2650 ext=2057 depth=481 LB=2637.86 UB=2750
+		ov=2650 ext=2058 depth=481 LB=2637.86 UB=2750
+		ov=2650 ext=2061 depth=481 LB=2637.86 UB=2750
+		 deleted compress_columns by node 39
+		363.905000(cpu sec)	Selecting Child Node De:481 N:48 D:26 Y:1 Obj:2650
+		Fractionals=1127 out of 19250 ratio=5.85455 root ratio=9.66753
+		ov=2650 ext=2098 depth=486 LB=2637.86 UB=2750
+		ov=2650 ext=2099 depth=486 LB=2637.86 UB=2750
+		 deleted compress_columns by node 41
+		364.698000(cpu sec)	Selecting Child Node De:486 N:31 D:26 Y:1 Obj:2650
+		Fractionals=1149 out of 19250 ratio=5.96883 root ratio=9.66753
+		ov=2686.56 ext=2122 depth=492 LB=2637.86 UB=2750
+		ov=2654.93 ext=2159 depth=492 LB=2637.86 UB=2750
+		ov=2652.62 ext=2177 depth=492 LB=2637.86 UB=2750
+		ov=2650 ext=2221 depth=492 LB=2637.86 UB=2750
+		ov=2650 ext=2227 depth=492 LB=2637.86 UB=2750
+		ov=2650 ext=2229 depth=492 LB=2637.86 UB=2750
+		ov=2650 ext=2230 depth=492 LB=2637.86 UB=2750
+		 deleted compress_columns by node 90
+		366.594000(cpu sec)	Selecting Child Node De:492 N:35 D:26 Y:1 Obj:2650
+		Fractionals=1076 out of 19250 ratio=5.58961 root ratio=9.66753
+		ov=2680 ext=2218 depth=499 LB=2637.86 UB=2750
+		 deleted compress_columns by node 147
+		ov=2650 ext=2142 depth=493 LB=2637.86 UB=2750
+		ov=2650 ext=2143 depth=493 LB=2637.86 UB=2750
+		ov=2650 ext=2144 depth=493 LB=2637.86 UB=2750
+		ov=2650 ext=2145 depth=493 LB=2637.86 UB=2750
+		ov=2650 ext=2146 depth=493 LB=2637.86 UB=2750
+		ov=2650 ext=2148 depth=493 LB=2637.86 UB=2750
+		ov=2650 ext=2149 depth=493 LB=2637.86 UB=2750
+		ov=2650 ext=2150 depth=493 LB=2637.86 UB=2750
+		 deleted compress_columns by node 11
+		368.550000(cpu sec)	Selecting Child Node De:493 N:17 D:26 Y:1 Obj:2650
+		Fractionals=1078 out of 19250 ratio=5.6 root ratio=9.66753
+		ov=2653.81 ext=2184 depth=495 LB=2637.86 UB=2750
+		ov=2651.71 ext=2217 depth=495 LB=2637.86 UB=2750
+		ov=2650 ext=2257 depth=495 LB=2637.86 UB=2750
+		ov=2650 ext=2261 depth=495 LB=2637.86 UB=2750
+		 deleted compress_columns by node 48
+		369.897000(cpu sec)	Selecting Child Node De:495 N:49 D:26 Y:1 Obj:2650
+		Fractionals=1061 out of 19250 ratio=5.51169 root ratio=9.66753
+		ov=2670 ext=2292 depth=498 LB=2637.86 UB=2750
+		ov=2670 ext=2295 depth=498 LB=2637.86 UB=2750
+		 deleted compress_columns by node 42
+		ov=2650 ext=2217 depth=496 LB=2637.86 UB=2750
+		 deleted compress_columns by node 12
+		371.126000(cpu sec)	Selecting Child Node De:496 N:18 D:26 Y:1 Obj:2650
+		Fractionals=1024 out of 19250 ratio=5.31948 root ratio=9.66753
+		ov=2650 ext=2211 depth=498 LB=2637.86 UB=2750
+		ov=2650 ext=2213 depth=498 LB=2637.86 UB=2750
+		ov=2650 ext=2214 depth=498 LB=2637.86 UB=2750
+		 deleted compress_columns by node 10
+		371.801000(cpu sec)	Selecting Child Node De:498 N:59 D:27 Y:1 Obj:2650
+		Fractionals=1021 out of 19250 ratio=5.3039 root ratio=9.66753
+		ov=2660.22 ext=2250 depth=501 LB=2637.86 UB=2750
+		ov=2650 ext=2291 depth=501 LB=2637.86 UB=2750
+		 deleted compress_columns by node 28
+		372.878000(cpu sec)	Selecting Child Node De:501 N:17 D:27 Y:1 Obj:2650
+		Fractionals=1027 out of 19250 ratio=5.33506 root ratio=9.66753
+		ov=2650 ext=2273 depth=505 LB=2637.86 UB=2750
+		ov=2650 ext=2275 depth=505 LB=2637.86 UB=2750
+		ov=2650 ext=2279 depth=505 LB=2637.86 UB=2750
+		ov=2650 ext=2282 depth=505 LB=2637.86 UB=2750
+		ov=2650 ext=2283 depth=505 LB=2637.86 UB=2750
+		 deleted compress_columns by node 54
+		373.832000(cpu sec)	Selecting Child Node De:505 N:69 D:19 Y:1 Obj:2650
+		Fractionals=1079 out of 19250 ratio=5.60519 root ratio=9.66753
+		ov=2740 ext=2258 depth=510 LB=2637.86 UB=2750
+		ov=2740 ext=2261 depth=510 LB=2637.86 UB=2750
+		ov=2728.99 ext=2267 depth=510 LB=2637.86 UB=2750
+		ov=2715 ext=2286 depth=510 LB=2637.86 UB=2750
+		ov=2713.33 ext=2291 depth=510 LB=2637.86 UB=2750
+		ov=2713.33 ext=2294 depth=510 LB=2637.86 UB=2750
+		ov=2713.33 ext=2299 depth=510 LB=2637.86 UB=2750
+		ov=2712.5 ext=2300 depth=510 LB=2637.86 UB=2750
+		 deleted compress_columns by node 67
+		ov=2650 ext=2230 depth=506 LB=2637.86 UB=2750
+		ov=2650 ext=2231 depth=506 LB=2637.86 UB=2750
+		 deleted compress_columns by node 5
+		375.676000(cpu sec)	Selecting Child Node De:506 N:84 D:26 Y:1 Obj:2650
+		Fractionals=1073 out of 19250 ratio=5.57403 root ratio=9.66753
+		ov=2680 ext=2256 depth=508 LB=2637.86 UB=2750
+		 deleted compress_columns by node 45
+		ov=2650 ext=2228 depth=507 LB=2637.86 UB=2750
+		ov=2650 ext=2229 depth=507 LB=2637.86 UB=2750
+		ov=2650 ext=2231 depth=507 LB=2637.86 UB=2750
+		ov=2650 ext=2235 depth=507 LB=2637.86 UB=2750
+		ov=2650 ext=2237 depth=507 LB=2637.86 UB=2750
+		 deleted compress_columns by node 7
+		376.888000(cpu sec)	Selecting Child Node De:507 N:99 D:26 Y:1 Obj:2650
+		Fractionals=1066 out of 19250 ratio=5.53766 root ratio=9.66753
+		ov=2650 ext=2237 depth=509 LB=2637.86 UB=2750
+		ov=2650 ext=2241 depth=509 LB=2637.86 UB=2750
+		 deleted compress_columns by node 18
+		377.408000(cpu sec)	Selecting Child Node De:509 N:105 D:27 Y:1 Obj:2650
+		Fractionals=1041 out of 19250 ratio=5.40779 root ratio=9.66753
+		ov=2650 ext=2253 depth=512 LB=2637.86 UB=2750
+		ov=2650 ext=2254 depth=512 LB=2637.86 UB=2750
+		ov=2650 ext=2255 depth=512 LB=2637.86 UB=2750
+		ov=2650 ext=2256 depth=512 LB=2637.86 UB=2750
+		ov=2650 ext=2260 depth=512 LB=2637.86 UB=2750
+		ov=2650 ext=2265 depth=512 LB=2637.86 UB=2750
+		ov=2650 ext=2268 depth=512 LB=2637.86 UB=2750
+		 deleted compress_columns by node 34
+		378.568000(cpu sec)	Selecting Child Node De:512 N:99 D:19 Y:1 Obj:2650
+		Fractionals=1057 out of 19250 ratio=5.49091 root ratio=9.66753
+		ov=2650 ext=2251 depth=516 LB=2637.86 UB=2750
+		ov=2650 ext=2252 depth=516 LB=2637.86 UB=2750
+		ov=2650 ext=2255 depth=516 LB=2637.86 UB=2750
+		ov=2650 ext=2258 depth=516 LB=2637.86 UB=2750
+		 deleted compress_columns by node 45
+		379.432000(cpu sec)	Selecting Child Node De:516 N:7 D:19 Y:1 Obj:2650
+		Fractionals=995 out of 19250 ratio=5.16883 root ratio=9.66753
+		ov=2725.72 ext=2289 depth=521 LB=2637.86 UB=2750
+		ov=2715 ext=2327 depth=521 LB=2637.86 UB=2750
+		ov=2689.79 ext=2347 depth=521 LB=2637.86 UB=2750
+		ov=2684.27 ext=2385 depth=521 LB=2637.86 UB=2750
+		ov=2679.47 ext=2414 depth=521 LB=2637.86 UB=2750
+		ov=2677.53 ext=2448 depth=521 LB=2637.86 UB=2750
+		ov=2675 ext=2499 depth=521 LB=2637.86 UB=2750
+		 deleted columns by history 1 300
+		ov=2675 ext=2504 depth=521 LB=2637.86 UB=2750
+		 deleted columns by history 5 300
+		ov=2675 ext=2501 depth=521 LB=2637.86 UB=2750
+		 deleted columns by history 7 300
+		ov=2675 ext=2495 depth=521 LB=2637.86 UB=2750
+		 deleted columns by history 7 300
+		ov=2675 ext=2489 depth=521 LB=2637.86 UB=2750
+		 deleted columns by history 5 300
+		ov=2675 ext=2485 depth=521 LB=2637.86 UB=2750
+		 deleted compress_columns by node 68
+		 deleted columns by history 30 300
+		ov=2650 ext=2260 depth=517 LB=2637.86 UB=2750
+		 deleted columns by history 6 300
+		ov=2650 ext=2255 depth=517 LB=2637.86 UB=2750
+		 deleted columns by history 11 300
+		ov=2650 ext=2245 depth=517 LB=2637.86 UB=2750
+		 deleted compress_columns by node 5
+		383.376000(cpu sec)	Selecting Child Node De:517 N:53 D:19 Y:1 Obj:2650
+		Fractionals=968 out of 19250 ratio=5.02857 root ratio=9.66753
+		 deleted columns by history 7 300
+		ov=2650 ext=2236 depth=519 LB=2637.86 UB=2750
+		 deleted columns by history 5 300
+		ov=2650 ext=2238 depth=519 LB=2637.86 UB=2750
+		 deleted columns by history 10 300
+		ov=2650 ext=2229 depth=519 LB=2637.86 UB=2750
+		 deleted compress_columns by node 29
+		384.145000(cpu sec)	Selecting Child Node De:519 N:29 D:19 Y:1 Obj:2650
+		Fractionals=1015 out of 19250 ratio=5.27273 root ratio=9.66753
+		 deleted columns by history 5 300
+		ov=2650 ext=2273 depth=522 LB=2637.86 UB=2750
+		 deleted compress_columns by node 49
+		384.852000(cpu sec)	Selecting Child Node De:522 N:10 D:19 Y:1 Obj:2650
+		Fractionals=996 out of 19250 ratio=5.17403 root ratio=9.66753
+		 deleted columns by history 9 300
+		ov=2672.9 ext=2249 depth=526 LB=2637.86 UB=2750
+		 deleted columns by history 4 300
+		ov=2660 ext=2293 depth=526 LB=2637.86 UB=2750
+		 deleted compress_columns by node 115
+		 deleted columns by history 18 300
+		ov=2650 ext=2211 depth=523 LB=2637.86 UB=2750
+		 deleted columns by history 6 300
+		ov=2650 ext=2211 depth=523 LB=2637.86 UB=2750
+		 deleted columns by history 6 300
+		ov=2650 ext=2207 depth=523 LB=2637.86 UB=2750
+		 deleted compress_columns by node 25
+		386.561000(cpu sec)	Selecting Child Node De:523 N:6 D:19 Y:1 Obj:2650
+		Fractionals=990 out of 19250 ratio=5.14286 root ratio=9.66753
+		 deleted columns by history 4 300
+		ov=2665 ext=2253 depth=525 LB=2637.86 UB=2750
+		 deleted columns by history 7 300
+		ov=2660 ext=2247 depth=525 LB=2637.86 UB=2750
+		 deleted compress_columns by node 48
+		 deleted columns by history 22 300
+		ov=2650 ext=2201 depth=524 LB=2637.86 UB=2750
+		 deleted columns by history 5 300
+		ov=2650 ext=2198 depth=524 LB=2637.86 UB=2750
+		 deleted columns by history 4 300
+		ov=2650 ext=2200 depth=524 LB=2637.86 UB=2750
+		 deleted columns by history 7 300
+		ov=2650 ext=2195 depth=524 LB=2637.86 UB=2750
+		 deleted compress_columns by node 12
+		388.451000(cpu sec)	Selecting Child Node De:524 N:47 D:19 Y:1 Obj:2650
+		Fractionals=949 out of 19250 ratio=4.92987 root ratio=9.66753
+		 deleted columns by history 8 300
+		ov=2680 ext=2227 depth=526 LB=2637.86 UB=2750
+		 deleted columns by history 7 300
+		ov=2680 ext=2224 depth=526 LB=2637.86 UB=2750
+		 deleted columns by history 8 300
+		ov=2680 ext=2219 depth=526 LB=2637.86 UB=2750
+		 deleted columns by history 9 300
+		ov=2680 ext=2211 depth=526 LB=2637.86 UB=2750
+		 deleted compress_columns by node 45
+		 deleted columns by history 36 300
+		ov=2650 ext=2152 depth=525 LB=2637.86 UB=2750
+		 deleted columns by history 6 300
+		ov=2650 ext=2147 depth=525 LB=2637.86 UB=2750
+		 deleted compress_columns by node 25
+		390.031000(cpu sec)	Selecting Child Node De:525 N:38 D:19 Y:1 Obj:2650
+		Fractionals=949 out of 19250 ratio=4.92987 root ratio=9.66753
+		 deleted columns by history 8 300
+		ov=2650 ext=2157 depth=527 LB=2637.86 UB=2750
+		 deleted compress_columns by node 108
+		390.763000(cpu sec)	Selecting Child Node De:527 N:3 D:19 Y:1 Obj:2650
+		Fractionals=945 out of 19250 ratio=4.90909 root ratio=9.66753
+		 deleted columns by history 3 300
+		ov=2650 ext=2101 depth=530 LB=2637.86 UB=2750
+		 deleted compress_columns by node 11
+		391.420000(cpu sec)	Selecting Child Node De:530 N:53 D:20 Y:1 Obj:2650
+		Fractionals=936 out of 19250 ratio=4.86234 root ratio=9.66753
+		 deleted columns by history 7 300
+		ov=2652.84 ext=2122 depth=534 LB=2637.86 UB=2750
+		 deleted columns by history 4 300
+		ov=2650.42 ext=2148 depth=534 LB=2637.86 UB=2750
+		 deleted columns by history 4 300
+		ov=2650 ext=2218 depth=534 LB=2637.86 UB=2750
+		 deleted columns by history 5 300
+		ov=2650 ext=2221 depth=534 LB=2637.86 UB=2750
+		 deleted columns by history 4 300
+		ov=2650 ext=2222 depth=534 LB=2637.86 UB=2750
+		 deleted columns by history 8 300
+		ov=2650 ext=2215 depth=534 LB=2637.86 UB=2750
+		 deleted columns by history 2 300
+		ov=2650 ext=2214 depth=534 LB=2637.86 UB=2750
+		 deleted compress_columns by node 53
+		393.136000(cpu sec)	Selecting Child Node De:534 N:29 D:13 Y:1 Obj:2650
+		Fractionals=935 out of 19250 ratio=4.85714 root ratio=9.66753
+		 deleted columns by history 1 300
+		ov=2680 ext=2165 depth=539 LB=2637.86 UB=2750
+		ov=2665 ext=2171 depth=539 LB=2637.86 UB=2750
+		 deleted columns by history 1 300
+		ov=2665 ext=2174 depth=539 LB=2637.86 UB=2750
+		ov=2665 ext=2177 depth=539 LB=2637.86 UB=2750
+		 deleted columns by history 2 300
+		ov=2665 ext=2179 depth=539 LB=2637.86 UB=2750
+		 deleted columns by history 1 300
+		ov=2665 ext=2180 depth=539 LB=2637.86 UB=2750
+		ov=2665 ext=2182 depth=539 LB=2637.86 UB=2750
+		ov=2665 ext=2184 depth=539 LB=2637.86 UB=2750
+		 deleted compress_columns by node 67
+		 deleted columns by history 10 300
+		ov=2650 ext=2152 depth=535 LB=2637.86 UB=2750
+		 deleted compress_columns by node 3
+		394.801000(cpu sec)	Selecting Child Node De:535 N:41 D:20 Y:1 Obj:2650
+		Fractionals=943 out of 19250 ratio=4.8987 root ratio=9.66753
+		 deleted columns by history 1 300
+		ov=2650 ext=2167 depth=537 LB=2637.86 UB=2750
+		 deleted columns by history 3 300
+		ov=2650 ext=2167 depth=537 LB=2637.86 UB=2750
+		 deleted columns by history 4 300
+		ov=2650 ext=2166 depth=537 LB=2637.86 UB=2750
+		 deleted columns by history 2 300
+		ov=2650 ext=2170 depth=537 LB=2637.86 UB=2750
+		ov=2650 ext=2171 depth=537 LB=2637.86 UB=2750
+		ov=2650 ext=2173 depth=537 LB=2637.86 UB=2750
+		 deleted compress_columns by node 32
+		395.800000(cpu sec)	Selecting Child Node De:537 N:109 D:13 Y:1 Obj:2650
+		Fractionals=911 out of 19250 ratio=4.73247 root ratio=9.66753
+	fixed lits=35161
+	Algorithm 1 Solving Process Started..
+			o 9865   3.216000(sec) 
+			o 9775   3.234000(sec) 
+			o 9655   3.267000(sec) 
+			o 9565   3.284000(sec) 
+			o 9505   3.300000(sec) 
+			o 9475   3.317000(sec) 
+			o 9445   4.655000(sec) 
+			o 9430   4.680000(sec) 
+			o 9400   4.691000(sec) 
+			o 9310   4.705000(sec) 
+			o 9265   4.718000(sec) 
+			o 9220   4.741000(sec) 
+			o 9160   4.753000(sec) 
+			o 9100   4.764000(sec) 
+			o 9070   4.778000(sec) 
+			o 9010   4.795000(sec) 
+			o 8995   4.808000(sec) 
+			o 8950   4.821000(sec) 
+			o 8920   4.836000(sec) 
+			o 8890   4.850000(sec) 
+			o 8815   4.865000(sec) 
+			o 8800   4.882000(sec) 
+			o 8770   4.895000(sec) 
+			o 8740   4.907000(sec) 
+			o 8695   4.923000(sec) 
+			o 8650   4.935000(sec) 
+			o 8590   4.957000(sec) 
+			o 8575   4.985000(sec) 
+			o 8560   4.996000(sec) 
+			o 8545   5.009000(sec) 
+			o 8530   5.020000(sec) 
+			o 8485   5.031000(sec) 
+			o 8440   5.042000(sec) 
+			o 8380   5.053000(sec) 
+			o 8335   5.064000(sec) 
+			o 8305   5.085000(sec) 
+			o 8260   5.096000(sec) 
+			o 8230   5.109000(sec) 
+			o 8200   5.121000(sec) 
+			o 8155   5.133000(sec) 
+			o 8095   5.144000(sec) 
+			o 8050   5.155000(sec) 
+			o 8005   5.169000(sec) 
+			o 7930   5.196000(sec) 
+			o 7785   5.208000(sec) 
+			o 7665   5.221000(sec) 
+			o 7605   5.246000(sec) 
+			o 7500   5.257000(sec) 
+			o 7485   5.268000(sec) 
+			o 7380   5.281000(sec) 
+			o 7320   5.297000(sec) 
+			o 7290   5.309000(sec) 
+			o 7245   5.325000(sec) 
+			o 7200   5.374000(sec) 
+			o 7185   5.389000(sec) 
+			o 7155   5.400000(sec) 
+			o 7125   5.431000(sec) 
+			o 7080   5.443000(sec) 
+			o 7050   5.460000(sec) 
+			o 6870   5.475000(sec) 
+			o 6825   5.492000(sec) 
+			o 6765   5.505000(sec) 
+			o 6705   5.524000(sec) 
+			o 6645   5.595000(sec) 
+			o 6615   5.606000(sec) 
+			o 6600   5.620000(sec) 
+			o 6555   5.636000(sec) 
+			o 6510   5.653000(sec) 
+			o 6420   5.688000(sec) 
+			o 6390   5.706000(sec) 
+			o 6330   5.718000(sec) 
+			o 6300   5.730000(sec) 
+			o 6165   5.745000(sec) 
+			o 6120   5.762000(sec) 
+			o 6075   5.776000(sec) 
+			o 6030   5.787000(sec) 
+			o 6000   5.799000(sec) 
+			o 5970   5.811000(sec) 
+			o 5865   5.826000(sec) 
+			o 5805   5.838000(sec) 
+			o 5775   5.852000(sec) 
+			o 5715   5.864000(sec) 
+			o 5685   5.879000(sec) 
+			o 5595   5.891000(sec) 
+			o 5580   5.964000(sec) 
+			o 5560   7.527000(sec) 
+			o 5545   9.910000(sec) 
+			o 5455   9.937000(sec) 
+			o 5425   9.948000(sec) 
+			o 5365   9.959000(sec) 
+			o 5305   9.973000(sec) 
+			o 5260   9.983000(sec) 
+			o 5185   10.002000(sec) 
+			o 5125   10.013000(sec) 
+			o 4990   10.030000(sec) 
+			o 4870   10.041000(sec) 
+			o 4825   10.052000(sec) 
+			o 4780   10.063000(sec) 
+			o 4705   10.075000(sec) 
+			o 4645   10.086000(sec) 
+			o 4510   10.097000(sec) 
+			o 4450   10.107000(sec) 
+			o 4375   10.125000(sec) 
+			o 4315   10.136000(sec) 
+			o 4270   10.146000(sec) 
+			o 4240   10.162000(sec) 
+			o 4195   10.179000(sec) 
+			o 4135   10.192000(sec) 
+			o 4030   10.210000(sec) 
+			o 4000   10.224000(sec) 
+			o 3955   10.234000(sec) 
+			o 3910   10.245000(sec) 
+			o 3775   10.256000(sec) 
+			o 3700   10.267000(sec) 
+			o 3625   10.280000(sec) 
+			o 3565   10.298000(sec) 
+			o 3550   10.312000(sec) 
+			o 3520   10.323000(sec) 
+			o 3475   10.333000(sec) 
+			o 3430   10.344000(sec) 
+			o 3415   10.354000(sec) 
+			o 3385   10.366000(sec) 
+			o 3340   10.377000(sec) 
+			o 3310   10.394000(sec) 
+			o 3250   10.404000(sec) 
+			o 3205   10.415000(sec) 
+			o 3130   10.427000(sec) 
+			o 3100   10.437000(sec) 
+			o 3085   10.447000(sec) 
+			o 3070   10.460000(sec) 
+			o 3055   10.478000(sec) 
+			o 3025   10.490000(sec) 
+			o 2995   10.503000(sec) 
+			o 2965   10.520000(sec) 
+			o 2950   10.530000(sec) 
+			o 2935   10.545000(sec) 
+			o 2905   10.560000(sec) 
+			o 2890   10.577000(sec) 
+			o 2845   10.588000(sec) 
+			o 2830   10.600000(sec) 
+			o 2815   10.615000(sec) 
+			o 2800   10.626000(sec) 
+			o 2770   10.637000(sec) 
+			o 2725   10.650000(sec) 
+			o 2710   10.667000(sec) 
+			o 2695   10.679000(sec) 
+			o 2680   10.690000(sec) 
+			o 2665   10.706000(sec) 
+			o 2650   10.717000(sec) 
+		o 2650(0)
+	*********UB=2650(0)  410.63(cpu sec)
+		ov=2650 ext=2142 depth=540 LB=2637.86 UB=2650
+		ov=2650 ext=2147 depth=540 LB=2637.86 UB=2650
+		 deleted columns by history 1 300
+		ov=2650 ext=2154 depth=540 LB=2637.86 UB=2650
+		 deleted columns by history 1 300
+		ov=2650 ext=2154 depth=540 LB=2637.86 UB=2650
+		 deleted compress_columns by node 50
+		branch_node_map.size()=23
+		411.762000(cpu sec)	Selecting Child Node De:4 N:46 D:12 Y:0 Obj:2637.86
+		Fractionals=1908 out of 19250 ratio=9.91169 root ratio=9.66753
+		 deleted compress_columns by node 29
+		 deleted compress_columns by node 7
+		Adding Node De:5 N:72 D:12 Y:0 Obj:2637.86
+		412.388000(cpu sec)	Selecting Child Node De:5 N:72 D:12 Y:1 Obj:2637.86
+		Fractionals=1895 out of 19250 ratio=9.84416 root ratio=9.66753
+		 deleted compress_columns by node 5
+		 deleted compress_columns by node 36
+		Adding Node De:6 N:43 D:12 Y:1 Obj:2637.86
+		412.922000(cpu sec)	Selecting Child Node De:6 N:43 D:12 Y:0 Obj:2637.86
+		Fractionals=1881 out of 19250 ratio=9.77143 root ratio=9.66753
+		 deleted compress_columns by node 9
+		 deleted compress_columns by node 48
+		Adding Node De:7 N:34 D:12 Y:0 Obj:2637.86
+		413.611000(cpu sec)	Selecting Child Node De:7 N:34 D:12 Y:1 Obj:2637.86
+		Fractionals=1861 out of 19250 ratio=9.66753 root ratio=9.66753
+		 deleted compress_columns by node 31
+		 deleted compress_columns by node 11
+		Adding Node De:8 N:76 D:12 Y:1 Obj:2637.86
+		414.264000(cpu sec)	Selecting Child Node De:8 N:76 D:12 Y:0 Obj:2637.86
+		Fractionals=1826 out of 19250 ratio=9.48571 root ratio=9.66753
+		 deleted compress_columns by node 28
+		 deleted compress_columns by node 17
+		Adding Node De:9 N:103 D:12 Y:0 Obj:2640
+		414.703000(cpu sec)	Selecting Child Node De:9 N:103 D:12 Y:1 Obj:2637.86
+		Fractionals=1804 out of 19250 ratio=9.37143 root ratio=9.66753
+		ov=2640 ext=4821 depth=10 LB=2637.86 UB=2650
+		ov=2640 ext=4822 depth=10 LB=2637.86 UB=2650
+		 deleted compress_columns by node 28
+		 deleted compress_columns by node 16
+		Adding Node De:10 N:86 D:12 Y:0 Obj:2640
+		415.372000(cpu sec)	Selecting Child Node De:10 N:86 D:12 Y:1 Obj:2640
+		Fractionals=1843 out of 19250 ratio=9.57403 root ratio=9.66753
+		 deleted compress_columns by node 37
+		 deleted compress_columns by node 19
+		Adding Node De:11 N:14 D:12 Y:1 Obj:2640
+		416.115000(cpu sec)	Selecting Child Node De:11 N:14 D:12 Y:0 Obj:2640
+		Fractionals=1853 out of 19250 ratio=9.62597 root ratio=9.66753
+		 deleted compress_columns by node 30
+		ov=2640 ext=4797 depth=12 LB=2637.86 UB=2650
+		 deleted compress_columns by node 20
+		Adding Node De:12 N:80 D:12 Y:1 Obj:2640
+		416.785000(cpu sec)	Selecting Child Node De:12 N:80 D:12 Y:0 Obj:2640
+		Fractionals=1805 out of 19250 ratio=9.37662 root ratio=9.66753
+		 deleted compress_columns by node 6
+		ov=2640 ext=4738 depth=13 LB=2637.86 UB=2650
+		 deleted compress_columns by node 33
+		Adding Node De:13 N:40 D:12 Y:1 Obj:2640
+		417.495000(cpu sec)	Selecting Child Node De:13 N:40 D:12 Y:0 Obj:2640
+		Fractionals=1762 out of 19250 ratio=9.15325 root ratio=9.66753
+		 deleted compress_columns by node 24
+		ov=2640 ext=4785 depth=14 LB=2637.86 UB=2650
+		 deleted compress_columns by node 23
+		Adding Node De:14 N:28 D:12 Y:1 Obj:2640
+		418.505000(cpu sec)	Selecting Child Node De:14 N:28 D:12 Y:0 Obj:2640
+		Fractionals=1796 out of 19250 ratio=9.32987 root ratio=9.66753
+		 deleted compress_columns by node 2
+		 deleted compress_columns by node 37
+		Adding Node De:15 N:55 D:12 Y:0 Obj:2640
+		419.231000(cpu sec)	Selecting Child Node De:15 N:55 D:12 Y:1 Obj:2640
+		Fractionals=1786 out of 19250 ratio=9.27792 root ratio=9.66753
+		 deleted compress_columns by node 8
+		 deleted compress_columns by node 29
+		Adding Node De:16 N:75 D:12 Y:1 Obj:2640
+		419.903000(cpu sec)	Selecting Child Node De:16 N:75 D:12 Y:0 Obj:2640
+		Fractionals=1805 out of 19250 ratio=9.37662 root ratio=9.66753
+		 deleted compress_columns by node 33
+		 deleted compress_columns by node 29
+		Adding Node De:17 N:7 D:12 Y:0 Obj:2640
+		420.521000(cpu sec)	Selecting Child Node De:17 N:7 D:12 Y:1 Obj:2640
+		Fractionals=1826 out of 19250 ratio=9.48571 root ratio=9.66753
+		 deleted compress_columns by node 13
+		 deleted compress_columns by node 42
+		Adding Node De:18 N:11 D:12 Y:1 Obj:2640
+		421.209000(cpu sec)	Selecting Child Node De:18 N:11 D:12 Y:0 Obj:2640
+		Fractionals=1826 out of 19250 ratio=9.48571 root ratio=9.66753
+		 deleted compress_columns by node 5
+		ov=2641.52 ext=4761 depth=19 LB=2637.86 UB=2650
+		ov=2640 ext=4818 depth=19 LB=2637.86 UB=2650
+		 deleted compress_columns by node 33
+		Adding Node De:19 N:50 D:12 Y:0 Obj:2640
+		422.641000(cpu sec)	Selecting Child Node De:19 N:50 D:12 Y:1 Obj:2640
+		Fractionals=1812 out of 19250 ratio=9.41299 root ratio=9.66753
+		 deleted compress_columns by node 10
+		ov=2640.96 ext=4756 depth=20 LB=2637.86 UB=2650
+		ov=2640 ext=4819 depth=20 LB=2637.86 UB=2650
+		 deleted compress_columns by node 31
+		Adding Node De:20 N:48 D:12 Y:0 Obj:2640
+		424.059000(cpu sec)	Selecting Child Node De:20 N:48 D:12 Y:1 Obj:2640
+		Fractionals=1805 out of 19250 ratio=9.37662 root ratio=9.66753
+		 deleted compress_columns by node 42
+		ov=2640 ext=4746 depth=21 LB=2637.86 UB=2650
+		 deleted compress_columns by node 17
+		Adding Node De:21 N:18 D:12 Y:1 Obj:2640
+		425.209000(cpu sec)	Selecting Child Node De:21 N:18 D:12 Y:0 Obj:2640
+		Fractionals=1806 out of 19250 ratio=9.38182 root ratio=9.66753
+		 deleted compress_columns by node 45
+		ov=2640 ext=4801 depth=22 LB=2637.86 UB=2650
+		 deleted compress_columns by node 10
+		Adding Node De:22 N:39 D:12 Y:0 Obj:2640
+		426.387000(cpu sec)	Selecting Child Node De:22 N:39 D:12 Y:1 Obj:2640
+		Fractionals=1797 out of 19250 ratio=9.33506 root ratio=9.66753
+		 deleted compress_columns by node 15
+		ov=2640.07 ext=4764 depth=23 LB=2637.86 UB=2650
+		ov=2640 ext=4803 depth=23 LB=2637.86 UB=2650
+		ov=2640 ext=4804 depth=23 LB=2637.86 UB=2650
+		 deleted compress_columns by node 29
+		Adding Node De:23 N:70 D:12 Y:0 Obj:2640
+		427.914000(cpu sec)	Selecting Child Node De:23 N:70 D:12 Y:1 Obj:2640
+		Fractionals=1785 out of 19250 ratio=9.27273 root ratio=9.66753
+		 deleted compress_columns by node 15
+		ov=2640 ext=4749 depth=24 LB=2637.86 UB=2650
+		 deleted compress_columns by node 29
+		Adding Node De:24 N:63 D:12 Y:0 Obj:2640
+		429.124000(cpu sec)	Selecting Child Node De:24 N:63 D:12 Y:1 Obj:2640
+		Fractionals=1792 out of 19250 ratio=9.30909 root ratio=9.66753
+		 deleted compress_columns by node 4
+		429.347000(cpu sec)	Selecting Child Node De:25 N:71 D:12 Y:1 Obj:2640
+		Fractionals=1788 out of 19250 ratio=9.28831 root ratio=9.66753
+		 deleted compress_columns by node 50
+		429.727000(cpu sec)	Selecting Child Node De:27 N:6 D:12 Y:0 Obj:2640
+		Fractionals=1745 out of 19250 ratio=9.06494 root ratio=9.66753
+		 deleted columns by history 3149 300
+		ov=2640 ext=1531 depth=30 LB=2637.86 UB=2650
+		 deleted compress_columns by node 15
+		430.611000(cpu sec)	Selecting Child Node De:30 N:8 D:12 Y:1 Obj:2640
+		Fractionals=1810 out of 19250 ratio=9.4026 root ratio=9.66753
+		 deleted compress_columns by node 18
+		430.855000(cpu sec)	Selecting Child Node De:34 N:79 D:13 Y:1 Obj:2640
+		Fractionals=1789 out of 19250 ratio=9.29351 root ratio=9.66753
+		 deleted columns by history 85 300
+		ov=2640 ext=1417 depth=39 LB=2637.86 UB=2650
+		 deleted compress_columns by node 12
+		431.242000(cpu sec)	Selecting Child Node De:39 N:43 D:13 Y:0 Obj:2640
+		Fractionals=1780 out of 19250 ratio=9.24675 root ratio=9.66753
+		 deleted columns by history 77 300
+		ov=2640 ext=1408 depth=45 LB=2637.86 UB=2650
+		 deleted compress_columns by node 37
+		431.789000(cpu sec)	Selecting Child Node De:45 N:79 D:19 Y:0 Obj:2640
+		Fractionals=1719 out of 19250 ratio=8.92987 root ratio=9.66753
+		 deleted columns by history 89 300
+		ov=2640 ext=1284 depth=52 LB=2637.86 UB=2650
+		 deleted columns by history 43 300
+		ov=2640 ext=1243 depth=52 LB=2637.86 UB=2650
+		 deleted compress_columns by node 25
+		432.294000(cpu sec)	Selecting Child Node De:52 N:64 D:19 Y:1 Obj:2640
+		Fractionals=1760 out of 19250 ratio=9.14286 root ratio=9.66753
+		 deleted compress_columns by node 43
+		432.603000(cpu sec)	Selecting Child Node De:60 N:20 D:19 Y:0 Obj:2640
+		Fractionals=1769 out of 19250 ratio=9.18961 root ratio=9.66753
+		 deleted columns by history 22 300
+		ov=2640 ext=1233 depth=69 LB=2637.86 UB=2650
+		 deleted compress_columns by node 34
+		433.104000(cpu sec)	Selecting Child Node De:69 N:70 D:19 Y:1 Obj:2640
+		Fractionals=1680 out of 19250 ratio=8.72727 root ratio=9.66753
+		 deleted columns by history 37 300
+		ov=2640 ext=1222 depth=79 LB=2637.86 UB=2650
+		 deleted compress_columns by node 44
+		433.626000(cpu sec)	Selecting Child Node De:79 N:7 D:19 Y:0 Obj:2640
+		Fractionals=1648 out of 19250 ratio=8.56104 root ratio=9.66753
+		 deleted columns by history 29 300
+		ov=2643.26 ext=1206 depth=90 LB=2637.86 UB=2650
+		 deleted columns by history 90 300
+		ov=2640 ext=1140 depth=90 LB=2637.86 UB=2650
+		 deleted columns by history 9 300
+		ov=2640 ext=1139 depth=90 LB=2637.86 UB=2650
+		 deleted compress_columns by node 42
+		434.564000(cpu sec)	Selecting Child Node De:90 N:26 D:20 Y:1 Obj:2640
+		Fractionals=1640 out of 19250 ratio=8.51948 root ratio=9.66753
+		ov=2640 ext=1127 depth=102 LB=2637.86 UB=2650
+		ov=2640 ext=1128 depth=102 LB=2637.86 UB=2650
+		ov=2640 ext=1131 depth=102 LB=2637.86 UB=2650
+		ov=2640 ext=1132 depth=102 LB=2637.86 UB=2650
+		 deleted compress_columns by node 41
+		435.304000(cpu sec)	Selecting Child Node De:102 N:100 D:33 Y:0 Obj:2640
+		Fractionals=1601 out of 19250 ratio=8.31688 root ratio=9.66753
+		ov=2641.35 ext=1201 depth=115 LB=2637.86 UB=2650
+		ov=2640.5 ext=1213 depth=115 LB=2637.86 UB=2650
+		ov=2640 ext=1240 depth=115 LB=2637.86 UB=2650
+		 deleted compress_columns by node 54
+		436.213000(cpu sec)	Selecting Child Node De:115 N:91 D:33 Y:1 Obj:2640
+		Fractionals=1636 out of 19250 ratio=8.4987 root ratio=9.66753
+		ov=2640 ext=1271 depth=129 LB=2637.86 UB=2650
+		ov=2640 ext=1274 depth=129 LB=2637.86 UB=2650
+		ov=2640 ext=1291 depth=129 LB=2637.86 UB=2650
+		 deleted compress_columns by node 62
+		437.025000(cpu sec)	Selecting Child Node De:129 N:15 D:33 Y:0 Obj:2640
+		Fractionals=1558 out of 19250 ratio=8.09351 root ratio=9.66753
+		ov=2640 ext=1337 depth=144 LB=2637.86 UB=2650
+		 deleted compress_columns by node 73
+		437.687000(cpu sec)	Selecting Child Node De:144 N:87 D:27 Y:1 Obj:2640
+		Fractionals=1551 out of 19250 ratio=8.05714 root ratio=9.66753
+		ov=2642.19 ext=1372 depth=160 LB=2637.86 UB=2650
+		ov=2640 ext=1422 depth=160 LB=2637.86 UB=2650
+		ov=2640 ext=1425 depth=160 LB=2637.86 UB=2650
+		 deleted compress_columns by node 81
+		438.625000(cpu sec)	Selecting Child Node De:160 N:27 D:27 Y:0 Obj:2640
+		Fractionals=1561 out of 19250 ratio=8.10909 root ratio=9.66753
+		ov=2640 ext=1424 depth=177 LB=2637.86 UB=2650
+		 deleted compress_columns by node 94
+		439.201000(cpu sec)	Selecting Child Node De:177 N:46 D:9 Y:1 Obj:2640
+		Fractionals=1498 out of 19250 ratio=7.78182 root ratio=9.66753
+		ov=2640 ext=1410 depth=195 LB=2637.86 UB=2650
+		 deleted compress_columns by node 86
+		439.835000(cpu sec)	Selecting Child Node De:195 N:22 D:30 Y:1 Obj:2640
+		Fractionals=1451 out of 19250 ratio=7.53766 root ratio=9.66753
+		ov=2640 ext=1386 depth=214 LB=2637.86 UB=2650
+		 deleted compress_columns by node 63
+		440.378000(cpu sec)	Selecting Child Node De:214 N:9 D:10 Y:0 Obj:2640
+		Fractionals=1459 out of 19250 ratio=7.57922 root ratio=9.66753
+		ov=2640 ext=1400 depth=234 LB=2637.86 UB=2650
+		ov=2640 ext=1401 depth=234 LB=2637.86 UB=2650
+		ov=2640 ext=1404 depth=234 LB=2637.86 UB=2650
+		 deleted compress_columns by node 105
+		441.255000(cpu sec)	Selecting Child Node De:234 N:31 D:8 Y:1 Obj:2640
+		Fractionals=1470 out of 19250 ratio=7.63636 root ratio=9.66753
+		ov=2640.13 ext=1379 depth=255 LB=2637.86 UB=2650
+		ov=2640 ext=1407 depth=255 LB=2637.86 UB=2650
+		ov=2640 ext=1413 depth=255 LB=2637.86 UB=2650
+		 deleted compress_columns by node 94
+		442.241000(cpu sec)	Selecting Child Node De:255 N:2 D:16 Y:0 Obj:2640
+		Fractionals=1413 out of 19250 ratio=7.34026 root ratio=9.66753
+	fixed lits=32431
+	Algorithm 1 Solving Process Started..
+			o 13960   2.681000(sec) 
+			o 13750   2.694000(sec) 
+			o 13650   4.312000(sec) 
+			o 13645   4.322000(sec) 
+			o 13545   4.332000(sec) 
+			o 13525   6.347000(sec) 
+			o 13495   6.387000(sec) 
+			o 13405   6.403000(sec) 
+			o 13350   6.418000(sec) 
+			o 13305   6.434000(sec) 
+			o 13250   6.453000(sec) 
+			o 13190   6.469000(sec) 
+			o 13085   6.482000(sec) 
+			o 13030   6.512000(sec) 
+			o 13005   6.541000(sec) 
+			o 12630   6.557000(sec) 
+			o 12520   6.589000(sec) 
+			o 12370   6.609000(sec) 
+			o 12310   6.625000(sec) 
+			o 12295   6.642000(sec) 
+			o 12220   6.656000(sec) 
+			o 12145   6.670000(sec) 
+			o 12130   6.684000(sec) 
+			o 12100   6.714000(sec) 
+			o 12090   6.728000(sec) 
+			o 11940   6.746000(sec) 
+			o 11740   6.783000(sec) 
+			o 11360   6.798000(sec) 
+			o 11210   6.817000(sec) 
+			o 11200   6.852000(sec) 
+			o 11160   6.888000(sec) 
+			o 11050   6.906000(sec) 
+			o 10980   7.017000(sec) 
+			o 10875   7.034000(sec) 
+			o 10805   7.078000(sec) 
+			o 10715   7.106000(sec) 
+			o 10680   7.143000(sec) 
+			o 10635   7.212000(sec) 
+			o 10595   7.230000(sec) 
+			o 10550   7.246000(sec) 
+			o 10445   7.297000(sec) 
+			o 10400   7.312000(sec) 
+			o 10385   7.328000(sec) 
+			o 10370   7.344000(sec) 
+			o 10325   7.359000(sec) 
+			o 10295   7.373000(sec) 
+			o 10205   7.388000(sec) 
+			o 10160   7.413000(sec) 
+			o 10070   7.462000(sec) 
+			o 10060   7.478000(sec) 
+			o 10045   7.492000(sec) 
+			o 9940   7.510000(sec) 
+			o 9910   7.526000(sec) 
+			o 9885   7.669000(sec) 
+			o 9870   7.684000(sec) 
+			o 9810   7.705000(sec) 
+			o 9735   7.725000(sec) 
+			o 9620   7.765000(sec) 
+			o 9560   7.780000(sec) 
+			o 9550   7.809000(sec) 
+			o 9505   7.864000(sec) 
+			o 9460   7.879000(sec) 
+			o 9405   7.894000(sec) 
+			o 9360   7.923000(sec) 
+			o 9265   7.938000(sec) 
+			o 9185   7.953000(sec) 
+			o 9140   7.968000(sec) 
+			o 9110   8.016000(sec) 
+			o 9065   8.034000(sec) 
+			o 9035   8.053000(sec) 
+			o 8980   8.071000(sec) 
+			o 8895   8.089000(sec) 
+			o 8855   8.104000(sec) 
+			o 8840   8.122000(sec) 
+			o 8825   8.189000(sec) 
+			o 8765   8.204000(sec) 
+			o 8720   8.219000(sec) 
+			o 8645   8.239000(sec) 
+			o 8635   8.254000(sec) 
+			o 8600   8.270000(sec) 
+			o 8550   8.286000(sec) 
+			o 8520   8.301000(sec) 
+			o 8490   8.317000(sec) 
+			o 8370   8.335000(sec) 
+			o 8340   8.350000(sec) 
+			o 8310   8.365000(sec) 
+			o 8280   8.383000(sec) 
+			o 8250   8.398000(sec) 
+			o 8225   8.413000(sec) 
+			o 8165   8.435000(sec) 
+			o 8130   8.467000(sec) 
+			o 8060   8.511000(sec) 
+			o 8030   8.527000(sec) 
+			o 8000   8.542000(sec) 
+			o 7940   8.626000(sec) 
+			o 7865   8.650000(sec) 
+			o 7835   8.672000(sec) 
+			o 7775   8.688000(sec) 
+			o 7765   8.704000(sec) 
+			o 7690   8.720000(sec) 
+			o 7635   8.736000(sec) 
+			o 7610   8.756000(sec) 
+			o 7555   11.420000(sec) 
+			o 7505   11.450000(sec) 
+			o 7465   11.474000(sec) 
+			o 7460   11.493000(sec) 
+			o 7370   11.601000(sec) 
+			o 7345   11.638000(sec) 
+			o 7295   11.661000(sec) 
+			o 7275   11.688000(sec) 
+			o 7145   11.736000(sec) 
+			o 7110   11.892000(sec) 
+			o 7095   11.919000(sec) 
+			o 6975   12.046000(sec) 
+			o 6850   12.068000(sec) 
+			o 6795   12.164000(sec) 
+			o 6715   12.806000(sec) 
+			o 6605   18.569000(sec) 
+			o 6590   30.898000(sec) 
+			o 6560   31.001000(sec) 
+			o 6470   31.019000(sec) 
+			o 6410   31.041000(sec) 
+			o 6305   31.066000(sec) 
+			o 6245   31.083000(sec) 
+			o 6230   31.102000(sec) 
+			o 6200   31.138000(sec) 
+			o 6155   31.156000(sec) 
+			o 6125   31.179000(sec) 
+			o 6110   31.203000(sec) 
+			o 6035   31.289000(sec) 
+			o 6005   31.323000(sec) 
+			o 5960   31.341000(sec) 
+			o 5915   31.366000(sec) 
+			o 5825   31.383000(sec) 
+			o 5750   31.402000(sec) 
+			o 5615   31.432000(sec) 
+			o 5555   31.450000(sec) 
+			o 5465   31.477000(sec) 
+			o 5450   31.494000(sec) 
+			o 5345   31.594000(sec) 
+			o 5240   31.621000(sec) 
+			o 5165   31.686000(sec) 
+			o 5150   31.706000(sec) 
+			o 5105   31.724000(sec) 
+			o 5045   31.744000(sec) 
+			o 4985   31.762000(sec) 
+			o 4895   31.785000(sec) 
+			o 4850   31.802000(sec) 
+			o 4805   31.884000(sec) 
+			o 4760   31.907000(sec) 
+			o 4680   31.935000(sec) 
+			o 4670   31.956000(sec) 
+			o 4535   31.976000(sec) 
+			o 4475   31.994000(sec) 
+			o 4415   32.013000(sec) 
+			o 4310   32.042000(sec) 
+			o 4250   32.061000(sec) 
+			o 4145   32.081000(sec) 
+			o 4100   32.109000(sec) 
+			o 4010   32.130000(sec) 
+			o 3965   32.161000(sec) 
+			o 3950   32.179000(sec) 
+			o 3920   32.204000(sec) 
+			o 3890   32.222000(sec) 
+			o 3830   32.241000(sec) 
+			o 3800   32.265000(sec) 
+			o 3755   32.282000(sec) 
+			o 3680   32.306000(sec) 
+			o 3665   32.329000(sec) 
+			o 3650   32.358000(sec) 
+			o 3590   32.381000(sec) 
+			o 3560   32.399000(sec) 
+			o 3530   32.434000(sec) 
+			o 3485   32.459000(sec) 
+			o 3455   32.507000(sec) 
+			o 3395   32.532000(sec) 
+			o 3320   32.550000(sec) 
+			o 3290   32.623000(sec) 
+			o 3275   32.640000(sec) 
+			o 3215   32.743000(sec) 
+			o 3200   32.813000(sec) 
+			o 3155   32.883000(sec) 
+			o 3125   32.904000(sec) 
+			o 3095   32.923000(sec) 
+			o 3005   32.983000(sec) 
+			o 2990   33.058000(sec) 
+			o 2975   33.079000(sec) 
+			o 2960   33.113000(sec) 
+			o 2945   33.131000(sec) 
+			o 2930   33.277000(sec) 
+			o 2900   33.303000(sec) 
+			o 2885   33.437000(sec) 
+			o 2870   33.470000(sec) 
+			o 2855   33.488000(sec) 
+			o 2825   33.705000(sec) 
+			o 2810   33.748000(sec) 
+			o 2795   33.772000(sec) 
+			o 2780   33.796000(sec) 
+			o 2765   35.416000(sec) 
+			o 2750   36.222000(sec) 
+			o 2735   39.711000(sec) 
+			o 2720   41.714000(sec) 
+			o 2705   41.829000(sec) 
+			o 2690   42.389000(sec) 
+			o 2670   42.947000(sec) 
+		ov=2640 ext=1399 depth=277 LB=2637.86 UB=2650
+		 deleted compress_columns by node 103
+		527.032000(cpu sec)	Selecting Child Node De:277 N:53 D:7 Y:1 Obj:2640
+		Fractionals=1413 out of 19250 ratio=7.34026 root ratio=9.66753
+		ov=2645.43 ext=1367 depth=300 LB=2637.86 UB=2650
+		ov=2641.44 ext=1422 depth=300 LB=2637.86 UB=2650
+		ov=2640.44 ext=1446 depth=300 LB=2637.86 UB=2650
+		ov=2640 ext=1509 depth=300 LB=2637.86 UB=2650
+		 deleted compress_columns by node 99
+		528.424000(cpu sec)	Selecting Child Node De:300 N:9 D:7 Y:1 Obj:2640
+		Fractionals=1378 out of 19250 ratio=7.15844 root ratio=9.66753
+		ov=2640 ext=1497 depth=324 LB=2637.86 UB=2650
+		 deleted compress_columns by node 121
+		529.172000(cpu sec)	Selecting Child Node De:324 N:29 D:24 Y:1 Obj:2640
+		Fractionals=1324 out of 19250 ratio=6.87792 root ratio=9.66753
+		ov=2642.97 ext=1479 depth=349 LB=2637.86 UB=2650
+		ov=2641.9 ext=1496 depth=349 LB=2637.86 UB=2650
+		ov=2640.79 ext=1530 depth=349 LB=2637.86 UB=2650
+		ov=2640 ext=1578 depth=349 LB=2637.86 UB=2650
+		ov=2640 ext=1585 depth=349 LB=2637.86 UB=2650
+		 deleted compress_columns by node 101
+		530.739000(cpu sec)	Selecting Child Node De:349 N:75 D:17 Y:1 Obj:2640
+		Fractionals=1353 out of 19250 ratio=7.02857 root ratio=9.66753
+		ov=2640 ext=1560 depth=375 LB=2637.86 UB=2650
+		 deleted compress_columns by node 116
+		531.435000(cpu sec)	Selecting Child Node De:375 N:4 D:17 Y:1 Obj:2640
+		Fractionals=1336 out of 19250 ratio=6.94026 root ratio=9.66753
+		ov=2650 ext=1494 depth=402 LB=2637.86 UB=2650
+		 deleted compress_columns by node 132
+		 deleted compress_columns by node 5
+		532.366000(cpu sec)	Selecting Child Node De:376 N:26 D:7 Y:1 Obj:2640
+		Fractionals=1297 out of 19250 ratio=6.73766 root ratio=9.66753
+		ov=2640 ext=1447 depth=378 LB=2637.86 UB=2650
+		ov=2640 ext=1450 depth=378 LB=2637.86 UB=2650
+		 deleted compress_columns by node 10
+		532.861000(cpu sec)	Selecting Child Node De:378 N:43 D:14 Y:1 Obj:2640
+		Fractionals=1272 out of 19250 ratio=6.60779 root ratio=9.66753
+		ov=2640 ext=1467 depth=381 LB=2637.86 UB=2650
+		ov=2640 ext=1472 depth=381 LB=2637.86 UB=2650
+		ov=2640 ext=1473 depth=381 LB=2637.86 UB=2650
+		 deleted compress_columns by node 11
+		533.555000(cpu sec)	Selecting Child Node De:381 N:72 D:17 Y:1 Obj:2640
+		Fractionals=1244 out of 19250 ratio=6.46234 root ratio=9.66753
+		ov=2640 ext=1520 depth=385 LB=2637.86 UB=2650
+		ov=2640 ext=1522 depth=385 LB=2637.86 UB=2650
+		 deleted compress_columns by node 19
+		534.309000(cpu sec)	Selecting Child Node De:385 N:41 D:18 Y:1 Obj:2640
+		Fractionals=1243 out of 19250 ratio=6.45714 root ratio=9.66753
+		ov=2640 ext=1507 depth=390 LB=2637.86 UB=2650
+		 deleted compress_columns by node 9
+		534.924000(cpu sec)	Selecting Child Node De:390 N:5 D:24 Y:0 Obj:2640
+		Fractionals=1227 out of 19250 ratio=6.37403 root ratio=9.66753
+		ov=2640 ext=1509 depth=396 LB=2637.86 UB=2650
+		ov=2640 ext=1514 depth=396 LB=2637.86 UB=2650
+		ov=2640 ext=1518 depth=396 LB=2637.86 UB=2650
+		ov=2640 ext=1519 depth=396 LB=2637.86 UB=2650
+		ov=2640 ext=1520 depth=396 LB=2637.86 UB=2650
+		ov=2640 ext=1521 depth=396 LB=2637.86 UB=2650
+		ov=2640 ext=1522 depth=396 LB=2637.86 UB=2650
+		 deleted compress_columns by node 32
+		536.110000(cpu sec)	Selecting Child Node De:396 N:98 D:25 Y:0 Obj:2640
+		Fractionals=1221 out of 19250 ratio=6.34286 root ratio=9.66753
+		ov=2640 ext=1521 depth=403 LB=2637.86 UB=2650
+		ov=2640 ext=1522 depth=403 LB=2637.86 UB=2650
+		ov=2640 ext=1530 depth=403 LB=2637.86 UB=2650
+		ov=2640 ext=1531 depth=403 LB=2637.86 UB=2650
+		ov=2640 ext=1532 depth=403 LB=2637.86 UB=2650
+		 deleted compress_columns by node 47
+		537.078000(cpu sec)	Selecting Child Node De:403 N:94 D:25 Y:0 Obj:2640
+		Fractionals=1188 out of 19250 ratio=6.17143 root ratio=9.66753
+		ov=2640 ext=1568 depth=411 LB=2637.86 UB=2650
+		 deleted compress_columns by node 26
+		537.733000(cpu sec)	Selecting Child Node De:411 N:0 D:25 Y:0 Obj:2640
+		Fractionals=1220 out of 19250 ratio=6.33766 root ratio=9.66753
+		ov=2640 ext=1561 depth=420 LB=2637.86 UB=2650
+		ov=2640 ext=1565 depth=420 LB=2637.86 UB=2650
+		ov=2640 ext=1573 depth=420 LB=2637.86 UB=2650
+		ov=2640 ext=1574 depth=420 LB=2637.86 UB=2650
+		 deleted compress_columns by node 37
+		538.682000(cpu sec)	Selecting Child Node De:420 N:105 D:18 Y:0 Obj:2640
+		Fractionals=1218 out of 19250 ratio=6.32727 root ratio=9.66753
+		ov=2640 ext=1646 depth=430 LB=2637.86 UB=2650
+		ov=2640 ext=1648 depth=430 LB=2637.86 UB=2650
+		 deleted compress_columns by node 51
+		539.526000(cpu sec)	Selecting Child Node De:430 N:88 D:18 Y:0 Obj:2640
+		Fractionals=1209 out of 19250 ratio=6.28052 root ratio=9.66753
+		ov=2640 ext=1670 depth=441 LB=2637.86 UB=2650
+		 deleted compress_columns by node 56
+		540.145000(cpu sec)	Selecting Child Node De:441 N:10 D:22 Y:1 Obj:2640
+		Fractionals=1182 out of 19250 ratio=6.14026 root ratio=9.66753
+		ov=2640 ext=1655 depth=453 LB=2637.86 UB=2650
+		ov=2640 ext=1657 depth=453 LB=2637.86 UB=2650
+		ov=2640 ext=1660 depth=453 LB=2637.86 UB=2650
+		ov=2640 ext=1679 depth=453 LB=2637.86 UB=2650
+		ov=2640 ext=1682 depth=453 LB=2637.86 UB=2650
+		ov=2640 ext=1685 depth=453 LB=2637.86 UB=2650
+		ov=2640 ext=1695 depth=453 LB=2637.86 UB=2650
+		ov=2640 ext=1696 depth=453 LB=2637.86 UB=2650
+		 deleted compress_columns by node 113
+		541.728000(cpu sec)	Selecting Child Node De:453 N:79 D:21 Y:1 Obj:2640
+		Fractionals=1219 out of 19250 ratio=6.33247 root ratio=9.66753
+		ov=2640 ext=1629 depth=466 LB=2637.86 UB=2650
+		ov=2640 ext=1630 depth=466 LB=2637.86 UB=2650
+		ov=2640 ext=1631 depth=466 LB=2637.86 UB=2650
+		ov=2640 ext=1639 depth=466 LB=2637.86 UB=2650
+		ov=2640 ext=1644 depth=466 LB=2637.86 UB=2650
+		ov=2640 ext=1650 depth=466 LB=2637.86 UB=2650
+		 deleted compress_columns by node 74
+		543.014000(cpu sec)	Selecting Child Node De:466 N:45 D:21 Y:1 Obj:2640
+		Fractionals=1152 out of 19250 ratio=5.98442 root ratio=9.66753
+		ov=2640 ext=1625 depth=480 LB=2637.86 UB=2650
+		ov=2640 ext=1628 depth=480 LB=2637.86 UB=2650
+		ov=2640 ext=1630 depth=480 LB=2637.86 UB=2650
+		 deleted compress_columns by node 61
+		543.932000(cpu sec)	Selecting Child Node De:480 N:13 D:31 Y:1 Obj:2640
+		Fractionals=1209 out of 19250 ratio=6.28052 root ratio=9.66753
+		ov=2640 ext=1610 depth=495 LB=2637.86 UB=2650
+		ov=2640 ext=1611 depth=495 LB=2637.86 UB=2650
+		ov=2640 ext=1612 depth=495 LB=2637.86 UB=2650
+		ov=2640 ext=1621 depth=495 LB=2637.86 UB=2650
+		ov=2640 ext=1622 depth=495 LB=2637.86 UB=2650
+		ov=2640 ext=1624 depth=495 LB=2637.86 UB=2650
+		ov=2640 ext=1625 depth=495 LB=2637.86 UB=2650
+		 deleted compress_columns by node 78
+		545.232000(cpu sec)	Selecting Child Node De:495 N:30 D:28 Y:1 Obj:2640
+		Fractionals=1189 out of 19250 ratio=6.17662 root ratio=9.66753
+		ov=2640 ext=1591 depth=511 LB=2637.86 UB=2650
+		ov=2640 ext=1594 depth=511 LB=2637.86 UB=2650
+		ov=2640 ext=1603 depth=511 LB=2637.86 UB=2650
+		ov=2640 ext=1609 depth=511 LB=2637.86 UB=2650
+		ov=2640 ext=1612 depth=511 LB=2637.86 UB=2650
+		 deleted compress_columns by node 123
+		546.465000(cpu sec)	Selecting Child Node De:511 N:6 D:32 Y:0 Obj:2640
+		Fractionals=1132 out of 19250 ratio=5.88052 root ratio=9.66753
+		ov=2640 ext=1529 depth=515 LB=2637.86 UB=2650
+		ov=2640 ext=1530 depth=515 LB=2637.86 UB=2650
+		ov=2640 ext=1531 depth=515 LB=2637.86 UB=2650
+		ov=2640 ext=1534 depth=515 LB=2637.86 UB=2650
+		ov=2640 ext=1538 depth=515 LB=2637.86 UB=2650
+		ov=2640 ext=1539 depth=515 LB=2637.86 UB=2650
+		ov=2640 ext=1541 depth=515 LB=2637.86 UB=2650
+		 deleted compress_columns by node 36
+		547.915000(cpu sec)	Selecting Child Node De:515 N:13 D:32 Y:1 Obj:2640
+		Fractionals=1108 out of 19250 ratio=5.75584 root ratio=9.66753
+		Fractionals=1108 out of 19250 ratio=5.75584 root ratio=9.66753
+		ov=2855.14 ext=1615 depth=533 LB=2637.86 UB=2650
+		ov=2812.03 ext=1709 depth=533 LB=2637.86 UB=2650
+		ov=2794.35 ext=1744 depth=533 LB=2637.86 UB=2650
+		ov=2782.53 ext=1779 depth=533 LB=2637.86 UB=2650
+		ov=2779.08 ext=1794 depth=533 LB=2637.86 UB=2650
+		ov=2777.58 ext=1810 depth=533 LB=2637.86 UB=2650
+		ov=2769.11 ext=1872 depth=533 LB=2637.86 UB=2650
+		ov=2768.83 ext=1888 depth=533 LB=2637.86 UB=2650
+		ov=2766.81 ext=1936 depth=533 LB=2637.86 UB=2650
+		ov=2765.17 ext=2001 depth=533 LB=2637.86 UB=2650
+		ov=2765 ext=2064 depth=533 LB=2637.86 UB=2650
+		ov=2765 ext=2067 depth=533 LB=2637.86 UB=2650
+		ov=2765 ext=2068 depth=533 LB=2637.86 UB=2650
+		ov=2765 ext=2072 depth=533 LB=2637.86 UB=2650
+		 deleted compress_columns by node 263
+		ov=2640 ext=1507 depth=516 LB=2637.86 UB=2650
+		ov=2640 ext=1509 depth=516 LB=2637.86 UB=2650
+		ov=2640 ext=1513 depth=516 LB=2637.86 UB=2650
+		ov=2640 ext=1514 depth=516 LB=2637.86 UB=2650
+		 deleted compress_columns by node 10
+		552.427000(cpu sec)	Selecting Child Node De:516 N:66 D:12 Y:1 Obj:2640
+		Fractionals=1115 out of 19250 ratio=5.79221 root ratio=9.66753
+		ov=2640 ext=1509 depth=518 LB=2637.86 UB=2650
+		ov=2640 ext=1510 depth=518 LB=2637.86 UB=2650
+		 deleted compress_columns by node 13
+		553.070000(cpu sec)	Selecting Child Node De:518 N:83 D:12 Y:1 Obj:2640
+		Fractionals=1108 out of 19250 ratio=5.75584 root ratio=9.66753
+		ov=2640 ext=1577 depth=521 LB=2637.86 UB=2650
+		ov=2640 ext=1578 depth=521 LB=2637.86 UB=2650
+		ov=2640 ext=1581 depth=521 LB=2637.86 UB=2650
+		 deleted compress_columns by node 16
+		554.035000(cpu sec)	Selecting Child Node De:521 N:43 D:12 Y:1 Obj:2640
+		Fractionals=1102 out of 19250 ratio=5.72468 root ratio=9.66753
+		ov=2640.51 ext=1608 depth=525 LB=2637.86 UB=2650
+		ov=2640 ext=1658 depth=525 LB=2637.86 UB=2650
+		ov=2640 ext=1660 depth=525 LB=2637.86 UB=2650
+		ov=2640 ext=1664 depth=525 LB=2637.86 UB=2650
+		ov=2640 ext=1666 depth=525 LB=2637.86 UB=2650
+		ov=2640 ext=1671 depth=525 LB=2637.86 UB=2650
+		ov=2640 ext=1672 depth=525 LB=2637.86 UB=2650
+		 deleted compress_columns by node 31
+		555.731000(cpu sec)	Selecting Child Node De:525 N:89 D:12 Y:1 Obj:2640
+		Fractionals=1073 out of 19250 ratio=5.57403 root ratio=9.66753
+		ov=2687.87 ext=1746 depth=530 LB=2637.86 UB=2650
+		ov=2679.48 ext=1784 depth=530 LB=2637.86 UB=2650
+		ov=2678.13 ext=1820 depth=530 LB=2637.86 UB=2650
+		ov=2678.03 ext=1866 depth=530 LB=2637.86 UB=2650
+		ov=2677.86 ext=1874 depth=530 LB=2637.86 UB=2650
+		 deleted compress_columns by node 81
+		ov=2640 ext=1674 depth=526 LB=2637.86 UB=2650
+		ov=2640 ext=1682 depth=526 LB=2637.86 UB=2650
+		 deleted compress_columns by node 8
+		557.972000(cpu sec)	Selecting Child Node De:526 N:80 D:12 Y:1 Obj:2640
+		Fractionals=1088 out of 19250 ratio=5.65195 root ratio=9.66753
+		ov=2673.23 ext=1726 depth=528 LB=2637.86 UB=2650
+		ov=2670.66 ext=1795 depth=528 LB=2637.86 UB=2650
+		ov=2670 ext=1836 depth=528 LB=2637.86 UB=2650
+		ov=2670 ext=1837 depth=528 LB=2637.86 UB=2650
+		 deleted compress_columns by node 43
+		ov=2640 ext=1675 depth=527 LB=2637.86 UB=2650
+		ov=2640 ext=1678 depth=527 LB=2637.86 UB=2650
+		ov=2640 ext=1682 depth=527 LB=2637.86 UB=2650
+		 deleted compress_columns by node 26
+		559.978000(cpu sec)	Selecting Child Node De:527 N:54 D:12 Y:1 Obj:2640
+		Fractionals=1108 out of 19250 ratio=5.75584 root ratio=9.66753
+		ov=2653.83 ext=1732 depth=529 LB=2637.86 UB=2650
+		ov=2651.56 ext=1766 depth=529 LB=2637.86 UB=2650
+		ov=2648.33 ext=1809 depth=529 LB=2637.86 UB=2650
+		ov=2648.33 ext=1810 depth=529 LB=2637.86 UB=2650
+		ov=2648.33 ext=1813 depth=529 LB=2637.86 UB=2650
+		 deleted compress_columns by node 33
+		ov=2652.53 ext=1734 depth=528 LB=2637.86 UB=2650
+		ov=2650.22 ext=1769 depth=528 LB=2637.86 UB=2650
+		ov=2647.88 ext=1810 depth=528 LB=2637.86 UB=2650
+		ov=2647.5 ext=1850 depth=528 LB=2637.86 UB=2650
+		 deleted compress_columns by node 19
+		 deleted compress_columns by node 11
+		563.195000(cpu sec)	Selecting Child Node De:528 N:76 D:12 Y:1 Obj:2640
+		Fractionals=1101 out of 19250 ratio=5.71948 root ratio=9.66753
+		ov=2652.31 ext=1723 depth=529 LB=2637.86 UB=2650
+		ov=2647.91 ext=1757 depth=529 LB=2637.86 UB=2650
+		ov=2647.5 ext=1778 depth=529 LB=2637.86 UB=2650
+		ov=2647.5 ext=1780 depth=529 LB=2637.86 UB=2650
+		ov=2647.5 ext=1781 depth=529 LB=2637.86 UB=2650
+		ov=2647.5 ext=1784 depth=529 LB=2637.86 UB=2650
+		 deleted compress_columns by node 21
+		ov=2640 ext=1648 depth=529 LB=2637.86 UB=2650
+		ov=2640 ext=1649 depth=529 LB=2637.86 UB=2650
+		ov=2640 ext=1650 depth=529 LB=2637.86 UB=2650
+		ov=2640 ext=1652 depth=529 LB=2637.86 UB=2650
+		 deleted compress_columns by node 17
+		565.457000(cpu sec)	Selecting Child Node De:529 N:78 D:12 Y:1 Obj:2640
+		Fractionals=1100 out of 19250 ratio=5.71429 root ratio=9.66753
+		ov=2640 ext=1638 depth=530 LB=2637.86 UB=2650
+		 deleted compress_columns by node 14
+		565.918000(cpu sec)	Selecting Child Node De:530 N:15 D:12 Y:1 Obj:2640
+		Fractionals=1056 out of 19250 ratio=5.48571 root ratio=9.66753
+		ov=2640 ext=1668 depth=532 LB=2637.86 UB=2650
+		 deleted compress_columns by node 50
+		566.497000(cpu sec)	Selecting Child Node De:532 N:29 D:12 Y:1 Obj:2640
+		Fractionals=1066 out of 19250 ratio=5.53766 root ratio=9.66753
+		ov=2640 ext=1628 depth=535 LB=2637.86 UB=2650
+		ov=2640 ext=1630 depth=535 LB=2637.86 UB=2650
+		ov=2640 ext=1633 depth=535 LB=2637.86 UB=2650
+		ov=2640 ext=1634 depth=535 LB=2637.86 UB=2650
+		 deleted compress_columns by node 13
+		567.311000(cpu sec)	Selecting Child Node De:535 N:34 D:13 Y:1 Obj:2640
+		Fractionals=1050 out of 19250 ratio=5.45455 root ratio=9.66753
+		ov=2658.75 ext=1652 depth=539 LB=2637.86 UB=2650
+		ov=2658.58 ext=1668 depth=539 LB=2637.86 UB=2650
+		ov=2658.42 ext=1695 depth=539 LB=2637.86 UB=2650
+		ov=2658.33 ext=1702 depth=539 LB=2637.86 UB=2650
+		ov=2658.13 ext=1703 depth=539 LB=2637.86 UB=2650
+		 deleted compress_columns by node 30
+		ov=2640 ext=1629 depth=536 LB=2637.86 UB=2650
+		ov=2640 ext=1633 depth=536 LB=2637.86 UB=2650
+		ov=2640 ext=1634 depth=536 LB=2637.86 UB=2650
+		 deleted compress_columns by node 15
+		568.970000(cpu sec)	Selecting Child Node De:536 N:92 D:13 Y:1 Obj:2640
+		Fractionals=1045 out of 19250 ratio=5.42857 root ratio=9.66753
+		ov=2640 ext=1621 depth=538 LB=2637.86 UB=2650
+		ov=2640 ext=1622 depth=538 LB=2637.86 UB=2650
+		 deleted compress_columns by node 14
+		569.519000(cpu sec)	Selecting Child Node De:538 N:26 D:26 Y:1 Obj:2640
+		Fractionals=1008 out of 19250 ratio=5.23636 root ratio=9.66753
+		ov=2640 ext=1651 depth=541 LB=2637.86 UB=2650
+		 deleted compress_columns by node 36
+		570.191000(cpu sec)	Selecting Child Node De:541 N:44 D:26 Y:1 Obj:2640
+		Fractionals=1007 out of 19250 ratio=5.23117 root ratio=9.66753
+		ov=2640.09 ext=1687 depth=545 LB=2637.86 UB=2650
+		ov=2640 ext=1704 depth=545 LB=2637.86 UB=2650
+		 deleted compress_columns by node 41
+		571.101000(cpu sec)	Selecting Child Node De:545 N:17 D:26 Y:1 Obj:2640
+		Fractionals=980 out of 19250 ratio=5.09091 root ratio=9.66753
+		ov=2686.95 ext=1737 depth=550 LB=2637.86 UB=2650
+		ov=2682.18 ext=1766 depth=550 LB=2637.86 UB=2650
+		ov=2675.47 ext=1802 depth=550 LB=2637.86 UB=2650
+		ov=2662.53 ext=1859 depth=550 LB=2637.86 UB=2650
+		ov=2661.31 ext=1876 depth=550 LB=2637.86 UB=2650
+		ov=2660 ext=1915 depth=550 LB=2637.86 UB=2650
+		ov=2660 ext=1920 depth=550 LB=2637.86 UB=2650
+		ov=2660 ext=1922 depth=550 LB=2637.86 UB=2650
+		ov=2660 ext=1923 depth=550 LB=2637.86 UB=2650
+		 deleted compress_columns by node 44
+		ov=2640 ext=1665 depth=546 LB=2637.86 UB=2650
+		ov=2640 ext=1666 depth=546 LB=2637.86 UB=2650
+		ov=2640 ext=1669 depth=546 LB=2637.86 UB=2650
+		 deleted compress_columns by node 3
+		574.037000(cpu sec)	Selecting Child Node De:546 N:99 D:26 Y:1 Obj:2640
+		Fractionals=962 out of 19250 ratio=4.9974 root ratio=9.66753
+		ov=2640 ext=1709 depth=548 LB=2637.86 UB=2650
+		ov=2640 ext=1715 depth=548 LB=2637.86 UB=2650
+		ov=2640 ext=1717 depth=548 LB=2637.86 UB=2650
+		 deleted compress_columns by node 21
+		574.957000(cpu sec)	Selecting Child Node De:548 N:31 D:26 Y:1 Obj:2640
+		Fractionals=992 out of 19250 ratio=5.15325 root ratio=9.66753
+		ov=2670 ext=1698 depth=551 LB=2637.86 UB=2650
+		ov=2670 ext=1700 depth=551 LB=2637.86 UB=2650
+		ov=2670 ext=1704 depth=551 LB=2637.86 UB=2650
+		ov=2670 ext=1715 depth=551 LB=2637.86 UB=2650
+		ov=2670 ext=1717 depth=551 LB=2637.86 UB=2650
+		 deleted compress_columns by node 44
+		ov=2640 ext=1702 depth=549 LB=2637.86 UB=2650
+		ov=2640 ext=1704 depth=549 LB=2637.86 UB=2650
+		 deleted compress_columns by node 7
+		576.591000(cpu sec)	Selecting Child Node De:549 N:55 D:26 Y:1 Obj:2640
+		Fractionals=973 out of 19250 ratio=5.05455 root ratio=9.66753
+		ov=2640 ext=1700 depth=551 LB=2637.86 UB=2650
+		ov=2640 ext=1702 depth=551 LB=2637.86 UB=2650
+		ov=2640 ext=1703 depth=551 LB=2637.86 UB=2650
+		ov=2640 ext=1704 depth=551 LB=2637.86 UB=2650
+		 deleted compress_columns by node 35
+		577.349000(cpu sec)	Selecting Child Node De:551 N:77 D:26 Y:1 Obj:2640
+		Fractionals=955 out of 19250 ratio=4.96104 root ratio=9.66753
+		ov=2670 ext=1680 depth=554 LB=2637.86 UB=2650
+		ov=2670 ext=1684 depth=554 LB=2637.86 UB=2650
+		ov=2670 ext=1686 depth=554 LB=2637.86 UB=2650
+		ov=2670 ext=1688 depth=554 LB=2637.86 UB=2650
+		ov=2670 ext=1691 depth=554 LB=2637.86 UB=2650
+		ov=2670 ext=1693 depth=554 LB=2637.86 UB=2650
+		ov=2670 ext=1694 depth=554 LB=2637.86 UB=2650
+		 deleted compress_columns by node 23
+		ov=2640 ext=1672 depth=552 LB=2637.86 UB=2650
+		ov=2640 ext=1673 depth=552 LB=2637.86 UB=2650
+		 deleted compress_columns by node 6
+		578.977000(cpu sec)	Selecting Child Node De:552 N:102 D:27 Y:1 Obj:2640
+		Fractionals=964 out of 19250 ratio=5.00779 root ratio=9.66753
+		ov=2640 ext=1755 depth=554 LB=2637.86 UB=2650
+		 deleted compress_columns by node 18
+		579.602000(cpu sec)	Selecting Child Node De:554 N:108 D:27 Y:1 Obj:2640
+		Fractionals=962 out of 19250 ratio=4.9974 root ratio=9.66753
+		ov=2670.22 ext=1810 depth=557 LB=2637.86 UB=2650
+		ov=2670 ext=1831 depth=557 LB=2637.86 UB=2650
+		ov=2670 ext=1837 depth=557 LB=2637.86 UB=2650
+		ov=2670 ext=1839 depth=557 LB=2637.86 UB=2650
+		ov=2670 ext=1841 depth=557 LB=2637.86 UB=2650
+		 deleted compress_columns by node 67
+		ov=2640 ext=1778 depth=555 LB=2637.86 UB=2650
+		 deleted compress_columns by node 31
+		581.526000(cpu sec)	Selecting Child Node De:555 N:33 D:26 Y:1 Obj:2640
+		Fractionals=955 out of 19250 ratio=4.96104 root ratio=9.66753
+		ov=2640 ext=1787 depth=557 LB=2637.86 UB=2650
+		 deleted compress_columns by node 39
+		582.291000(cpu sec)	Selecting Child Node De:557 N:16 D:26 Y:1 Obj:2640
+		Fractionals=948 out of 19250 ratio=4.92468 root ratio=9.66753
+		ov=2670 ext=1789 depth=560 LB=2637.86 UB=2650
+		ov=2664.1 ext=1790 depth=560 LB=2637.86 UB=2650
+		ov=2663.12 ext=1810 depth=560 LB=2637.86 UB=2650
+		ov=2657.25 ext=1886 depth=560 LB=2637.86 UB=2650
+		ov=2656.1 ext=1893 depth=560 LB=2637.86 UB=2650
+		ov=2655 ext=1929 depth=560 LB=2637.86 UB=2650
+		ov=2655 ext=1930 depth=560 LB=2637.86 UB=2650
+		 deleted compress_columns by node 35
+		ov=2640 ext=1793 depth=558 LB=2637.86 UB=2650
+		ov=2640 ext=1805 depth=558 LB=2637.86 UB=2650
+		ov=2640 ext=1807 depth=558 LB=2637.86 UB=2650
+		ov=2640 ext=1808 depth=558 LB=2637.86 UB=2650
+		ov=2640 ext=1810 depth=558 LB=2637.86 UB=2650
+		 deleted compress_columns by node 13
+		585.351000(cpu sec)	Selecting Child Node De:558 N:1 D:27 Y:1 Obj:2640
+		Fractionals=961 out of 19250 ratio=4.99221 root ratio=9.66753
+		ov=2640 ext=1847 depth=560 LB=2637.86 UB=2650
+		ov=2640 ext=1852 depth=560 LB=2637.86 UB=2650
+		ov=2640 ext=1857 depth=560 LB=2637.86 UB=2650
+		ov=2640 ext=1858 depth=560 LB=2637.86 UB=2650
+		 deleted compress_columns by node 23
+		586.428000(cpu sec)	Selecting Child Node De:560 N:7 D:27 Y:1 Obj:2640
+		Fractionals=955 out of 19250 ratio=4.96104 root ratio=9.66753
+		ov=2640 ext=1838 depth=563 LB=2637.86 UB=2650
+		ov=2640 ext=1840 depth=563 LB=2637.86 UB=2650
+		ov=2640 ext=1843 depth=563 LB=2637.86 UB=2650
+		ov=2640 ext=1846 depth=563 LB=2637.86 UB=2650
+		ov=2640 ext=1849 depth=563 LB=2637.86 UB=2650
+		ov=2640 ext=1850 depth=563 LB=2637.86 UB=2650
+		 deleted compress_columns by node 33
+		587.554000(cpu sec)	Selecting Child Node De:563 N:47 D:19 Y:1 Obj:2640
+		Fractionals=942 out of 19250 ratio=4.89351 root ratio=9.66753
+	fixed lits=34961
+	Algorithm 1 Solving Process Started..
+			o 10365   3.024000(sec) 
+			o 10335   3.036000(sec) 
+			o 10320   3.045000(sec) 
+			o 10305   3.053000(sec) 
+			o 9975   3.062000(sec) 
+			o 9945   3.304000(sec) 
+			o 9900   3.322000(sec) 
+			o 9855   3.339000(sec) 
+			o 9705   3.361000(sec) 
+			o 9660   4.649000(sec) 
+			o 9600   4.661000(sec) 
+			o 9585   4.672000(sec) 
+			o 9555   4.686000(sec) 
+			o 9450   4.700000(sec) 
+			o 9405   4.724000(sec) 
+			o 9345   4.737000(sec) 
+			o 9270   4.762000(sec) 
+			o 9180   4.775000(sec) 
+			o 9165   4.817000(sec) 
+			o 9045   4.831000(sec) 
+			o 8940   4.845000(sec) 
+			o 8910   4.857000(sec) 
+			o 8865   4.876000(sec) 
+			o 8835   4.894000(sec) 
+			o 8820   4.931000(sec) 
+			o 8790   4.943000(sec) 
+			o 8745   4.959000(sec) 
+			o 8685   4.981000(sec) 
+			o 8655   4.996000(sec) 
+			o 8595   5.008000(sec) 
+			o 8535   5.021000(sec) 
+			o 8460   5.057000(sec) 
+			o 8370   5.069000(sec) 
+			o 8160   5.083000(sec) 
+			o 8085   5.101000(sec) 
+			o 8040   5.113000(sec) 
+			o 8025   5.124000(sec) 
+			o 7980   5.135000(sec) 
+			o 7920   5.147000(sec) 
+			o 7905   5.160000(sec) 
+			o 7890   5.171000(sec) 
+			o 7845   5.187000(sec) 
+			o 7755   5.199000(sec) 
+			o 7710   5.220000(sec) 
+			o 7680   5.233000(sec) 
+			o 7665   5.247000(sec) 
+			o 7635   5.262000(sec) 
+			o 7620   5.273000(sec) 
+			o 7575   5.285000(sec) 
+			o 7545   5.296000(sec) 
+			o 7500   5.308000(sec) 
+			o 7410   5.332000(sec) 
+			o 7350   5.363000(sec) 
+			o 7335   5.374000(sec) 
+			o 7290   5.387000(sec) 
+			o 7245   5.402000(sec) 
+			o 7230   5.414000(sec) 
+			o 7170   5.432000(sec) 
+			o 7110   5.446000(sec) 
+			o 7080   5.458000(sec) 
+			o 7050   5.478000(sec) 
+			o 7035   5.490000(sec) 
+			o 7005   5.502000(sec) 
+			o 6975   5.514000(sec) 
+			o 6945   5.532000(sec) 
+			o 6900   5.544000(sec) 
+			o 6870   5.556000(sec) 
+			o 6810   5.587000(sec) 
+			o 6645   5.602000(sec) 
+			o 6630   5.619000(sec) 
+			o 6615   5.660000(sec) 
+			o 6585   5.691000(sec) 
+			o 6495   5.706000(sec) 
+			o 6450   5.735000(sec) 
+			o 6390   5.748000(sec) 
+			o 6300   5.763000(sec) 
+			o 6255   5.779000(sec) 
+			o 6210   5.812000(sec) 
+			o 6195   5.826000(sec) 
+			o 6180   5.842000(sec) 
+			o 6150   5.888000(sec) 
+			o 5955   5.903000(sec) 
+			o 5910   5.915000(sec) 
+			o 5745   5.989000(sec) 
+			o 5670   6.003000(sec) 
+			o 5595   6.024000(sec) 
+			o 5565   6.035000(sec) 
+			o 5535   6.056000(sec) 
+			o 5415   6.079000(sec) 
+			o 5370   6.106000(sec) 
+			o 5325   7.971000(sec) 
+			o 5310   9.930000(sec) 
+			o 5235   9.961000(sec) 
+			o 5115   9.986000(sec) 
+			o 5040   9.999000(sec) 
+			o 4995   10.012000(sec) 
+			o 4845   10.026000(sec) 
+			o 4800   10.042000(sec) 
+			o 4710   10.061000(sec) 
+			o 4665   10.075000(sec) 
+			o 4605   10.092000(sec) 
+			o 4560   10.104000(sec) 
+			o 4500   10.117000(sec) 
+			o 4470   10.129000(sec) 
+			o 4395   10.142000(sec) 
+			o 4350   10.155000(sec) 
+			o 4305   10.168000(sec) 
+			o 4080   10.185000(sec) 
+			o 4035   10.197000(sec) 
+			o 3960   10.215000(sec) 
+			o 3810   10.228000(sec) 
+			o 3750   10.243000(sec) 
+			o 3690   10.255000(sec) 
+			o 3600   10.268000(sec) 
+			o 3540   10.282000(sec) 
+			o 3510   10.295000(sec) 
+			o 3435   10.307000(sec) 
+			o 3375   10.320000(sec) 
+			o 3345   10.334000(sec) 
+			o 3300   10.353000(sec) 
+			o 3255   10.368000(sec) 
+			o 3195   10.381000(sec) 
+			o 3165   10.395000(sec) 
+			o 3120   10.408000(sec) 
+			o 3090   10.420000(sec) 
+			o 3060   10.438000(sec) 
+			o 3030   10.452000(sec) 
+			o 2985   10.465000(sec) 
+			o 2970   10.479000(sec) 
+			o 2910   10.492000(sec) 
+			o 2895   10.505000(sec) 
+			o 2850   10.518000(sec) 
+			o 2835   10.531000(sec) 
+			o 2805   10.547000(sec) 
+			o 2775   10.563000(sec) 
+			o 2745   10.576000(sec) 
+			o 2730   10.590000(sec) 
+			o 2715   10.603000(sec) 
+			o 2700   10.615000(sec) 
+			o 2685   10.643000(sec) 
+			o 2670   10.655000(sec) 
+			o 2655   10.670000(sec) 
+			o 2640   10.683000(sec) 
+		o 2640(0)
+	*********UB=2640(0)  601.358(cpu sec)
+		ov=2640 ext=1846 depth=567 LB=2637.86 UB=2640
+		 deleted compress_columns by node 39
+		branch_node_map.size()=40
+	Remaining objs
+		2637.86
+		2637.86
+		2637.86
+		2637.86
+		2637.86
+		2637.86
+		2637.86
+		2637.86
+		2637.86
+		2637.86
+		2638.64
+		2638.75
+		2640
+		2640
+		2640
+		2640
+		2640
+		2640
+		2640
+		2640
+		2640
+		2640
+		2640
+		2640
+		2640
+		2640
+		2640
+		2640
+		2640
+		2640
+		2640
+		2640
+		2640
+		2640
+		2640
+		2640
+		2640
+		2640
+		2650
+		Final LB=2638 UB=2640 602.285[sec]
+Finished solving process. 604 (sec)
+Getting Successful Result.
