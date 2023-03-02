@@ -1,0 +1,4991 @@
+{
+  "SO": {
+    "name": "Shift Objects",
+    "members": [
+      {
+        "use": true,
+        "name": "ShiftDef",
+        "def_name": "Work",
+        "auto_schedule": true,
+        "color": "Orange",
+        "label": "1234",
+        "another_labels": [
+          "",
+          ""
+        ],
+        "another_colors": [
+          "Gray",
+          "Gray"
+        ],
+        "num_cnt": 0,
+        "work_hours": -1
+      },
+      {
+        "use": true,
+        "name": "ShiftDef",
+        "def_name": "PH13",
+        "auto_schedule": true,
+        "color": "Cyan",
+        "label": "123",
+        "another_labels": [
+          "",
+          ""
+        ],
+        "another_colors": [
+          "Gray",
+          "Gray"
+        ],
+        "num_cnt": 0,
+        "work_hours": -1
+      },
+      {
+        "use": true,
+        "name": "ShiftDef",
+        "def_name": "PH24",
+        "auto_schedule": true,
+        "color": "LightBlue",
+        "label": "234",
+        "another_labels": [
+          "",
+          ""
+        ],
+        "another_colors": [
+          "Gray",
+          "Gray"
+        ],
+        "num_cnt": 0,
+        "work_hours": -1
+      },
+      {
+        "use": true,
+        "name": "ShiftDef",
+        "def_name": "PH12",
+        "auto_schedule": true,
+        "color": "GreenYellow",
+        "label": "12",
+        "another_labels": [
+          "",
+          ""
+        ],
+        "another_colors": [
+          "Gray",
+          "Gray"
+        ],
+        "num_cnt": 0,
+        "work_hours": -1
+      },
+      {
+        "use": true,
+        "name": "ShiftDef",
+        "def_name": "PH23",
+        "auto_schedule": true,
+        "color": "PaleGreen",
+        "label": "23",
+        "another_labels": [
+          "",
+          ""
+        ],
+        "another_colors": [
+          "Gray",
+          "Gray"
+        ],
+        "num_cnt": 0,
+        "work_hours": -1
+      },
+      {
+        "use": true,
+        "name": "ShiftDef",
+        "def_name": "PH34",
+        "auto_schedule": true,
+        "color": "LightGreen",
+        "label": "34",
+        "another_labels": [
+          "",
+          ""
+        ],
+        "another_colors": [
+          "Gray",
+          "Gray"
+        ],
+        "num_cnt": 0,
+        "work_hours": -1
+      },
+      {
+        "use": true,
+        "name": "ShiftDef",
+        "def_name": "Off",
+        "auto_schedule": true,
+        "color": "White",
+        "label": "休",
+        "another_labels": [
+          "",
+          ""
+        ],
+        "another_colors": [
+          "Gray",
+          "Gray"
+        ],
+        "num_cnt": 0,
+        "work_hours": -1
+      },
+      {
+        "use": false,
+        "name": "ShiftDef",
+        "def_name": "",
+        "auto_schedule": false,
+        "color": "",
+        "label": "",
+        "another_labels": [
+          "",
+          ""
+        ],
+        "another_colors": [
+          "",
+          ""
+        ],
+        "num_cnt": 0,
+        "work_hours": -1
+      },
+      {
+        "use": false,
+        "name": "ShiftDef",
+        "def_name": "PH0",
+        "auto_schedule": true,
+        "color": "Gray",
+        "label": "0",
+        "another_labels": [
+          "",
+          ""
+        ],
+        "another_colors": [
+          "Gray",
+          "Gray"
+        ],
+        "num_cnt": 0,
+        "work_hours": -1
+      },
+      {
+        "use": false,
+        "name": "ShiftDef",
+        "def_name": "PH1",
+        "auto_schedule": true,
+        "color": "Gray",
+        "label": "1",
+        "another_labels": [
+          "",
+          ""
+        ],
+        "another_colors": [
+          "Gray",
+          "Gray"
+        ],
+        "num_cnt": 0,
+        "work_hours": -1
+      },
+      {
+        "use": false,
+        "name": "ShiftDef",
+        "def_name": "PH2",
+        "auto_schedule": true,
+        "color": "Gray",
+        "label": "2",
+        "another_labels": [
+          "",
+          ""
+        ],
+        "another_colors": [
+          "Gray",
+          "Gray"
+        ],
+        "num_cnt": 0,
+        "work_hours": -1
+      },
+      {
+        "use": false,
+        "name": "ShiftDef",
+        "def_name": "PH3",
+        "auto_schedule": true,
+        "color": "Gray",
+        "label": "3",
+        "another_labels": [
+          "",
+          ""
+        ],
+        "another_colors": [
+          "Gray",
+          "Gray"
+        ],
+        "num_cnt": 0,
+        "work_hours": -1
+      }
+    ]
+  },
+  "DO": {
+    "days": 6,
+    "target_year": 2021,
+    "target_month": 11,
+    "members": [
+      {
+        "val": 0,
+        "name": "StartDate",
+        "def_name": "制約開始日",
+        "dates": [
+          "2021-11-01"
+        ],
+        "use": true,
+        "predefined": true
+      },
+      {
+        "val": 0,
+        "name": "FinishDate",
+        "def_name": "制約終了日",
+        "dates": [
+          "2021-11-06"
+        ],
+        "use": true,
+        "predefined": true
+      },
+      {
+        "val": 0,
+        "name": "StartDisplayDate",
+        "def_name": "表示開始日",
+        "dates": [
+          "2021-11-01"
+        ],
+        "use": true,
+        "predefined": true
+      },
+      {
+        "val": 0,
+        "name": "ThisMonth",
+        "def_name": "今月",
+        "dates": [
+          "2021-11-01",
+          "2021-11-02",
+          "2021-11-03",
+          "2021-11-04",
+          "2021-11-05",
+          "2021-11-06"
+        ],
+        "use": true,
+        "predefined": true
+      },
+      {
+        "val": 0,
+        "name": "SUN",
+        "def_name": "日",
+        "dates": [],
+        "use": true,
+        "predefined": true
+      },
+      {
+        "val": 0,
+        "name": "MON",
+        "def_name": "月",
+        "dates": [
+          "2021-11-01"
+        ],
+        "use": true,
+        "predefined": true
+      },
+      {
+        "val": 0,
+        "name": "TUE",
+        "def_name": "火",
+        "dates": [
+          "2021-11-02"
+        ],
+        "use": true,
+        "predefined": true
+      },
+      {
+        "val": 0,
+        "name": "WED",
+        "def_name": "水",
+        "dates": [
+          "2021-11-03"
+        ],
+        "use": true,
+        "predefined": true
+      },
+      {
+        "val": 0,
+        "name": "THU",
+        "def_name": "木",
+        "dates": [
+          "2021-11-04"
+        ],
+        "use": true,
+        "predefined": true
+      },
+      {
+        "val": 0,
+        "name": "FRI",
+        "def_name": "金",
+        "dates": [
+          "2021-11-05"
+        ],
+        "use": true,
+        "predefined": true
+      },
+      {
+        "val": 0,
+        "name": "SAT",
+        "def_name": "土",
+        "dates": [
+          "2021-11-06"
+        ],
+        "use": true,
+        "predefined": true
+      },
+      {
+        "val": 0,
+        "name": "AllDays",
+        "def_name": "全日",
+        "dates": [
+          "2021-11-01",
+          "2021-11-02",
+          "2021-11-03",
+          "2021-11-04",
+          "2021-11-05",
+          "2021-11-06"
+        ],
+        "use": true,
+        "predefined": true
+      },
+      {
+        "val": 0,
+        "name": "HOLIDAYS",
+        "def_name": "祝",
+        "dates": [
+          "2021-11-03"
+        ],
+        "use": true,
+        "predefined": true
+      },
+      {
+        "val": 0,
+        "name": "SHOLIDAYS",
+        "def_name": "振",
+        "dates": [],
+        "use": true,
+        "predefined": true
+      },
+      {
+        "val": 0,
+        "name": "",
+        "def_name": "祝日１",
+        "dates": [],
+        "use": true,
+        "predefined": false
+      },
+      {
+        "val": 0,
+        "name": "",
+        "def_name": "祝日２",
+        "dates": [],
+        "use": true,
+        "predefined": false
+      },
+      {
+        "val": 0,
+        "name": "",
+        "def_name": "祝日３",
+        "dates": [],
+        "use": true,
+        "predefined": false
+      },
+      {
+        "val": 0,
+        "name": "",
+        "def_name": "スタッフ３休み",
+        "dates": [],
+        "use": true,
+        "predefined": false
+      },
+      {
+        "val": 0,
+        "name": "",
+        "def_name": "",
+        "dates": [],
+        "use": false,
+        "predefined": false
+      },
+      {
+        "val": 0,
+        "name": "",
+        "def_name": "",
+        "dates": [],
+        "use": false,
+        "predefined": false
+      },
+      {
+        "val": 0,
+        "name": "",
+        "def_name": "",
+        "dates": [],
+        "use": false,
+        "predefined": false
+      },
+      {
+        "val": 0,
+        "name": "",
+        "def_name": "",
+        "dates": [],
+        "use": false,
+        "predefined": false
+      },
+      {
+        "val": 0,
+        "name": "",
+        "def_name": "",
+        "dates": [],
+        "use": false,
+        "predefined": false
+      },
+      {
+        "val": 0,
+        "name": "",
+        "def_name": "",
+        "dates": [],
+        "use": false,
+        "predefined": false
+      },
+      {
+        "val": 0,
+        "name": "DayDef",
+        "def_name": "祝日１",
+        "dates": [],
+        "use": true,
+        "predefined": false
+      },
+      {
+        "val": 0,
+        "name": "DayDef",
+        "def_name": "祝日２",
+        "dates": [],
+        "use": true,
+        "predefined": false
+      },
+      {
+        "val": 0,
+        "name": "DayDef",
+        "def_name": "祝日３",
+        "dates": [],
+        "use": true,
+        "predefined": false
+      },
+      {
+        "val": 0,
+        "name": "DayDef",
+        "def_name": "スタッフ３休み",
+        "dates": [],
+        "use": true,
+        "predefined": false
+      },
+      {
+        "val": 0,
+        "name": "SecondMonth",
+        "def_name": "次月",
+        "dates": [],
+        "use": true,
+        "predefined": true
+      }
+    ]
+  },
+  "DA": {
+    "name": "DateAggregates",
+    "members": [
+      {
+        "name": "DateAggregate",
+        "Operator": "OR",
+        "def_name": "平日",
+        "dates": [
+          "月",
+          "火",
+          "水",
+          "木",
+          "金"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "OR",
+        "def_name": "週末",
+        "dates": [
+          "土",
+          "日"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "OR",
+        "def_name": "休日",
+        "dates": [
+          "週末",
+          "祝"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "NOT",
+        "def_name": "稼働日",
+        "dates": [
+          "休日"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "-1",
+        "def_name": "制約開始日一日前",
+        "dates": [
+          "制約開始日"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "-2",
+        "def_name": "制約開始日二日前",
+        "dates": [
+          "制約開始日"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "-3",
+        "def_name": "制約開始日三日前",
+        "dates": [
+          "制約開始日"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "-4",
+        "def_name": "制約開始日四日前",
+        "dates": [
+          "制約開始日"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "-5",
+        "def_name": "制約開始日五日前",
+        "dates": [
+          "制約開始日"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "-6",
+        "def_name": "制約開始日六日前",
+        "dates": [
+          "制約開始日"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "-7",
+        "def_name": "制約開始日七日前",
+        "dates": [
+          "制約開始日"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "+1",
+        "def_name": "制約開始日一日後",
+        "dates": [
+          "制約開始日"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "+2",
+        "def_name": "制約開始日二日後",
+        "dates": [
+          "制約開始日"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "+3",
+        "def_name": "制約開始日三日後",
+        "dates": [
+          "制約開始日"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "+4",
+        "def_name": "制約開始日四日後",
+        "dates": [
+          "制約開始日"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "+5",
+        "def_name": "制約開始日五日後",
+        "dates": [
+          "制約開始日"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "+6",
+        "def_name": "制約開始日六日後",
+        "dates": [
+          "制約開始日"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "OR",
+        "def_name": "第一週",
+        "dates": [
+          "制約開始日",
+          "制約開始日一日後",
+          "制約開始日二日後",
+          "制約開始日三日後",
+          "制約開始日四日後",
+          "制約開始日五日後",
+          "制約開始日六日後"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "+7",
+        "def_name": "第二週",
+        "dates": [
+          "第一週"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "+7",
+        "def_name": "第三週",
+        "dates": [
+          "第二週"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "+7",
+        "def_name": "第四週",
+        "dates": [
+          "第三週"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "+7",
+        "def_name": "第五週",
+        "dates": [
+          "第四週"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "+7",
+        "def_name": "第六週",
+        "dates": [
+          "第五週"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "OR",
+        "def_name": "四週間",
+        "dates": [
+          "第一週",
+          "第二週",
+          "第三週",
+          "第四週"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "OR",
+        "def_name": "制約開始日１日前から",
+        "dates": [
+          "制約開始日一日前",
+          "今月"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "OR",
+        "def_name": "制約開始日２日前から",
+        "dates": [
+          "制約開始日二日前",
+          "制約開始日一日前",
+          "今月"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "OR",
+        "def_name": "制約開始日３日前から",
+        "dates": [
+          "制約開始日三日前",
+          "制約開始日二日前",
+          "制約開始日一日前",
+          "今月"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "OR",
+        "def_name": "制約開始日４日前から",
+        "dates": [
+          "制約開始日四日前",
+          "制約開始日三日前",
+          "制約開始日二日前",
+          "制約開始日一日前",
+          "今月"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "OR",
+        "def_name": "制約開始日５日前から",
+        "dates": [
+          "制約開始日五日前",
+          "制約開始日四日前",
+          "制約開始日三日前",
+          "制約開始日二日前",
+          "制約開始日一日前",
+          "今月"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "OR",
+        "def_name": "制約開始日６日前から",
+        "dates": [
+          "制約開始日六日前",
+          "制約開始日五日前",
+          "制約開始日四日前",
+          "制約開始日三日前",
+          "制約開始日二日前",
+          "制約開始日一日前",
+          "今月"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "OR",
+        "def_name": "制約開始日７日前から",
+        "dates": [
+          "制約開始日七日前",
+          "制約開始日六日前",
+          "制約開始日五日前",
+          "制約開始日四日前",
+          "制約開始日三日前",
+          "制約開始日二日前",
+          "制約開始日一日前",
+          "今月"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "-6",
+        "def_name": "制約終了日六日前",
+        "dates": [
+          "制約終了日"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "-5",
+        "def_name": "制約終了日五日前",
+        "dates": [
+          "制約終了日"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "-4",
+        "def_name": "制約終了日四日前",
+        "dates": [
+          "制約終了日"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "-3",
+        "def_name": "制約終了日三日前",
+        "dates": [
+          "制約終了日"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "-2",
+        "def_name": "制約終了日二日前",
+        "dates": [
+          "制約終了日"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "-1",
+        "def_name": "制約終了日一日前",
+        "dates": [
+          "制約終了日"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "OR",
+        "def_name": "金土日",
+        "dates": [
+          "金",
+          "土",
+          "日"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "OR",
+        "def_name": "金土日月",
+        "dates": [
+          "金",
+          "土",
+          "日",
+          "月"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "OR",
+        "def_name": "",
+        "dates": [],
+        "use": false
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "OR",
+        "def_name": "",
+        "dates": [],
+        "use": false
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "OR",
+        "def_name": "",
+        "dates": [],
+        "use": false
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "OR",
+        "def_name": "",
+        "dates": [],
+        "use": false
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "OR",
+        "def_name": "",
+        "dates": [],
+        "use": false
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "OR",
+        "def_name": "",
+        "dates": [],
+        "use": false
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "OR",
+        "def_name": "",
+        "dates": [],
+        "use": false
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "OR",
+        "def_name": "",
+        "dates": [],
+        "use": false
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "OR",
+        "def_name": "",
+        "dates": [],
+        "use": false
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "OR",
+        "def_name": "",
+        "dates": [],
+        "use": false
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "OR",
+        "def_name": "月火金土",
+        "dates": [
+          "月",
+          "火",
+          "金",
+          "土"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "OR",
+        "def_name": "水土",
+        "dates": [
+          "水",
+          "土"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "OR",
+        "def_name": "土日",
+        "dates": [
+          "土",
+          "日"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "OR",
+        "def_name": "水金土日",
+        "dates": [
+          "水",
+          "金",
+          "土",
+          "日"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "OR",
+        "def_name": "木土",
+        "dates": [
+          "木",
+          "土"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "",
+        "def_name": "",
+        "dates": [],
+        "use": false
+      }
+    ]
+  },
+  "SA": {
+    "name": "ShiftAggregates",
+    "members": [
+      {
+        "use": true,
+        "name": "ShiftAggregateDef",
+        "def_name": "フルまたは休み",
+        "color": "Gray",
+        "Operator": "OR",
+        "members": [
+          "Work",
+          "Off"
+        ],
+        "label": "WO"
+      },
+      {
+        "use": false,
+        "name": "ShiftAggregateDef",
+        "def_name": "夜勤集合２",
+        "color": "Gray",
+        "Operator": "OR",
+        "members": [
+          "準夜",
+          "深夜"
+        ],
+        "label": "夜２"
+      },
+      {
+        "use": false,
+        "name": "ShiftAggregateDef",
+        "def_name": "早遅",
+        "color": "Gray",
+        "Operator": "OR",
+        "members": [
+          "早番",
+          "遅番"
+        ],
+        "label": "早遅"
+      },
+      {
+        "use": false,
+        "name": "ShiftAggregateDef",
+        "def_name": "休日集合",
+        "color": "Gray",
+        "Operator": "OR",
+        "members": [
+          "休日"
+        ],
+        "label": "休集"
+      },
+      {
+        "use": false,
+        "name": "ShiftAggregateDef",
+        "def_name": "日勤集合",
+        "color": "Gray",
+        "Operator": "OR",
+        "members": [
+          "日勤"
+        ],
+        "label": "日集"
+      },
+      {
+        "use": true,
+        "name": "ShiftAggregateDef",
+        "def_name": "1",
+        "color": "Gray",
+        "Operator": "OR",
+        "members": [
+          "PH12",
+          "PH13",
+          "Work"
+        ],
+        "label": "1"
+      },
+      {
+        "use": true,
+        "name": "ShiftAggregateDef",
+        "def_name": "2",
+        "color": "Gray",
+        "Operator": "NOT",
+        "members": [
+          "Off",
+          "PH34"
+        ],
+        "label": "2"
+      },
+      {
+        "use": true,
+        "name": "ShiftAggregateDef",
+        "def_name": "3",
+        "color": "Gray",
+        "Operator": "NOT",
+        "members": [
+          "PH12",
+          "Off"
+        ],
+        "label": "3"
+      },
+      {
+        "use": true,
+        "name": "ShiftAggregateDef",
+        "def_name": "4",
+        "color": "Gray",
+        "Operator": "OR",
+        "members": [
+          "PH24",
+          "Work",
+          "PH34"
+        ],
+        "label": "4"
+      },
+      {
+        "use": false,
+        "name": "ShiftAggregateDef",
+        "def_name": "",
+        "color": "Gray",
+        "Operator": "OR",
+        "members": [],
+        "label": ""
+      },
+      {
+        "use": false,
+        "name": "ShiftAggregateDef",
+        "def_name": "",
+        "color": "",
+        "Operator": "",
+        "members": [],
+        "label": ""
+      }
+    ]
+  },
+  "PA": {
+    "name": "Phases",
+    "members": [
+      {
+        "shift_name": "Work",
+        "list": [
+          {
+            "type": 0,
+            "name": "ph0",
+            "time_string": "0:0",
+            "color": "White",
+            "day": 0,
+            "phase_no": 0
+          },
+          {
+            "type": 0,
+            "name": "ph1",
+            "time_string": "1:0",
+            "color": "Gainsboro",
+            "day": 0,
+            "phase_no": 1
+          },
+          {
+            "type": 0,
+            "name": "ph2",
+            "time_string": "2:0",
+            "color": "LightGray",
+            "day": 0,
+            "phase_no": 2
+          },
+          {
+            "type": 0,
+            "name": "ph3",
+            "time_string": "3:0",
+            "color": "Silver",
+            "day": 0,
+            "phase_no": 3
+          }
+        ]
+      },
+      {
+        "shift_name": "PH13",
+        "list": [
+          {
+            "type": 0,
+            "name": "ph0",
+            "time_string": "0:0",
+            "color": "White",
+            "day": 0,
+            "phase_no": 0
+          },
+          {
+            "type": 0,
+            "name": "ph1",
+            "time_string": "1:0",
+            "color": "Gainsboro",
+            "day": 0,
+            "phase_no": 1
+          },
+          {
+            "type": 0,
+            "name": "ph2",
+            "time_string": "2:0",
+            "color": "LightGray",
+            "day": 0,
+            "phase_no": 2
+          }
+        ]
+      },
+      {
+        "shift_name": "PH24",
+        "list": [
+          {
+            "type": 0,
+            "name": "ph1",
+            "time_string": "1:0",
+            "color": "Gainsboro",
+            "day": 0,
+            "phase_no": 1
+          },
+          {
+            "type": 0,
+            "name": "ph2",
+            "time_string": "2:0",
+            "color": "LightGray",
+            "day": 0,
+            "phase_no": 2
+          },
+          {
+            "type": 0,
+            "name": "ph3",
+            "time_string": "3:0",
+            "color": "Silver",
+            "day": 0,
+            "phase_no": 3
+          }
+        ]
+      },
+      {
+        "shift_name": "PH12",
+        "list": [
+          {
+            "type": 0,
+            "name": "ph0",
+            "time_string": "0:0",
+            "color": "White",
+            "day": 0,
+            "phase_no": 0
+          },
+          {
+            "type": 0,
+            "name": "ph1",
+            "time_string": "1:0",
+            "color": "Gainsboro",
+            "day": 0,
+            "phase_no": 1
+          }
+        ]
+      },
+      {
+        "shift_name": "PH23",
+        "list": [
+          {
+            "type": 0,
+            "name": "ph1",
+            "time_string": "1:0",
+            "color": "Gainsboro",
+            "day": 0,
+            "phase_no": 1
+          },
+          {
+            "type": 0,
+            "name": "ph2",
+            "time_string": "2:0",
+            "color": "LightGray",
+            "day": 0,
+            "phase_no": 2
+          }
+        ]
+      },
+      {
+        "shift_name": "PH34",
+        "list": [
+          {
+            "type": 0,
+            "name": "ph2",
+            "time_string": "2:0",
+            "color": "LightGray",
+            "day": 0,
+            "phase_no": 2
+          },
+          {
+            "type": 0,
+            "name": "ph3",
+            "time_string": "3:0",
+            "color": "Silver",
+            "day": 0,
+            "phase_no": 3
+          }
+        ]
+      }
+    ],
+    "primary_labels": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "alias_labels": [],
+    "dayphase_list": [
+      {
+        "type": 0,
+        "name": "ph0",
+        "time_string": "0:0",
+        "color": "White",
+        "day": 0,
+        "phase_no": 0
+      },
+      {
+        "type": 0,
+        "name": "ph1",
+        "time_string": "1:0",
+        "color": "Gainsboro",
+        "day": 0,
+        "phase_no": 1
+      },
+      {
+        "type": 0,
+        "name": "ph2",
+        "time_string": "2:0",
+        "color": "LightGray",
+        "day": 0,
+        "phase_no": 2
+      },
+      {
+        "type": 0,
+        "name": "ph3",
+        "time_string": "3:0",
+        "color": "Silver",
+        "day": 0,
+        "phase_no": 3
+      }
+    ]
+  },
+  "TAA": {
+    "name": "TaskAggregates",
+    "members": [
+      {
+        "use": true,
+        "name": "TaskAggregateDef",
+        "def_name": "業務集合",
+        "color": "Gray",
+        "Operator": "OR",
+        "members": [
+          "国語",
+          "数学",
+          "英語"
+        ],
+        "label": "業"
+      },
+      {
+        "use": false,
+        "name": "TaskAggregateDef",
+        "def_name": "夜勤集合２",
+        "color": "Gray",
+        "Operator": "OR",
+        "members": [],
+        "label": "夜２"
+      },
+      {
+        "use": false,
+        "name": "TaskAggregateDef",
+        "def_name": "早遅",
+        "color": "Gray",
+        "Operator": "OR",
+        "members": [],
+        "label": "早遅"
+      },
+      {
+        "use": false,
+        "name": "TaskAggregateDef",
+        "def_name": "休日集合",
+        "color": "Gray",
+        "Operator": "OR",
+        "members": [],
+        "label": "休集"
+      },
+      {
+        "use": false,
+        "name": "TaskAggregateDef",
+        "def_name": "日勤集合",
+        "color": "Gray",
+        "Operator": "OR",
+        "members": [],
+        "label": "日集"
+      },
+      {
+        "use": false,
+        "name": "TaskAggregateDef",
+        "def_name": "",
+        "color": "Gray",
+        "Operator": "OR",
+        "members": [],
+        "label": ""
+      },
+      {
+        "use": false,
+        "name": "TaskAggregateDef",
+        "def_name": "",
+        "color": "Gray",
+        "Operator": "OR",
+        "members": [],
+        "label": ""
+      },
+      {
+        "use": false,
+        "name": "TaskAggregateDef",
+        "def_name": "",
+        "color": "Gray",
+        "Operator": "OR",
+        "members": [],
+        "label": ""
+      },
+      {
+        "use": false,
+        "name": "TaskAggregateDef",
+        "def_name": "",
+        "color": "Gray",
+        "Operator": "OR",
+        "members": [],
+        "label": ""
+      },
+      {
+        "use": false,
+        "name": "TaskAggregateDef",
+        "def_name": "",
+        "color": "Gray",
+        "Operator": "OR",
+        "members": [],
+        "label": ""
+      },
+      {
+        "use": false,
+        "name": "TaskAggregateDef",
+        "def_name": "",
+        "color": "Grey",
+        "Operator": "OR",
+        "members": [],
+        "label": ""
+      },
+      {
+        "use": false,
+        "name": "TaskAggregateDef",
+        "def_name": "",
+        "color": "",
+        "Operator": "",
+        "members": [],
+        "label": ""
+      }
+    ]
+  },
+  "TO": {
+    "name": "Task Objects",
+    "members": [
+      {
+        "use": true,
+        "name": "TaskDef",
+        "def_name": "国語",
+        "auto_schedule": true,
+        "color": "#FFFF00",
+        "label": "国",
+        "shift_ag_name": "",
+        "another_labels": [
+          "",
+          ""
+        ],
+        "another_colors": [
+          "Gray",
+          "Gray"
+        ],
+        "work_hours": -1
+      },
+      {
+        "use": true,
+        "name": "TaskDef",
+        "def_name": "数学",
+        "auto_schedule": true,
+        "color": "#92D050",
+        "label": "数",
+        "shift_ag_name": "",
+        "another_labels": [
+          "",
+          ""
+        ],
+        "another_colors": [
+          "Gray",
+          "Gray"
+        ],
+        "work_hours": -1
+      },
+      {
+        "use": true,
+        "name": "TaskDef",
+        "def_name": "英語",
+        "auto_schedule": true,
+        "color": "#00B050",
+        "label": "英",
+        "shift_ag_name": "",
+        "another_labels": [
+          "",
+          ""
+        ],
+        "another_colors": [
+          "Gray",
+          "Gray"
+        ],
+        "work_hours": -1
+      },
+      {
+        "use": true,
+        "name": "TaskDef",
+        "def_name": "空き時間",
+        "auto_schedule": true,
+        "color": "#FFFFFF",
+        "label": "空",
+        "shift_ag_name": "",
+        "another_labels": [
+          "",
+          ""
+        ],
+        "another_colors": [
+          "Gray",
+          "Gray"
+        ],
+        "work_hours": -1
+      },
+      {
+        "use": false,
+        "name": "TaskDef",
+        "def_name": "",
+        "auto_schedule": false,
+        "color": "",
+        "label": "",
+        "shift_ag_name": "",
+        "another_labels": [
+          "",
+          ""
+        ],
+        "another_colors": [
+          "",
+          ""
+        ],
+        "work_hours": -1
+      }
+    ]
+  },
+  "PO": {
+    "name": "Phase Objects",
+    "members": [
+      {
+        "use": true,
+        "name": "PhaseObjectDef",
+        "def_name": "フェーズ変数1",
+        "auto_schedule": true,
+        "color": "Violet",
+        "label": "PV1",
+        "num_cnt": 1,
+        "work_hours": -1,
+        "tasks": [
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "use": true,
+        "name": "PhaseObjectDef",
+        "def_name": "フェーズ変数2",
+        "auto_schedule": true,
+        "color": "LightPink",
+        "label": "PV2",
+        "num_cnt": 1,
+        "work_hours": -1,
+        "tasks": [
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "use": true,
+        "name": "PhaseObjectDef",
+        "def_name": "フェーズ変数3",
+        "auto_schedule": true,
+        "color": "LightBlue",
+        "label": "PV3",
+        "num_cnt": 1,
+        "work_hours": -1,
+        "tasks": [
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "use": false,
+        "name": "PhaseObjectDef",
+        "def_name": "",
+        "auto_schedule": true,
+        "color": "",
+        "label": "",
+        "num_cnt": 0,
+        "work_hours": -1,
+        "tasks": [
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    ]
+  },
+  "POA": {
+    "name": "PhaseObjectAggregates",
+    "members": [
+      {
+        "use": false,
+        "name": "PhaseObjectDef",
+        "def_name": "POA1",
+        "color": "Gray",
+        "label": "poa1",
+        "phase_object_names": [
+          "フェーズ変数1",
+          "フェーズ変数2"
+        ]
+      },
+      {
+        "use": false,
+        "name": "PhaseObjectDef",
+        "def_name": "POA2",
+        "color": "Gray",
+        "label": "poa2",
+        "phase_object_names": [
+          "フェーズ変数2",
+          "フェーズ変数3"
+        ]
+      }
+    ]
+  },
+  "GP": {
+    "name": "GroupProperties",
+    "members": [
+      {
+        "use": true,
+        "name": "GroupPropertyDef",
+        "def_name": "全スタッフ属性",
+        "members": [
+          "全スタッフ"
+        ]
+      },
+      {
+        "use": false,
+        "name": "GroupPropertyDef",
+        "def_name": "",
+        "members": []
+      }
+    ]
+  },
+  "GA": {
+    "name": "GroupAggregates",
+    "members": [
+      {
+        "use": false,
+        "name": "GroupAggregateDef",
+        "def_name": "",
+        "Operator": "OR",
+        "members": []
+      },
+      {
+        "use": false,
+        "name": "GroupAggregateDef",
+        "def_name": "",
+        "Operator": "OR",
+        "members": []
+      },
+      {
+        "use": false,
+        "name": "GroupAggregateDef",
+        "def_name": "",
+        "Operator": "OR",
+        "members": []
+      },
+      {
+        "use": false,
+        "name": "GroupAggregateDef",
+        "def_name": "",
+        "Operator": "OR",
+        "members": []
+      },
+      {
+        "use": false,
+        "name": "GroupAggregateDef",
+        "def_name": "",
+        "Operator": "OR",
+        "members": []
+      },
+      {
+        "use": false,
+        "name": "GroupAggregateDef",
+        "def_name": "",
+        "Operator": "OR",
+        "members": []
+      },
+      {
+        "use": false,
+        "name": "GroupAggregateDef",
+        "def_name": "",
+        "Operator": "OR",
+        "members": []
+      },
+      {
+        "use": false,
+        "name": "GroupAggregateDef",
+        "def_name": "",
+        "Operator": "OR",
+        "members": []
+      },
+      {
+        "use": false,
+        "name": "GroupAggregateDef",
+        "def_name": "",
+        "Operator": "OR",
+        "members": []
+      },
+      {
+        "use": false,
+        "name": "GroupAggregateDef",
+        "def_name": "",
+        "Operator": "OR",
+        "members": []
+      },
+      {
+        "use": false,
+        "name": "GroupAggregateDef",
+        "def_name": "",
+        "Operator": "",
+        "members": []
+      }
+    ]
+  },
+  "SP": {
+    "name": "StaffProperties",
+    "members": [
+      {
+        "use": true,
+        "name": "StaffPropertyDef",
+        "def_name": "末堂厚",
+        "shifts": [
+          "Off",
+          "PH12",
+          "PH13",
+          "PH23",
+          "PH24",
+          "PH34",
+          "Work"
+        ],
+        "tasks": [
+          "英語",
+          "空き時間",
+          "数学"
+        ],
+        "properties": {
+          "全スタッフ属性": "全スタッフ"
+        }
+      },
+      {
+        "use": true,
+        "name": "StaffPropertyDef",
+        "def_name": "加藤清澄",
+        "shifts": [
+          "Off",
+          "PH12",
+          "PH13",
+          "PH23",
+          "PH24",
+          "PH34",
+          "Work"
+        ],
+        "tasks": [
+          "英語",
+          "空き時間",
+          "国語"
+        ],
+        "properties": {
+          "全スタッフ属性": "全スタッフ"
+        }
+      },
+      {
+        "use": true,
+        "name": "StaffPropertyDef",
+        "def_name": "鎬昂昇",
+        "shifts": [
+          "Off",
+          "PH12",
+          "PH13",
+          "PH23",
+          "PH24",
+          "PH34",
+          "Work"
+        ],
+        "tasks": [
+          "英語",
+          "空き時間",
+          "国語"
+        ],
+        "properties": {
+          "全スタッフ属性": "全スタッフ"
+        }
+      },
+      {
+        "use": true,
+        "name": "StaffPropertyDef",
+        "def_name": "本部以蔵",
+        "shifts": [
+          "Off",
+          "PH12",
+          "PH13",
+          "PH23",
+          "PH24",
+          "PH34",
+          "Work"
+        ],
+        "tasks": [
+          "英語",
+          "空き時間",
+          "数学"
+        ],
+        "properties": {
+          "全スタッフ属性": "全スタッフ"
+        }
+      },
+      {
+        "use": true,
+        "name": "StaffPropertyDef",
+        "def_name": "松本梢江",
+        "shifts": [
+          "Off",
+          "PH12",
+          "PH13",
+          "PH23",
+          "PH24",
+          "PH34",
+          "Work"
+        ],
+        "tasks": [
+          "英語",
+          "空き時間",
+          "国語",
+          "数学"
+        ],
+        "properties": {
+          "全スタッフ属性": "全スタッフ"
+        }
+      },
+      {
+        "use": true,
+        "name": "StaffPropertyDef",
+        "def_name": "朱沢江珠",
+        "shifts": [
+          "Off",
+          "PH12",
+          "PH13",
+          "PH23",
+          "PH24",
+          "PH34",
+          "Work"
+        ],
+        "tasks": [
+          "英語",
+          "空き時間",
+          "国語"
+        ],
+        "properties": {
+          "全スタッフ属性": "全スタッフ"
+        }
+      },
+      {
+        "use": true,
+        "name": "StaffPropertyDef",
+        "def_name": "安藤玲一",
+        "shifts": [
+          "Off",
+          "PH12",
+          "PH13",
+          "PH23",
+          "PH24",
+          "PH34",
+          "Work"
+        ],
+        "tasks": [
+          "英語",
+          "空き時間",
+          "国語",
+          "数学"
+        ],
+        "properties": {
+          "全スタッフ属性": "全スタッフ"
+        }
+      }
+    ]
+  },
+  "CC": {
+    "name": "ColumnConstraints",
+    "members": [
+      {
+        "phase_mode": true,
+        "name": "ColumnConstraintsGroup",
+        "def_name": "excel_gen",
+        "use": true,
+        "members": [
+          {
+            "name": "ColumnConstraint",
+            "def_name": "国語全スタッフ_ph0",
+            "use": true,
+            "shift_type": "ph0",
+            "shift_at_phase": "",
+            "task_type": "国語",
+            "primary_day_type": "今月",
+            "staff_property_type": "全スタッフ",
+            "constraint_type": 1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "国語全スタッフ_max",
+            "dayphase_vec_min": "国語全スタッフ_min",
+            "max_value": -1,
+            "min_value": -1,
+            "soft_constraint_level": 0,
+            "soft_constraint_level_max": 0
+          },
+          {
+            "name": "ColumnConstraint",
+            "def_name": "国語全スタッフ_ph1",
+            "use": true,
+            "shift_type": "ph1",
+            "shift_at_phase": "",
+            "task_type": "国語",
+            "primary_day_type": "今月",
+            "staff_property_type": "全スタッフ",
+            "constraint_type": 1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "国語全スタッフ_max",
+            "dayphase_vec_min": "国語全スタッフ_min",
+            "max_value": -1,
+            "min_value": -1,
+            "soft_constraint_level": 0,
+            "soft_constraint_level_max": 0
+          },
+          {
+            "name": "ColumnConstraint",
+            "def_name": "国語全スタッフ_ph2",
+            "use": true,
+            "shift_type": "ph2",
+            "shift_at_phase": "",
+            "task_type": "国語",
+            "primary_day_type": "今月",
+            "staff_property_type": "全スタッフ",
+            "constraint_type": 1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "国語全スタッフ_max",
+            "dayphase_vec_min": "国語全スタッフ_min",
+            "max_value": -1,
+            "min_value": -1,
+            "soft_constraint_level": 0,
+            "soft_constraint_level_max": 0
+          },
+          {
+            "name": "ColumnConstraint",
+            "def_name": "国語全スタッフ_ph3",
+            "use": true,
+            "shift_type": "ph3",
+            "shift_at_phase": "",
+            "task_type": "国語",
+            "primary_day_type": "今月",
+            "staff_property_type": "全スタッフ",
+            "constraint_type": 1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "国語全スタッフ_max",
+            "dayphase_vec_min": "国語全スタッフ_min",
+            "max_value": -1,
+            "min_value": -1,
+            "soft_constraint_level": 0,
+            "soft_constraint_level_max": 0
+          },
+          {
+            "name": "ColumnConstraint",
+            "def_name": "数学全スタッフ_ph0",
+            "use": true,
+            "shift_type": "ph0",
+            "shift_at_phase": "",
+            "task_type": "数学",
+            "primary_day_type": "今月",
+            "staff_property_type": "全スタッフ",
+            "constraint_type": 1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "数学全スタッフ_max",
+            "dayphase_vec_min": "数学全スタッフ_min",
+            "max_value": -1,
+            "min_value": -1,
+            "soft_constraint_level": 0,
+            "soft_constraint_level_max": 0
+          },
+          {
+            "name": "ColumnConstraint",
+            "def_name": "数学全スタッフ_ph1",
+            "use": true,
+            "shift_type": "ph1",
+            "shift_at_phase": "",
+            "task_type": "数学",
+            "primary_day_type": "今月",
+            "staff_property_type": "全スタッフ",
+            "constraint_type": 1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "数学全スタッフ_max",
+            "dayphase_vec_min": "数学全スタッフ_min",
+            "max_value": -1,
+            "min_value": -1,
+            "soft_constraint_level": 0,
+            "soft_constraint_level_max": 0
+          },
+          {
+            "name": "ColumnConstraint",
+            "def_name": "数学全スタッフ_ph2",
+            "use": true,
+            "shift_type": "ph2",
+            "shift_at_phase": "",
+            "task_type": "数学",
+            "primary_day_type": "今月",
+            "staff_property_type": "全スタッフ",
+            "constraint_type": 1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "数学全スタッフ_max",
+            "dayphase_vec_min": "数学全スタッフ_min",
+            "max_value": -1,
+            "min_value": -1,
+            "soft_constraint_level": 0,
+            "soft_constraint_level_max": 0
+          },
+          {
+            "name": "ColumnConstraint",
+            "def_name": "数学全スタッフ_ph3",
+            "use": true,
+            "shift_type": "ph3",
+            "shift_at_phase": "",
+            "task_type": "数学",
+            "primary_day_type": "今月",
+            "staff_property_type": "全スタッフ",
+            "constraint_type": 1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "数学全スタッフ_max",
+            "dayphase_vec_min": "数学全スタッフ_min",
+            "max_value": -1,
+            "min_value": -1,
+            "soft_constraint_level": 0,
+            "soft_constraint_level_max": 0
+          },
+          {
+            "name": "ColumnConstraint",
+            "def_name": "英語全スタッフ_ph0",
+            "use": true,
+            "shift_type": "ph0",
+            "shift_at_phase": "",
+            "task_type": "英語",
+            "primary_day_type": "今月",
+            "staff_property_type": "全スタッフ",
+            "constraint_type": 1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "英語全スタッフ_max",
+            "dayphase_vec_min": "英語全スタッフ_min",
+            "max_value": -1,
+            "min_value": -1,
+            "soft_constraint_level": 0,
+            "soft_constraint_level_max": 0
+          },
+          {
+            "name": "ColumnConstraint",
+            "def_name": "英語全スタッフ_ph1",
+            "use": true,
+            "shift_type": "ph1",
+            "shift_at_phase": "",
+            "task_type": "英語",
+            "primary_day_type": "今月",
+            "staff_property_type": "全スタッフ",
+            "constraint_type": 1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "英語全スタッフ_max",
+            "dayphase_vec_min": "英語全スタッフ_min",
+            "max_value": -1,
+            "min_value": -1,
+            "soft_constraint_level": 0,
+            "soft_constraint_level_max": 0
+          },
+          {
+            "name": "ColumnConstraint",
+            "def_name": "英語全スタッフ_ph2",
+            "use": true,
+            "shift_type": "ph2",
+            "shift_at_phase": "",
+            "task_type": "英語",
+            "primary_day_type": "今月",
+            "staff_property_type": "全スタッフ",
+            "constraint_type": 1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "英語全スタッフ_max",
+            "dayphase_vec_min": "英語全スタッフ_min",
+            "max_value": -1,
+            "min_value": -1,
+            "soft_constraint_level": 0,
+            "soft_constraint_level_max": 0
+          },
+          {
+            "name": "ColumnConstraint",
+            "def_name": "英語全スタッフ_ph3",
+            "use": true,
+            "shift_type": "ph3",
+            "shift_at_phase": "",
+            "task_type": "英語",
+            "primary_day_type": "今月",
+            "staff_property_type": "全スタッフ",
+            "constraint_type": 1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "英語全スタッフ_max",
+            "dayphase_vec_min": "英語全スタッフ_min",
+            "max_value": -1,
+            "min_value": -1,
+            "soft_constraint_level": 0,
+            "soft_constraint_level_max": 0
+          },
+          {
+            "name": "ColumnConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_type": "",
+            "shift_at_phase": "",
+            "task_type": "",
+            "primary_day_type": "",
+            "staff_property_type": "",
+            "constraint_type": -1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "",
+            "dayphase_vec_min": "",
+            "max_value": -1,
+            "min_value": -1,
+            "soft_constraint_level": 0,
+            "soft_constraint_level_max": 0
+          }
+        ]
+      }
+    ]
+  },
+  "RC": {
+    "name": "RowConstraints",
+    "members": [
+      {
+        "phase_mode": true,
+        "name": "RowConstraintsGroup",
+        "def_name": "行フェーズ制約1",
+        "use": false,
+        "members": [
+          {
+            "phase_mode": true,
+            "name": "RowConstraint",
+            "def_name": "禁止パターン１",
+            "use": false,
+            "primary_day_type": "今月",
+            "first_day_type": "",
+            "last_day_type": "",
+            "staff_property_type": "全スタッフ",
+            "pattern": [
+              {
+                "shift": "",
+                "level": 0,
+                "a_ix": -1
+              },
+              {
+                "shift": "業務集合",
+                "level": 0,
+                "a_ix": -1
+              }
+            ],
+            "shift_pattern": [],
+            "inv_pattern": [
+              false,
+              false
+            ],
+            "shift_inv_pattern": [],
+            "constraint_type": 0,
+            "max_value": -1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "min_value": -1,
+            "min_staff_property": "",
+            "max_staff_property": "",
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": true,
+            "name": "RowConstraint",
+            "def_name": "禁止パターン２",
+            "use": false,
+            "primary_day_type": "今月",
+            "first_day_type": "",
+            "last_day_type": "",
+            "staff_property_type": "全スタッフ",
+            "pattern": [
+              {
+                "shift": "",
+                "level": 0,
+                "a_ix": -1
+              },
+              {
+                "shift": "",
+                "level": 0,
+                "a_ix": -1
+              },
+              {
+                "shift": "業務集合",
+                "level": 0,
+                "a_ix": -1
+              }
+            ],
+            "shift_pattern": [],
+            "inv_pattern": [
+              false,
+              false,
+              false
+            ],
+            "shift_inv_pattern": [],
+            "constraint_type": 0,
+            "max_value": -1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "min_value": -1,
+            "min_staff_property": "",
+            "max_staff_property": "",
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": true,
+            "name": "RowConstraint",
+            "def_name": "禁止パターン３",
+            "use": false,
+            "primary_day_type": "今月",
+            "first_day_type": "",
+            "last_day_type": "",
+            "staff_property_type": "全スタッフ",
+            "pattern": [
+              {
+                "shift": "",
+                "level": 0,
+                "a_ix": -1
+              },
+              {
+                "shift": "業務集合",
+                "level": 0,
+                "a_ix": -1
+              }
+            ],
+            "shift_pattern": [],
+            "inv_pattern": [
+              false,
+              false
+            ],
+            "shift_inv_pattern": [],
+            "constraint_type": 0,
+            "max_value": -1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "min_value": -1,
+            "min_staff_property": "",
+            "max_staff_property": "",
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": true,
+            "name": "RowConstraint",
+            "def_name": "禁止パターン４",
+            "use": false,
+            "primary_day_type": "今月",
+            "first_day_type": "",
+            "last_day_type": "",
+            "staff_property_type": "全スタッフ",
+            "pattern": [
+              {
+                "shift": "業務集合",
+                "level": 0,
+                "a_ix": -1
+              },
+              {
+                "shift": "",
+                "level": 0,
+                "a_ix": -1
+              },
+              {
+                "shift": "",
+                "level": 0,
+                "a_ix": -1
+              },
+              {
+                "shift": "業務集合",
+                "level": 0,
+                "a_ix": -1
+              }
+            ],
+            "shift_pattern": [],
+            "inv_pattern": [
+              false,
+              false,
+              false,
+              false
+            ],
+            "shift_inv_pattern": [],
+            "constraint_type": 0,
+            "max_value": -1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "min_value": -1,
+            "min_staff_property": "",
+            "max_staff_property": "",
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": true,
+            "name": "RowConstraint",
+            "def_name": "空をなるべく少なくPh0",
+            "use": true,
+            "primary_day_type": "今月",
+            "first_day_type": "",
+            "last_day_type": "",
+            "staff_property_type": "全スタッフ",
+            "pattern": [
+              {
+                "shift": "NoTaskVar",
+                "level": 0,
+                "a_ix": -1
+              }
+            ],
+            "shift_pattern": [
+              {
+                "shift": "1",
+                "level": 0,
+                "a_ix": -1
+              }
+            ],
+            "inv_pattern": [
+              false
+            ],
+            "shift_inv_pattern": [
+              false
+            ],
+            "constraint_type": 0,
+            "max_value": -1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "min_value": 0,
+            "min_staff_property": "",
+            "max_staff_property": "",
+            "soft_constraint_level": 1
+          },
+          {
+            "phase_mode": true,
+            "name": "RowConstraint",
+            "def_name": "空をなるべく少なくPh1",
+            "use": true,
+            "primary_day_type": "今月",
+            "first_day_type": "",
+            "last_day_type": "",
+            "staff_property_type": "全スタッフ",
+            "pattern": [
+              {
+                "shift": "",
+                "level": 0,
+                "a_ix": -1
+              },
+              {
+                "shift": "NoTaskVar",
+                "level": 0,
+                "a_ix": -1
+              }
+            ],
+            "shift_pattern": [
+              {
+                "shift": "2",
+                "level": 0,
+                "a_ix": -1
+              }
+            ],
+            "inv_pattern": [
+              false,
+              false
+            ],
+            "shift_inv_pattern": [
+              false
+            ],
+            "constraint_type": 0,
+            "max_value": -1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "min_value": -1,
+            "min_staff_property": "",
+            "max_staff_property": "",
+            "soft_constraint_level": 1
+          },
+          {
+            "phase_mode": true,
+            "name": "RowConstraint",
+            "def_name": "空をなるべく少なくPh2",
+            "use": true,
+            "primary_day_type": "今月",
+            "first_day_type": "",
+            "last_day_type": "",
+            "staff_property_type": "全スタッフ",
+            "pattern": [
+              {
+                "shift": "",
+                "level": 0,
+                "a_ix": -1
+              },
+              {
+                "shift": "",
+                "level": 0,
+                "a_ix": -1
+              },
+              {
+                "shift": "NoTaskVar",
+                "level": 0,
+                "a_ix": -1
+              }
+            ],
+            "shift_pattern": [
+              {
+                "shift": "3",
+                "level": 0,
+                "a_ix": -1
+              }
+            ],
+            "inv_pattern": [
+              false,
+              false,
+              false
+            ],
+            "shift_inv_pattern": [
+              false
+            ],
+            "constraint_type": 0,
+            "max_value": -1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "min_value": -1,
+            "min_staff_property": "",
+            "max_staff_property": "",
+            "soft_constraint_level": 1
+          },
+          {
+            "phase_mode": true,
+            "name": "RowConstraint",
+            "def_name": "空をなるべく少なくPh3",
+            "use": true,
+            "primary_day_type": "今月",
+            "first_day_type": "",
+            "last_day_type": "",
+            "staff_property_type": "全スタッフ",
+            "pattern": [
+              {
+                "shift": "",
+                "level": 0,
+                "a_ix": -1
+              },
+              {
+                "shift": "",
+                "level": 0,
+                "a_ix": -1
+              },
+              {
+                "shift": "",
+                "level": 0,
+                "a_ix": -1
+              },
+              {
+                "shift": "NoTaskVar",
+                "level": 0,
+                "a_ix": -1
+              }
+            ],
+            "shift_pattern": [
+              {
+                "shift": "4",
+                "level": 0,
+                "a_ix": -1
+              }
+            ],
+            "inv_pattern": [
+              false,
+              false,
+              false,
+              false
+            ],
+            "shift_inv_pattern": [
+              false
+            ],
+            "constraint_type": 0,
+            "max_value": -1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "min_value": -1,
+            "min_staff_property": "",
+            "max_staff_property": "",
+            "soft_constraint_level": 1
+          },
+          {
+            "phase_mode": true,
+            "name": "RowConstraint",
+            "def_name": "",
+            "use": false,
+            "primary_day_type": "",
+            "first_day_type": "",
+            "last_day_type": "",
+            "staff_property_type": "",
+            "pattern": [],
+            "shift_pattern": [],
+            "inv_pattern": [],
+            "shift_inv_pattern": [],
+            "constraint_type": 0,
+            "max_value": -1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "min_value": -1,
+            "min_staff_property": "",
+            "max_staff_property": "",
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": true,
+            "name": "RowConstraint",
+            "def_name": "",
+            "use": false,
+            "primary_day_type": "",
+            "first_day_type": "",
+            "last_day_type": "",
+            "staff_property_type": "",
+            "pattern": [],
+            "shift_pattern": [],
+            "inv_pattern": [],
+            "shift_inv_pattern": [],
+            "constraint_type": 0,
+            "max_value": -1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "min_value": -1,
+            "min_staff_property": "",
+            "max_staff_property": "",
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": true,
+            "name": "RowConstraint",
+            "def_name": "",
+            "use": false,
+            "primary_day_type": "",
+            "first_day_type": "",
+            "last_day_type": "",
+            "staff_property_type": "",
+            "pattern": [],
+            "shift_pattern": [],
+            "inv_pattern": [],
+            "shift_inv_pattern": [],
+            "constraint_type": 0,
+            "max_value": -1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "min_value": -1,
+            "min_staff_property": "",
+            "max_staff_property": "",
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": true,
+            "name": "RowConstraint",
+            "def_name": "",
+            "use": false,
+            "primary_day_type": "",
+            "first_day_type": "",
+            "last_day_type": "",
+            "staff_property_type": "",
+            "pattern": [],
+            "shift_pattern": [],
+            "inv_pattern": [],
+            "shift_inv_pattern": [],
+            "constraint_type": 0,
+            "max_value": -1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "min_value": -1,
+            "min_staff_property": "",
+            "max_staff_property": "",
+            "soft_constraint_level": 0
+          }
+        ]
+      },
+      {
+        "phase_mode": false,
+        "name": "RowConstraintsGroup",
+        "def_name": "行制約グループ2",
+        "use": false,
+        "members": [
+          {
+            "phase_mode": false,
+            "name": "RowConstraint",
+            "def_name": "",
+            "use": false,
+            "primary_day_type": "",
+            "first_day_type": "",
+            "last_day_type": "",
+            "staff_property_type": "",
+            "pattern": [],
+            "shift_pattern": [],
+            "inv_pattern": [],
+            "shift_inv_pattern": [],
+            "constraint_type": 0,
+            "max_value": -1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "min_value": -1,
+            "min_staff_property": "",
+            "max_staff_property": "",
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "name": "RowConstraint",
+            "def_name": "",
+            "use": false,
+            "primary_day_type": "",
+            "first_day_type": "",
+            "last_day_type": "",
+            "staff_property_type": "",
+            "pattern": [],
+            "shift_pattern": [],
+            "inv_pattern": [],
+            "shift_inv_pattern": [],
+            "constraint_type": 0,
+            "max_value": -1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "min_value": -1,
+            "min_staff_property": "",
+            "max_staff_property": "",
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "name": "RowConstraint",
+            "def_name": "",
+            "use": false,
+            "primary_day_type": "",
+            "first_day_type": "",
+            "last_day_type": "",
+            "staff_property_type": "",
+            "pattern": [],
+            "shift_pattern": [],
+            "inv_pattern": [],
+            "shift_inv_pattern": [],
+            "constraint_type": 0,
+            "max_value": -1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "min_value": -1,
+            "min_staff_property": "",
+            "max_staff_property": "",
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "name": "RowConstraint",
+            "def_name": "",
+            "use": false,
+            "primary_day_type": "",
+            "first_day_type": "",
+            "last_day_type": "",
+            "staff_property_type": "",
+            "pattern": [],
+            "shift_pattern": [],
+            "inv_pattern": [],
+            "shift_inv_pattern": [],
+            "constraint_type": 0,
+            "max_value": -1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "min_value": -1,
+            "min_staff_property": "",
+            "max_staff_property": "",
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "name": "RowConstraint",
+            "def_name": "",
+            "use": false,
+            "primary_day_type": "",
+            "first_day_type": "",
+            "last_day_type": "",
+            "staff_property_type": "",
+            "pattern": [],
+            "shift_pattern": [],
+            "inv_pattern": [],
+            "shift_inv_pattern": [],
+            "constraint_type": 0,
+            "max_value": -1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "min_value": -1,
+            "min_staff_property": "",
+            "max_staff_property": "",
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "name": "RowConstraint",
+            "def_name": "",
+            "use": false,
+            "primary_day_type": "",
+            "first_day_type": "",
+            "last_day_type": "",
+            "staff_property_type": "",
+            "pattern": [],
+            "shift_pattern": [],
+            "inv_pattern": [],
+            "shift_inv_pattern": [],
+            "constraint_type": 0,
+            "max_value": -1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "min_value": -1,
+            "min_staff_property": "",
+            "max_staff_property": "",
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "name": "RowConstraint",
+            "def_name": "",
+            "use": false,
+            "primary_day_type": "",
+            "first_day_type": "",
+            "last_day_type": "",
+            "staff_property_type": "",
+            "pattern": [],
+            "shift_pattern": [],
+            "inv_pattern": [],
+            "shift_inv_pattern": [],
+            "constraint_type": 0,
+            "max_value": -1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "min_value": -1,
+            "min_staff_property": "",
+            "max_staff_property": "",
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "name": "RowConstraint",
+            "def_name": "",
+            "use": false,
+            "primary_day_type": "",
+            "first_day_type": "",
+            "last_day_type": "",
+            "staff_property_type": "",
+            "pattern": [],
+            "shift_pattern": [],
+            "inv_pattern": [],
+            "shift_inv_pattern": [],
+            "constraint_type": 0,
+            "max_value": -1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "min_value": -1,
+            "min_staff_property": "",
+            "max_staff_property": "",
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "name": "RowConstraint",
+            "def_name": "",
+            "use": false,
+            "primary_day_type": "",
+            "first_day_type": "",
+            "last_day_type": "",
+            "staff_property_type": "",
+            "pattern": [],
+            "shift_pattern": [],
+            "inv_pattern": [],
+            "shift_inv_pattern": [],
+            "constraint_type": 0,
+            "max_value": -1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "min_value": -1,
+            "min_staff_property": "",
+            "max_staff_property": "",
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "name": "RowConstraint",
+            "def_name": "",
+            "use": false,
+            "primary_day_type": "",
+            "first_day_type": "",
+            "last_day_type": "",
+            "staff_property_type": "",
+            "pattern": [],
+            "shift_pattern": [],
+            "inv_pattern": [],
+            "shift_inv_pattern": [],
+            "constraint_type": 0,
+            "max_value": -1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "min_value": -1,
+            "min_staff_property": "",
+            "max_staff_property": "",
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "name": "RowConstraint",
+            "def_name": "",
+            "use": false,
+            "primary_day_type": "",
+            "first_day_type": "",
+            "last_day_type": "",
+            "staff_property_type": "",
+            "pattern": [],
+            "shift_pattern": [],
+            "inv_pattern": [],
+            "shift_inv_pattern": [],
+            "constraint_type": 0,
+            "max_value": -1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "min_value": -1,
+            "min_staff_property": "",
+            "max_staff_property": "",
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "name": "RowConstraint",
+            "def_name": "",
+            "use": false,
+            "primary_day_type": "",
+            "first_day_type": "",
+            "last_day_type": "",
+            "staff_property_type": "",
+            "pattern": [],
+            "shift_pattern": [],
+            "inv_pattern": [],
+            "shift_inv_pattern": [],
+            "constraint_type": 0,
+            "max_value": -1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "min_value": -1,
+            "min_staff_property": "",
+            "max_staff_property": "",
+            "soft_constraint_level": 0
+          }
+        ]
+      }
+    ]
+  },
+  "SolP": {
+    "name": "SolvingParameters",
+    "solving_map": {
+      "1": {
+        "ext": {
+          "use": true,
+          "value": 3,
+          "total_max_errors": 0,
+          "weight": 4800
+        }
+      },
+      "2": {
+        "ext": {
+          "use": true,
+          "value": 3,
+          "total_max_errors": 0,
+          "weight": 6000
+        }
+      },
+      "3": {
+        "ext": {
+          "use": true,
+          "value": 3,
+          "total_max_errors": 0,
+          "weight": 6400
+        }
+      },
+      "4": {
+        "ext": {
+          "use": true,
+          "value": 3,
+          "total_max_errors": 0,
+          "weight": 7200
+        }
+      },
+      "5": {
+        "ext": {
+          "use": true,
+          "value": 3,
+          "total_max_errors": 0,
+          "weight": 8000
+        }
+      },
+      "6": {
+        "ext": {
+          "use": true,
+          "value": 3,
+          "total_max_errors": 0,
+          "weight": 8400
+        }
+      },
+      "8": {
+        "ext": {
+          "use": true,
+          "value": 3,
+          "total_max_errors": 0,
+          "weight": 10240
+        }
+      },
+      "11": {
+        "ext": {
+          "use": true,
+          "value": 3,
+          "total_max_errors": 0,
+          "weight": 3600
+        }
+      },
+      "12": {
+        "ext": {
+          "use": true,
+          "value": 3,
+          "total_max_errors": 0,
+          "weight": 4500
+        }
+      },
+      "13": {
+        "ext": {
+          "use": true,
+          "value": 3,
+          "total_max_errors": 0,
+          "weight": 4800
+        }
+      },
+      "14": {
+        "ext": {
+          "use": true,
+          "value": 3,
+          "total_max_errors": 0,
+          "weight": 5400
+        }
+      },
+      "15": {
+        "ext": {
+          "use": true,
+          "value": 3,
+          "total_max_errors": 0,
+          "weight": 6000
+        }
+      },
+      "16": {
+        "ext": {
+          "use": true,
+          "value": 3,
+          "total_max_errors": 0,
+          "weight": 6300
+        }
+      },
+      "18": {
+        "ext": {
+          "use": true,
+          "value": 3,
+          "total_max_errors": 0,
+          "weight": 7680
+        }
+      },
+      "21": {
+        "ext": {
+          "use": true,
+          "value": 3,
+          "total_max_errors": 0,
+          "weight": 2400
+        }
+      },
+      "22": {
+        "ext": {
+          "use": true,
+          "value": 3,
+          "total_max_errors": 0,
+          "weight": 3000
+        }
+      },
+      "23": {
+        "ext": {
+          "use": true,
+          "value": 3,
+          "total_max_errors": 0,
+          "weight": 3200
+        }
+      },
+      "24": {
+        "ext": {
+          "use": true,
+          "value": 3,
+          "total_max_errors": 0,
+          "weight": 3600
+        }
+      },
+      "25": {
+        "ext": {
+          "use": true,
+          "value": 3,
+          "total_max_errors": 0,
+          "weight": 4000
+        }
+      },
+      "26": {
+        "ext": {
+          "use": true,
+          "value": 3,
+          "total_max_errors": 0,
+          "weight": 4200
+        }
+      },
+      "28": {
+        "ext": {
+          "use": true,
+          "value": 3,
+          "total_max_errors": 0,
+          "weight": 5120
+        }
+      }
+    },
+    "external_constraint": "",
+    "external_constraint_python": "import sc3\r\nimport os\r\nimport csv\r\ndef get_day_index(day):\r\n    return day-今月[0]+1 #名前項目分\r\n\r\ndef get_label(person,day):\r\n    shift=shift_solution[person][day]\r\n    #sc3.print(shift)\r\n    for shift_name in shiftdef.keys():\r\n        if shift_name==shift:\r\n            #sc3.print(shiftdef[shift_name][0])\r\n            return shiftdef[shift_name][0]\r\n    return ''\r\n\r\ndef draw_row(person,day,row0,row1):\r\n    label=get_label(person,day)\r\n    #sc3.print(label)\r\n    d=get_day_index(day)\r\n    row0[d]=label\r\n\r\ndef post_main():\r\n    sc3.print('\\n\\n*********ポスト処理を実行中です。*************\\n')\r\n    sol_list=[]\r\n    for person in 全スタッフ:\r\n        row0=[]\r\n        row1=[]\r\n        row0.append(staffdef[person])\r\n        row1.append('')\r\n        for day in 今月:\r\n            row0.append('') #配列確保\r\n            row1.append('') #配列確保\r\n            draw_row(person,day,row0,row1)\r\n        sol_list.append(row0)\r\n        sol_list.append(row1)\r\n#Write csv file\r\n    sc3.print('CSVファイルを生成中です。\\n')\r\n    os.chdir(project_file_path)\r\n    file_path=project_file_path+'/this_month_solution.csv'\r\n    with open(file_path, 'w', newline='') as file_path:\r\n        writer = csv.writer(file_path)\r\n        writer.writerows(sol_list)\r\n    sc3.print('CSVファイルを生成しました。\\n')\r\n    sc3.print('********ポスト処理を終了します。*******************\\n')\r\n\r\nfor person in 全スタッフ:\r\n    for day in 今月:\r\n        v=sc3.GetShiftVar(person,day,'Work')\r\n        if person==0:\r\n            sc3.AddSoft(~v,staffdef[person],1)\r\n        elif person==1:\r\n            sc3.AddSoft(~v,staffdef[person],2)\r\n        elif person==2:\r\n            sc3.AddSoft(~v,staffdef[person],3)\r\n        elif person==3:\r\n            sc3.AddSoft(~v,staffdef[person],4)\r\n        elif person==4:\r\n            sc3.AddSoft(~v,staffdef[person],5)\r\n        elif person==5:\r\n            sc3.AddSoft(~v,staffdef[person],6)\r\n        elif person==6:\r\n            sc3.AddSoft(~v,staffdef[person],8)\r\n\r\n        v1=sc3.GetShiftVar(person,day,'PH13')\r\n        v2=sc3.GetShiftVar(person,day,'PH24') \r\n        v=sc3.Or(v1,v2) \r\n        if person==0:\r\n            sc3.AddSoft(~v,staffdef[person],11)\r\n        elif person==1:\r\n            sc3.AddSoft(~v,staffdef[person],12)\r\n        elif person==2:\r\n            sc3.AddSoft(~v,staffdef[person],13)\r\n        elif person==3:\r\n            sc3.AddSoft(~v,staffdef[person],14)\r\n        elif person==4:\r\n            sc3.AddSoft(~v,staffdef[person],15)\r\n        elif person==5:\r\n            sc3.AddSoft(~v,staffdef[person],16)\r\n        elif person==6:\r\n            sc3.AddSoft(~v,staffdef[person],18)\r\n\r\n        v1=sc3.GetShiftVar(person,day,'PH12')\r\n        v2=sc3.GetShiftVar(person,day,'PH23')\r\n        v3=sc3.GetShiftVar(person,day,'PH34')\r\n        v=sc3.Or(v1,v2,v3) \r\n        if person==0:\r\n            sc3.AddSoft(~v,staffdef[person],21)\r\n        elif person==1:\r\n            sc3.AddSoft(~v,staffdef[person],22)\r\n        elif person==2:\r\n            sc3.AddSoft(~v,staffdef[person],23)\r\n        elif person==3:\r\n            sc3.AddSoft(~v,staffdef[person],24)\r\n        elif person==4:\r\n            sc3.AddSoft(~v,staffdef[person],25)\r\n        elif person==5:\r\n            sc3.AddSoft(~v,staffdef[person],26)\r\n        elif person==6:\r\n            sc3.AddSoft(~v,staffdef[person],28)",
+    "python_property_file": "#staffdef\r\nstaffdef=['末堂厚','加藤清澄','鎬昂昇','本部以蔵','松本梢江','朱沢江珠','安藤玲一']\r\n#daydef\r\n制約開始日=0\r\n制約終了日=5\r\n表示開始日=0\r\ndaydef=['2021-11-01','2021-11-02','2021-11-03','2021-11-04','2021-11-05','2021-11-06']\r\n#staffcollection\r\n全スタッフ=[0,1,2,3,4,5,6]\r\nOff=[0,1,2,3,4,5,6]\r\nPH12=[0,1,2,3,4,5,6]\r\nPH13=[0,1,2,3,4,5,6]\r\nPH23=[0,1,2,3,4,5,6]\r\nPH24=[0,1,2,3,4,5,6]\r\nPH34=[0,1,2,3,4,5,6]\r\nWork=[0,1,2,3,4,5,6]\r\n国語=[1,2,4,5,6]\r\n数学=[0,3,4,6]\r\n英語=[0,1,2,3,4,5,6]\r\n空き時間=[0,1,2,3,4,5,6]\r\n\r\n#daycollection\r\n今月=[0,1,2,3,4,5]\r\n日=[]\r\n月=[0]\r\n火=[1]\r\n水=[2]\r\n木=[3]\r\n金=[4]\r\n土=[5]\r\n全日=[0,1,2,3,4,5]\r\n祝=[2]\r\n振=[]\r\n祝日１=[]\r\n祝日２=[]\r\n祝日３=[]\r\nスタッフ３休み=[]\r\n祝日１=[]\r\n祝日２=[]\r\n祝日３=[]\r\nスタッフ３休み=[]\r\n次月=[]\r\n平日=[0,1,2,3,4]\r\n週末=[5]\r\n休日=[2,5]\r\n稼働日=[0,1,3,4]\r\n制約開始日一日前=[]\r\n制約開始日二日前=[]\r\n制約開始日三日前=[]\r\n制約開始日四日前=[]\r\n制約開始日五日前=[]\r\n制約開始日六日前=[]\r\n制約開始日七日前=[]\r\n制約開始日一日後=[1]\r\n制約開始日二日後=[2]\r\n制約開始日三日後=[3]\r\n制約開始日四日後=[4]\r\n制約開始日五日後=[5]\r\n制約開始日六日後=[]\r\n第一週=[0,1,2,3,4,5]\r\n第二週=[]\r\n第三週=[]\r\n第四週=[]\r\n第五週=[]\r\n第六週=[]\r\n四週間=[0,1,2,3,4,5]\r\n制約開始日１日前から=[0,1,2,3,4,5]\r\n制約開始日２日前から=[0,1,2,3,4,5]\r\n制約開始日３日前から=[0,1,2,3,4,5]\r\n制約開始日４日前から=[0,1,2,3,4,5]\r\n制約開始日５日前から=[0,1,2,3,4,5]\r\n制約開始日６日前から=[0,1,2,3,4,5]\r\n制約開始日７日前から=[0,1,2,3,4,5]\r\n制約終了日六日前=[]\r\n制約終了日五日前=[0]\r\n制約終了日四日前=[1]\r\n制約終了日三日前=[2]\r\n制約終了日二日前=[3]\r\n制約終了日一日前=[4]\r\n金土日=[4,5]\r\n金土日月=[0,4,5]\r\n月火金土=[0,1,4,5]\r\n水土=[2,5]\r\n土日=[5]\r\n水金土日=[2,4,5]\r\n木土=[3,5]\r\n\r\n#shiftcollection\r\nフルまたは休み=[6,0]\r\na_1=[1,2,6]\r\nb_2=[1,2,3,4,6]\r\nc_3=[2,3,4,5,6]\r\nd_4=[4,6,5]\r\n\r\nshift_collections_def = {'フルまたは休み':('WO','128,128,128'),'1':('1','128,128,128'),'2':('2','128,128,128'),'3':('3','128,128,128'),'4':('4','128,128,128')}\r\n#classcollection\r\n全スタッフ属性=[全スタッフ]\r\n\r\n#shiftdef\r\nshiftdef={'Off':('休',Off),'PH12':('12',PH12),'PH13':('123',PH13),'PH23':('23',PH23),'PH24':('234',PH24),'PH34':('34',PH34),'Work':('1234',Work)}\r\nshift_label_color_map={'Off':[('休','255,255,255'),('','128,128,128'),('','128,128,128')],'PH12':[('12','173,255,47'),('','128,128,128'),('','128,128,128')],'PH13':[('123','0,255,255'),('','128,128,128'),('','128,128,128')],'PH23':[('23','152,251,152'),('','128,128,128'),('','128,128,128')],'PH24':[('234','173,216,230'),('','128,128,128'),('','128,128,128')],'PH34':[('34','144,238,144'),('','128,128,128'),('','128,128,128')],'Work':[('1234','255,69,0'),('','128,128,128'),('','128,128,128')]}\r\n#taskdef\r\ntaskdef={'国語':国語,'数学':数学,'英語':英語,'空き時間':空き時間}\r\ntask_label_color_map={'国語':[('国','255,255,255'),('','128,128,128'),('','128,128,128')],'数学':[('数','255,255,255'),('','128,128,128'),('','128,128,128')],'英語':[('英','255,255,255'),('','128,128,128'),('','128,128,128')],'空き時間':[('空','255,255,255'),('','128,128,128'),('','128,128,128')]}\r\n#non_auto_tasks\r\nnon_auto_tasks=[]\r\n#phase_list\r\nph0=0\r\nph1=1\r\nph2=2\r\nph3=3\r\n\r\n#dayphase_list\r\ndayphase_list=[('ph0',0),('ph1',1),('ph2',2),('ph3',3)]\r\n#phase_class_members\r\nphase_class_members=[('Work',0,1,2,3),('PH13',0,1,2),('PH24',1,2,3),('PH12',0,1),('PH23',1,2),('PH34',2,3)]\r\n#task collections\r\n業務集合={'国語':国語,'数学':数学,'英語':英語}\r\ntask_collections_def = {'業務集合':('業','128,128,128')}\r\n#phase_objects def\r\nphase_objects_def={'フェーズ変数1':('PV1','238,130,238'),'フェーズ変数2':('PV2','255,182,193'),'フェーズ変数3':('PV3','173,216,230')}\r\n#phase_object_aggregates\r\nphase_aggregate_object_def={}\r\n#digited group\r\n#column_constraints\r\n国語全スタッフ_ph0=(True,('今月',今月),'',ph0,('国語',国語),全スタッフ,1,-1,-1,-1.000000,-1.000000,0,0,('',''),)\r\n国語全スタッフ_ph1=(True,('今月',今月),'',ph1,('国語',国語),全スタッフ,1,-1,-1,-1.000000,-1.000000,0,0,('',''),)\r\n国語全スタッフ_ph2=(True,('今月',今月),'',ph2,('国語',国語),全スタッフ,1,-1,-1,-1.000000,-1.000000,0,0,('',''),)\r\n国語全スタッフ_ph3=(True,('今月',今月),'',ph3,('国語',国語),全スタッフ,1,-1,-1,-1.000000,-1.000000,0,0,('',''),)\r\n数学全スタッフ_ph0=(True,('今月',今月),'',ph0,('数学',数学),全スタッフ,1,-1,-1,-1.000000,-1.000000,0,0,('',''),)\r\n数学全スタッフ_ph1=(True,('今月',今月),'',ph1,('数学',数学),全スタッフ,1,-1,-1,-1.000000,-1.000000,0,0,('',''),)\r\n数学全スタッフ_ph2=(True,('今月',今月),'',ph2,('数学',数学),全スタッフ,1,-1,-1,-1.000000,-1.000000,0,0,('',''),)\r\n数学全スタッフ_ph3=(True,('今月',今月),'',ph3,('数学',数学),全スタッフ,1,-1,-1,-1.000000,-1.000000,0,0,('',''),)\r\n英語全スタッフ_ph0=(True,('今月',今月),'',ph0,('英語',英語),全スタッフ,1,-1,-1,-1.000000,-1.000000,0,0,('',''),)\r\n英語全スタッフ_ph1=(True,('今月',今月),'',ph1,('英語',英語),全スタッフ,1,-1,-1,-1.000000,-1.000000,0,0,('',''),)\r\n英語全スタッフ_ph2=(True,('今月',今月),'',ph2,('英語',英語),全スタッフ,1,-1,-1,-1.000000,-1.000000,0,0,('',''),)\r\n英語全スタッフ_ph3=(True,('今月',今月),'',ph3,('英語',英語),全スタッフ,1,-1,-1,-1.000000,-1.000000,0,0,('',''),)\r\nexcel_gen={'国語全スタッフ_ph0':国語全スタッフ_ph0,'国語全スタッフ_ph1':国語全スタッフ_ph1,'国語全スタッフ_ph2':国語全スタッフ_ph2,'国語全スタッフ_ph3':国語全スタッフ_ph3,'数学全スタッフ_ph0':数学全スタッフ_ph0,'数学全スタッフ_ph1':数学全スタッフ_ph1,'数学全スタッフ_ph2':数学全スタッフ_ph2,'数学全スタッフ_ph3':数学全スタッフ_ph3,'英語全スタッフ_ph0':英語全スタッフ_ph0,'英語全スタッフ_ph1':英語全スタッフ_ph1,'英語全スタッフ_ph2':英語全スタッフ_ph2,'英語全スタッフ_ph3':英語全スタッフ_ph3}\r\ncolumn_constraints={'excel_gen':excel_gen}\r\n#shift schedules\r\nshift_schedules=[[('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,'')]\r\n,[('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,'')]\r\n,[('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,'')]\r\n,[('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,'')]\r\n,[('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,'')]\r\n,[('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,'')]\r\n,[('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,'')]\r\n]\r\ntask_schedules=[[('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,'')]\r\n,[('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,'')]\r\n,[('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,'')]\r\n,[('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,'')]\r\n,[('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,'')]\r\n,[('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,'')]\r\n,[('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,'')]\r\n]\r\nproject_file_path='C:/Users/sugaw/Documents/FA/sc3/kindle本/python/塾講師'\r\nproject_file_name='塾講師勤務表New1講師単価'\r\nHWND=0x4b11ca\r\nimport sc3\r\nimport os\r\nimport csv\r\ndef get_day_index(day):\r\n    return day-今月[0]+1 #名前項目分\r\n\r\ndef get_label(person,day):\r\n    shift=shift_solution[person][day]\r\n    #sc3.print(shift)\r\n    for shift_name in shiftdef.keys():\r\n        if shift_name==shift:\r\n            #sc3.print(shiftdef[shift_name][0])\r\n            return shiftdef[shift_name][0]\r\n    return ''\r\n\r\ndef draw_row(person,day,row0,row1):\r\n    label=get_label(person,day)\r\n    #sc3.print(label)\r\n    d=get_day_index(day)\r\n    row0[d]=label\r\n\r\ndef post_main():\r\n    sc3.print('\\n\\n*********ポスト処理を実行中です。*************\\n')\r\n    sol_list=[]\r\n    for person in 全スタッフ:\r\n        row0=[]\r\n        row1=[]\r\n        row0.append(staffdef[person])\r\n        row1.append('')\r\n        for day in 今月:\r\n            row0.append('') #配列確保\r\n            row1.append('') #配列確保\r\n            draw_row(person,day,row0,row1)\r\n        sol_list.append(row0)\r\n        sol_list.append(row1)\r\n#Write csv file\r\n    sc3.print('CSVファイルを生成中です。\\n')\r\n    os.chdir(project_file_path)\r\n    file_path=project_file_path+'/this_month_solution.csv'\r\n    with open(file_path, 'w', newline='') as file_path:\r\n        writer = csv.writer(file_path)\r\n        writer.writerows(sol_list)\r\n    sc3.print('CSVファイルを生成しました。\\n')\r\n    sc3.print('********ポスト処理を終了します。*******************\\n')\r\n\r\nfor person in 全スタッフ:\r\n    for day in 今月:\r\n        v=sc3.GetShiftVar(person,day,'Work')\r\n        if person==0:\r\n            sc3.AddSoft(~v,staffdef[person],1)\r\n        elif person==1:\r\n            sc3.AddSoft(~v,staffdef[person],2)\r\n        elif person==2:\r\n            sc3.AddSoft(~v,staffdef[person],3)\r\n        elif person==3:\r\n            sc3.AddSoft(~v,staffdef[person],4)\r\n        elif person==4:\r\n            sc3.AddSoft(~v,staffdef[person],5)\r\n        elif person==5:\r\n            sc3.AddSoft(~v,staffdef[person],6)\r\n        elif person==6:\r\n            sc3.AddSoft(~v,staffdef[person],8)\r\n\r\n        v1=sc3.GetShiftVar(person,day,'PH13')\r\n        v2=sc3.GetShiftVar(person,day,'PH24') \r\n        v=sc3.Or(v1,v2) \r\n        if person==0:\r\n            sc3.AddSoft(~v,staffdef[person],11)\r\n        elif person==1:\r\n            sc3.AddSoft(~v,staffdef[person],12)\r\n        elif person==2:\r\n            sc3.AddSoft(~v,staffdef[person],13)\r\n        elif person==3:\r\n            sc3.AddSoft(~v,staffdef[person],14)\r\n        elif person==4:\r\n            sc3.AddSoft(~v,staffdef[person],15)\r\n        elif person==5:\r\n            sc3.AddSoft(~v,staffdef[person],16)\r\n        elif person==6:\r\n            sc3.AddSoft(~v,staffdef[person],18)\r\n\r\n        v1=sc3.GetShiftVar(person,day,'PH12')\r\n        v2=sc3.GetShiftVar(person,day,'PH23')\r\n        v3=sc3.GetShiftVar(person,day,'PH34')\r\n        v=sc3.Or(v1,v2,v3) \r\n        if person==0:\r\n            sc3.AddSoft(~v,staffdef[person],21)\r\n        elif person==1:\r\n            sc3.AddSoft(~v,staffdef[person],22)\r\n        elif person==2:\r\n            sc3.AddSoft(~v,staffdef[person],23)\r\n        elif person==3:\r\n            sc3.AddSoft(~v,staffdef[person],24)\r\n        elif person==4:\r\n            sc3.AddSoft(~v,staffdef[person],25)\r\n        elif person==5:\r\n            sc3.AddSoft(~v,staffdef[person],26)\r\n        elif person==6:\r\n            sc3.AddSoft(~v,staffdef[person],28)\r\n",
+    "python_property_file_post": "#staffdef\r\nstaffdef=['末堂厚','加藤清澄','鎬昂昇','本部以蔵','松本梢江','朱沢江珠','安藤玲一']\r\n#daydef\r\n制約開始日=0\r\n制約終了日=5\r\n表示開始日=0\r\ndaydef=['2021-11-01','2021-11-02','2021-11-03','2021-11-04','2021-11-05','2021-11-06']\r\n#staffcollection\r\n全スタッフ=[0,1,2,3,4,5,6]\r\nOff=[0,1,2,3,4,5,6]\r\nPH12=[0,1,2,3,4,5,6]\r\nPH13=[0,1,2,3,4,5,6]\r\nPH23=[0,1,2,3,4,5,6]\r\nPH24=[0,1,2,3,4,5,6]\r\nPH34=[0,1,2,3,4,5,6]\r\nWork=[0,1,2,3,4,5,6]\r\n国語=[1,2,4,5,6]\r\n数学=[0,3,4,6]\r\n英語=[0,1,2,3,4,5,6]\r\n空き時間=[0,1,2,3,4,5,6]\r\n\r\n#daycollection\r\n今月=[0,1,2,3,4,5]\r\n日=[]\r\n月=[0]\r\n火=[1]\r\n水=[2]\r\n木=[3]\r\n金=[4]\r\n土=[5]\r\n全日=[0,1,2,3,4,5]\r\n祝=[2]\r\n振=[]\r\n祝日１=[]\r\n祝日２=[]\r\n祝日３=[]\r\nスタッフ３休み=[]\r\n祝日１=[]\r\n祝日２=[]\r\n祝日３=[]\r\nスタッフ３休み=[]\r\n次月=[]\r\n平日=[0,1,2,3,4]\r\n週末=[5]\r\n休日=[2,5]\r\n稼働日=[0,1,3,4]\r\n制約開始日一日前=[]\r\n制約開始日二日前=[]\r\n制約開始日三日前=[]\r\n制約開始日四日前=[]\r\n制約開始日五日前=[]\r\n制約開始日六日前=[]\r\n制約開始日七日前=[]\r\n制約開始日一日後=[1]\r\n制約開始日二日後=[2]\r\n制約開始日三日後=[3]\r\n制約開始日四日後=[4]\r\n制約開始日五日後=[5]\r\n制約開始日六日後=[]\r\n第一週=[0,1,2,3,4,5]\r\n第二週=[]\r\n第三週=[]\r\n第四週=[]\r\n第五週=[]\r\n第六週=[]\r\n四週間=[0,1,2,3,4,5]\r\n制約開始日１日前から=[0,1,2,3,4,5]\r\n制約開始日２日前から=[0,1,2,3,4,5]\r\n制約開始日３日前から=[0,1,2,3,4,5]\r\n制約開始日４日前から=[0,1,2,3,4,5]\r\n制約開始日５日前から=[0,1,2,3,4,5]\r\n制約開始日６日前から=[0,1,2,3,4,5]\r\n制約開始日７日前から=[0,1,2,3,4,5]\r\n制約終了日六日前=[]\r\n制約終了日五日前=[0]\r\n制約終了日四日前=[1]\r\n制約終了日三日前=[2]\r\n制約終了日二日前=[3]\r\n制約終了日一日前=[4]\r\n金土日=[4,5]\r\n金土日月=[0,4,5]\r\n月火金土=[0,1,4,5]\r\n水土=[2,5]\r\n土日=[5]\r\n水金土日=[2,4,5]\r\n木土=[3,5]\r\n\r\n#shiftcollection\r\nフルまたは休み=[6,0]\r\na_1=[1,2,6]\r\nb_2=[1,2,3,4,6]\r\nc_3=[2,3,4,5,6]\r\nd_4=[4,6,5]\r\n\r\nshift_collections_def = {'フルまたは休み':('WO','128,128,128'),'1':('1','128,128,128'),'2':('2','128,128,128'),'3':('3','128,128,128'),'4':('4','128,128,128')}\r\n#classcollection\r\n全スタッフ属性=[全スタッフ]\r\n\r\n#shiftdef\r\nshiftdef={'Off':('休',Off),'PH12':('12',PH12),'PH13':('123',PH13),'PH23':('23',PH23),'PH24':('234',PH24),'PH34':('34',PH34),'Work':('1234',Work)}\r\nshift_label_color_map={'Off':[('休','255,255,255'),('','128,128,128'),('','128,128,128')],'PH12':[('12','173,255,47'),('','128,128,128'),('','128,128,128')],'PH13':[('123','0,255,255'),('','128,128,128'),('','128,128,128')],'PH23':[('23','152,251,152'),('','128,128,128'),('','128,128,128')],'PH24':[('234','173,216,230'),('','128,128,128'),('','128,128,128')],'PH34':[('34','144,238,144'),('','128,128,128'),('','128,128,128')],'Work':[('1234','255,69,0'),('','128,128,128'),('','128,128,128')]}\r\n#taskdef\r\ntaskdef={'国語':国語,'数学':数学,'英語':英語,'空き時間':空き時間}\r\ntask_label_color_map={'国語':[('国','255,255,255'),('','128,128,128'),('','128,128,128')],'数学':[('数','255,255,255'),('','128,128,128'),('','128,128,128')],'英語':[('英','255,255,255'),('','128,128,128'),('','128,128,128')],'空き時間':[('空','255,255,255'),('','128,128,128'),('','128,128,128')]}\r\n#non_auto_tasks\r\nnon_auto_tasks=[]\r\n#phase_list\r\nph0=0\r\nph1=1\r\nph2=2\r\nph3=3\r\n\r\n#dayphase_list\r\ndayphase_list=[('ph0',0),('ph1',1),('ph2',2),('ph3',3)]\r\n#phase_class_members\r\nphase_class_members=[('Work',0,1,2,3),('PH13',0,1,2),('PH24',1,2,3),('PH12',0,1),('PH23',1,2),('PH34',2,3)]\r\n#task collections\r\n業務集合={'国語':国語,'数学':数学,'英語':英語}\r\ntask_collections_def = {'業務集合':('業','128,128,128')}\r\n#phase_objects def\r\nphase_objects_def={'フェーズ変数1':('PV1','238,130,238'),'フェーズ変数2':('PV2','255,182,193'),'フェーズ変数3':('PV3','173,216,230')}\r\n#phase_object_aggregates\r\nphase_aggregate_object_def={}\r\n#digited group\r\n#column_constraints\r\n国語全スタッフ_ph0=(True,('今月',今月),'',ph0,('国語',国語),全スタッフ,1,-1,-1,-1.000000,-1.000000,0,100,('',''),)\r\n国語全スタッフ_ph1=(True,('今月',今月),'',ph1,('国語',国語),全スタッフ,1,-1,-1,-1.000000,-1.000000,0,100,('',''),)\r\n国語全スタッフ_ph2=(True,('今月',今月),'',ph2,('国語',国語),全スタッフ,1,-1,-1,-1.000000,-1.000000,0,100,('',''),)\r\n国語全スタッフ_ph3=(True,('今月',今月),'',ph3,('国語',国語),全スタッフ,1,-1,-1,-1.000000,-1.000000,0,100,('',''),)\r\n数学全スタッフ_ph0=(True,('今月',今月),'',ph0,('数学',数学),全スタッフ,1,-1,-1,-1.000000,-1.000000,0,100,('',''),)\r\n数学全スタッフ_ph1=(True,('今月',今月),'',ph1,('数学',数学),全スタッフ,1,-1,-1,-1.000000,-1.000000,0,100,('',''),)\r\n数学全スタッフ_ph2=(True,('今月',今月),'',ph2,('数学',数学),全スタッフ,1,-1,-1,-1.000000,-1.000000,0,100,('',''),)\r\n数学全スタッフ_ph3=(True,('今月',今月),'',ph3,('数学',数学),全スタッフ,1,-1,-1,-1.000000,-1.000000,0,100,('',''),)\r\n英語全スタッフ_ph0=(True,('今月',今月),'',ph0,('英語',英語),全スタッフ,1,-1,-1,-1.000000,-1.000000,0,100,('',''),)\r\n英語全スタッフ_ph1=(True,('今月',今月),'',ph1,('英語',英語),全スタッフ,1,-1,-1,-1.000000,-1.000000,0,100,('',''),)\r\n英語全スタッフ_ph2=(True,('今月',今月),'',ph2,('英語',英語),全スタッフ,1,-1,-1,-1.000000,-1.000000,0,100,('',''),)\r\n英語全スタッフ_ph3=(True,('今月',今月),'',ph3,('英語',英語),全スタッフ,1,-1,-1,-1.000000,-1.000000,0,100,('',''),)\r\nexcel_gen={'国語全スタッフ_ph0':国語全スタッフ_ph0,'国語全スタッフ_ph1':国語全スタッフ_ph1,'国語全スタッフ_ph2':国語全スタッフ_ph2,'国語全スタッフ_ph3':国語全スタッフ_ph3,'数学全スタッフ_ph0':数学全スタッフ_ph0,'数学全スタッフ_ph1':数学全スタッフ_ph1,'数学全スタッフ_ph2':数学全スタッフ_ph2,'数学全スタッフ_ph3':数学全スタッフ_ph3,'英語全スタッフ_ph0':英語全スタッフ_ph0,'英語全スタッフ_ph1':英語全スタッフ_ph1,'英語全スタッフ_ph2':英語全スタッフ_ph2,'英語全スタッフ_ph3':英語全スタッフ_ph3}\r\ncolumn_constraints={'excel_gen':excel_gen}\r\n#shift schedules\r\nshift_schedules=[[('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,'')]\r\n,[('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,'')]\r\n,[('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,'')]\r\n,[('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,'')]\r\n,[('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,'')]\r\n,[('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,'')]\r\n,[('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,'')]\r\n]\r\ntask_schedules=[[('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,'')]\r\n,[('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,'')]\r\n,[('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,'')]\r\n,[('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,'')]\r\n,[('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,'')]\r\n,[('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,'')]\r\n,[('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,'')]\r\n]\r\nproject_file_path='C:/Users/sugaw/Documents/FA/sc3/kindle本/python/塾講師'\r\nproject_file_name='塾講師勤務表New1講師単価'\r\nHWND=0x4b11ca\r\nshift_solution=[['PH24','PH34','PH34','Work','PH24','Work']\r\n,['PH24','PH24','PH23','PH23','PH24','PH12']\r\n,['PH24','Off','PH34','PH34','Off','PH12']\r\n,['Off','PH34','Off','Off','PH34','Off']\r\n,['Off','Off','Off','Off','Off','Off']\r\n,['Off','Off','Off','Off','Off','Off']\r\n,['Off','Off','Off','Off','Off','Off']\r\n]\r\ntask_solution=[['','数学','数学','数学','','','数学','英語','','','数学','英語','英語','英語','数学','英語','','数学','数学','数学','数学','数学','空き時間','英語']\r\n,['','国語','国語','英語','','国語','空き時間','国語','','国語','英語','','','国語','英語','','','国語','英語','国語','英語','空き時間','','']\r\n,['','英語','空き時間','英語','','','','','','','国語','国語','','','国語','国語','','','','','英語','英語','','']\r\n,['','','','','','','数学','英語','','','','','','','','','','','空き時間','数学','','','','']\r\n,['','','','','','','','','','','','','','','','','','','','','','','','']\r\n,['','','','','','','','','','','','','','','','','','','','','','','','']\r\n,['','','','','','','','','','','','','','','','','','','','','','','','']\r\n]\r\nimport sc3\r\nimport os\r\nimport csv\r\ndef get_day_index(day):\r\n    return day-今月[0]+1 #名前項目分\r\n\r\ndef get_label(person,day):\r\n    shift=shift_solution[person][day]\r\n    #sc3.print(shift)\r\n    for shift_name in shiftdef.keys():\r\n        if shift_name==shift:\r\n            #sc3.print(shiftdef[shift_name][0])\r\n            return shiftdef[shift_name][0]\r\n    return ''\r\n\r\ndef draw_row(person,day,row0,row1):\r\n    label=get_label(person,day)\r\n    #sc3.print(label)\r\n    d=get_day_index(day)\r\n    row0[d]=label\r\n\r\ndef post_main():\r\n    sc3.print('\\n\\n*********ポスト処理を実行中です。*************\\n')\r\n    sol_list=[]\r\n    for person in 全スタッフ:\r\n        row0=[]\r\n        row1=[]\r\n        row0.append(staffdef[person])\r\n        row1.append('')\r\n        for day in 今月:\r\n            row0.append('') #配列確保\r\n            row1.append('') #配列確保\r\n            draw_row(person,day,row0,row1)\r\n        sol_list.append(row0)\r\n        sol_list.append(row1)\r\n#Write csv file\r\n    sc3.print('CSVファイルを生成中です。\\n')\r\n    os.chdir(project_file_path)\r\n    file_path=project_file_path+'/this_month_solution.csv'\r\n    with open(file_path, 'w', newline='') as file_path:\r\n        writer = csv.writer(file_path)\r\n        writer.writerows(sol_list)\r\n    sc3.print('CSVファイルを生成しました。\\n')\r\n    sc3.print('********ポスト処理を終了します。*******************\\n')\r\n\r\npost_main()\r\n\r\n",
+    "comment": "メモ",
+    "parameters": {
+      "NofCpus": 1,
+      "N_of_solutions": 1,
+      "not_repeat_planned_errors": 1,
+      "implict_hard_to_soft_enable": 0,
+      "HardTimeout": 30,
+      "ErrorAnalysis": 1,
+      "SoftTimeout": 10,
+      "BestEffotsTimeout": 10,
+      "UseExternalConstraint": 1,
+      "ShowUnsatisfactoryHardItems": 0,
+      "ShowUnsatisfactoryHardItemsInline": 0,
+      "Algorithm": 3,
+      "final_soft_timeout": 1,
+      "notask_var_allowed_on_active_shifts": 0,
+      "notask_var_allowed_on_only_scheduled_task": 0,
+      "python_post_operation": 0
+    },
+    "aws_parameters": {
+      "dynamodb_region": "us-east-1",
+      "dynamodb_table_name": "SC_NURSE_TABLE",
+      "dynamodb_key_name": "Name",
+      "dynamodb_item_name": "nobody",
+      "dynamodb_language": "Japanese"
+    }
+  },
+  "Sch": {
+    "name": "Schedules",
+    "members": [
+      [
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        }
+      ],
+      [
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        }
+      ],
+      [
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        }
+      ],
+      [
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        }
+      ],
+      [
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        }
+      ],
+      [
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        }
+      ],
+      [
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        }
+      ]
+    ]
+  },
+  "TSch": {
+    "name": "TaskSchedules",
+    "members": [
+      [
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        }
+      ],
+      [
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        }
+      ],
+      [
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        }
+      ],
+      [
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        }
+      ],
+      [
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        }
+      ],
+      [
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        }
+      ],
+      [
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        }
+      ]
+    ],
+    "days_property1": [
+      {
+        "Dic": {
+          "全スタッフ": [
+            {
+              "first": "0",
+              "second": "0"
+            },
+            {
+              "first": "1",
+              "second": "1"
+            },
+            {
+              "first": "1",
+              "second": "1"
+            },
+            {
+              "first": "0",
+              "second": "0"
+            },
+            {
+              "first": "0",
+              "second": "0"
+            },
+            {
+              "first": "1",
+              "second": "1"
+            },
+            {
+              "first": "0",
+              "second": "0"
+            },
+            {
+              "first": "1",
+              "second": "1"
+            },
+            {
+              "first": "0",
+              "second": "0"
+            },
+            {
+              "first": "1",
+              "second": "1"
+            },
+            {
+              "first": "1",
+              "second": "1"
+            },
+            {
+              "first": "1",
+              "second": "1"
+            },
+            {
+              "first": "0",
+              "second": "0"
+            },
+            {
+              "first": "1",
+              "second": "1"
+            },
+            {
+              "first": "1",
+              "second": "1"
+            },
+            {
+              "first": "1",
+              "second": "1"
+            },
+            {
+              "first": "0",
+              "second": "0"
+            },
+            {
+              "first": "1",
+              "second": "1"
+            },
+            {
+              "first": "0",
+              "second": "0"
+            },
+            {
+              "first": "1",
+              "second": "1"
+            },
+            {
+              "first": "0",
+              "second": "0"
+            },
+            {
+              "first": "0",
+              "second": "0"
+            },
+            {
+              "first": "0",
+              "second": "0"
+            },
+            {
+              "first": "0",
+              "second": "0"
+            }
+          ]
+        },
+        "task_name": "国語"
+      },
+      {
+        "Dic": {
+          "全スタッフ": [
+            {
+              "first": "0",
+              "second": "0"
+            },
+            {
+              "first": "1",
+              "second": "1"
+            },
+            {
+              "first": "1",
+              "second": "1"
+            },
+            {
+              "first": "1",
+              "second": "1"
+            },
+            {
+              "first": "0",
+              "second": "0"
+            },
+            {
+              "first": "0",
+              "second": "0"
+            },
+            {
+              "first": "2",
+              "second": "2"
+            },
+            {
+              "first": "0",
+              "second": "0"
+            },
+            {
+              "first": "0",
+              "second": "0"
+            },
+            {
+              "first": "0",
+              "second": "0"
+            },
+            {
+              "first": "1",
+              "second": "1"
+            },
+            {
+              "first": "0",
+              "second": "0"
+            },
+            {
+              "first": "0",
+              "second": "0"
+            },
+            {
+              "first": "0",
+              "second": "0"
+            },
+            {
+              "first": "1",
+              "second": "1"
+            },
+            {
+              "first": "0",
+              "second": "0"
+            },
+            {
+              "first": "0",
+              "second": "0"
+            },
+            {
+              "first": "1",
+              "second": "1"
+            },
+            {
+              "first": "1",
+              "second": "1"
+            },
+            {
+              "first": "2",
+              "second": "2"
+            },
+            {
+              "first": "1",
+              "second": "1"
+            },
+            {
+              "first": "1",
+              "second": "1"
+            },
+            {
+              "first": "0",
+              "second": "0"
+            },
+            {
+              "first": "0",
+              "second": "0"
+            }
+          ]
+        },
+        "task_name": "数学"
+      },
+      {
+        "Dic": {
+          "全スタッフ": [
+            {
+              "first": "0",
+              "second": "0"
+            },
+            {
+              "first": "1",
+              "second": "1"
+            },
+            {
+              "first": "0",
+              "second": "0"
+            },
+            {
+              "first": "2",
+              "second": "2"
+            },
+            {
+              "first": "0",
+              "second": "0"
+            },
+            {
+              "first": "0",
+              "second": "0"
+            },
+            {
+              "first": "0",
+              "second": "0"
+            },
+            {
+              "first": "2",
+              "second": "2"
+            },
+            {
+              "first": "0",
+              "second": "0"
+            },
+            {
+              "first": "0",
+              "second": "0"
+            },
+            {
+              "first": "1",
+              "second": "1"
+            },
+            {
+              "first": "1",
+              "second": "1"
+            },
+            {
+              "first": "1",
+              "second": "1"
+            },
+            {
+              "first": "1",
+              "second": "1"
+            },
+            {
+              "first": "1",
+              "second": "1"
+            },
+            {
+              "first": "1",
+              "second": "1"
+            },
+            {
+              "first": "0",
+              "second": "0"
+            },
+            {
+              "first": "0",
+              "second": "0"
+            },
+            {
+              "first": "1",
+              "second": "1"
+            },
+            {
+              "first": "0",
+              "second": "0"
+            },
+            {
+              "first": "2",
+              "second": "2"
+            },
+            {
+              "first": "1",
+              "second": "1"
+            },
+            {
+              "first": "0",
+              "second": "0"
+            },
+            {
+              "first": "1",
+              "second": "1"
+            }
+          ]
+        },
+        "task_name": "英語"
+      }
+    ]
+  },
+  "PIC": {
+    "name": "PairConstraints",
+    "members": [
+      {
+        "phase_mode": false,
+        "name": "PairConstraintsGroup",
+        "def_name": "ペア制約グループ1",
+        "use": true,
+        "members": [
+          {
+            "phase_mode": false,
+            "phase_str": "",
+            "name": "PairConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_typeA": "",
+            "shift_typeB": "",
+            "day_type": "",
+            "staff_property_typeA": "",
+            "staff_property_typeB": "",
+            "operatorA": "OR",
+            "operatorB": "OR",
+            "dayoffset": 0,
+            "constraint_type": 0,
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "phase_str": "",
+            "name": "PairConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_typeA": "",
+            "shift_typeB": "",
+            "day_type": "",
+            "staff_property_typeA": "",
+            "staff_property_typeB": "",
+            "operatorA": "OR",
+            "operatorB": "OR",
+            "dayoffset": 0,
+            "constraint_type": 0,
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "phase_str": "",
+            "name": "PairConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_typeA": "",
+            "shift_typeB": "",
+            "day_type": "",
+            "staff_property_typeA": "",
+            "staff_property_typeB": "",
+            "operatorA": "OR",
+            "operatorB": "OR",
+            "dayoffset": 0,
+            "constraint_type": 0,
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "phase_str": "",
+            "name": "PairConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_typeA": "",
+            "shift_typeB": "",
+            "day_type": "",
+            "staff_property_typeA": "",
+            "staff_property_typeB": "",
+            "operatorA": "OR",
+            "operatorB": "OR",
+            "dayoffset": 0,
+            "constraint_type": 0,
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "phase_str": "",
+            "name": "PairConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_typeA": "",
+            "shift_typeB": "",
+            "day_type": "",
+            "staff_property_typeA": "",
+            "staff_property_typeB": "",
+            "operatorA": "OR",
+            "operatorB": "OR",
+            "dayoffset": 0,
+            "constraint_type": 0,
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "phase_str": "",
+            "name": "PairConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_typeA": "",
+            "shift_typeB": "",
+            "day_type": "",
+            "staff_property_typeA": "",
+            "staff_property_typeB": "",
+            "operatorA": "OR",
+            "operatorB": "OR",
+            "dayoffset": 0,
+            "constraint_type": 0,
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "phase_str": "",
+            "name": "PairConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_typeA": "",
+            "shift_typeB": "",
+            "day_type": "",
+            "staff_property_typeA": "",
+            "staff_property_typeB": "",
+            "operatorA": "OR",
+            "operatorB": "OR",
+            "dayoffset": 0,
+            "constraint_type": 0,
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "phase_str": "",
+            "name": "PairConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_typeA": "",
+            "shift_typeB": "",
+            "day_type": "",
+            "staff_property_typeA": "",
+            "staff_property_typeB": "",
+            "operatorA": "OR",
+            "operatorB": "OR",
+            "dayoffset": 0,
+            "constraint_type": 0,
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "phase_str": "",
+            "name": "PairConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_typeA": "",
+            "shift_typeB": "",
+            "day_type": "",
+            "staff_property_typeA": "",
+            "staff_property_typeB": "",
+            "operatorA": "OR",
+            "operatorB": "OR",
+            "dayoffset": 0,
+            "constraint_type": 0,
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "phase_str": "",
+            "name": "PairConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_typeA": "",
+            "shift_typeB": "",
+            "day_type": "",
+            "staff_property_typeA": "",
+            "staff_property_typeB": "",
+            "operatorA": "OR",
+            "operatorB": "OR",
+            "dayoffset": 0,
+            "constraint_type": 0,
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "phase_str": "",
+            "name": "PairConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_typeA": "",
+            "shift_typeB": "",
+            "day_type": "",
+            "staff_property_typeA": "",
+            "staff_property_typeB": "",
+            "operatorA": "OR",
+            "operatorB": "OR",
+            "dayoffset": 0,
+            "constraint_type": 0,
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "phase_str": "",
+            "name": "PairConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_typeA": "",
+            "shift_typeB": "",
+            "day_type": "",
+            "staff_property_typeA": "",
+            "staff_property_typeB": "",
+            "operatorA": "OR",
+            "operatorB": "OR",
+            "dayoffset": 0,
+            "constraint_type": 0,
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "phase_str": "",
+            "name": "PairConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_typeA": "",
+            "shift_typeB": "",
+            "day_type": "",
+            "staff_property_typeA": "",
+            "staff_property_typeB": "",
+            "operatorA": "",
+            "operatorB": "",
+            "dayoffset": 0,
+            "constraint_type": 0,
+            "soft_constraint_level": 0
+          }
+        ]
+      },
+      {
+        "phase_mode": false,
+        "name": "PairConstraintsGroup",
+        "def_name": "ペア制約グループ2",
+        "use": true,
+        "members": [
+          {
+            "phase_mode": false,
+            "phase_str": "",
+            "name": "PairConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_typeA": "",
+            "shift_typeB": "",
+            "day_type": "",
+            "staff_property_typeA": "",
+            "staff_property_typeB": "",
+            "operatorA": "OR",
+            "operatorB": "OR",
+            "dayoffset": 0,
+            "constraint_type": 0,
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "phase_str": "",
+            "name": "PairConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_typeA": "",
+            "shift_typeB": "",
+            "day_type": "",
+            "staff_property_typeA": "",
+            "staff_property_typeB": "",
+            "operatorA": "OR",
+            "operatorB": "OR",
+            "dayoffset": 0,
+            "constraint_type": 0,
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "phase_str": "",
+            "name": "PairConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_typeA": "",
+            "shift_typeB": "",
+            "day_type": "",
+            "staff_property_typeA": "",
+            "staff_property_typeB": "",
+            "operatorA": "OR",
+            "operatorB": "OR",
+            "dayoffset": 0,
+            "constraint_type": 0,
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "phase_str": "",
+            "name": "PairConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_typeA": "",
+            "shift_typeB": "",
+            "day_type": "",
+            "staff_property_typeA": "",
+            "staff_property_typeB": "",
+            "operatorA": "OR",
+            "operatorB": "OR",
+            "dayoffset": 0,
+            "constraint_type": 0,
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "phase_str": "",
+            "name": "PairConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_typeA": "",
+            "shift_typeB": "",
+            "day_type": "",
+            "staff_property_typeA": "",
+            "staff_property_typeB": "",
+            "operatorA": "OR",
+            "operatorB": "OR",
+            "dayoffset": 0,
+            "constraint_type": 0,
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "phase_str": "",
+            "name": "PairConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_typeA": "",
+            "shift_typeB": "",
+            "day_type": "",
+            "staff_property_typeA": "",
+            "staff_property_typeB": "",
+            "operatorA": "OR",
+            "operatorB": "OR",
+            "dayoffset": 0,
+            "constraint_type": 0,
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "phase_str": "",
+            "name": "PairConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_typeA": "",
+            "shift_typeB": "",
+            "day_type": "",
+            "staff_property_typeA": "",
+            "staff_property_typeB": "",
+            "operatorA": "OR",
+            "operatorB": "OR",
+            "dayoffset": 0,
+            "constraint_type": 0,
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "phase_str": "",
+            "name": "PairConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_typeA": "",
+            "shift_typeB": "",
+            "day_type": "",
+            "staff_property_typeA": "",
+            "staff_property_typeB": "",
+            "operatorA": "OR",
+            "operatorB": "OR",
+            "dayoffset": 0,
+            "constraint_type": 0,
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "phase_str": "",
+            "name": "PairConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_typeA": "",
+            "shift_typeB": "",
+            "day_type": "",
+            "staff_property_typeA": "",
+            "staff_property_typeB": "",
+            "operatorA": "OR",
+            "operatorB": "OR",
+            "dayoffset": 0,
+            "constraint_type": 0,
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "phase_str": "",
+            "name": "PairConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_typeA": "",
+            "shift_typeB": "",
+            "day_type": "",
+            "staff_property_typeA": "",
+            "staff_property_typeB": "",
+            "operatorA": "OR",
+            "operatorB": "OR",
+            "dayoffset": 0,
+            "constraint_type": 0,
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "phase_str": "",
+            "name": "PairConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_typeA": "",
+            "shift_typeB": "",
+            "day_type": "",
+            "staff_property_typeA": "",
+            "staff_property_typeB": "",
+            "operatorA": "OR",
+            "operatorB": "OR",
+            "dayoffset": 0,
+            "constraint_type": 0,
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "phase_str": "",
+            "name": "PairConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_typeA": "",
+            "shift_typeB": "",
+            "day_type": "",
+            "staff_property_typeA": "",
+            "staff_property_typeB": "",
+            "operatorA": "OR",
+            "operatorB": "OR",
+            "dayoffset": 0,
+            "constraint_type": 0,
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "phase_str": "",
+            "name": "PairConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_typeA": "",
+            "shift_typeB": "",
+            "day_type": "",
+            "staff_property_typeA": "",
+            "staff_property_typeB": "",
+            "operatorA": "",
+            "operatorB": "",
+            "dayoffset": 0,
+            "constraint_type": 0,
+            "soft_constraint_level": 0
+          }
+        ]
+      }
+    ]
+  },
+  "major_version": 121,
+  "sub_version": 100,
+  "solver_version": 121,
+  "user_class": "",
+  "user_id": "",
+  "eval_id": "",
+  "ProjectName": "C:\\Users\\sugaw\\Documents\\FA\\sc3\\kindle本\\python\\塾講師\\塾講師勤務表New1講師単価.nurse3"
+}

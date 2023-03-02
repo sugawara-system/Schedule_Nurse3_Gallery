@@ -396,7 +396,7 @@
       {
         "val": 0,
         "name": "SecondMonth",
-        "def_name": "SecondMonth",
+        "def_name": "次月",
         "dates": [],
         "use": true,
         "predefined": true
@@ -1171,7 +1171,7 @@
       {
         "use": true,
         "name": "PhaseObjectDef",
-        "def_name": "phase_var1",
+        "def_name": "フェーズ変数1",
         "auto_schedule": true,
         "color": "Violet",
         "label": "PV1",
@@ -1182,7 +1182,7 @@
       {
         "use": true,
         "name": "PhaseObjectDef",
-        "def_name": "phase_var2",
+        "def_name": "フェーズ変数2",
         "auto_schedule": true,
         "color": "LightPink",
         "label": "PV2",
@@ -1193,7 +1193,7 @@
       {
         "use": true,
         "name": "PhaseObjectDef",
-        "def_name": "phase_var3",
+        "def_name": "フェーズ変数3",
         "auto_schedule": true,
         "color": "LightBlue",
         "label": "PV3",
@@ -1213,8 +1213,8 @@
         "color": "Gray",
         "label": "poa1",
         "phase_object_names": [
-          "phase_var1",
-          "phase_var2"
+          "フェーズ変数1",
+          "フェーズ変数2"
         ]
       },
       {
@@ -1224,8 +1224,8 @@
         "color": "Gray",
         "label": "poa2",
         "phase_object_names": [
-          "phase_var2",
-          "phase_var3"
+          "フェーズ変数2",
+          "フェーズ変数3"
         ]
       }
     ]
@@ -1532,8 +1532,8 @@
         "name": "StaffPropertyDef",
         "def_name": "スタッフ名1",
         "shifts": [
-          "代休",
           "公休",
+          "代休",
           "半休",
           "訪問"
         ],
@@ -1548,8 +1548,8 @@
         "name": "StaffPropertyDef",
         "def_name": "スタッフ名2",
         "shifts": [
-          "代休",
           "公休",
+          "代休",
           "半休",
           "訪問"
         ],
@@ -1564,8 +1564,8 @@
         "name": "StaffPropertyDef",
         "def_name": "スタッフ名3",
         "shifts": [
-          "代休",
           "公休",
+          "代休",
           "半休",
           "訪問"
         ],
@@ -1580,8 +1580,8 @@
         "name": "StaffPropertyDef",
         "def_name": "スタッフ名4",
         "shifts": [
-          "代休",
           "公休",
+          "代休",
           "半休",
           "訪問"
         ],
@@ -1596,8 +1596,8 @@
         "name": "StaffPropertyDef",
         "def_name": "スタッフ名5",
         "shifts": [
-          "代休",
           "公休",
+          "代休",
           "半休",
           "訪問"
         ],
@@ -1612,8 +1612,8 @@
         "name": "StaffPropertyDef",
         "def_name": "スタッフ名6",
         "shifts": [
-          "代休",
           "公休",
+          "代休",
           "半休",
           "訪問"
         ],
@@ -1628,8 +1628,8 @@
         "name": "StaffPropertyDef",
         "def_name": "",
         "shifts": [
-          "代休",
           "公休",
+          "代休",
           "半休",
           "訪問"
         ],
@@ -1649,8 +1649,8 @@
         "name": "StaffPropertyDef",
         "def_name": "",
         "shifts": [
-          "代休",
           "公休",
+          "代休",
           "半休",
           "訪問"
         ],
@@ -1670,8 +1670,8 @@
         "name": "StaffPropertyDef",
         "def_name": "",
         "shifts": [
-          "代休",
           "公休",
+          "代休",
           "半休",
           "訪問"
         ],
@@ -1691,8 +1691,8 @@
         "name": "StaffPropertyDef",
         "def_name": "",
         "shifts": [
-          "代休",
           "公休",
+          "代休",
           "半休",
           "訪問"
         ],
@@ -1712,8 +1712,8 @@
         "name": "StaffPropertyDef",
         "def_name": "",
         "shifts": [
-          "代休",
           "公休",
+          "代休",
           "半休",
           "訪問"
         ],
@@ -1733,8 +1733,8 @@
         "name": "StaffPropertyDef",
         "def_name": "",
         "shifts": [
-          "代休",
           "公休",
+          "代休",
           "半休",
           "訪問"
         ],
@@ -1754,8 +1754,8 @@
         "name": "StaffPropertyDef",
         "def_name": "",
         "shifts": [
-          "代休",
           "公休",
+          "代休",
           "半休",
           "訪問"
         ],
@@ -1775,8 +1775,8 @@
         "name": "StaffPropertyDef",
         "def_name": "",
         "shifts": [
-          "代休",
           "公休",
+          "代休",
           "半休",
           "訪問"
         ],
@@ -1796,8 +1796,8 @@
         "name": "StaffPropertyDef",
         "def_name": "",
         "shifts": [
-          "代休",
           "公休",
+          "代休",
           "半休",
           "訪問"
         ],
@@ -1817,8 +1817,8 @@
         "name": "StaffPropertyDef",
         "def_name": "",
         "shifts": [
-          "代休",
           "公休",
+          "代休",
           "半休",
           "訪問"
         ],
@@ -1838,8 +1838,8 @@
         "name": "StaffPropertyDef",
         "def_name": "",
         "shifts": [
-          "代休",
           "公休",
+          "代休",
           "半休",
           "訪問"
         ],
@@ -2456,29 +2456,36 @@
             "pattern": [
               {
                 "shift": "公休",
-                "level": 0
+                "level": 0,
+                "a_ix": -1
               },
               {
                 "shift": "公休",
-                "level": 0
+                "level": 0,
+                "a_ix": -1
               },
               {
                 "shift": "公休",
-                "level": 0
+                "level": 0,
+                "a_ix": -1
               },
               {
                 "shift": "公休",
-                "level": 0
+                "level": 0,
+                "a_ix": -1
               },
               {
                 "shift": "公休",
-                "level": 0
+                "level": 0,
+                "a_ix": -1
               },
               {
                 "shift": "公休",
-                "level": 0
+                "level": 0,
+                "a_ix": -1
               }
             ],
+            "shift_pattern": [],
             "inv_pattern": [
               true,
               true,
@@ -2487,6 +2494,7 @@
               true,
               true
             ],
+            "shift_inv_pattern": [],
             "constraint_type": 0,
             "max_value": -1,
             "min_double": -1.0,
@@ -2508,12 +2516,15 @@
             "pattern": [
               {
                 "shift": "訪問",
-                "level": 0
+                "level": 0,
+                "a_ix": -1
               }
             ],
+            "shift_pattern": [],
             "inv_pattern": [
               false
             ],
+            "shift_inv_pattern": [],
             "constraint_type": 1,
             "max_value": -1,
             "min_double": -1.0,
@@ -2535,12 +2546,15 @@
             "pattern": [
               {
                 "shift": "訪問",
-                "level": 0
+                "level": 0,
+                "a_ix": -1
               }
             ],
+            "shift_pattern": [],
             "inv_pattern": [
               false
             ],
+            "shift_inv_pattern": [],
             "constraint_type": 1,
             "max_value": -1,
             "min_double": -1.0,
@@ -2562,12 +2576,15 @@
             "pattern": [
               {
                 "shift": "代休",
-                "level": 0
+                "level": 0,
+                "a_ix": -1
               }
             ],
+            "shift_pattern": [],
             "inv_pattern": [
               false
             ],
+            "shift_inv_pattern": [],
             "constraint_type": 1,
             "max_value": -1,
             "min_double": -1.0,
@@ -2589,12 +2606,15 @@
             "pattern": [
               {
                 "shift": "半休",
-                "level": 0
+                "level": 0,
+                "a_ix": -1
               }
             ],
+            "shift_pattern": [],
             "inv_pattern": [
               false
             ],
+            "shift_inv_pattern": [],
             "constraint_type": 1,
             "max_value": -1,
             "min_double": -1.0,
@@ -2614,7 +2634,9 @@
             "last_day_type": "",
             "staff_property_type": "",
             "pattern": [],
+            "shift_pattern": [],
             "inv_pattern": [],
+            "shift_inv_pattern": [],
             "constraint_type": 0,
             "max_value": -1,
             "min_double": -1.0,
@@ -2634,7 +2656,9 @@
             "last_day_type": "",
             "staff_property_type": "",
             "pattern": [],
+            "shift_pattern": [],
             "inv_pattern": [],
+            "shift_inv_pattern": [],
             "constraint_type": 0,
             "max_value": -1,
             "min_double": -1.0,
@@ -2654,7 +2678,9 @@
             "last_day_type": "",
             "staff_property_type": "",
             "pattern": [],
+            "shift_pattern": [],
             "inv_pattern": [],
+            "shift_inv_pattern": [],
             "constraint_type": 0,
             "max_value": -1,
             "min_double": -1.0,
@@ -2674,7 +2700,9 @@
             "last_day_type": "",
             "staff_property_type": "",
             "pattern": [],
+            "shift_pattern": [],
             "inv_pattern": [],
+            "shift_inv_pattern": [],
             "constraint_type": 0,
             "max_value": -1,
             "min_double": -1.0,
@@ -2694,7 +2722,9 @@
             "last_day_type": "",
             "staff_property_type": "",
             "pattern": [],
+            "shift_pattern": [],
             "inv_pattern": [],
+            "shift_inv_pattern": [],
             "constraint_type": 0,
             "max_value": -1,
             "min_double": -1.0,
@@ -2714,7 +2744,9 @@
             "last_day_type": "",
             "staff_property_type": "",
             "pattern": [],
+            "shift_pattern": [],
             "inv_pattern": [],
+            "shift_inv_pattern": [],
             "constraint_type": 0,
             "max_value": -1,
             "min_double": -1.0,
@@ -2734,7 +2766,9 @@
             "last_day_type": "",
             "staff_property_type": "",
             "pattern": [],
+            "shift_pattern": [],
             "inv_pattern": [],
+            "shift_inv_pattern": [],
             "constraint_type": 0,
             "max_value": -1,
             "min_double": -1.0,
@@ -2762,7 +2796,9 @@
             "last_day_type": "",
             "staff_property_type": "",
             "pattern": [],
+            "shift_pattern": [],
             "inv_pattern": [],
+            "shift_inv_pattern": [],
             "constraint_type": 0,
             "max_value": -1,
             "min_double": -1.0,
@@ -2782,7 +2818,9 @@
             "last_day_type": "",
             "staff_property_type": "",
             "pattern": [],
+            "shift_pattern": [],
             "inv_pattern": [],
+            "shift_inv_pattern": [],
             "constraint_type": 0,
             "max_value": -1,
             "min_double": -1.0,
@@ -2802,7 +2840,9 @@
             "last_day_type": "",
             "staff_property_type": "",
             "pattern": [],
+            "shift_pattern": [],
             "inv_pattern": [],
+            "shift_inv_pattern": [],
             "constraint_type": 0,
             "max_value": -1,
             "min_double": -1.0,
@@ -2822,7 +2862,9 @@
             "last_day_type": "",
             "staff_property_type": "",
             "pattern": [],
+            "shift_pattern": [],
             "inv_pattern": [],
+            "shift_inv_pattern": [],
             "constraint_type": 0,
             "max_value": -1,
             "min_double": -1.0,
@@ -2842,7 +2884,9 @@
             "last_day_type": "",
             "staff_property_type": "",
             "pattern": [],
+            "shift_pattern": [],
             "inv_pattern": [],
+            "shift_inv_pattern": [],
             "constraint_type": 0,
             "max_value": -1,
             "min_double": -1.0,
@@ -2862,7 +2906,9 @@
             "last_day_type": "",
             "staff_property_type": "",
             "pattern": [],
+            "shift_pattern": [],
             "inv_pattern": [],
+            "shift_inv_pattern": [],
             "constraint_type": 0,
             "max_value": -1,
             "min_double": -1.0,
@@ -2882,7 +2928,9 @@
             "last_day_type": "",
             "staff_property_type": "",
             "pattern": [],
+            "shift_pattern": [],
             "inv_pattern": [],
+            "shift_inv_pattern": [],
             "constraint_type": 0,
             "max_value": -1,
             "min_double": -1.0,
@@ -2902,7 +2950,9 @@
             "last_day_type": "",
             "staff_property_type": "",
             "pattern": [],
+            "shift_pattern": [],
             "inv_pattern": [],
+            "shift_inv_pattern": [],
             "constraint_type": 0,
             "max_value": -1,
             "min_double": -1.0,
@@ -2922,7 +2972,9 @@
             "last_day_type": "",
             "staff_property_type": "",
             "pattern": [],
+            "shift_pattern": [],
             "inv_pattern": [],
+            "shift_inv_pattern": [],
             "constraint_type": 0,
             "max_value": -1,
             "min_double": -1.0,
@@ -2942,7 +2994,9 @@
             "last_day_type": "",
             "staff_property_type": "",
             "pattern": [],
+            "shift_pattern": [],
             "inv_pattern": [],
+            "shift_inv_pattern": [],
             "constraint_type": 0,
             "max_value": -1,
             "min_double": -1.0,
@@ -2962,7 +3016,9 @@
             "last_day_type": "",
             "staff_property_type": "",
             "pattern": [],
+            "shift_pattern": [],
             "inv_pattern": [],
+            "shift_inv_pattern": [],
             "constraint_type": 0,
             "max_value": -1,
             "min_double": -1.0,
@@ -2982,7 +3038,9 @@
             "last_day_type": "",
             "staff_property_type": "",
             "pattern": [],
+            "shift_pattern": [],
             "inv_pattern": [],
+            "shift_inv_pattern": [],
             "constraint_type": 0,
             "max_value": -1,
             "min_double": -1.0,
@@ -3019,6 +3077,7 @@
       "ShowUnsatisfactoryHardItemsInline": 0,
       "final_soft_timeout": 30,
       "implict_hard_to_soft_enable": 1,
+      "python_post_operation": 0,
       "notask_var_allowed_on_active_shifts": 0,
       "notask_var_allowed_on_only_scheduled_task": 0
     },
@@ -3027,7 +3086,7 @@
       "dynamodb_table_name": "SC_NURSE_TABLE",
       "dynamodb_key_name": "Name",
       "dynamodb_item_name": "nobody",
-      "dynamodb_language": "English"
+      "dynamodb_language": "Japanese"
     }
   },
   "Sch": {
@@ -3036,877 +3095,1093 @@
       [
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
-        },
-        {
-          "shift": "訪問",
-          "level": 0
-        },
-        {
-          "shift": "訪問",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "訪問",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "訪問",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "訪問",
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         }
       ],
       [
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         }
       ],
       [
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         }
       ],
       [
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         }
       ],
       [
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         }
       ],
       [
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         },
         {
           "shift": "",
-          "level": 0
+          "level": 0,
+          "a_ix": -1
         }
       ]
     ]
@@ -4359,11 +4634,11 @@
       }
     ]
   },
-  "major_version": 109,
+  "major_version": 117,
   "sub_version": 100,
-  "solver_version": 109,
+  "solver_version": 117,
   "user_class": "",
   "user_id": "",
   "eval_id": "",
-  "ProjectName": "C:\\Users\\sugaw\\Documents\\Git1\\Schedule_nurse3_Gallery\\Schedule_Nurse3_Gallery\\Japanese\\プロジェクトサンプル\\python\\python_チュートリアル１２エラー.nurse3"
+  "ProjectName": "C:\\Users\\sugaw\\Documents\\Git1\\Schedule_Nurse3_Gallery1\\Japanese\\プロジェクトサンプル\\python\\python_チュートリアル１２エラー.nurse3"
 }

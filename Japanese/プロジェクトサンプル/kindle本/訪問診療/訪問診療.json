@@ -1,0 +1,6018 @@
+{
+  "SO": {
+    "name": "Shift Objects",
+    "members": [
+      {
+        "use": true,
+        "name": "ShiftDef",
+        "def_name": "オンコール",
+        "auto_schedule": true,
+        "color": "Yellow",
+        "label": "コ",
+        "another_labels": [
+          "",
+          ""
+        ],
+        "another_colors": [
+          "",
+          ""
+        ],
+        "num_cnt": 0,
+        "work_hours": -1
+      },
+      {
+        "use": true,
+        "name": "ShiftDef",
+        "def_name": "外来勤務",
+        "auto_schedule": true,
+        "color": "192, 255, 255",
+        "label": "外",
+        "another_labels": [
+          "",
+          ""
+        ],
+        "another_colors": [
+          "",
+          ""
+        ],
+        "num_cnt": 0,
+        "work_hours": -1
+      },
+      {
+        "use": true,
+        "name": "ShiftDef",
+        "def_name": "訪問看護",
+        "auto_schedule": true,
+        "color": "255, 128, 0",
+        "label": "訪",
+        "another_labels": [
+          "",
+          ""
+        ],
+        "another_colors": [
+          "",
+          ""
+        ],
+        "num_cnt": 0,
+        "work_hours": -1
+      },
+      {
+        "use": true,
+        "name": "ShiftDef",
+        "def_name": "休み",
+        "auto_schedule": true,
+        "color": "White",
+        "label": "休",
+        "another_labels": [
+          "",
+          ""
+        ],
+        "another_colors": [
+          "",
+          ""
+        ],
+        "num_cnt": 0,
+        "work_hours": -1
+      },
+      {
+        "use": true,
+        "name": "ShiftDef",
+        "def_name": "1日代休",
+        "auto_schedule": true,
+        "color": "192, 255, 192",
+        "label": "代",
+        "another_labels": [
+          "",
+          ""
+        ],
+        "another_colors": [
+          "",
+          ""
+        ],
+        "num_cnt": 0,
+        "work_hours": -1
+      },
+      {
+        "use": true,
+        "name": "ShiftDef",
+        "def_name": "半日代休",
+        "auto_schedule": true,
+        "color": "128, 255, 128",
+        "label": "半代",
+        "another_labels": [
+          "",
+          ""
+        ],
+        "another_colors": [
+          "",
+          ""
+        ],
+        "num_cnt": 0,
+        "work_hours": -1
+      },
+      {
+        "use": true,
+        "name": "ShiftDef",
+        "def_name": "希望休み",
+        "auto_schedule": false,
+        "color": "255, 192, 128",
+        "label": "希",
+        "another_labels": [
+          "",
+          ""
+        ],
+        "another_colors": [
+          "",
+          ""
+        ],
+        "num_cnt": 0,
+        "work_hours": -1
+      },
+      {
+        "use": true,
+        "name": "ShiftDef",
+        "def_name": "希半",
+        "auto_schedule": false,
+        "color": "255, 192, 192",
+        "label": "希前",
+        "another_labels": [
+          "希半",
+          ""
+        ],
+        "another_colors": [
+          "",
+          ""
+        ],
+        "num_cnt": 0,
+        "work_hours": -1
+      }
+    ]
+  },
+  "DO": {
+    "days": 35,
+    "target_year": 2018,
+    "target_month": 4,
+    "members": [
+      {
+        "val": 0,
+        "name": "StartDate",
+        "def_name": "制約開始日",
+        "dates": [
+          "2018-04-01"
+        ],
+        "use": true,
+        "predefined": true
+      },
+      {
+        "val": 0,
+        "name": "FinishDate",
+        "def_name": "制約終了日",
+        "dates": [
+          "2018-04-30"
+        ],
+        "use": true,
+        "predefined": true
+      },
+      {
+        "val": 0,
+        "name": "StartDisplayDate",
+        "def_name": "表示開始日",
+        "dates": [
+          "2018-03-27"
+        ],
+        "use": true,
+        "predefined": true
+      },
+      {
+        "val": 0,
+        "name": "ThisMonth",
+        "def_name": "今月",
+        "dates": [
+          "2018-04-01",
+          "2018-04-02",
+          "2018-04-03",
+          "2018-04-04",
+          "2018-04-05",
+          "2018-04-06",
+          "2018-04-07",
+          "2018-04-08",
+          "2018-04-09",
+          "2018-04-10",
+          "2018-04-11",
+          "2018-04-12",
+          "2018-04-13",
+          "2018-04-14",
+          "2018-04-15",
+          "2018-04-16",
+          "2018-04-17",
+          "2018-04-18",
+          "2018-04-19",
+          "2018-04-20",
+          "2018-04-21",
+          "2018-04-22",
+          "2018-04-23",
+          "2018-04-24",
+          "2018-04-25",
+          "2018-04-26",
+          "2018-04-27",
+          "2018-04-28",
+          "2018-04-29",
+          "2018-04-30"
+        ],
+        "use": true,
+        "predefined": true
+      },
+      {
+        "val": 0,
+        "name": "SUN",
+        "def_name": "日",
+        "dates": [
+          "2018-04-01",
+          "2018-04-08",
+          "2018-04-15",
+          "2018-04-22",
+          "2018-04-29"
+        ],
+        "use": true,
+        "predefined": true
+      },
+      {
+        "val": 0,
+        "name": "MON",
+        "def_name": "月",
+        "dates": [
+          "2018-04-02",
+          "2018-04-09",
+          "2018-04-16",
+          "2018-04-23",
+          "2018-04-30"
+        ],
+        "use": true,
+        "predefined": true
+      },
+      {
+        "val": 0,
+        "name": "TUE",
+        "def_name": "火",
+        "dates": [
+          "2018-03-27",
+          "2018-04-03",
+          "2018-04-10",
+          "2018-04-17",
+          "2018-04-24"
+        ],
+        "use": true,
+        "predefined": true
+      },
+      {
+        "val": 0,
+        "name": "WED",
+        "def_name": "水",
+        "dates": [
+          "2018-03-28",
+          "2018-04-04",
+          "2018-04-11",
+          "2018-04-18",
+          "2018-04-25"
+        ],
+        "use": true,
+        "predefined": true
+      },
+      {
+        "val": 0,
+        "name": "THU",
+        "def_name": "木",
+        "dates": [
+          "2018-03-29",
+          "2018-04-05",
+          "2018-04-12",
+          "2018-04-19",
+          "2018-04-26"
+        ],
+        "use": true,
+        "predefined": true
+      },
+      {
+        "val": 0,
+        "name": "FRI",
+        "def_name": "金",
+        "dates": [
+          "2018-03-30",
+          "2018-04-06",
+          "2018-04-13",
+          "2018-04-20",
+          "2018-04-27"
+        ],
+        "use": true,
+        "predefined": true
+      },
+      {
+        "val": 0,
+        "name": "SAT",
+        "def_name": "土",
+        "dates": [
+          "2018-03-31",
+          "2018-04-07",
+          "2018-04-14",
+          "2018-04-21",
+          "2018-04-28"
+        ],
+        "use": true,
+        "predefined": true
+      },
+      {
+        "val": 0,
+        "name": "AllDays",
+        "def_name": "全日",
+        "dates": [
+          "2018-03-27",
+          "2018-03-28",
+          "2018-03-29",
+          "2018-03-30",
+          "2018-03-31",
+          "2018-04-01",
+          "2018-04-02",
+          "2018-04-03",
+          "2018-04-04",
+          "2018-04-05",
+          "2018-04-06",
+          "2018-04-07",
+          "2018-04-08",
+          "2018-04-09",
+          "2018-04-10",
+          "2018-04-11",
+          "2018-04-12",
+          "2018-04-13",
+          "2018-04-14",
+          "2018-04-15",
+          "2018-04-16",
+          "2018-04-17",
+          "2018-04-18",
+          "2018-04-19",
+          "2018-04-20",
+          "2018-04-21",
+          "2018-04-22",
+          "2018-04-23",
+          "2018-04-24",
+          "2018-04-25",
+          "2018-04-26",
+          "2018-04-27",
+          "2018-04-28",
+          "2018-04-29",
+          "2018-04-30"
+        ],
+        "use": true,
+        "predefined": true
+      },
+      {
+        "val": 0,
+        "name": "HOLIDAYS",
+        "def_name": "祝",
+        "dates": [
+          "2018-04-29"
+        ],
+        "use": true,
+        "predefined": true
+      },
+      {
+        "val": 0,
+        "name": "SHOLIDAYS",
+        "def_name": "振",
+        "dates": [
+          "2018-04-30"
+        ],
+        "use": true,
+        "predefined": true
+      },
+      {
+        "val": 0,
+        "name": "SecondMonth",
+        "def_name": "次月",
+        "dates": [],
+        "use": true,
+        "predefined": true
+      },
+      {
+        "val": 0,
+        "name": "",
+        "def_name": "ユーザ祝",
+        "dates": [],
+        "use": true,
+        "predefined": false
+      },
+      {
+        "val": 0,
+        "name": "",
+        "def_name": "訪問０便",
+        "dates": [
+          "2023-02-04"
+        ],
+        "use": true,
+        "predefined": false
+      },
+      {
+        "val": 0,
+        "name": "",
+        "def_name": "訪問2便",
+        "dates": [],
+        "use": true,
+        "predefined": false
+      },
+      {
+        "val": 0,
+        "name": "",
+        "def_name": "",
+        "dates": [],
+        "use": false,
+        "predefined": false
+      },
+      {
+        "val": 0,
+        "name": "",
+        "def_name": "",
+        "dates": [],
+        "use": false,
+        "predefined": false
+      },
+      {
+        "val": 0,
+        "name": "",
+        "def_name": "",
+        "dates": [],
+        "use": false,
+        "predefined": false
+      },
+      {
+        "val": 0,
+        "name": "",
+        "def_name": "",
+        "dates": [],
+        "use": false,
+        "predefined": false
+      },
+      {
+        "val": 0,
+        "name": "",
+        "def_name": "",
+        "dates": [],
+        "use": false,
+        "predefined": false
+      },
+      {
+        "val": 0,
+        "name": "",
+        "def_name": "",
+        "dates": [],
+        "use": false,
+        "predefined": false
+      },
+      {
+        "val": 0,
+        "name": "",
+        "def_name": "",
+        "dates": [],
+        "use": false,
+        "predefined": false
+      }
+    ]
+  },
+  "DA": {
+    "name": "DateAggregates",
+    "members": [
+      {
+        "name": "DateAggregate",
+        "Operator": "OR",
+        "def_name": "平日",
+        "dates": [
+          "月",
+          "火",
+          "水",
+          "木",
+          "金"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "OR",
+        "def_name": "週末",
+        "dates": [
+          "土",
+          "日"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "OR",
+        "def_name": "休日",
+        "dates": [
+          "週末",
+          "祝",
+          "ユーザ祝"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "OR",
+        "def_name": "祝集合",
+        "dates": [
+          "祝",
+          "ユーザ祝",
+          "振"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "AND",
+        "def_name": "今月祝集合",
+        "dates": [
+          "今月",
+          "祝集合"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "NOT",
+        "def_name": "稼働日",
+        "dates": [
+          "休日"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "-1",
+        "def_name": "制約開始日一日前",
+        "dates": [
+          "制約開始日"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "-2",
+        "def_name": "制約開始日二日前",
+        "dates": [
+          "制約開始日"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "-3",
+        "def_name": "制約開始日三日前",
+        "dates": [
+          "制約開始日"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "-4",
+        "def_name": "制約開始日四日前",
+        "dates": [
+          "制約開始日"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "-5",
+        "def_name": "制約開始日五日前",
+        "dates": [
+          "制約開始日"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "-6",
+        "def_name": "制約開始日六日前",
+        "dates": [
+          "制約開始日"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "-7",
+        "def_name": "制約開始日七日前",
+        "dates": [
+          "制約開始日"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "-8",
+        "def_name": "制約開始日八日前",
+        "dates": [
+          "制約開始日"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "+1",
+        "def_name": "制約開始日一日後",
+        "dates": [
+          "制約開始日"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "+2",
+        "def_name": "制約開始日二日後",
+        "dates": [
+          "制約開始日"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "+3",
+        "def_name": "制約開始日三日後",
+        "dates": [
+          "制約開始日"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "+4",
+        "def_name": "制約開始日四日後",
+        "dates": [
+          "制約開始日"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "+5",
+        "def_name": "制約開始日五日後",
+        "dates": [
+          "制約開始日"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "+6",
+        "def_name": "制約開始日六日後",
+        "dates": [
+          "制約開始日"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "OR",
+        "def_name": "第一週",
+        "dates": [
+          "制約開始日",
+          "制約開始日一日後",
+          "制約開始日二日後",
+          "制約開始日三日後",
+          "制約開始日四日後",
+          "制約開始日五日後",
+          "制約開始日六日後"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "+7",
+        "def_name": "第二週",
+        "dates": [
+          "第一週"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "+7",
+        "def_name": "第三週",
+        "dates": [
+          "第二週"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "+7",
+        "def_name": "第四週",
+        "dates": [
+          "第三週"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "+7",
+        "def_name": "第五週",
+        "dates": [
+          "第四週"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "+7",
+        "def_name": "第六週",
+        "dates": [
+          "第五週"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "OR",
+        "def_name": "四週間",
+        "dates": [
+          "第一週",
+          "第二週",
+          "第三週",
+          "第四週"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "OR",
+        "def_name": "制約開始日１日前から",
+        "dates": [
+          "制約開始日一日前",
+          "今月"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "OR",
+        "def_name": "制約開始日２日前から",
+        "dates": [
+          "制約開始日二日前",
+          "制約開始日一日前",
+          "今月"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "OR",
+        "def_name": "制約開始日３日前から",
+        "dates": [
+          "制約開始日三日前",
+          "制約開始日二日前",
+          "制約開始日一日前",
+          "今月"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "OR",
+        "def_name": "制約開始日４日前から",
+        "dates": [
+          "制約開始日四日前",
+          "制約開始日三日前",
+          "制約開始日二日前",
+          "制約開始日一日前",
+          "今月"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "OR",
+        "def_name": "制約開始日５日前から",
+        "dates": [
+          "制約開始日五日前",
+          "制約開始日四日前",
+          "制約開始日三日前",
+          "制約開始日二日前",
+          "制約開始日一日前",
+          "今月"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "OR",
+        "def_name": "制約開始日６日前から",
+        "dates": [
+          "制約開始日六日前",
+          "制約開始日五日前",
+          "制約開始日四日前",
+          "制約開始日三日前",
+          "制約開始日二日前",
+          "制約開始日一日前",
+          "今月"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "OR",
+        "def_name": "制約開始日７日前から",
+        "dates": [
+          "制約開始日七日前",
+          "制約開始日六日前",
+          "制約開始日五日前",
+          "制約開始日四日前",
+          "制約開始日三日前",
+          "制約開始日二日前",
+          "制約開始日一日前",
+          "今月"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "OR",
+        "def_name": "制約開始日８日前から",
+        "dates": [
+          "制約開始日八日前",
+          "制約開始日七日前",
+          "制約開始日六日前",
+          "制約開始日五日前",
+          "制約開始日四日前",
+          "制約開始日三日前",
+          "制約開始日二日前",
+          "制約開始日一日前",
+          "今月"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "-6",
+        "def_name": "制約終了日六日前",
+        "dates": [
+          "制約終了日"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "-5",
+        "def_name": "制約終了日五日前",
+        "dates": [
+          "制約終了日"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "-4",
+        "def_name": "制約終了日四日前",
+        "dates": [
+          "制約終了日"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "-3",
+        "def_name": "制約終了日三日前",
+        "dates": [
+          "制約終了日"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "-2",
+        "def_name": "制約終了日二日前",
+        "dates": [
+          "制約終了日"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "-1",
+        "def_name": "制約終了日一日前",
+        "dates": [
+          "制約終了日"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "OR",
+        "def_name": "金土日",
+        "dates": [
+          "金",
+          "土",
+          "日"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "OR",
+        "def_name": "金土日月",
+        "dates": [
+          "金",
+          "土",
+          "日",
+          "月"
+        ],
+        "use": false
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "OR",
+        "def_name": "",
+        "dates": [],
+        "use": false
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "OR",
+        "def_name": "水土",
+        "dates": [
+          "水",
+          "土"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "AND",
+        "def_name": "今月水土",
+        "dates": [
+          "今月",
+          "水土"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "OR",
+        "def_name": "",
+        "dates": [],
+        "use": false
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "OR",
+        "def_name": "月火水木金",
+        "dates": [
+          "月",
+          "火",
+          "水",
+          "木",
+          "金"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "OR",
+        "def_name": "金土日月",
+        "dates": [
+          "金",
+          "土",
+          "日",
+          "月"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "OR",
+        "def_name": "外来休診日",
+        "dates": [
+          "日",
+          "祝",
+          "振",
+          "ユーザ祝"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "AND",
+        "def_name": "今月外来休診日",
+        "dates": [
+          "今月",
+          "外来休診日"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "OR",
+        "def_name": "訪問休診日",
+        "dates": [
+          "日",
+          "訪問０便"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "NOT",
+        "def_name": "訪問診療日",
+        "dates": [
+          "訪問休診日"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "AND",
+        "def_name": "今月訪問休診日",
+        "dates": [
+          "今月",
+          "訪問休診日"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "NOT",
+        "def_name": "外来診療日",
+        "dates": [
+          "外来休診日"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "AND",
+        "def_name": "今月外来診療日",
+        "dates": [
+          "今月",
+          "外来診療日"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "OR",
+        "def_name": "月火水土",
+        "dates": [
+          "月",
+          "火",
+          "水",
+          "土"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "AND",
+        "def_name": "訪問月火水木金",
+        "dates": [
+          "訪問診療日",
+          "月火水木金",
+          "今月"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "NOT",
+        "def_name": "訪問2便でない",
+        "dates": [
+          "訪問2便"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "AND",
+        "def_name": "訪問土曜日１便",
+        "dates": [
+          "訪問診療日",
+          "土",
+          "今月",
+          "訪問2便でない"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "AND",
+        "def_name": "今月訪問２便",
+        "dates": [
+          "訪問2便",
+          "今月"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "OR",
+        "def_name": "木金",
+        "dates": [
+          "木",
+          "金"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "AND",
+        "def_name": "訪問月火水土",
+        "dates": [
+          "訪問診療日",
+          "月火水土"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "AND",
+        "def_name": "訪問木金",
+        "dates": [
+          "訪問診療日",
+          "木金"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "OR",
+        "def_name": "水曜休み者の休み",
+        "dates": [
+          "外来休診日",
+          "水"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "OR",
+        "def_name": "水土訪問休診日",
+        "dates": [
+          "外来休診日",
+          "木"
+        ],
+        "use": false
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "AND",
+        "def_name": "今月水土訪問休診日",
+        "dates": [
+          "今月",
+          "水土訪問休診日"
+        ],
+        "use": false
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "OR",
+        "def_name": "",
+        "dates": [],
+        "use": false
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "AND",
+        "def_name": "月_今月外来診療日",
+        "dates": [
+          "月",
+          "今月外来診療日"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "AND",
+        "def_name": "火_今月外来診療日",
+        "dates": [
+          "火",
+          "今月外来診療日"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "AND",
+        "def_name": "水_今月外来診療日",
+        "dates": [
+          "水",
+          "今月外来診療日"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "AND",
+        "def_name": "木_今月外来診療日",
+        "dates": [
+          "木",
+          "今月外来診療日"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "AND",
+        "def_name": "金_今月外来診療日",
+        "dates": [
+          "金",
+          "今月外来診療日"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "AND",
+        "def_name": "土_今月外来診療日",
+        "dates": [
+          "土",
+          "今月外来診療日"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "OR",
+        "def_name": "",
+        "dates": [],
+        "use": false
+      }
+    ]
+  },
+  "SA": {
+    "name": "ShiftAggregates",
+    "members": [
+      {
+        "use": true,
+        "name": "ShiftAggregateDef",
+        "def_name": "オンコール否",
+        "color": "Gray",
+        "Operator": "NOT",
+        "members": [
+          "希望休み",
+          "希半",
+          "オンコール"
+        ],
+        "label": "オ否"
+      },
+      {
+        "use": false,
+        "name": "ShiftAggregateDef",
+        "def_name": "夜勤集合２",
+        "color": "Gray",
+        "Operator": "OR",
+        "members": [
+          "準夜",
+          "深夜"
+        ],
+        "label": "夜２"
+      },
+      {
+        "use": false,
+        "name": "ShiftAggregateDef",
+        "def_name": "早遅",
+        "color": "Gray",
+        "Operator": "OR",
+        "members": [
+          "早番",
+          "遅番"
+        ],
+        "label": "早遅"
+      },
+      {
+        "use": false,
+        "name": "ShiftAggregateDef",
+        "def_name": "休日集合",
+        "color": "Gray",
+        "Operator": "OR",
+        "members": [
+          "休日"
+        ],
+        "label": "休集"
+      },
+      {
+        "use": false,
+        "name": "ShiftAggregateDef",
+        "def_name": "日勤集合",
+        "color": "Gray",
+        "Operator": "OR",
+        "members": [
+          "日勤"
+        ],
+        "label": "日集"
+      },
+      {
+        "use": false,
+        "name": "ShiftAggregateDef",
+        "def_name": "",
+        "color": "Gray",
+        "Operator": "OR",
+        "members": [],
+        "label": ""
+      },
+      {
+        "use": false,
+        "name": "ShiftAggregateDef",
+        "def_name": "",
+        "color": "Gray",
+        "Operator": "OR",
+        "members": [],
+        "label": ""
+      },
+      {
+        "use": false,
+        "name": "ShiftAggregateDef",
+        "def_name": "",
+        "color": "Gray",
+        "Operator": "OR",
+        "members": [],
+        "label": ""
+      },
+      {
+        "use": false,
+        "name": "ShiftAggregateDef",
+        "def_name": "",
+        "color": "Gray",
+        "Operator": "OR",
+        "members": [],
+        "label": ""
+      },
+      {
+        "use": false,
+        "name": "ShiftAggregateDef",
+        "def_name": "",
+        "color": "Gray",
+        "Operator": "OR",
+        "members": [],
+        "label": ""
+      }
+    ]
+  },
+  "PA": {
+    "name": "Phases",
+    "members": [],
+    "primary_labels": [
+      "前",
+      "後"
+    ],
+    "alias_labels": [
+      "早",
+      "残"
+    ],
+    "dayphase_list": []
+  },
+  "TAA": {
+    "name": "TaskAggregates",
+    "members": [
+      {
+        "use": false,
+        "name": "TaskAggregateDef",
+        "def_name": "夜勤集合１",
+        "color": "Gray",
+        "Operator": "OR",
+        "members": [
+          "入り",
+          "明け"
+        ],
+        "label": "夜１"
+      },
+      {
+        "use": false,
+        "name": "TaskAggregateDef",
+        "def_name": "夜勤集合２",
+        "color": "Gray",
+        "Operator": "OR",
+        "members": [
+          "準夜",
+          "深夜"
+        ],
+        "label": "夜２"
+      },
+      {
+        "use": false,
+        "name": "TaskAggregateDef",
+        "def_name": "早遅",
+        "color": "Gray",
+        "Operator": "OR",
+        "members": [
+          "早番",
+          "遅番"
+        ],
+        "label": "早遅"
+      },
+      {
+        "use": false,
+        "name": "TaskAggregateDef",
+        "def_name": "休日集合",
+        "color": "Gray",
+        "Operator": "OR",
+        "members": [
+          "休日"
+        ],
+        "label": "休集"
+      },
+      {
+        "use": false,
+        "name": "TaskAggregateDef",
+        "def_name": "日勤集合",
+        "color": "Gray",
+        "Operator": "OR",
+        "members": [
+          "日勤"
+        ],
+        "label": "日集"
+      },
+      {
+        "use": false,
+        "name": "TaskAggregateDef",
+        "def_name": "",
+        "color": "Gray",
+        "Operator": "OR",
+        "members": [],
+        "label": ""
+      },
+      {
+        "use": false,
+        "name": "TaskAggregateDef",
+        "def_name": "",
+        "color": "Gray",
+        "Operator": "OR",
+        "members": [],
+        "label": ""
+      },
+      {
+        "use": false,
+        "name": "TaskAggregateDef",
+        "def_name": "",
+        "color": "Gray",
+        "Operator": "OR",
+        "members": [],
+        "label": ""
+      },
+      {
+        "use": false,
+        "name": "TaskAggregateDef",
+        "def_name": "",
+        "color": "Gray",
+        "Operator": "OR",
+        "members": [],
+        "label": ""
+      },
+      {
+        "use": false,
+        "name": "TaskAggregateDef",
+        "def_name": "",
+        "color": "Gray",
+        "Operator": "OR",
+        "members": [],
+        "label": ""
+      }
+    ]
+  },
+  "TO": {
+    "name": "Task Objects",
+    "members": [
+      {
+        "use": true,
+        "name": "TaskDef",
+        "def_name": "タスク１",
+        "auto_schedule": true,
+        "color": "Violet",
+        "label": "T1",
+        "shift_ag_name": "",
+        "another_labels": [
+          "",
+          ""
+        ],
+        "another_colors": [
+          "Gray",
+          "Gray"
+        ],
+        "work_hours": -1
+      },
+      {
+        "use": true,
+        "name": "TaskDef",
+        "def_name": "タスク２",
+        "auto_schedule": true,
+        "color": "LightPink",
+        "label": "T2",
+        "shift_ag_name": "",
+        "another_labels": [
+          "",
+          ""
+        ],
+        "another_colors": [
+          "Gray",
+          "Gray"
+        ],
+        "work_hours": -1
+      },
+      {
+        "use": true,
+        "name": "TaskDef",
+        "def_name": "タスク３",
+        "auto_schedule": true,
+        "color": "LightBlue",
+        "label": "T3",
+        "shift_ag_name": "",
+        "another_labels": [
+          "",
+          ""
+        ],
+        "another_colors": [
+          "Gray",
+          "Gray"
+        ],
+        "work_hours": -1
+      },
+      {
+        "use": true,
+        "name": "TaskDef",
+        "def_name": "NoTaskVar",
+        "auto_schedule": true,
+        "color": "LightBrown",
+        "label": "No",
+        "shift_ag_name": "",
+        "another_labels": [
+          "",
+          ""
+        ],
+        "another_colors": [
+          "Gray",
+          "Gray"
+        ],
+        "work_hours": -1
+      }
+    ]
+  },
+  "PO": {
+    "name": "Phase Objects",
+    "members": [
+      {
+        "use": true,
+        "name": "PhaseObjectDef",
+        "def_name": "フェーズ変数1",
+        "auto_schedule": true,
+        "color": "Violet",
+        "label": "PV1",
+        "num_cnt": 1,
+        "work_hours": -1,
+        "tasks": []
+      },
+      {
+        "use": true,
+        "name": "PhaseObjectDef",
+        "def_name": "フェーズ変数2",
+        "auto_schedule": true,
+        "color": "LightPink",
+        "label": "PV2",
+        "num_cnt": 1,
+        "work_hours": -1,
+        "tasks": []
+      },
+      {
+        "use": true,
+        "name": "PhaseObjectDef",
+        "def_name": "フェーズ変数3",
+        "auto_schedule": true,
+        "color": "LightBlue",
+        "label": "PV3",
+        "num_cnt": 1,
+        "work_hours": -1,
+        "tasks": []
+      }
+    ]
+  },
+  "POA": {
+    "name": "PhaseObjectAggregates",
+    "members": [
+      {
+        "use": false,
+        "name": "PhaseObjectDef",
+        "def_name": "POA1",
+        "color": "Gray",
+        "label": "poa1",
+        "phase_object_names": [
+          "フェーズ変数1",
+          "フェーズ変数2"
+        ]
+      },
+      {
+        "use": false,
+        "name": "PhaseObjectDef",
+        "def_name": "POA2",
+        "color": "Gray",
+        "label": "poa2",
+        "phase_object_names": [
+          "フェーズ変数2",
+          "フェーズ変数3"
+        ]
+      }
+    ]
+  },
+  "GP": {
+    "name": "GroupProperties",
+    "members": [
+      {
+        "use": true,
+        "name": "GroupPropertyDef",
+        "def_name": "全スタッフ属性",
+        "members": [
+          "全スタッフ"
+        ]
+      },
+      {
+        "use": true,
+        "name": "GroupPropertyDef",
+        "def_name": "勤務形態",
+        "members": [
+          "常勤",
+          "パート"
+        ]
+      },
+      {
+        "use": true,
+        "name": "GroupPropertyDef",
+        "def_name": "休み属性１",
+        "members": [
+          "月曜休み",
+          "火曜休み",
+          "水曜休み",
+          "木曜休み",
+          "金曜休み",
+          "土曜休み"
+        ]
+      },
+      {
+        "use": true,
+        "name": "GroupPropertyDef",
+        "def_name": "休み属性２",
+        "members": [
+          "水曜休み",
+          "木曜休み",
+          "水曜休み",
+          "木曜休み",
+          "金曜休み",
+          "土曜休み"
+        ]
+      },
+      {
+        "use": true,
+        "name": "GroupPropertyDef",
+        "def_name": "訪問診療属性",
+        "members": [
+          "訪問診療不可"
+        ]
+      },
+      {
+        "use": true,
+        "name": "GroupPropertyDef",
+        "def_name": "オンコール属性",
+        "members": [
+          "オンコール不可"
+        ]
+      },
+      {
+        "use": true,
+        "name": "GroupPropertyDef",
+        "def_name": "曜日オンコール属性１",
+        "members": [
+          "月オンコール不可",
+          "火オンコール不可",
+          "水オンコール不可",
+          "木オンコール不可",
+          "金オンコール不可",
+          "土オンコール不可",
+          "日オンコール不可"
+        ]
+      },
+      {
+        "use": true,
+        "name": "GroupPropertyDef",
+        "def_name": "曜日オンコール属性２",
+        "members": [
+          "月オンコール不可",
+          "火オンコール不可",
+          "水オンコール不可",
+          "木オンコール不可",
+          "金オンコール不可",
+          "土オンコール不可",
+          "日オンコール不可"
+        ]
+      },
+      {
+        "use": false,
+        "name": "GroupPropertyDef",
+        "def_name": "",
+        "members": []
+      },
+      {
+        "use": false,
+        "name": "GroupPropertyDef",
+        "def_name": "",
+        "members": []
+      },
+      {
+        "use": false,
+        "name": "GroupPropertyDef",
+        "def_name": "",
+        "members": []
+      },
+      {
+        "use": false,
+        "name": "GroupPropertyDef",
+        "def_name": "",
+        "members": []
+      },
+      {
+        "use": false,
+        "name": "GroupPropertyDef",
+        "def_name": "",
+        "members": []
+      },
+      {
+        "use": false,
+        "name": "GroupPropertyDef",
+        "def_name": "",
+        "members": []
+      }
+    ]
+  },
+  "GA": {
+    "name": "GroupAggregates",
+    "members": [
+      {
+        "use": true,
+        "name": "GroupAggregateDef",
+        "def_name": "オンコール可能",
+        "Operator": "NOT",
+        "members": [
+          "オンコール不可"
+        ]
+      },
+      {
+        "use": true,
+        "name": "GroupAggregateDef",
+        "def_name": "訪問看護可能",
+        "Operator": "NOT",
+        "members": [
+          "訪問診療不可"
+        ]
+      },
+      {
+        "use": true,
+        "name": "GroupAggregateDef",
+        "def_name": "月休み以外",
+        "Operator": "NOT",
+        "members": [
+          "月曜休み"
+        ]
+      },
+      {
+        "use": true,
+        "name": "GroupAggregateDef",
+        "def_name": "火曜休み以外",
+        "Operator": "NOT",
+        "members": [
+          "火曜休み"
+        ]
+      },
+      {
+        "use": true,
+        "name": "GroupAggregateDef",
+        "def_name": "水曜休み以外",
+        "Operator": "NOT",
+        "members": [
+          "水曜休み"
+        ]
+      },
+      {
+        "use": true,
+        "name": "GroupAggregateDef",
+        "def_name": "木曜休み以外",
+        "Operator": "NOT",
+        "members": [
+          "木曜休み"
+        ]
+      },
+      {
+        "use": true,
+        "name": "GroupAggregateDef",
+        "def_name": "金曜休み以外",
+        "Operator": "NOT",
+        "members": [
+          "金曜休み"
+        ]
+      },
+      {
+        "use": true,
+        "name": "GroupAggregateDef",
+        "def_name": "土曜休み以外",
+        "Operator": "NOT",
+        "members": [
+          "土曜休み"
+        ]
+      },
+      {
+        "use": false,
+        "name": "GroupAggregateDef",
+        "def_name": "",
+        "Operator": "OR",
+        "members": []
+      },
+      {
+        "use": false,
+        "name": "GroupAggregateDef",
+        "def_name": "",
+        "Operator": "OR",
+        "members": []
+      }
+    ]
+  },
+  "SP": {
+    "name": "StaffProperties",
+    "members": [
+      {
+        "use": true,
+        "name": "StaffPropertyDef",
+        "def_name": "スタッフ名1",
+        "shifts": [
+          "1日代休",
+          "オンコール",
+          "外来勤務",
+          "希半",
+          "希望休み",
+          "休み",
+          "半日代休",
+          "訪問看護"
+        ],
+        "tasks": [
+          "NoTaskVar",
+          "タスク１",
+          "タスク２",
+          "タスク３"
+        ],
+        "properties": {
+          "全スタッフ属性": "全スタッフ",
+          "勤務形態": "常勤",
+          "休み属性１": "",
+          "休み属性２": "",
+          "訪問診療属性": "",
+          "オンコール属性": "",
+          "曜日オンコール属性１": "",
+          "曜日オンコール属性２": "",
+          "": ""
+        }
+      },
+      {
+        "use": true,
+        "name": "StaffPropertyDef",
+        "def_name": "スタッフ名2",
+        "shifts": [
+          "1日代休",
+          "オンコール",
+          "外来勤務",
+          "希半",
+          "希望休み",
+          "休み",
+          "半日代休",
+          "訪問看護"
+        ],
+        "tasks": [
+          "NoTaskVar",
+          "タスク１",
+          "タスク２",
+          "タスク３"
+        ],
+        "properties": {
+          "全スタッフ属性": "全スタッフ",
+          "勤務形態": "常勤",
+          "休み属性１": "",
+          "休み属性２": "",
+          "訪問診療属性": "",
+          "オンコール属性": "",
+          "曜日オンコール属性１": "",
+          "曜日オンコール属性２": "",
+          "": ""
+        }
+      },
+      {
+        "use": true,
+        "name": "StaffPropertyDef",
+        "def_name": "スタッフ名3",
+        "shifts": [
+          "1日代休",
+          "オンコール",
+          "外来勤務",
+          "希半",
+          "希望休み",
+          "休み",
+          "半日代休",
+          "訪問看護"
+        ],
+        "tasks": [
+          "NoTaskVar",
+          "タスク１",
+          "タスク２",
+          "タスク３"
+        ],
+        "properties": {
+          "全スタッフ属性": "全スタッフ",
+          "勤務形態": "常勤",
+          "休み属性１": "",
+          "休み属性２": "",
+          "訪問診療属性": "",
+          "オンコール属性": "",
+          "曜日オンコール属性１": "",
+          "曜日オンコール属性２": "",
+          "": ""
+        }
+      },
+      {
+        "use": true,
+        "name": "StaffPropertyDef",
+        "def_name": "スタッフ名4",
+        "shifts": [
+          "1日代休",
+          "オンコール",
+          "外来勤務",
+          "希半",
+          "希望休み",
+          "休み",
+          "半日代休",
+          "訪問看護"
+        ],
+        "tasks": [
+          "NoTaskVar",
+          "タスク１",
+          "タスク２",
+          "タスク３"
+        ],
+        "properties": {
+          "全スタッフ属性": "全スタッフ",
+          "勤務形態": "常勤",
+          "休み属性１": "",
+          "休み属性２": "",
+          "訪問診療属性": "",
+          "オンコール属性": "",
+          "曜日オンコール属性１": "",
+          "曜日オンコール属性２": "",
+          "": ""
+        }
+      },
+      {
+        "use": true,
+        "name": "StaffPropertyDef",
+        "def_name": "スタッフ名5",
+        "shifts": [
+          "1日代休",
+          "オンコール",
+          "外来勤務",
+          "希半",
+          "希望休み",
+          "休み",
+          "半日代休",
+          "訪問看護"
+        ],
+        "tasks": [
+          "NoTaskVar",
+          "タスク１",
+          "タスク２",
+          "タスク３"
+        ],
+        "properties": {
+          "全スタッフ属性": "全スタッフ",
+          "勤務形態": "常勤",
+          "休み属性１": "",
+          "休み属性２": "",
+          "訪問診療属性": "",
+          "オンコール属性": "",
+          "曜日オンコール属性１": "",
+          "曜日オンコール属性２": "",
+          "": ""
+        }
+      },
+      {
+        "use": true,
+        "name": "StaffPropertyDef",
+        "def_name": "スタッフ名6",
+        "shifts": [
+          "1日代休",
+          "オンコール",
+          "外来勤務",
+          "希半",
+          "希望休み",
+          "休み",
+          "半日代休",
+          "訪問看護"
+        ],
+        "tasks": [
+          "NoTaskVar",
+          "タスク１",
+          "タスク２",
+          "タスク３"
+        ],
+        "properties": {
+          "全スタッフ属性": "全スタッフ",
+          "勤務形態": "常勤",
+          "休み属性１": "",
+          "休み属性２": "",
+          "訪問診療属性": "",
+          "オンコール属性": "",
+          "曜日オンコール属性１": "",
+          "曜日オンコール属性２": "",
+          "": ""
+        }
+      },
+      {
+        "use": true,
+        "name": "StaffPropertyDef",
+        "def_name": "スタッフ名7",
+        "shifts": [
+          "1日代休",
+          "オンコール",
+          "外来勤務",
+          "希半",
+          "希望休み",
+          "休み",
+          "半日代休",
+          "訪問看護"
+        ],
+        "tasks": [
+          "NoTaskVar",
+          "タスク１",
+          "タスク２",
+          "タスク３"
+        ],
+        "properties": {
+          "全スタッフ属性": "全スタッフ",
+          "勤務形態": "常勤",
+          "休み属性１": "水曜休み",
+          "休み属性２": "",
+          "訪問診療属性": "訪問診療不可",
+          "オンコール属性": "",
+          "曜日オンコール属性１": "月オンコール不可",
+          "曜日オンコール属性２": "",
+          "": ""
+        }
+      },
+      {
+        "use": true,
+        "name": "StaffPropertyDef",
+        "def_name": "スタッフ名8",
+        "shifts": [
+          "1日代休",
+          "オンコール",
+          "外来勤務",
+          "希半",
+          "希望休み",
+          "休み",
+          "半日代休",
+          "訪問看護"
+        ],
+        "tasks": [
+          "NoTaskVar",
+          "タスク１",
+          "タスク２",
+          "タスク３"
+        ],
+        "properties": {
+          "全スタッフ属性": "全スタッフ",
+          "勤務形態": "パート",
+          "休み属性１": "",
+          "休み属性２": "",
+          "訪問診療属性": "訪問診療不可",
+          "オンコール属性": "オンコール不可",
+          "曜日オンコール属性１": "",
+          "曜日オンコール属性２": "",
+          "": ""
+        }
+      }
+    ]
+  },
+  "CC": {
+    "name": "ColumnConstraints",
+    "members": [
+      {
+        "phase_mode": false,
+        "name": "ColumnConstraintsGroup",
+        "def_name": "列制約グループ1",
+        "use": true,
+        "members": [
+          {
+            "name": "ColumnConstraint",
+            "def_name": "外来2人以上",
+            "use": true,
+            "shift_type": "外来勤務",
+            "shift_at_phase": "",
+            "task_type": "",
+            "primary_day_type": "今月外来診療日",
+            "staff_property_type": "全スタッフ",
+            "constraint_type": 1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "",
+            "dayphase_vec_min": "",
+            "max_value": -1,
+            "min_value": 2,
+            "soft_constraint_level": 0,
+            "soft_constraint_level_max": 0
+          },
+          {
+            "name": "ColumnConstraint",
+            "def_name": "訪問2人月火水木金",
+            "use": true,
+            "shift_type": "訪問看護",
+            "shift_at_phase": "",
+            "task_type": "",
+            "primary_day_type": "訪問月火水木金",
+            "staff_property_type": "全スタッフ",
+            "constraint_type": 1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "",
+            "dayphase_vec_min": "",
+            "max_value": 2,
+            "min_value": 2,
+            "soft_constraint_level": 0,
+            "soft_constraint_level_max": 0
+          },
+          {
+            "name": "ColumnConstraint",
+            "def_name": "オンコール",
+            "use": true,
+            "shift_type": "オンコール",
+            "shift_at_phase": "",
+            "task_type": "",
+            "primary_day_type": "今月",
+            "staff_property_type": "全スタッフ",
+            "constraint_type": 1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "",
+            "dayphase_vec_min": "",
+            "max_value": 1,
+            "min_value": 1,
+            "soft_constraint_level": 0,
+            "soft_constraint_level_max": 0
+          },
+          {
+            "name": "ColumnConstraint",
+            "def_name": "訪問土曜1便",
+            "use": true,
+            "shift_type": "訪問看護",
+            "shift_at_phase": "",
+            "task_type": "",
+            "primary_day_type": "訪問土曜日１便",
+            "staff_property_type": "訪問看護可能",
+            "constraint_type": 1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "",
+            "dayphase_vec_min": "",
+            "max_value": 1,
+            "min_value": 1,
+            "soft_constraint_level": 0,
+            "soft_constraint_level_max": 0
+          },
+          {
+            "name": "ColumnConstraint",
+            "def_name": "訪問土曜2便",
+            "use": true,
+            "shift_type": "訪問看護",
+            "shift_at_phase": "",
+            "task_type": "",
+            "primary_day_type": "今月訪問２便",
+            "staff_property_type": "訪問看護可能",
+            "constraint_type": 1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "",
+            "dayphase_vec_min": "",
+            "max_value": 2,
+            "min_value": 2,
+            "soft_constraint_level": 0,
+            "soft_constraint_level_max": 0
+          },
+          {
+            "name": "ColumnConstraint",
+            "def_name": "診療日は休みではない",
+            "use": false,
+            "shift_type": "休み",
+            "shift_at_phase": "",
+            "task_type": "",
+            "primary_day_type": "外来診療日",
+            "staff_property_type": "",
+            "constraint_type": 0,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "",
+            "dayphase_vec_min": "",
+            "max_value": -1,
+            "min_value": -1,
+            "soft_constraint_level": 0,
+            "soft_constraint_level_max": 0
+          },
+          {
+            "name": "ColumnConstraint",
+            "def_name": "水曜休み者の出勤日",
+            "use": false,
+            "shift_type": "休み",
+            "shift_at_phase": "",
+            "task_type": "",
+            "primary_day_type": "",
+            "staff_property_type": "水曜休み",
+            "constraint_type": 0,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "",
+            "dayphase_vec_min": "",
+            "max_value": -1,
+            "min_value": -1,
+            "soft_constraint_level": 0,
+            "soft_constraint_level_max": 0
+          },
+          {
+            "name": "ColumnConstraint",
+            "def_name": "木曜休み者の出勤日",
+            "use": false,
+            "shift_type": "休み",
+            "shift_at_phase": "",
+            "task_type": "",
+            "primary_day_type": "",
+            "staff_property_type": "木曜休み",
+            "constraint_type": 0,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "",
+            "dayphase_vec_min": "",
+            "max_value": -1,
+            "min_value": -1,
+            "soft_constraint_level": 0,
+            "soft_constraint_level_max": 0
+          },
+          {
+            "name": "ColumnConstraint",
+            "def_name": "水曜休み者の休み",
+            "use": true,
+            "shift_type": "休み",
+            "shift_at_phase": "",
+            "task_type": "",
+            "primary_day_type": "水曜休み者の休み",
+            "staff_property_type": "水曜休み",
+            "constraint_type": 2,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "",
+            "dayphase_vec_min": "",
+            "max_value": -1,
+            "min_value": -1,
+            "soft_constraint_level": 0,
+            "soft_constraint_level_max": 0
+          },
+          {
+            "name": "ColumnConstraint",
+            "def_name": "木曜休み者の休み",
+            "use": false,
+            "shift_type": "休み",
+            "shift_at_phase": "",
+            "task_type": "",
+            "primary_day_type": "水曜休み者の休み",
+            "staff_property_type": "木曜休み",
+            "constraint_type": 2,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "",
+            "dayphase_vec_min": "",
+            "max_value": -1,
+            "min_value": -1,
+            "soft_constraint_level": 0,
+            "soft_constraint_level_max": 0
+          },
+          {
+            "name": "ColumnConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_type": "",
+            "shift_at_phase": "",
+            "task_type": "",
+            "primary_day_type": "",
+            "staff_property_type": "",
+            "constraint_type": 0,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "",
+            "dayphase_vec_min": "",
+            "max_value": -1,
+            "min_value": -1,
+            "soft_constraint_level": 0,
+            "soft_constraint_level_max": 0
+          },
+          {
+            "name": "ColumnConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_type": "",
+            "shift_at_phase": "",
+            "task_type": "",
+            "primary_day_type": "",
+            "staff_property_type": "",
+            "constraint_type": 0,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "",
+            "dayphase_vec_min": "",
+            "max_value": -1,
+            "min_value": -1,
+            "soft_constraint_level": 0,
+            "soft_constraint_level_max": 0
+          },
+          {
+            "name": "ColumnConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_type": "",
+            "shift_at_phase": "",
+            "task_type": "",
+            "primary_day_type": "",
+            "staff_property_type": "",
+            "constraint_type": 0,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "",
+            "dayphase_vec_min": "",
+            "max_value": -1,
+            "min_value": -1,
+            "soft_constraint_level": 0,
+            "soft_constraint_level_max": 0
+          },
+          {
+            "name": "ColumnConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_type": "",
+            "shift_at_phase": "",
+            "task_type": "",
+            "primary_day_type": "",
+            "staff_property_type": "",
+            "constraint_type": 0,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "",
+            "dayphase_vec_min": "",
+            "max_value": -1,
+            "min_value": -1,
+            "soft_constraint_level": 0,
+            "soft_constraint_level_max": 0
+          },
+          {
+            "name": "ColumnConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_type": "",
+            "shift_at_phase": "",
+            "task_type": "",
+            "primary_day_type": "",
+            "staff_property_type": "",
+            "constraint_type": 0,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "",
+            "dayphase_vec_min": "",
+            "max_value": -1,
+            "min_value": -1,
+            "soft_constraint_level": 0,
+            "soft_constraint_level_max": 0
+          },
+          {
+            "name": "ColumnConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_type": "",
+            "shift_at_phase": "",
+            "task_type": "",
+            "primary_day_type": "",
+            "staff_property_type": "",
+            "constraint_type": 0,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "",
+            "dayphase_vec_min": "",
+            "max_value": -1,
+            "min_value": -1,
+            "soft_constraint_level": 0,
+            "soft_constraint_level_max": 0
+          }
+        ]
+      },
+      {
+        "phase_mode": false,
+        "name": "ColumnConstraintsGroup",
+        "def_name": "列制約グループ2",
+        "use": true,
+        "members": [
+          {
+            "name": "ColumnConstraint",
+            "def_name": "1日代休禁止",
+            "use": true,
+            "shift_type": "1日代休",
+            "shift_at_phase": "",
+            "task_type": "",
+            "primary_day_type": "今月外来休診日",
+            "staff_property_type": "全スタッフ",
+            "constraint_type": 0,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "",
+            "dayphase_vec_min": "",
+            "max_value": -1,
+            "min_value": -1,
+            "soft_constraint_level": 0,
+            "soft_constraint_level_max": 0
+          },
+          {
+            "name": "ColumnConstraint",
+            "def_name": "半日代休禁止",
+            "use": true,
+            "shift_type": "半日代休",
+            "shift_at_phase": "",
+            "task_type": "",
+            "primary_day_type": "今月外来休診日",
+            "staff_property_type": "全スタッフ",
+            "constraint_type": 0,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "",
+            "dayphase_vec_min": "",
+            "max_value": -1,
+            "min_value": -1,
+            "soft_constraint_level": 0,
+            "soft_constraint_level_max": 0
+          },
+          {
+            "name": "ColumnConstraint",
+            "def_name": "訪問看護禁止",
+            "use": true,
+            "shift_type": "訪問看護",
+            "shift_at_phase": "",
+            "task_type": "",
+            "primary_day_type": "今月訪問休診日",
+            "staff_property_type": "全スタッフ",
+            "constraint_type": 0,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "",
+            "dayphase_vec_min": "",
+            "max_value": -1,
+            "min_value": -1,
+            "soft_constraint_level": 0,
+            "soft_constraint_level_max": 0
+          },
+          {
+            "name": "ColumnConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_type": "",
+            "shift_at_phase": "",
+            "task_type": "",
+            "primary_day_type": "",
+            "staff_property_type": "",
+            "constraint_type": 0,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "",
+            "dayphase_vec_min": "",
+            "max_value": -1,
+            "min_value": -1,
+            "soft_constraint_level": 0,
+            "soft_constraint_level_max": 0
+          },
+          {
+            "name": "ColumnConstraint",
+            "def_name": "外来勤務禁止",
+            "use": true,
+            "shift_type": "外来勤務",
+            "shift_at_phase": "",
+            "task_type": "",
+            "primary_day_type": "今月外来休診日",
+            "staff_property_type": "全スタッフ",
+            "constraint_type": 0,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "",
+            "dayphase_vec_min": "",
+            "max_value": -1,
+            "min_value": -1,
+            "soft_constraint_level": 0,
+            "soft_constraint_level_max": 0
+          },
+          {
+            "name": "ColumnConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_type": "",
+            "shift_at_phase": "",
+            "task_type": "",
+            "primary_day_type": "",
+            "staff_property_type": "",
+            "constraint_type": 0,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "",
+            "dayphase_vec_min": "",
+            "max_value": -1,
+            "min_value": -1,
+            "soft_constraint_level": 0,
+            "soft_constraint_level_max": 0
+          },
+          {
+            "name": "ColumnConstraint",
+            "def_name": "月_今月外来診療日",
+            "use": false,
+            "shift_type": "休み",
+            "shift_at_phase": "",
+            "task_type": "",
+            "primary_day_type": "月_今月外来診療日",
+            "staff_property_type": "月休み以外",
+            "constraint_type": 0,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "",
+            "dayphase_vec_min": "",
+            "max_value": -1,
+            "min_value": -1,
+            "soft_constraint_level": 0,
+            "soft_constraint_level_max": 0
+          },
+          {
+            "name": "ColumnConstraint",
+            "def_name": "火_今月外来診療日",
+            "use": false,
+            "shift_type": "休み",
+            "shift_at_phase": "",
+            "task_type": "",
+            "primary_day_type": "火_今月外来診療日",
+            "staff_property_type": "火曜休み以外",
+            "constraint_type": 0,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "",
+            "dayphase_vec_min": "",
+            "max_value": -1,
+            "min_value": -1,
+            "soft_constraint_level": 0,
+            "soft_constraint_level_max": 0
+          },
+          {
+            "name": "ColumnConstraint",
+            "def_name": "水_今月外来診療日",
+            "use": false,
+            "shift_type": "休み",
+            "shift_at_phase": "",
+            "task_type": "",
+            "primary_day_type": "水_今月外来診療日",
+            "staff_property_type": "水曜休み以外",
+            "constraint_type": 0,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "",
+            "dayphase_vec_min": "",
+            "max_value": -1,
+            "min_value": -1,
+            "soft_constraint_level": 0,
+            "soft_constraint_level_max": 0
+          },
+          {
+            "name": "ColumnConstraint",
+            "def_name": "木_今月外来診療日",
+            "use": false,
+            "shift_type": "休み",
+            "shift_at_phase": "",
+            "task_type": "",
+            "primary_day_type": "木_今月外来診療日",
+            "staff_property_type": "木曜休み以外",
+            "constraint_type": 0,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "",
+            "dayphase_vec_min": "",
+            "max_value": -1,
+            "min_value": -1,
+            "soft_constraint_level": 0,
+            "soft_constraint_level_max": 0
+          },
+          {
+            "name": "ColumnConstraint",
+            "def_name": "金_今月外来診療日",
+            "use": false,
+            "shift_type": "休み",
+            "shift_at_phase": "",
+            "task_type": "",
+            "primary_day_type": "金_今月外来診療日",
+            "staff_property_type": "金曜休み以外",
+            "constraint_type": 0,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "",
+            "dayphase_vec_min": "",
+            "max_value": -1,
+            "min_value": -1,
+            "soft_constraint_level": 0,
+            "soft_constraint_level_max": 0
+          },
+          {
+            "name": "ColumnConstraint",
+            "def_name": "土_今月外来診療日",
+            "use": false,
+            "shift_type": "休み",
+            "shift_at_phase": "",
+            "task_type": "",
+            "primary_day_type": "土_今月外来診療日",
+            "staff_property_type": "土曜休み以外",
+            "constraint_type": 0,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "",
+            "dayphase_vec_min": "",
+            "max_value": -1,
+            "min_value": -1,
+            "soft_constraint_level": 0,
+            "soft_constraint_level_max": 0
+          },
+          {
+            "name": "ColumnConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_type": "",
+            "shift_at_phase": "",
+            "task_type": "",
+            "primary_day_type": "",
+            "staff_property_type": "",
+            "constraint_type": 0,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "",
+            "dayphase_vec_min": "",
+            "max_value": -1,
+            "min_value": -1,
+            "soft_constraint_level": 0,
+            "soft_constraint_level_max": 0
+          },
+          {
+            "name": "ColumnConstraint",
+            "def_name": "訪問診療不可",
+            "use": true,
+            "shift_type": "訪問看護",
+            "shift_at_phase": "",
+            "task_type": "",
+            "primary_day_type": "今月",
+            "staff_property_type": "訪問診療不可",
+            "constraint_type": 0,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "",
+            "dayphase_vec_min": "",
+            "max_value": -1,
+            "min_value": -1,
+            "soft_constraint_level": 0,
+            "soft_constraint_level_max": 0
+          },
+          {
+            "name": "ColumnConstraint",
+            "def_name": "オンコール不可",
+            "use": true,
+            "shift_type": "オンコール",
+            "shift_at_phase": "",
+            "task_type": "",
+            "primary_day_type": "今月",
+            "staff_property_type": "オンコール不可",
+            "constraint_type": 0,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "",
+            "dayphase_vec_min": "",
+            "max_value": -1,
+            "min_value": -1,
+            "soft_constraint_level": 0,
+            "soft_constraint_level_max": 0
+          },
+          {
+            "name": "ColumnConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_type": "",
+            "shift_at_phase": "",
+            "task_type": "",
+            "primary_day_type": "",
+            "staff_property_type": "",
+            "constraint_type": 0,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "",
+            "dayphase_vec_min": "",
+            "max_value": -1,
+            "min_value": -1,
+            "soft_constraint_level": 0,
+            "soft_constraint_level_max": 0
+          },
+          {
+            "name": "ColumnConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_type": "",
+            "shift_at_phase": "",
+            "task_type": "",
+            "primary_day_type": "",
+            "staff_property_type": "",
+            "constraint_type": 0,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "",
+            "dayphase_vec_min": "",
+            "max_value": -1,
+            "min_value": -1,
+            "soft_constraint_level": 0,
+            "soft_constraint_level_max": 0
+          },
+          {
+            "name": "ColumnConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_type": "",
+            "shift_at_phase": "",
+            "task_type": "",
+            "primary_day_type": "",
+            "staff_property_type": "",
+            "constraint_type": 0,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "",
+            "dayphase_vec_min": "",
+            "max_value": -1,
+            "min_value": -1,
+            "soft_constraint_level": 0,
+            "soft_constraint_level_max": 0
+          },
+          {
+            "name": "ColumnConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_type": "",
+            "shift_at_phase": "",
+            "task_type": "",
+            "primary_day_type": "",
+            "staff_property_type": "",
+            "constraint_type": 0,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "",
+            "dayphase_vec_min": "",
+            "max_value": -1,
+            "min_value": -1,
+            "soft_constraint_level": 0,
+            "soft_constraint_level_max": 0
+          },
+          {
+            "name": "ColumnConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_type": "",
+            "shift_at_phase": "",
+            "task_type": "",
+            "primary_day_type": "",
+            "staff_property_type": "",
+            "constraint_type": 0,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "",
+            "dayphase_vec_min": "",
+            "max_value": -1,
+            "min_value": -1,
+            "soft_constraint_level": 0,
+            "soft_constraint_level_max": 0
+          },
+          {
+            "name": "ColumnConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_type": "",
+            "shift_at_phase": "",
+            "task_type": "",
+            "primary_day_type": "",
+            "staff_property_type": "",
+            "constraint_type": 0,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "",
+            "dayphase_vec_min": "",
+            "max_value": -1,
+            "min_value": -1,
+            "soft_constraint_level": 0,
+            "soft_constraint_level_max": 0
+          },
+          {
+            "name": "ColumnConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_type": "",
+            "shift_at_phase": "",
+            "task_type": "",
+            "primary_day_type": "",
+            "staff_property_type": "",
+            "constraint_type": 0,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "",
+            "dayphase_vec_min": "",
+            "max_value": -1,
+            "min_value": -1,
+            "soft_constraint_level": 0,
+            "soft_constraint_level_max": 0
+          },
+          {
+            "name": "ColumnConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_type": "",
+            "shift_at_phase": "",
+            "task_type": "",
+            "primary_day_type": "",
+            "staff_property_type": "",
+            "constraint_type": 0,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "",
+            "dayphase_vec_min": "",
+            "max_value": -1,
+            "min_value": -1,
+            "soft_constraint_level": 0,
+            "soft_constraint_level_max": 0
+          },
+          {
+            "name": "ColumnConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_type": "",
+            "shift_at_phase": "",
+            "task_type": "",
+            "primary_day_type": "",
+            "staff_property_type": "",
+            "constraint_type": 0,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "",
+            "dayphase_vec_min": "",
+            "max_value": -1,
+            "min_value": -1,
+            "soft_constraint_level": 0,
+            "soft_constraint_level_max": 0
+          }
+        ]
+      }
+    ]
+  },
+  "RC": {
+    "name": "RowConstraints",
+    "members": [
+      {
+        "phase_mode": false,
+        "name": "RowConstraintsGroup",
+        "def_name": "計数",
+        "use": true,
+        "members": [
+          {
+            "phase_mode": false,
+            "name": "RowConstraint",
+            "def_name": "半日代休CNT",
+            "use": true,
+            "primary_day_type": "今月",
+            "first_day_type": "",
+            "last_day_type": "",
+            "staff_property_type": "全スタッフ",
+            "pattern": [
+              {
+                "shift": "半日代休",
+                "level": 0,
+                "a_ix": -1
+              }
+            ],
+            "shift_pattern": [],
+            "inv_pattern": [
+              false
+            ],
+            "shift_inv_pattern": [],
+            "constraint_type": 1,
+            "max_value": -1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "min_value": 0,
+            "min_staff_property": "",
+            "max_staff_property": "",
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "name": "RowConstraint",
+            "def_name": "代休CNT",
+            "use": true,
+            "primary_day_type": "今月",
+            "first_day_type": "",
+            "last_day_type": "",
+            "staff_property_type": "全スタッフ",
+            "pattern": [
+              {
+                "shift": "1日代休",
+                "level": 0,
+                "a_ix": -1
+              }
+            ],
+            "shift_pattern": [],
+            "inv_pattern": [
+              false
+            ],
+            "shift_inv_pattern": [],
+            "constraint_type": 1,
+            "max_value": -1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "min_value": 0,
+            "min_staff_property": "",
+            "max_staff_property": "",
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "name": "RowConstraint",
+            "def_name": "祝オンコール回数",
+            "use": true,
+            "primary_day_type": "今月祝集合",
+            "first_day_type": "訪問診療日",
+            "last_day_type": "",
+            "staff_property_type": "オンコール可能",
+            "pattern": [
+              {
+                "shift": "オンコール",
+                "level": 0,
+                "a_ix": -1
+              }
+            ],
+            "shift_pattern": [],
+            "inv_pattern": [
+              false
+            ],
+            "shift_inv_pattern": [],
+            "constraint_type": 1,
+            "max_value": -1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "min_value": 0,
+            "min_staff_property": "",
+            "max_staff_property": "",
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "name": "RowConstraint",
+            "def_name": "祝訪問回数",
+            "use": true,
+            "primary_day_type": "今月祝集合",
+            "first_day_type": "訪問診療日",
+            "last_day_type": "",
+            "staff_property_type": "訪問看護可能",
+            "pattern": [
+              {
+                "shift": "訪問看護",
+                "level": 0,
+                "a_ix": -1
+              }
+            ],
+            "shift_pattern": [],
+            "inv_pattern": [
+              false
+            ],
+            "shift_inv_pattern": [],
+            "constraint_type": 1,
+            "max_value": -1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "min_value": 0,
+            "min_staff_property": "",
+            "max_staff_property": "",
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "name": "RowConstraint",
+            "def_name": "外来休診日のコールCNT",
+            "use": true,
+            "primary_day_type": "外来休診日",
+            "first_day_type": "今月",
+            "last_day_type": "",
+            "staff_property_type": "オンコール可能",
+            "pattern": [
+              {
+                "shift": "オンコール",
+                "level": 0,
+                "a_ix": -1
+              }
+            ],
+            "shift_pattern": [],
+            "inv_pattern": [
+              false
+            ],
+            "shift_inv_pattern": [],
+            "constraint_type": 1,
+            "max_value": -1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "min_value": 0,
+            "min_staff_property": "",
+            "max_staff_property": "",
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "name": "RowConstraint",
+            "def_name": "",
+            "use": false,
+            "primary_day_type": "",
+            "first_day_type": "",
+            "last_day_type": "",
+            "staff_property_type": "",
+            "pattern": [],
+            "shift_pattern": [],
+            "inv_pattern": [],
+            "shift_inv_pattern": [],
+            "constraint_type": 0,
+            "max_value": -1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "min_value": -1,
+            "min_staff_property": "",
+            "max_staff_property": "",
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "name": "RowConstraint",
+            "def_name": "",
+            "use": false,
+            "primary_day_type": "",
+            "first_day_type": "",
+            "last_day_type": "",
+            "staff_property_type": "",
+            "pattern": [],
+            "shift_pattern": [],
+            "inv_pattern": [],
+            "shift_inv_pattern": [],
+            "constraint_type": 0,
+            "max_value": -1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "min_value": -1,
+            "min_staff_property": "",
+            "max_staff_property": "",
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "name": "RowConstraint",
+            "def_name": "",
+            "use": false,
+            "primary_day_type": "",
+            "first_day_type": "",
+            "last_day_type": "",
+            "staff_property_type": "",
+            "pattern": [],
+            "shift_pattern": [],
+            "inv_pattern": [],
+            "shift_inv_pattern": [],
+            "constraint_type": 0,
+            "max_value": -1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "min_value": -1,
+            "min_staff_property": "",
+            "max_staff_property": "",
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "name": "RowConstraint",
+            "def_name": "",
+            "use": false,
+            "primary_day_type": "",
+            "first_day_type": "",
+            "last_day_type": "",
+            "staff_property_type": "",
+            "pattern": [],
+            "shift_pattern": [],
+            "inv_pattern": [],
+            "shift_inv_pattern": [],
+            "constraint_type": 0,
+            "max_value": -1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "min_value": -1,
+            "min_staff_property": "",
+            "max_staff_property": "",
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "name": "RowConstraint",
+            "def_name": "",
+            "use": false,
+            "primary_day_type": "",
+            "first_day_type": "",
+            "last_day_type": "",
+            "staff_property_type": "",
+            "pattern": [],
+            "shift_pattern": [],
+            "inv_pattern": [],
+            "shift_inv_pattern": [],
+            "constraint_type": 0,
+            "max_value": -1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "min_value": -1,
+            "min_staff_property": "",
+            "max_staff_property": "",
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "name": "RowConstraint",
+            "def_name": "",
+            "use": false,
+            "primary_day_type": "",
+            "first_day_type": "",
+            "last_day_type": "",
+            "staff_property_type": "",
+            "pattern": [],
+            "shift_pattern": [],
+            "inv_pattern": [],
+            "shift_inv_pattern": [],
+            "constraint_type": 0,
+            "max_value": -1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "min_value": -1,
+            "min_staff_property": "",
+            "max_staff_property": "",
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "name": "RowConstraint",
+            "def_name": "",
+            "use": false,
+            "primary_day_type": "",
+            "first_day_type": "",
+            "last_day_type": "",
+            "staff_property_type": "",
+            "pattern": [],
+            "shift_pattern": [],
+            "inv_pattern": [],
+            "shift_inv_pattern": [],
+            "constraint_type": 0,
+            "max_value": -1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "min_value": -1,
+            "min_staff_property": "",
+            "max_staff_property": "",
+            "soft_constraint_level": 0
+          }
+        ]
+      },
+      {
+        "phase_mode": false,
+        "name": "RowConstraintsGroup",
+        "def_name": "訪問制約",
+        "use": true,
+        "members": [
+          {
+            "phase_mode": false,
+            "name": "RowConstraint",
+            "def_name": "訪問CNT",
+            "use": true,
+            "primary_day_type": "今月",
+            "first_day_type": "",
+            "last_day_type": "",
+            "staff_property_type": "訪問看護可能",
+            "pattern": [
+              {
+                "shift": "訪問看護",
+                "level": 0,
+                "a_ix": -1
+              }
+            ],
+            "shift_pattern": [],
+            "inv_pattern": [
+              false
+            ],
+            "shift_inv_pattern": [],
+            "constraint_type": 1,
+            "max_value": 12,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "min_value": 7,
+            "min_staff_property": "",
+            "max_staff_property": "",
+            "soft_constraint_level": 4
+          },
+          {
+            "phase_mode": false,
+            "name": "RowConstraint",
+            "def_name": "訪訪訪禁止",
+            "use": true,
+            "primary_day_type": "制約開始日２日前から",
+            "first_day_type": "",
+            "last_day_type": "",
+            "staff_property_type": "訪問看護可能",
+            "pattern": [
+              {
+                "shift": "訪問看護",
+                "level": 0,
+                "a_ix": -1
+              },
+              {
+                "shift": "訪問看護",
+                "level": 0,
+                "a_ix": -1
+              },
+              {
+                "shift": "訪問看護",
+                "level": 0,
+                "a_ix": -1
+              }
+            ],
+            "shift_pattern": [],
+            "inv_pattern": [
+              false,
+              false,
+              false
+            ],
+            "shift_inv_pattern": [],
+            "constraint_type": 0,
+            "max_value": -1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "min_value": -1,
+            "min_staff_property": "",
+            "max_staff_property": "",
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "name": "RowConstraint",
+            "def_name": "",
+            "use": false,
+            "primary_day_type": "",
+            "first_day_type": "",
+            "last_day_type": "",
+            "staff_property_type": "",
+            "pattern": [],
+            "shift_pattern": [],
+            "inv_pattern": [],
+            "shift_inv_pattern": [],
+            "constraint_type": 0,
+            "max_value": -1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "min_value": -1,
+            "min_staff_property": "",
+            "max_staff_property": "",
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "name": "RowConstraint",
+            "def_name": "水曜日土曜日訪問CNT",
+            "use": true,
+            "primary_day_type": "今月水土",
+            "first_day_type": "今月",
+            "last_day_type": "",
+            "staff_property_type": "訪問看護可能",
+            "pattern": [
+              {
+                "shift": "訪問看護",
+                "level": 0,
+                "a_ix": -1
+              }
+            ],
+            "shift_pattern": [],
+            "inv_pattern": [
+              false
+            ],
+            "shift_inv_pattern": [],
+            "constraint_type": 1,
+            "max_value": 3,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "min_value": 2,
+            "min_staff_property": "",
+            "max_staff_property": "",
+            "soft_constraint_level": 5
+          },
+          {
+            "phase_mode": false,
+            "name": "RowConstraint",
+            "def_name": "",
+            "use": false,
+            "primary_day_type": "今月自動",
+            "first_day_type": "",
+            "last_day_type": "",
+            "staff_property_type": "全スタッフ",
+            "pattern": [],
+            "shift_pattern": [],
+            "inv_pattern": [],
+            "shift_inv_pattern": [],
+            "constraint_type": 0,
+            "max_value": -1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "min_value": -1,
+            "min_staff_property": "",
+            "max_staff_property": "",
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "name": "RowConstraint",
+            "def_name": "月訪看回数",
+            "use": true,
+            "primary_day_type": "月",
+            "first_day_type": "今月",
+            "last_day_type": "",
+            "staff_property_type": "訪問看護可能",
+            "pattern": [
+              {
+                "shift": "訪問看護",
+                "level": 0,
+                "a_ix": -1
+              }
+            ],
+            "shift_pattern": [],
+            "inv_pattern": [
+              false
+            ],
+            "shift_inv_pattern": [],
+            "constraint_type": 1,
+            "max_value": 3,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "min_value": -1,
+            "min_staff_property": "",
+            "max_staff_property": "",
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "name": "RowConstraint",
+            "def_name": "火訪看回数",
+            "use": true,
+            "primary_day_type": "火",
+            "first_day_type": "今月",
+            "last_day_type": "",
+            "staff_property_type": "訪問看護可能",
+            "pattern": [
+              {
+                "shift": "訪問看護",
+                "level": 0,
+                "a_ix": -1
+              }
+            ],
+            "shift_pattern": [],
+            "inv_pattern": [
+              false
+            ],
+            "shift_inv_pattern": [],
+            "constraint_type": 1,
+            "max_value": 3,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "min_value": -1,
+            "min_staff_property": "",
+            "max_staff_property": "",
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "name": "RowConstraint",
+            "def_name": "水訪看回数",
+            "use": true,
+            "primary_day_type": "水",
+            "first_day_type": "今月",
+            "last_day_type": "",
+            "staff_property_type": "訪問看護可能",
+            "pattern": [
+              {
+                "shift": "訪問看護",
+                "level": 0,
+                "a_ix": -1
+              }
+            ],
+            "shift_pattern": [],
+            "inv_pattern": [
+              false
+            ],
+            "shift_inv_pattern": [],
+            "constraint_type": 1,
+            "max_value": 3,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "min_value": -1,
+            "min_staff_property": "",
+            "max_staff_property": "",
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "name": "RowConstraint",
+            "def_name": "木訪看回数",
+            "use": true,
+            "primary_day_type": "木",
+            "first_day_type": "今月",
+            "last_day_type": "",
+            "staff_property_type": "訪問看護可能",
+            "pattern": [
+              {
+                "shift": "訪問看護",
+                "level": 0,
+                "a_ix": -1
+              }
+            ],
+            "shift_pattern": [],
+            "inv_pattern": [
+              false
+            ],
+            "shift_inv_pattern": [],
+            "constraint_type": 1,
+            "max_value": 3,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "min_value": -1,
+            "min_staff_property": "",
+            "max_staff_property": "",
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "name": "RowConstraint",
+            "def_name": "金訪看回数",
+            "use": true,
+            "primary_day_type": "金",
+            "first_day_type": "今月",
+            "last_day_type": "",
+            "staff_property_type": "訪問看護可能",
+            "pattern": [
+              {
+                "shift": "訪問看護",
+                "level": 0,
+                "a_ix": -1
+              }
+            ],
+            "shift_pattern": [],
+            "inv_pattern": [
+              false
+            ],
+            "shift_inv_pattern": [],
+            "constraint_type": 1,
+            "max_value": 3,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "min_value": -1,
+            "min_staff_property": "",
+            "max_staff_property": "",
+            "soft_constraint_level": 0
+          }
+        ]
+      },
+      {
+        "phase_mode": false,
+        "name": "RowConstraintsGroup",
+        "def_name": "オンコール制約",
+        "use": true,
+        "members": [
+          {
+            "phase_mode": false,
+            "name": "RowConstraint",
+            "def_name": "オンコール回数",
+            "use": true,
+            "primary_day_type": "今月",
+            "first_day_type": "",
+            "last_day_type": "",
+            "staff_property_type": "オンコール可能",
+            "pattern": [
+              {
+                "shift": "オンコール",
+                "level": 0,
+                "a_ix": -1
+              }
+            ],
+            "shift_pattern": [],
+            "inv_pattern": [
+              false
+            ],
+            "shift_inv_pattern": [],
+            "constraint_type": 1,
+            "max_value": 6,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "min_value": 4,
+            "min_staff_property": "",
+            "max_staff_property": "",
+            "soft_constraint_level": 1
+          },
+          {
+            "phase_mode": false,
+            "name": "RowConstraint",
+            "def_name": "水曜日土曜日コールCNT",
+            "use": true,
+            "primary_day_type": "水土",
+            "first_day_type": "今月",
+            "last_day_type": "",
+            "staff_property_type": "オンコール可能",
+            "pattern": [
+              {
+                "shift": "オンコール",
+                "level": 0,
+                "a_ix": -1
+              }
+            ],
+            "shift_pattern": [],
+            "inv_pattern": [
+              false
+            ],
+            "shift_inv_pattern": [],
+            "constraint_type": 1,
+            "max_value": 3,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "min_value": 1,
+            "min_staff_property": "",
+            "max_staff_property": "",
+            "soft_constraint_level": 6
+          },
+          {
+            "phase_mode": false,
+            "name": "RowConstraint",
+            "def_name": "オンコール後訪問",
+            "use": true,
+            "primary_day_type": "制約開始日１日前から",
+            "first_day_type": "",
+            "last_day_type": "",
+            "staff_property_type": "オンコール可能",
+            "pattern": [
+              {
+                "shift": "オンコール",
+                "level": 0,
+                "a_ix": -1
+              },
+              {
+                "shift": "訪問看護",
+                "level": 0,
+                "a_ix": -1
+              }
+            ],
+            "shift_pattern": [],
+            "inv_pattern": [
+              false,
+              false
+            ],
+            "shift_inv_pattern": [],
+            "constraint_type": 0,
+            "max_value": -1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "min_value": -1,
+            "min_staff_property": "",
+            "max_staff_property": "",
+            "soft_constraint_level": 4
+          },
+          {
+            "phase_mode": false,
+            "name": "RowConstraint",
+            "def_name": "希望休みの前日にオンコールは入れない",
+            "use": true,
+            "primary_day_type": "制約開始日１日前から",
+            "first_day_type": "",
+            "last_day_type": "",
+            "staff_property_type": "オンコール可能",
+            "pattern": [
+              {
+                "shift": "オンコール",
+                "level": 0,
+                "a_ix": -1
+              },
+              {
+                "shift": "希望休み",
+                "level": 0,
+                "a_ix": -1
+              }
+            ],
+            "shift_pattern": [],
+            "inv_pattern": [
+              false,
+              false
+            ],
+            "shift_inv_pattern": [],
+            "constraint_type": 0,
+            "max_value": -1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "min_value": -1,
+            "min_staff_property": "",
+            "max_staff_property": "",
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "name": "RowConstraint",
+            "def_name": "休みの前日にオンコールは入れない",
+            "use": true,
+            "primary_day_type": "制約開始日１日前から",
+            "first_day_type": "",
+            "last_day_type": "",
+            "staff_property_type": "オンコール可能",
+            "pattern": [
+              {
+                "shift": "オンコール",
+                "level": 0,
+                "a_ix": -1
+              },
+              {
+                "shift": "休み",
+                "level": 0,
+                "a_ix": -1
+              }
+            ],
+            "shift_pattern": [],
+            "inv_pattern": [
+              false,
+              false
+            ],
+            "shift_inv_pattern": [],
+            "constraint_type": 0,
+            "max_value": -1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "min_value": -1,
+            "min_staff_property": "",
+            "max_staff_property": "",
+            "soft_constraint_level": 2
+          },
+          {
+            "phase_mode": false,
+            "name": "RowConstraint",
+            "def_name": "土曜日の訪問診療に出た看護師は、日曜日オンコールをやらない",
+            "use": true,
+            "primary_day_type": "制約開始日１日前から",
+            "first_day_type": "土",
+            "last_day_type": "",
+            "staff_property_type": "オンコール可能",
+            "pattern": [
+              {
+                "shift": "訪問看護",
+                "level": 0,
+                "a_ix": -1
+              },
+              {
+                "shift": "オンコール",
+                "level": 0,
+                "a_ix": -1
+              }
+            ],
+            "shift_pattern": [],
+            "inv_pattern": [
+              false,
+              false
+            ],
+            "shift_inv_pattern": [],
+            "constraint_type": 0,
+            "max_value": -1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "min_value": -1,
+            "min_staff_property": "",
+            "max_staff_property": "",
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "name": "RowConstraint",
+            "def_name": "月オンコールしない",
+            "use": true,
+            "primary_day_type": "今月",
+            "first_day_type": "月",
+            "last_day_type": "",
+            "staff_property_type": "月オンコール不可",
+            "pattern": [
+              {
+                "shift": "オンコール",
+                "level": 0,
+                "a_ix": -1
+              }
+            ],
+            "shift_pattern": [],
+            "inv_pattern": [
+              false
+            ],
+            "shift_inv_pattern": [],
+            "constraint_type": 0,
+            "max_value": -1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "min_value": -1,
+            "min_staff_property": "",
+            "max_staff_property": "",
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "name": "RowConstraint",
+            "def_name": "火オンコールしない",
+            "use": true,
+            "primary_day_type": "今月",
+            "first_day_type": "火",
+            "last_day_type": "",
+            "staff_property_type": "火オンコール不可",
+            "pattern": [
+              {
+                "shift": "オンコール",
+                "level": 0,
+                "a_ix": -1
+              }
+            ],
+            "shift_pattern": [],
+            "inv_pattern": [
+              false
+            ],
+            "shift_inv_pattern": [],
+            "constraint_type": 0,
+            "max_value": -1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "min_value": -1,
+            "min_staff_property": "",
+            "max_staff_property": "",
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "name": "RowConstraint",
+            "def_name": "水オンコールしない",
+            "use": true,
+            "primary_day_type": "今月",
+            "first_day_type": "水",
+            "last_day_type": "",
+            "staff_property_type": "火オンコール不可",
+            "pattern": [
+              {
+                "shift": "オンコール",
+                "level": 0,
+                "a_ix": -1
+              }
+            ],
+            "shift_pattern": [],
+            "inv_pattern": [
+              false
+            ],
+            "shift_inv_pattern": [],
+            "constraint_type": 0,
+            "max_value": -1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "min_value": -1,
+            "min_staff_property": "",
+            "max_staff_property": "",
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "name": "RowConstraint",
+            "def_name": "木オンコールしない",
+            "use": true,
+            "primary_day_type": "今月",
+            "first_day_type": "木",
+            "last_day_type": "",
+            "staff_property_type": "火オンコール不可",
+            "pattern": [
+              {
+                "shift": "オンコール",
+                "level": 0,
+                "a_ix": -1
+              }
+            ],
+            "shift_pattern": [],
+            "inv_pattern": [
+              false
+            ],
+            "shift_inv_pattern": [],
+            "constraint_type": 0,
+            "max_value": -1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "min_value": -1,
+            "min_staff_property": "",
+            "max_staff_property": "",
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "name": "RowConstraint",
+            "def_name": "金オンコールしない",
+            "use": true,
+            "primary_day_type": "今月",
+            "first_day_type": "金",
+            "last_day_type": "",
+            "staff_property_type": "火オンコール不可",
+            "pattern": [
+              {
+                "shift": "オンコール",
+                "level": 0,
+                "a_ix": -1
+              }
+            ],
+            "shift_pattern": [],
+            "inv_pattern": [
+              false
+            ],
+            "shift_inv_pattern": [],
+            "constraint_type": 0,
+            "max_value": -1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "min_value": -1,
+            "min_staff_property": "",
+            "max_staff_property": "",
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "name": "RowConstraint",
+            "def_name": "土オンコールしない",
+            "use": true,
+            "primary_day_type": "今月",
+            "first_day_type": "土",
+            "last_day_type": "",
+            "staff_property_type": "火オンコール不可",
+            "pattern": [
+              {
+                "shift": "オンコール",
+                "level": 0,
+                "a_ix": -1
+              }
+            ],
+            "shift_pattern": [],
+            "inv_pattern": [
+              false
+            ],
+            "shift_inv_pattern": [],
+            "constraint_type": 0,
+            "max_value": -1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "min_value": -1,
+            "min_staff_property": "",
+            "max_staff_property": "",
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "name": "RowConstraint",
+            "def_name": "",
+            "use": false,
+            "primary_day_type": "今月自動",
+            "first_day_type": "",
+            "last_day_type": "",
+            "staff_property_type": "全スタッフ",
+            "pattern": [],
+            "shift_pattern": [],
+            "inv_pattern": [],
+            "shift_inv_pattern": [],
+            "constraint_type": 0,
+            "max_value": -1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "min_value": -1,
+            "min_staff_property": "",
+            "max_staff_property": "",
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "name": "RowConstraint",
+            "def_name": "コールコール禁止",
+            "use": true,
+            "primary_day_type": "制約開始日１日前から",
+            "first_day_type": "",
+            "last_day_type": "",
+            "staff_property_type": "オンコール可能",
+            "pattern": [
+              {
+                "shift": "オンコール",
+                "level": 0,
+                "a_ix": -1
+              },
+              {
+                "shift": "オンコール",
+                "level": 0,
+                "a_ix": -1
+              }
+            ],
+            "shift_pattern": [],
+            "inv_pattern": [
+              false,
+              false
+            ],
+            "shift_inv_pattern": [],
+            "constraint_type": 0,
+            "max_value": -1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "min_value": -1,
+            "min_staff_property": "",
+            "max_staff_property": "",
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "name": "RowConstraint",
+            "def_name": "コール＊コール禁止",
+            "use": true,
+            "primary_day_type": "制約開始日２日前から",
+            "first_day_type": "",
+            "last_day_type": "",
+            "staff_property_type": "オンコール可能",
+            "pattern": [
+              {
+                "shift": "オンコール",
+                "level": 0,
+                "a_ix": -1
+              },
+              {
+                "shift": "",
+                "level": 0,
+                "a_ix": -1
+              },
+              {
+                "shift": "オンコール",
+                "level": 0,
+                "a_ix": -1
+              }
+            ],
+            "shift_pattern": [],
+            "inv_pattern": [
+              false,
+              false,
+              false
+            ],
+            "shift_inv_pattern": [],
+            "constraint_type": 0,
+            "max_value": -1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "min_value": -1,
+            "min_staff_property": "",
+            "max_staff_property": "",
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "name": "RowConstraint",
+            "def_name": "コール＊＊コール禁止",
+            "use": true,
+            "primary_day_type": "制約開始日３日前から",
+            "first_day_type": "",
+            "last_day_type": "",
+            "staff_property_type": "オンコール可能",
+            "pattern": [
+              {
+                "shift": "オンコール",
+                "level": 0,
+                "a_ix": -1
+              },
+              {
+                "shift": "",
+                "level": 0,
+                "a_ix": -1
+              },
+              {
+                "shift": "",
+                "level": 0,
+                "a_ix": -1
+              },
+              {
+                "shift": "オンコール",
+                "level": 0,
+                "a_ix": -1
+              }
+            ],
+            "shift_pattern": [],
+            "inv_pattern": [
+              false,
+              false,
+              false,
+              false
+            ],
+            "shift_inv_pattern": [],
+            "constraint_type": 0,
+            "max_value": -1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "min_value": -1,
+            "min_staff_property": "",
+            "max_staff_property": "",
+            "soft_constraint_level": 7
+          },
+          {
+            "phase_mode": false,
+            "name": "RowConstraint",
+            "def_name": "",
+            "use": false,
+            "primary_day_type": "",
+            "first_day_type": "",
+            "last_day_type": "",
+            "staff_property_type": "",
+            "pattern": [],
+            "shift_pattern": [],
+            "inv_pattern": [],
+            "shift_inv_pattern": [],
+            "constraint_type": 0,
+            "max_value": -1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "min_value": -1,
+            "min_staff_property": "",
+            "max_staff_property": "",
+            "soft_constraint_level": 0
+          }
+        ]
+      }
+    ]
+  },
+  "SolP": {
+    "name": "SolvingParameters",
+    "solving_map": {
+      "4": {
+        "row": {
+          "use": true,
+          "value": 3,
+          "total_max_errors": 0,
+          "weight": 4
+        }
+      },
+      "5": {
+        "row": {
+          "use": true,
+          "value": 3,
+          "total_max_errors": 0,
+          "weight": 5
+        }
+      },
+      "1": {
+        "row": {
+          "use": true,
+          "value": 3,
+          "total_max_errors": 0,
+          "weight": 1
+        }
+      },
+      "6": {
+        "row": {
+          "use": true,
+          "value": 3,
+          "total_max_errors": 0,
+          "weight": 6
+        }
+      },
+      "2": {
+        "row": {
+          "use": true,
+          "value": 3,
+          "total_max_errors": 0,
+          "weight": 2
+        }
+      },
+      "7": {
+        "row": {
+          "use": true,
+          "value": 3,
+          "total_max_errors": 0,
+          "weight": 7
+        }
+      }
+    },
+    "external_constraint": "",
+    "external_constraint_python": "import sc3\r\n\r\nfor person in 全スタッフ:\r\n    代休先日=[]\r\n    半日代休先日=[]\r\n    代休元曜日=[]\r\n    半日代休元曜日=[]\r\n    \r\n    for day in 全日:\r\n        if day>=制約開始日:\r\n            if day not in 外来休診日:\r\n\r\n\r\n\r\n                vd=sc3.GetShiftVar(person,day,'1日代休')\r\n                代休先日.append(vd)\r\n\r\n                vh=sc3.GetShiftVar(person,day,'半日代休')\r\n                半日代休先日.append(vh)\r\n\r\n            if day in 訪問休診日:\r\n                continue\r\n            elif day in 外来休診日:\r\n                vd=sc3.GetShiftVar(person,day,'訪問看護');\r\n                代休元曜日.append(vd)\r\n                vh=sc3.GetShiftVar(person,day,'オンコール');\r\n                半日代休元曜日.append(vh)\r\n            elif day in 水 or day in 土:\r\n                vh=sc3.GetShiftVar(person,day,'訪問看護');\r\n                半日代休元曜日.append(vh)\r\n\r\n    \r\n    s='代休制約 '+staffdef[person]\r\n    sc3.AddHard(sc3.SeqComp(代休先日,代休元曜日),s)\r\n\r\n    s='半日代休制約 '+staffdef[person]\r\n    sc3.AddHard(sc3.SeqComp(半日代休先日,半日代休元曜日),staffdef[person])",
+    "python_property_file": "#staffdef\r\nstaffdef=['スタッフ名1','スタッフ名2','スタッフ名3','スタッフ名4','スタッフ名5','スタッフ名6','スタッフ名7','スタッフ名8']\r\n#daydef\r\n制約開始日=5\r\n制約終了日=34\r\n表示開始日=0\r\ndaydef=['2018-03-27','2018-03-28','2018-03-29','2018-03-30','2018-03-31','2018-04-01','2018-04-02','2018-04-03','2018-04-04','2018-04-05','2018-04-06','2018-04-07','2018-04-08','2018-04-09','2018-04-10','2018-04-11','2018-04-12','2018-04-13','2018-04-14','2018-04-15','2018-04-16','2018-04-17','2018-04-18','2018-04-19','2018-04-20','2018-04-21','2018-04-22','2018-04-23','2018-04-24','2018-04-25','2018-04-26','2018-04-27','2018-04-28','2018-04-29','2018-04-30']\r\n#staffcollection\r\n全スタッフ=[0,1,2,3,4,5,6,7]\r\n常勤=[0,1,2,3,4,5,6]\r\nパート=[7]\r\n月曜休み=[]\r\n火曜休み=[]\r\n水曜休み=[6]\r\n木曜休み=[]\r\n金曜休み=[]\r\n土曜休み=[]\r\n水曜休み=[6]\r\n木曜休み=[]\r\n水曜休み=[6]\r\n木曜休み=[]\r\n金曜休み=[]\r\n土曜休み=[]\r\n訪問診療不可=[6,7]\r\nオンコール不可=[7]\r\n月オンコール不可=[6]\r\n火オンコール不可=[]\r\n水オンコール不可=[]\r\n木オンコール不可=[]\r\n金オンコール不可=[]\r\n土オンコール不可=[]\r\n日オンコール不可=[]\r\n月オンコール不可=[6]\r\n火オンコール不可=[]\r\n水オンコール不可=[]\r\n木オンコール不可=[]\r\n金オンコール不可=[]\r\n土オンコール不可=[]\r\n日オンコール不可=[]\r\nオンコール可能=[0,1,2,3,4,5,6]\r\n訪問看護可能=[0,1,2,3,4,5]\r\n月休み以外=[0,1,2,3,4,5,6,7]\r\n火曜休み以外=[0,1,2,3,4,5,6,7]\r\n水曜休み以外=[0,1,2,3,4,5,7]\r\n木曜休み以外=[0,1,2,3,4,5,6,7]\r\n金曜休み以外=[0,1,2,3,4,5,6,7]\r\n土曜休み以外=[0,1,2,3,4,5,6,7]\r\na_1日代休=[0,1,2,3,4,5,6,7]\r\nオンコール=[0,1,2,3,4,5,6,7]\r\n休み=[0,1,2,3,4,5,6,7]\r\n半日代休=[0,1,2,3,4,5,6,7]\r\n外来勤務=[0,1,2,3,4,5,6,7]\r\n希半=[0,1,2,3,4,5,6,7]\r\n希望休み=[0,1,2,3,4,5,6,7]\r\n訪問看護=[0,1,2,3,4,5,6,7]\r\nタスク１=[0,1,2,3,4,5,6,7]\r\nタスク２=[0,1,2,3,4,5,6,7]\r\nタスク３=[0,1,2,3,4,5,6,7]\r\nNoTaskVar=[0,1,2,3,4,5,6,7]\r\n\r\n#daycollection\r\n今月=[5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34]\r\n日=[5,12,19,26,33]\r\n月=[6,13,20,27,34]\r\n火=[0,7,14,21,28]\r\n水=[1,8,15,22,29]\r\n木=[2,9,16,23,30]\r\n金=[3,10,17,24,31]\r\n土=[4,11,18,25,32]\r\n全日=[0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34]\r\n祝=[33]\r\n振=[34]\r\n次月=[]\r\nユーザ祝=[]\r\n訪問０便=[]\r\n訪問2便=[]\r\n平日=[0,1,2,3,6,7,8,9,10,13,14,15,16,17,20,21,22,23,24,27,28,29,30,31,34]\r\n週末=[4,5,11,12,18,19,25,26,32,33]\r\n休日=[4,5,11,12,18,19,25,26,32,33]\r\n祝集合=[33,34]\r\n今月祝集合=[33,34]\r\n稼働日=[0,1,2,3,6,7,8,9,10,13,14,15,16,17,20,21,22,23,24,27,28,29,30,31,34]\r\n制約開始日一日前=[4]\r\n制約開始日二日前=[3]\r\n制約開始日三日前=[2]\r\n制約開始日四日前=[1]\r\n制約開始日五日前=[0]\r\n制約開始日六日前=[]\r\n制約開始日七日前=[]\r\n制約開始日八日前=[]\r\n制約開始日一日後=[6]\r\n制約開始日二日後=[7]\r\n制約開始日三日後=[8]\r\n制約開始日四日後=[9]\r\n制約開始日五日後=[10]\r\n制約開始日六日後=[11]\r\n第一週=[5,6,7,8,9,10,11]\r\n第二週=[12,13,14,15,16,17,18]\r\n第三週=[19,20,21,22,23,24,25]\r\n第四週=[26,27,28,29,30,31,32]\r\n第五週=[33,34]\r\n第六週=[]\r\n四週間=[5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32]\r\n制約開始日１日前から=[4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34]\r\n制約開始日２日前から=[3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34]\r\n制約開始日３日前から=[2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34]\r\n制約開始日４日前から=[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34]\r\n制約開始日５日前から=[0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34]\r\n制約開始日６日前から=[0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34]\r\n制約開始日７日前から=[0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34]\r\n制約開始日８日前から=[0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34]\r\n制約終了日六日前=[28]\r\n制約終了日五日前=[29]\r\n制約終了日四日前=[30]\r\n制約終了日三日前=[31]\r\n制約終了日二日前=[32]\r\n制約終了日一日前=[33]\r\n金土日=[3,4,5,10,11,12,17,18,19,24,25,26,31,32,33]\r\n水土=[1,4,8,11,15,18,22,25,29,32]\r\n今月水土=[8,11,15,18,22,25,29,32]\r\n月火水木金=[0,1,2,3,6,7,8,9,10,13,14,15,16,17,20,21,22,23,24,27,28,29,30,31,34]\r\n金土日月=[3,4,5,6,10,11,12,13,17,18,19,20,24,25,26,27,31,32,33,34]\r\n外来休診日=[5,12,19,26,33,34]\r\n今月外来休診日=[5,12,19,26,33,34]\r\n訪問休診日=[5,12,19,26,33]\r\n訪問診療日=[0,1,2,3,4,6,7,8,9,10,11,13,14,15,16,17,18,20,21,22,23,24,25,27,28,29,30,31,32,34]\r\n今月訪問休診日=[5,12,19,26,33]\r\n外来診療日=[0,1,2,3,4,6,7,8,9,10,11,13,14,15,16,17,18,20,21,22,23,24,25,27,28,29,30,31,32]\r\n今月外来診療日=[6,7,8,9,10,11,13,14,15,16,17,18,20,21,22,23,24,25,27,28,29,30,31,32]\r\n月火水土=[0,1,4,6,7,8,11,13,14,15,18,20,21,22,25,27,28,29,32,34]\r\n訪問月火水木金=[6,7,8,9,10,13,14,15,16,17,20,21,22,23,24,27,28,29,30,31,34]\r\n訪問2便でない=[0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34]\r\n訪問土曜日１便=[11,18,25,32]\r\n今月訪問２便=[]\r\n木金=[2,3,9,10,16,17,23,24,30,31]\r\n訪問月火水土=[0,1,4,6,7,8,11,13,14,15,18,20,21,22,25,27,28,29,32,34]\r\n訪問木金=[2,3,9,10,16,17,23,24,30,31]\r\n水曜休み者の休み=[1,5,8,12,15,19,22,26,29,33,34]\r\n月_今月外来診療日=[6,13,20,27]\r\n火_今月外来診療日=[7,14,21,28]\r\n水_今月外来診療日=[8,15,22,29]\r\n木_今月外来診療日=[9,16,23,30]\r\n金_今月外来診療日=[10,17,24,31]\r\n土_今月外来診療日=[11,18,25,32]\r\n\r\n#shiftcollection\r\nオンコール否=[0,2,3,4,7]\r\n\r\nshift_collections_def = {'オンコール否':('オ否','128,128,128')}\r\n#classcollection\r\n全スタッフ属性=[全スタッフ]\r\n勤務形態=[常勤,パート]\r\n休み属性１=[月曜休み,火曜休み,水曜休み,木曜休み,金曜休み,土曜休み]\r\n休み属性２=[水曜休み,木曜休み,水曜休み,木曜休み,金曜休み,土曜休み]\r\n訪問診療属性=[訪問診療不可]\r\nオンコール属性=[オンコール不可]\r\n曜日オンコール属性１=[月オンコール不可,火オンコール不可,水オンコール不可,木オンコール不可,金オンコール不可,土オンコール不可,日オンコール不可]\r\n曜日オンコール属性２=[月オンコール不可,火オンコール不可,水オンコール不可,木オンコール不可,金オンコール不可,土オンコール不可,日オンコール不可]\r\n\r\n#shiftdef\r\nshiftdef={'1日代休':('代',a_1日代休),'オンコール':('コ',オンコール),'休み':('休',休み),'半日代休':('半代',半日代休),'外来勤務':('外',外来勤務),'希半':('希前',希半),'希望休み':('希',希望休み),'訪問看護':('訪',訪問看護)}\r\nshift_label_color_map={'1日代休':[('代','192, 255, 192'),('','255,192,203'),('','255,192,203')],'オンコール':[('コ','255,255,0'),('','255,192,203'),('','255,192,203')],'休み':[('休','255,255,255'),('','255,192,203'),('','255,192,203')],'半日代休':[('半代','128, 255, 128'),('','255,192,203'),('','255,192,203')],'外来勤務':[('外','192, 255, 255'),('','255,192,203'),('','255,192,203')],'希半':[('希前','255, 192, 192'),('希半','255,192,203'),('','255,192,203')],'希望休み':[('希','255, 192, 128'),('','255,192,203'),('','255,192,203')],'訪問看護':[('訪','255, 128, 0'),('','255,192,203'),('','255,192,203')]}\r\n#taskdef\r\ntaskdef={'タスク１':タスク１,'タスク２':タスク２,'タスク３':タスク３,'NoTaskVar':NoTaskVar}\r\ntask_label_color_map={'タスク１':[('T1','238,130,238'),('','128,128,128'),('','128,128,128')],'タスク２':[('T2','255,182,193'),('','128,128,128'),('','128,128,128')],'タスク３':[('T3','173,216,230'),('','128,128,128'),('','128,128,128')],'NoTaskVar':[('No','255,255,255'),('','128,128,128'),('','128,128,128')]}\r\n#non_auto_tasks\r\nnon_auto_tasks=[]\r\n#phase_list\r\n\r\n#dayphase_list\r\ndayphase_list=[]\r\n#phase_class_members\r\nphase_class_members=[]\r\n#task collections\r\ntask_collections_def = {}\r\n#phase_objects def\r\nphase_objects_def={'フェーズ変数1':('PV1','238,130,238'),'フェーズ変数2':('PV2','255,182,193'),'フェーズ変数3':('PV3','173,216,230')}\r\n#phase_object_aggregates\r\nphase_aggregate_object_def={}\r\n#digited group\r\n#column_constraints\r\n外来2人以上=(True,('今月外来診療日',今月外来診療日),'',外来勤務,('',''),全スタッフ,1,-1,2,-1.000000,-1.000000,0,0,('',''),)\r\n訪問2人月火水木金=(True,('訪問月火水木金',訪問月火水木金),'',訪問看護,('',''),全スタッフ,1,2,2,-1.000000,-1.000000,0,0,('',''),)\r\nオンコール=(True,('今月',今月),'',オンコール,('',''),全スタッフ,1,1,1,-1.000000,-1.000000,0,0,('',''),)\r\n訪問土曜1便=(True,('訪問土曜日１便',訪問土曜日１便),'',訪問看護,('',''),訪問看護可能,1,1,1,-1.000000,-1.000000,0,0,('',''),)\r\n訪問土曜2便=(True,('今月訪問２便',今月訪問２便),'',訪問看護,('',''),訪問看護可能,1,2,2,-1.000000,-1.000000,0,0,('',''),)\r\n診療日は休みではない=(False,('外来診療日',外来診療日),'',休み,('',''),'',0,-1,-1,-1.000000,-1.000000,0,0,('',''),)\r\n水曜休み者の出勤日=(False,('',''),'',休み,('',''),水曜休み,0,-1,-1,-1.000000,-1.000000,0,0,('',''),)\r\n木曜休み者の出勤日=(False,('',''),'',休み,('',''),木曜休み,0,-1,-1,-1.000000,-1.000000,0,0,('',''),)\r\n水曜休み者の休み=(True,('水曜休み者の休み',水曜休み者の休み),'',休み,('',''),水曜休み,2,-1,-1,-1.000000,-1.000000,0,0,('',''),)\r\n木曜休み者の休み=(False,('水曜休み者の休み',水曜休み者の休み),'',休み,('',''),木曜休み,2,-1,-1,-1.000000,-1.000000,0,0,('',''),)\r\nA_1日代休禁止=(True,('今月外来休診日',今月外来休診日),'',a_1日代休,('',''),全スタッフ,0,-1,-1,-1.000000,-1.000000,0,0,('',''),)\r\n半日代休禁止=(True,('今月外来休診日',今月外来休診日),'',半日代休,('',''),全スタッフ,0,-1,-1,-1.000000,-1.000000,0,0,('',''),)\r\n訪問看護禁止=(True,('今月訪問休診日',今月訪問休診日),'',訪問看護,('',''),全スタッフ,0,-1,-1,-1.000000,-1.000000,0,0,('',''),)\r\n外来勤務禁止=(True,('今月外来休診日',今月外来休診日),'',外来勤務,('',''),全スタッフ,0,-1,-1,-1.000000,-1.000000,0,0,('',''),)\r\n月_今月外来診療日=(False,('月_今月外来診療日',月_今月外来診療日),'',休み,('',''),月休み以外,0,-1,-1,-1.000000,-1.000000,0,0,('',''),)\r\n火_今月外来診療日=(False,('火_今月外来診療日',火_今月外来診療日),'',休み,('',''),火曜休み以外,0,-1,-1,-1.000000,-1.000000,0,0,('',''),)\r\n水_今月外来診療日=(False,('水_今月外来診療日',水_今月外来診療日),'',休み,('',''),水曜休み以外,0,-1,-1,-1.000000,-1.000000,0,0,('',''),)\r\n木_今月外来診療日=(False,('木_今月外来診療日',木_今月外来診療日),'',休み,('',''),木曜休み以外,0,-1,-1,-1.000000,-1.000000,0,0,('',''),)\r\n金_今月外来診療日=(False,('金_今月外来診療日',金_今月外来診療日),'',休み,('',''),金曜休み以外,0,-1,-1,-1.000000,-1.000000,0,0,('',''),)\r\n土_今月外来診療日=(False,('土_今月外来診療日',土_今月外来診療日),'',休み,('',''),土曜休み以外,0,-1,-1,-1.000000,-1.000000,0,0,('',''),)\r\n訪問診療不可=(True,('今月',今月),'',訪問看護,('',''),訪問診療不可,0,-1,-1,-1.000000,-1.000000,0,0,('',''),)\r\nオンコール不可=(True,('今月',今月),'',オンコール,('',''),オンコール不可,0,-1,-1,-1.000000,-1.000000,0,0,('',''),)\r\n列制約グループ1={'外来2人以上':外来2人以上,'訪問2人月火水木金':訪問2人月火水木金,'オンコール':オンコール,'訪問土曜1便':訪問土曜1便,'訪問土曜2便':訪問土曜2便,'診療日は休みではない':診療日は休みではない,'水曜休み者の出勤日':水曜休み者の出勤日,'木曜休み者の出勤日':木曜休み者の出勤日,'水曜休み者の休み':水曜休み者の休み,'木曜休み者の休み':木曜休み者の休み}\r\n列制約グループ2={'1日代休禁止':A_1日代休禁止,'半日代休禁止':半日代休禁止,'訪問看護禁止':訪問看護禁止,'外来勤務禁止':外来勤務禁止,'月_今月外来診療日':月_今月外来診療日,'火_今月外来診療日':火_今月外来診療日,'水_今月外来診療日':水_今月外来診療日,'木_今月外来診療日':木_今月外来診療日,'金_今月外来診療日':金_今月外来診療日,'土_今月外来診療日':土_今月外来診療日,'訪問診療不可':訪問診療不可,'オンコール不可':オンコール不可}\r\ncolumn_constraints={'列制約グループ1':列制約グループ1,'列制約グループ2':列制約グループ2}\r\n#shift schedules\r\nshift_schedules=[[('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,'')]\r\n,[('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,'')]\r\n,[('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,'')]\r\n,[('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,'')]\r\n,[('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,'')]\r\n,[('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,'')]\r\n,[('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,'')]\r\n,[('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,'')]\r\n]\r\ntask_schedules=[[]\r\n,[]\r\n,[]\r\n,[]\r\n,[]\r\n,[]\r\n,[]\r\n,[]\r\n]\r\nproject_file_path='C:/Users/sugaw/Documents/FA/sc3/kindle本/訪問診療'\r\nproject_file_name='訪問診療'\r\nHWND=0x5809ae\r\nimport sc3\r\n\r\nfor person in 全スタッフ:\r\n    代休先日=[]\r\n    半日代休先日=[]\r\n    代休元曜日=[]\r\n    半日代休元曜日=[]\r\n    \r\n    for day in 全日:\r\n        if day>=制約開始日:\r\n            if day not in 外来休診日:\r\n\r\n\r\n\r\n                vd=sc3.GetShiftVar(person,day,'1日代休')\r\n                代休先日.append(vd)\r\n\r\n                vh=sc3.GetShiftVar(person,day,'半日代休')\r\n                半日代休先日.append(vh)\r\n\r\n            if day in 訪問休診日:\r\n                continue\r\n            elif day in 外来休診日:\r\n                vd=sc3.GetShiftVar(person,day,'訪問看護');\r\n                代休元曜日.append(vd)\r\n                vh=sc3.GetShiftVar(person,day,'オンコール');\r\n                半日代休元曜日.append(vh)\r\n            elif day in 水 or day in 土:\r\n                vh=sc3.GetShiftVar(person,day,'訪問看護');\r\n                半日代休元曜日.append(vh)\r\n\r\n    \r\n    s='代休制約 '+staffdef[person]\r\n    sc3.AddHard(sc3.SeqComp(代休先日,代休元曜日),s)\r\n\r\n    s='半日代休制約 '+staffdef[person]\r\n    sc3.AddHard(sc3.SeqComp(半日代休先日,半日代休元曜日),staffdef[person])\r\n",
+    "python_property_file_post": "#staffdef\r\nstaffdef=['スタッフ名1','スタッフ名2','スタッフ名3','スタッフ名4','スタッフ名5','スタッフ名6','スタッフ名7','スタッフ名8']\r\n#daydef\r\n制約開始日=5\r\n制約終了日=34\r\n表示開始日=0\r\ndaydef=['2018-03-27','2018-03-28','2018-03-29','2018-03-30','2018-03-31','2018-04-01','2018-04-02','2018-04-03','2018-04-04','2018-04-05','2018-04-06','2018-04-07','2018-04-08','2018-04-09','2018-04-10','2018-04-11','2018-04-12','2018-04-13','2018-04-14','2018-04-15','2018-04-16','2018-04-17','2018-04-18','2018-04-19','2018-04-20','2018-04-21','2018-04-22','2018-04-23','2018-04-24','2018-04-25','2018-04-26','2018-04-27','2018-04-28','2018-04-29','2018-04-30']\r\n#staffcollection\r\n全スタッフ=[0,1,2,3,4,5,6,7]\r\n常勤=[0,1,2,3,4,5,6]\r\nパート=[7]\r\n月曜休み=[]\r\n火曜休み=[]\r\n水曜休み=[6]\r\n木曜休み=[]\r\n金曜休み=[]\r\n土曜休み=[]\r\n水曜休み=[6]\r\n木曜休み=[]\r\n水曜休み=[6]\r\n木曜休み=[]\r\n金曜休み=[]\r\n土曜休み=[]\r\n訪問診療不可=[6,7]\r\nオンコール不可=[7]\r\n月オンコール不可=[6]\r\n火オンコール不可=[]\r\n水オンコール不可=[]\r\n木オンコール不可=[]\r\n金オンコール不可=[]\r\n土オンコール不可=[]\r\n日オンコール不可=[]\r\n月オンコール不可=[6]\r\n火オンコール不可=[]\r\n水オンコール不可=[]\r\n木オンコール不可=[]\r\n金オンコール不可=[]\r\n土オンコール不可=[]\r\n日オンコール不可=[]\r\nオンコール可能=[0,1,2,3,4,5,6]\r\n訪問看護可能=[0,1,2,3,4,5]\r\n月休み以外=[0,1,2,3,4,5,6,7]\r\n火曜休み以外=[0,1,2,3,4,5,6,7]\r\n水曜休み以外=[0,1,2,3,4,5,7]\r\n木曜休み以外=[0,1,2,3,4,5,6,7]\r\n金曜休み以外=[0,1,2,3,4,5,6,7]\r\n土曜休み以外=[0,1,2,3,4,5,6,7]\r\na_1日代休=[0,1,2,3,4,5,6,7]\r\nオンコール=[0,1,2,3,4,5,6,7]\r\n休み=[0,1,2,3,4,5,6,7]\r\n半日代休=[0,1,2,3,4,5,6,7]\r\n外来勤務=[0,1,2,3,4,5,6,7]\r\n希半=[0,1,2,3,4,5,6,7]\r\n希望休み=[0,1,2,3,4,5,6,7]\r\n訪問看護=[0,1,2,3,4,5,6,7]\r\nタスク１=[0,1,2,3,4,5,6,7]\r\nタスク２=[0,1,2,3,4,5,6,7]\r\nタスク３=[0,1,2,3,4,5,6,7]\r\nNoTaskVar=[0,1,2,3,4,5,6,7]\r\n\r\n#daycollection\r\n今月=[5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34]\r\n日=[5,12,19,26,33]\r\n月=[6,13,20,27,34]\r\n火=[0,7,14,21,28]\r\n水=[1,8,15,22,29]\r\n木=[2,9,16,23,30]\r\n金=[3,10,17,24,31]\r\n土=[4,11,18,25,32]\r\n全日=[0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34]\r\n祝=[33]\r\n振=[34]\r\n次月=[]\r\nユーザ祝=[]\r\n訪問０便=[]\r\n訪問2便=[]\r\n平日=[0,1,2,3,6,7,8,9,10,13,14,15,16,17,20,21,22,23,24,27,28,29,30,31,34]\r\n週末=[4,5,11,12,18,19,25,26,32,33]\r\n休日=[4,5,11,12,18,19,25,26,32,33]\r\n祝集合=[33,34]\r\n今月祝集合=[33,34]\r\n稼働日=[0,1,2,3,6,7,8,9,10,13,14,15,16,17,20,21,22,23,24,27,28,29,30,31,34]\r\n制約開始日一日前=[4]\r\n制約開始日二日前=[3]\r\n制約開始日三日前=[2]\r\n制約開始日四日前=[1]\r\n制約開始日五日前=[0]\r\n制約開始日六日前=[]\r\n制約開始日七日前=[]\r\n制約開始日八日前=[]\r\n制約開始日一日後=[6]\r\n制約開始日二日後=[7]\r\n制約開始日三日後=[8]\r\n制約開始日四日後=[9]\r\n制約開始日五日後=[10]\r\n制約開始日六日後=[11]\r\n第一週=[5,6,7,8,9,10,11]\r\n第二週=[12,13,14,15,16,17,18]\r\n第三週=[19,20,21,22,23,24,25]\r\n第四週=[26,27,28,29,30,31,32]\r\n第五週=[33,34]\r\n第六週=[]\r\n四週間=[5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32]\r\n制約開始日１日前から=[4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34]\r\n制約開始日２日前から=[3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34]\r\n制約開始日３日前から=[2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34]\r\n制約開始日４日前から=[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34]\r\n制約開始日５日前から=[0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34]\r\n制約開始日６日前から=[0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34]\r\n制約開始日７日前から=[0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34]\r\n制約開始日８日前から=[0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34]\r\n制約終了日六日前=[28]\r\n制約終了日五日前=[29]\r\n制約終了日四日前=[30]\r\n制約終了日三日前=[31]\r\n制約終了日二日前=[32]\r\n制約終了日一日前=[33]\r\n金土日=[3,4,5,10,11,12,17,18,19,24,25,26,31,32,33]\r\n水土=[1,4,8,11,15,18,22,25,29,32]\r\n今月水土=[8,11,15,18,22,25,29,32]\r\n月火水木金=[0,1,2,3,6,7,8,9,10,13,14,15,16,17,20,21,22,23,24,27,28,29,30,31,34]\r\n金土日月=[3,4,5,6,10,11,12,13,17,18,19,20,24,25,26,27,31,32,33,34]\r\n外来休診日=[5,12,19,26,33,34]\r\n今月外来休診日=[5,12,19,26,33,34]\r\n訪問休診日=[5,12,19,26,33]\r\n訪問診療日=[0,1,2,3,4,6,7,8,9,10,11,13,14,15,16,17,18,20,21,22,23,24,25,27,28,29,30,31,32,34]\r\n今月訪問休診日=[5,12,19,26,33]\r\n外来診療日=[0,1,2,3,4,6,7,8,9,10,11,13,14,15,16,17,18,20,21,22,23,24,25,27,28,29,30,31,32]\r\n今月外来診療日=[6,7,8,9,10,11,13,14,15,16,17,18,20,21,22,23,24,25,27,28,29,30,31,32]\r\n月火水土=[0,1,4,6,7,8,11,13,14,15,18,20,21,22,25,27,28,29,32,34]\r\n訪問月火水木金=[6,7,8,9,10,13,14,15,16,17,20,21,22,23,24,27,28,29,30,31,34]\r\n訪問2便でない=[0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34]\r\n訪問土曜日１便=[11,18,25,32]\r\n今月訪問２便=[]\r\n木金=[2,3,9,10,16,17,23,24,30,31]\r\n訪問月火水土=[0,1,4,6,7,8,11,13,14,15,18,20,21,22,25,27,28,29,32,34]\r\n訪問木金=[2,3,9,10,16,17,23,24,30,31]\r\n水曜休み者の休み=[1,5,8,12,15,19,22,26,29,33,34]\r\n月_今月外来診療日=[6,13,20,27]\r\n火_今月外来診療日=[7,14,21,28]\r\n水_今月外来診療日=[8,15,22,29]\r\n木_今月外来診療日=[9,16,23,30]\r\n金_今月外来診療日=[10,17,24,31]\r\n土_今月外来診療日=[11,18,25,32]\r\n\r\n#shiftcollection\r\nオンコール否=[0,2,3,4,7]\r\n\r\nshift_collections_def = {'オンコール否':('オ否','128,128,128')}\r\n#classcollection\r\n全スタッフ属性=[全スタッフ]\r\n勤務形態=[常勤,パート]\r\n休み属性１=[月曜休み,火曜休み,水曜休み,木曜休み,金曜休み,土曜休み]\r\n休み属性２=[水曜休み,木曜休み,水曜休み,木曜休み,金曜休み,土曜休み]\r\n訪問診療属性=[訪問診療不可]\r\nオンコール属性=[オンコール不可]\r\n曜日オンコール属性１=[月オンコール不可,火オンコール不可,水オンコール不可,木オンコール不可,金オンコール不可,土オンコール不可,日オンコール不可]\r\n曜日オンコール属性２=[月オンコール不可,火オンコール不可,水オンコール不可,木オンコール不可,金オンコール不可,土オンコール不可,日オンコール不可]\r\n\r\n#shiftdef\r\nshiftdef={'1日代休':('代',a_1日代休),'オンコール':('コ',オンコール),'休み':('休',休み),'半日代休':('半代',半日代休),'外来勤務':('外',外来勤務),'希半':('希前',希半),'希望休み':('希',希望休み),'訪問看護':('訪',訪問看護)}\r\nshift_label_color_map={'1日代休':[('代','192, 255, 192'),('','255,192,203'),('','255,192,203')],'オンコール':[('コ','255,255,0'),('','255,192,203'),('','255,192,203')],'休み':[('休','255,255,255'),('','255,192,203'),('','255,192,203')],'半日代休':[('半代','128, 255, 128'),('','255,192,203'),('','255,192,203')],'外来勤務':[('外','192, 255, 255'),('','255,192,203'),('','255,192,203')],'希半':[('希前','255, 192, 192'),('希半','255,192,203'),('','255,192,203')],'希望休み':[('希','255, 192, 128'),('','255,192,203'),('','255,192,203')],'訪問看護':[('訪','255, 128, 0'),('','255,192,203'),('','255,192,203')]}\r\n#taskdef\r\ntaskdef={'タスク１':タスク１,'タスク２':タスク２,'タスク３':タスク３,'NoTaskVar':NoTaskVar}\r\ntask_label_color_map={'タスク１':[('T1','238,130,238'),('','128,128,128'),('','128,128,128')],'タスク２':[('T2','255,182,193'),('','128,128,128'),('','128,128,128')],'タスク３':[('T3','173,216,230'),('','128,128,128'),('','128,128,128')],'NoTaskVar':[('No','255,255,255'),('','128,128,128'),('','128,128,128')]}\r\n#non_auto_tasks\r\nnon_auto_tasks=[]\r\n#phase_list\r\n\r\n#dayphase_list\r\ndayphase_list=[]\r\n#phase_class_members\r\nphase_class_members=[]\r\n#task collections\r\ntask_collections_def = {}\r\n#phase_objects def\r\nphase_objects_def={'フェーズ変数1':('PV1','238,130,238'),'フェーズ変数2':('PV2','255,182,193'),'フェーズ変数3':('PV3','173,216,230')}\r\n#phase_object_aggregates\r\nphase_aggregate_object_def={}\r\n#digited group\r\n#column_constraints\r\n外来2人以上=(True,('今月外来診療日',今月外来診療日),'',外来勤務,('',''),全スタッフ,1,-1,2,-1.000000,-1.000000,0,0,('',''),)\r\n訪問2人月火水木金=(True,('訪問月火水木金',訪問月火水木金),'',訪問看護,('',''),全スタッフ,1,2,2,-1.000000,-1.000000,0,0,('',''),)\r\nオンコール=(True,('今月',今月),'',オンコール,('',''),全スタッフ,1,1,1,-1.000000,-1.000000,0,0,('',''),)\r\n訪問土曜1便=(True,('訪問土曜日１便',訪問土曜日１便),'',訪問看護,('',''),訪問看護可能,1,1,1,-1.000000,-1.000000,0,0,('',''),)\r\n訪問土曜2便=(True,('今月訪問２便',今月訪問２便),'',訪問看護,('',''),訪問看護可能,1,2,2,-1.000000,-1.000000,0,0,('',''),)\r\n診療日は休みではない=(False,('外来診療日',外来診療日),'',休み,('',''),'',0,-1,-1,-1.000000,-1.000000,0,0,('',''),)\r\n水曜休み者の出勤日=(False,('',''),'',休み,('',''),水曜休み,0,-1,-1,-1.000000,-1.000000,0,0,('',''),)\r\n木曜休み者の出勤日=(False,('',''),'',休み,('',''),木曜休み,0,-1,-1,-1.000000,-1.000000,0,0,('',''),)\r\n水曜休み者の休み=(True,('水曜休み者の休み',水曜休み者の休み),'',休み,('',''),水曜休み,2,-1,-1,-1.000000,-1.000000,0,0,('',''),)\r\n木曜休み者の休み=(False,('水曜休み者の休み',水曜休み者の休み),'',休み,('',''),木曜休み,2,-1,-1,-1.000000,-1.000000,0,0,('',''),)\r\nA_1日代休禁止=(True,('今月外来休診日',今月外来休診日),'',a_1日代休,('',''),全スタッフ,0,-1,-1,-1.000000,-1.000000,0,0,('',''),)\r\n半日代休禁止=(True,('今月外来休診日',今月外来休診日),'',半日代休,('',''),全スタッフ,0,-1,-1,-1.000000,-1.000000,0,0,('',''),)\r\n訪問看護禁止=(True,('今月訪問休診日',今月訪問休診日),'',訪問看護,('',''),全スタッフ,0,-1,-1,-1.000000,-1.000000,0,0,('',''),)\r\n外来勤務禁止=(True,('今月外来休診日',今月外来休診日),'',外来勤務,('',''),全スタッフ,0,-1,-1,-1.000000,-1.000000,0,0,('',''),)\r\n月_今月外来診療日=(False,('月_今月外来診療日',月_今月外来診療日),'',休み,('',''),月休み以外,0,-1,-1,-1.000000,-1.000000,0,0,('',''),)\r\n火_今月外来診療日=(False,('火_今月外来診療日',火_今月外来診療日),'',休み,('',''),火曜休み以外,0,-1,-1,-1.000000,-1.000000,0,0,('',''),)\r\n水_今月外来診療日=(False,('水_今月外来診療日',水_今月外来診療日),'',休み,('',''),水曜休み以外,0,-1,-1,-1.000000,-1.000000,0,0,('',''),)\r\n木_今月外来診療日=(False,('木_今月外来診療日',木_今月外来診療日),'',休み,('',''),木曜休み以外,0,-1,-1,-1.000000,-1.000000,0,0,('',''),)\r\n金_今月外来診療日=(False,('金_今月外来診療日',金_今月外来診療日),'',休み,('',''),金曜休み以外,0,-1,-1,-1.000000,-1.000000,0,0,('',''),)\r\n土_今月外来診療日=(False,('土_今月外来診療日',土_今月外来診療日),'',休み,('',''),土曜休み以外,0,-1,-1,-1.000000,-1.000000,0,0,('',''),)\r\n訪問診療不可=(True,('今月',今月),'',訪問看護,('',''),訪問診療不可,0,-1,-1,-1.000000,-1.000000,0,0,('',''),)\r\nオンコール不可=(True,('今月',今月),'',オンコール,('',''),オンコール不可,0,-1,-1,-1.000000,-1.000000,0,0,('',''),)\r\n列制約グループ1={'外来2人以上':外来2人以上,'訪問2人月火水木金':訪問2人月火水木金,'オンコール':オンコール,'訪問土曜1便':訪問土曜1便,'訪問土曜2便':訪問土曜2便,'診療日は休みではない':診療日は休みではない,'水曜休み者の出勤日':水曜休み者の出勤日,'木曜休み者の出勤日':木曜休み者の出勤日,'水曜休み者の休み':水曜休み者の休み,'木曜休み者の休み':木曜休み者の休み}\r\n列制約グループ2={'1日代休禁止':A_1日代休禁止,'半日代休禁止':半日代休禁止,'訪問看護禁止':訪問看護禁止,'外来勤務禁止':外来勤務禁止,'月_今月外来診療日':月_今月外来診療日,'火_今月外来診療日':火_今月外来診療日,'水_今月外来診療日':水_今月外来診療日,'木_今月外来診療日':木_今月外来診療日,'金_今月外来診療日':金_今月外来診療日,'土_今月外来診療日':土_今月外来診療日,'訪問診療不可':訪問診療不可,'オンコール不可':オンコール不可}\r\ncolumn_constraints={'列制約グループ1':列制約グループ1,'列制約グループ2':列制約グループ2}\r\n#shift schedules\r\nshift_schedules=[[('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,'')]\r\n,[('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,'')]\r\n,[('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,'')]\r\n,[('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,'')]\r\n,[('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,'')]\r\n,[('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,'')]\r\n,[('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,'')]\r\n,[('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,''),('',0,'')]\r\n]\r\ntask_schedules=[[]\r\n,[]\r\n,[]\r\n,[]\r\n,[]\r\n,[]\r\n,[]\r\n,[]\r\n]\r\nproject_file_path='C:/Users/sugaw/Documents/FA/sc3/kindle本/訪問診療'\r\nproject_file_name='訪問診療'\r\nHWND=0x5809ae\r\nshift_solution=[['1日代休','1日代休','1日代休','1日代休','1日代休','オンコール','外来勤務','休み','訪問看護','半日代休','オンコール','外来勤務','休み','外来勤務','訪問看護','オンコール','外来勤務','訪問看護','外来勤務','休み','外来勤務','訪問看護','休み','訪問看護','オンコール','外来勤務','休み','外来勤務','訪問看護','訪問看護','休み','オンコール','半日代休','休み','休み']\r\n,['1日代休','1日代休','1日代休','1日代休','1日代休','休み','外来勤務','訪問看護','休み','訪問看護','訪問看護','オンコール','休み','訪問看護','休み','訪問看護','オンコール','外来勤務','外来勤務','休み','オンコール','外来勤務','訪問看護','休み','休み','休み','休み','外来勤務','オンコール','半日代休','休み','1日代休','半日代休','休み','訪問看護']\r\n,['1日代休','1日代休','1日代休','1日代休','1日代休','休み','半日代休','半日代休','オンコール','外来勤務','訪問看護','訪問看護','休み','訪問看護','オンコール','外来勤務','訪問看護','休み','休み','オンコール','外来勤務','休み','外来勤務','オンコール','外来勤務','訪問看護','休み','訪問看護','休み','外来勤務','半日代休','訪問看護','休み','休み','オンコール']\r\n,['1日代休','1日代休','1日代休','1日代休','1日代休','休み','訪問看護','訪問看護','外来勤務','訪問看護','休み','休み','休み','オンコール','外来勤務','訪問看護','半日代休','訪問看護','休み','休み','訪問看護','オンコール','半日代休','休み','訪問看護','外来勤務','休み','オンコール','外来勤務','訪問看護','訪問看護','休み','オンコール','休み','休み']\r\n,['1日代休','1日代休','1日代休','1日代休','1日代休','休み','訪問看護','オンコール','半日代休','休み','休み','休み','オンコール','外来勤務','訪問看護','外来勤務','訪問看護','休み','オンコール','休み','訪問看護','1日代休','訪問看護','訪問看護','休み','休み','オンコール','外来勤務','休み','半日代休','訪問看護','休み','訪問看護','休み','訪問看護']\r\n,['1日代休','1日代休','1日代休','1日代休','1日代休','休み','オンコール','半日代休','訪問看護','休み','休み','休み','休み','外来勤務','休み','休み','外来勤務','休み','訪問看護','休み','外来勤務','訪問看護','オンコール','外来勤務','訪問看護','休み','休み','訪問看護','訪問看護','オンコール','外来勤務','訪問看護','半日代休','オンコール','休み']\r\n,['1日代休','休み','1日代休','1日代休','1日代休','休み','休み','外来勤務','休み','オンコール','外来勤務','休み','休み','休み','休み','休み','休み','オンコール','外来勤務','休み','休み','休み','休み','休み','休み','オンコール','休み','休み','休み','休み','オンコール','外来勤務','外来勤務','休み','休み']\r\n,['1日代休','1日代休','1日代休','1日代休','1日代休','休み','休み','外来勤務','外来勤務','外来勤務','外来勤務','外来勤務','休み','休み','外来勤務','休み','休み','外来勤務','休み','休み','休み','外来勤務','外来勤務','外来勤務','外来勤務','休み','休み','休み','外来勤務','外来勤務','外来勤務','外来勤務','外来勤務','休み','休み']\r\n]\r\n\r\n",
+    "comment": "メモ",
+    "parameters": {
+      "NofCpus": 1,
+      "N_of_solutions": 1,
+      "not_repeat_planned_errors": 1,
+      "implict_hard_to_soft_enable": 0,
+      "HardTimeout": 20,
+      "ErrorAnalysis": 1,
+      "SoftTimeout": 10,
+      "BestEffotsTimeout": 10,
+      "UseExternalConstraint": 1,
+      "ShowUnsatisfactoryHardItems": 0,
+      "ShowUnsatisfactoryHardItemsInline": 0,
+      "Algorithm": 1,
+      "final_soft_timeout": 20,
+      "python_post_operation": 0,
+      "notask_var_allowed_on_active_shifts": 0,
+      "notask_var_allowed_on_only_scheduled_task": 0
+    },
+    "aws_parameters": {
+      "dynamodb_region": "us-east-1",
+      "dynamodb_table_name": "SC_NURSE_TABLE",
+      "dynamodb_key_name": "Name",
+      "dynamodb_item_name": "nobody",
+      "dynamodb_language": "Japanese"
+    }
+  },
+  "Sch": {
+    "name": "Schedules",
+    "members": [
+      [
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        }
+      ],
+      [
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        }
+      ],
+      [
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        }
+      ],
+      [
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        }
+      ],
+      [
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        }
+      ],
+      [
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        }
+      ],
+      [
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        }
+      ],
+      [
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        }
+      ]
+    ]
+  },
+  "TSch": {
+    "name": "TaskSchedules",
+    "members": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    "days_property1": []
+  },
+  "PIC": {
+    "name": "PairConstraints",
+    "members": [
+      {
+        "phase_mode": false,
+        "name": "PairConstraintsGroup",
+        "def_name": "ペア制約グループ1",
+        "use": true,
+        "members": [
+          {
+            "phase_mode": false,
+            "phase_str": "",
+            "name": "PairConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_typeA": "",
+            "shift_typeB": "",
+            "day_type": "",
+            "staff_property_typeA": "",
+            "staff_property_typeB": "",
+            "operatorA": "",
+            "operatorB": "",
+            "dayoffset": 0,
+            "constraint_type": 0,
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "phase_str": "",
+            "name": "PairConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_typeA": "",
+            "shift_typeB": "",
+            "day_type": "",
+            "staff_property_typeA": "",
+            "staff_property_typeB": "",
+            "operatorA": "",
+            "operatorB": "",
+            "dayoffset": 0,
+            "constraint_type": 0,
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "phase_str": "",
+            "name": "PairConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_typeA": "",
+            "shift_typeB": "",
+            "day_type": "",
+            "staff_property_typeA": "",
+            "staff_property_typeB": "",
+            "operatorA": "",
+            "operatorB": "",
+            "dayoffset": 0,
+            "constraint_type": 0,
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "phase_str": "",
+            "name": "PairConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_typeA": "",
+            "shift_typeB": "",
+            "day_type": "",
+            "staff_property_typeA": "",
+            "staff_property_typeB": "",
+            "operatorA": "",
+            "operatorB": "",
+            "dayoffset": 0,
+            "constraint_type": 0,
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "phase_str": "",
+            "name": "PairConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_typeA": "",
+            "shift_typeB": "",
+            "day_type": "",
+            "staff_property_typeA": "",
+            "staff_property_typeB": "",
+            "operatorA": "",
+            "operatorB": "",
+            "dayoffset": 0,
+            "constraint_type": 0,
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "phase_str": "",
+            "name": "PairConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_typeA": "",
+            "shift_typeB": "",
+            "day_type": "",
+            "staff_property_typeA": "",
+            "staff_property_typeB": "",
+            "operatorA": "",
+            "operatorB": "",
+            "dayoffset": 0,
+            "constraint_type": 0,
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "phase_str": "",
+            "name": "PairConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_typeA": "",
+            "shift_typeB": "",
+            "day_type": "",
+            "staff_property_typeA": "",
+            "staff_property_typeB": "",
+            "operatorA": "",
+            "operatorB": "",
+            "dayoffset": 0,
+            "constraint_type": 0,
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "phase_str": "",
+            "name": "PairConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_typeA": "",
+            "shift_typeB": "",
+            "day_type": "",
+            "staff_property_typeA": "",
+            "staff_property_typeB": "",
+            "operatorA": "",
+            "operatorB": "",
+            "dayoffset": 0,
+            "constraint_type": 0,
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "phase_str": "",
+            "name": "PairConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_typeA": "",
+            "shift_typeB": "",
+            "day_type": "",
+            "staff_property_typeA": "",
+            "staff_property_typeB": "",
+            "operatorA": "",
+            "operatorB": "",
+            "dayoffset": 0,
+            "constraint_type": 0,
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "phase_str": "",
+            "name": "PairConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_typeA": "",
+            "shift_typeB": "",
+            "day_type": "",
+            "staff_property_typeA": "",
+            "staff_property_typeB": "",
+            "operatorA": "",
+            "operatorB": "",
+            "dayoffset": 0,
+            "constraint_type": 0,
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "phase_str": "",
+            "name": "PairConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_typeA": "",
+            "shift_typeB": "",
+            "day_type": "",
+            "staff_property_typeA": "",
+            "staff_property_typeB": "",
+            "operatorA": "",
+            "operatorB": "",
+            "dayoffset": 0,
+            "constraint_type": 0,
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "phase_str": "",
+            "name": "PairConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_typeA": "",
+            "shift_typeB": "",
+            "day_type": "",
+            "staff_property_typeA": "",
+            "staff_property_typeB": "",
+            "operatorA": "",
+            "operatorB": "",
+            "dayoffset": 0,
+            "constraint_type": 0,
+            "soft_constraint_level": 0
+          }
+        ]
+      },
+      {
+        "phase_mode": false,
+        "name": "PairConstraintsGroup",
+        "def_name": "ペア制約グループ2",
+        "use": true,
+        "members": [
+          {
+            "phase_mode": false,
+            "phase_str": "",
+            "name": "PairConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_typeA": "",
+            "shift_typeB": "",
+            "day_type": "",
+            "staff_property_typeA": "",
+            "staff_property_typeB": "",
+            "operatorA": "",
+            "operatorB": "",
+            "dayoffset": 0,
+            "constraint_type": 0,
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "phase_str": "",
+            "name": "PairConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_typeA": "",
+            "shift_typeB": "",
+            "day_type": "",
+            "staff_property_typeA": "",
+            "staff_property_typeB": "",
+            "operatorA": "",
+            "operatorB": "",
+            "dayoffset": 0,
+            "constraint_type": 0,
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "phase_str": "",
+            "name": "PairConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_typeA": "",
+            "shift_typeB": "",
+            "day_type": "",
+            "staff_property_typeA": "",
+            "staff_property_typeB": "",
+            "operatorA": "",
+            "operatorB": "",
+            "dayoffset": 0,
+            "constraint_type": 0,
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "phase_str": "",
+            "name": "PairConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_typeA": "",
+            "shift_typeB": "",
+            "day_type": "",
+            "staff_property_typeA": "",
+            "staff_property_typeB": "",
+            "operatorA": "",
+            "operatorB": "",
+            "dayoffset": 0,
+            "constraint_type": 0,
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "phase_str": "",
+            "name": "PairConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_typeA": "",
+            "shift_typeB": "",
+            "day_type": "",
+            "staff_property_typeA": "",
+            "staff_property_typeB": "",
+            "operatorA": "",
+            "operatorB": "",
+            "dayoffset": 0,
+            "constraint_type": 0,
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "phase_str": "",
+            "name": "PairConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_typeA": "",
+            "shift_typeB": "",
+            "day_type": "",
+            "staff_property_typeA": "",
+            "staff_property_typeB": "",
+            "operatorA": "",
+            "operatorB": "",
+            "dayoffset": 0,
+            "constraint_type": 0,
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "phase_str": "",
+            "name": "PairConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_typeA": "",
+            "shift_typeB": "",
+            "day_type": "",
+            "staff_property_typeA": "",
+            "staff_property_typeB": "",
+            "operatorA": "",
+            "operatorB": "",
+            "dayoffset": 0,
+            "constraint_type": 0,
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "phase_str": "",
+            "name": "PairConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_typeA": "",
+            "shift_typeB": "",
+            "day_type": "",
+            "staff_property_typeA": "",
+            "staff_property_typeB": "",
+            "operatorA": "",
+            "operatorB": "",
+            "dayoffset": 0,
+            "constraint_type": 0,
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "phase_str": "",
+            "name": "PairConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_typeA": "",
+            "shift_typeB": "",
+            "day_type": "",
+            "staff_property_typeA": "",
+            "staff_property_typeB": "",
+            "operatorA": "",
+            "operatorB": "",
+            "dayoffset": 0,
+            "constraint_type": 0,
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "phase_str": "",
+            "name": "PairConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_typeA": "",
+            "shift_typeB": "",
+            "day_type": "",
+            "staff_property_typeA": "",
+            "staff_property_typeB": "",
+            "operatorA": "",
+            "operatorB": "",
+            "dayoffset": 0,
+            "constraint_type": 0,
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "phase_str": "",
+            "name": "PairConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_typeA": "",
+            "shift_typeB": "",
+            "day_type": "",
+            "staff_property_typeA": "",
+            "staff_property_typeB": "",
+            "operatorA": "",
+            "operatorB": "",
+            "dayoffset": 0,
+            "constraint_type": 0,
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "phase_str": "",
+            "name": "PairConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_typeA": "",
+            "shift_typeB": "",
+            "day_type": "",
+            "staff_property_typeA": "",
+            "staff_property_typeB": "",
+            "operatorA": "",
+            "operatorB": "",
+            "dayoffset": 0,
+            "constraint_type": 0,
+            "soft_constraint_level": 0
+          }
+        ]
+      }
+    ]
+  },
+  "major_version": 121,
+  "sub_version": 100,
+  "solver_version": 121,
+  "user_class": "",
+  "user_id": "",
+  "eval_id": "",
+  "ProjectName": "C:\\Users\\sugaw\\Documents\\FA\\sc3\\kindle本\\訪問診療\\訪問診療.nurse3"
+}
