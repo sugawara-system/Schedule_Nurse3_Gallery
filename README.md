@@ -1,11 +1,11 @@
 <div align="center"><img src="https://raw.githubusercontent.com/sugawara-system/Schedule_Nurse3_Gallery/main/docs/images/logo.png" width="1200"/></div>
 
 # Schedule_Nurse3_Gallery
-Sample Projects Gallery for Schedule NurseⅢ, free Windows Solver for Nurse Scheduling Problem.
+Sample Projects Gallery for Schedule NurseⅢ, commertial Solver for Nurse Scheduling Problem.
 
 # How to run the project
 
-1. Install <a href= "https://www.nurse-scheduling-software.com/download/"> Schedule NurseⅢ</a> (You need Windows 10, 64 bit version.)
+1. Install <a href= "https://apps.microsoft.com/store/detail/9N94ZPBTB0RL"> Schedule NurseⅢ</a> (You need Windows 10/11, 64 bit version.)
 
 2. Click  "Open Project file from Github". 
 <div align="center"><img src="https://raw.githubusercontent.com/sugawara-system/Schedule_Nurse3_Gallery/main/docs/images/github_viewer.png" width="400"/></div>
