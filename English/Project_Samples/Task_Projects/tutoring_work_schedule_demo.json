@@ -1,0 +1,5462 @@
+{
+  "SO": {
+    "name": "Shift Objects",
+    "members": [
+      {
+        "use": true,
+        "name": "ShiftDef",
+        "def_name": "Work",
+        "auto_schedule": true,
+        "color": "Orange",
+        "label": "1234",
+        "another_labels": [
+          "",
+          ""
+        ],
+        "another_colors": [
+          "Gray",
+          "Gray"
+        ],
+        "num_cnt": 0,
+        "work_hours": -1
+      },
+      {
+        "use": true,
+        "name": "ShiftDef",
+        "def_name": "PH13",
+        "auto_schedule": true,
+        "color": "Cyan",
+        "label": "123",
+        "another_labels": [
+          "",
+          ""
+        ],
+        "another_colors": [
+          "Gray",
+          "Gray"
+        ],
+        "num_cnt": 0,
+        "work_hours": -1
+      },
+      {
+        "use": true,
+        "name": "ShiftDef",
+        "def_name": "PH24",
+        "auto_schedule": true,
+        "color": "LightBlue",
+        "label": "234",
+        "another_labels": [
+          "",
+          ""
+        ],
+        "another_colors": [
+          "Gray",
+          "Gray"
+        ],
+        "num_cnt": 0,
+        "work_hours": -1
+      },
+      {
+        "use": true,
+        "name": "ShiftDef",
+        "def_name": "PH12",
+        "auto_schedule": true,
+        "color": "GreenYellow",
+        "label": "12",
+        "another_labels": [
+          "",
+          ""
+        ],
+        "another_colors": [
+          "Gray",
+          "Gray"
+        ],
+        "num_cnt": 0,
+        "work_hours": -1
+      },
+      {
+        "use": true,
+        "name": "ShiftDef",
+        "def_name": "PH23",
+        "auto_schedule": true,
+        "color": "PaleGreen",
+        "label": "23",
+        "another_labels": [
+          "",
+          ""
+        ],
+        "another_colors": [
+          "Gray",
+          "Gray"
+        ],
+        "num_cnt": 0,
+        "work_hours": -1
+      },
+      {
+        "use": true,
+        "name": "ShiftDef",
+        "def_name": "PH34",
+        "auto_schedule": true,
+        "color": "LightGreen",
+        "label": "34",
+        "another_labels": [
+          "",
+          ""
+        ],
+        "another_colors": [
+          "Gray",
+          "Gray"
+        ],
+        "num_cnt": 0,
+        "work_hours": -1
+      },
+      {
+        "use": true,
+        "name": "ShiftDef",
+        "def_name": "Day-Off",
+        "auto_schedule": true,
+        "color": "White",
+        "label": "Off",
+        "another_labels": [
+          "",
+          ""
+        ],
+        "another_colors": [
+          "Gray",
+          "Gray"
+        ],
+        "num_cnt": 0,
+        "work_hours": -1
+      }
+    ]
+  },
+  "DO": {
+    "days": 6,
+    "target_year": 2023,
+    "target_month": 7,
+    "members": [
+      {
+        "val": 0,
+        "name": "StartDate",
+        "def_name": "StartDate",
+        "dates": [
+          "2023-07-03"
+        ],
+        "use": true,
+        "predefined": true
+      },
+      {
+        "val": 0,
+        "name": "FinishDate",
+        "def_name": "FinishDate",
+        "dates": [
+          "2023-07-08"
+        ],
+        "use": true,
+        "predefined": true
+      },
+      {
+        "val": 0,
+        "name": "StartDisplayDate",
+        "def_name": "StartDisplayDate",
+        "dates": [
+          "2023-07-03"
+        ],
+        "use": true,
+        "predefined": true
+      },
+      {
+        "val": 0,
+        "name": "ThisMonth",
+        "def_name": "ThisMonth",
+        "dates": [
+          "2023-07-03",
+          "2023-07-04",
+          "2023-07-05",
+          "2023-07-06",
+          "2023-07-07",
+          "2023-07-08"
+        ],
+        "use": true,
+        "predefined": true
+      },
+      {
+        "val": 0,
+        "name": "SUN",
+        "def_name": "Sun",
+        "dates": [],
+        "use": true,
+        "predefined": true
+      },
+      {
+        "val": 0,
+        "name": "MON",
+        "def_name": "Mon",
+        "dates": [
+          "2023-07-03"
+        ],
+        "use": true,
+        "predefined": true
+      },
+      {
+        "val": 0,
+        "name": "TUE",
+        "def_name": "Tue",
+        "dates": [
+          "2023-07-04"
+        ],
+        "use": true,
+        "predefined": true
+      },
+      {
+        "val": 0,
+        "name": "WED",
+        "def_name": "Wed",
+        "dates": [
+          "2023-07-05"
+        ],
+        "use": true,
+        "predefined": true
+      },
+      {
+        "val": 0,
+        "name": "THU",
+        "def_name": "Thu",
+        "dates": [
+          "2023-07-06"
+        ],
+        "use": true,
+        "predefined": true
+      },
+      {
+        "val": 0,
+        "name": "FRI",
+        "def_name": "Fri",
+        "dates": [
+          "2023-07-07"
+        ],
+        "use": true,
+        "predefined": true
+      },
+      {
+        "val": 0,
+        "name": "SAT",
+        "def_name": "Sat",
+        "dates": [
+          "2023-07-08"
+        ],
+        "use": true,
+        "predefined": true
+      },
+      {
+        "val": 0,
+        "name": "AllDays",
+        "def_name": "AllDays",
+        "dates": [
+          "2023-07-03",
+          "2023-07-04",
+          "2023-07-05",
+          "2023-07-06",
+          "2023-07-07",
+          "2023-07-08"
+        ],
+        "use": true,
+        "predefined": true
+      },
+      {
+        "val": 0,
+        "name": "HOLIDAYS",
+        "def_name": "NationalHolidays",
+        "dates": [],
+        "use": true,
+        "predefined": true
+      },
+      {
+        "val": 0,
+        "name": "SHOLIDAYS",
+        "def_name": "Substitute Holidays",
+        "dates": [],
+        "use": true,
+        "predefined": true
+      },
+      {
+        "val": 0,
+        "name": "SecondMonth",
+        "def_name": "SecondMonth",
+        "dates": [],
+        "use": true,
+        "predefined": true
+      },
+      {
+        "val": 0,
+        "name": "",
+        "def_name": "",
+        "dates": [],
+        "use": false,
+        "predefined": false
+      },
+      {
+        "val": 0,
+        "name": "",
+        "def_name": "",
+        "dates": [],
+        "use": false,
+        "predefined": false
+      },
+      {
+        "val": 0,
+        "name": "",
+        "def_name": "",
+        "dates": [],
+        "use": false,
+        "predefined": false
+      },
+      {
+        "val": 0,
+        "name": "",
+        "def_name": "",
+        "dates": [],
+        "use": false,
+        "predefined": false
+      },
+      {
+        "val": 0,
+        "name": "",
+        "def_name": "",
+        "dates": [],
+        "use": false,
+        "predefined": false
+      },
+      {
+        "val": 0,
+        "name": "",
+        "def_name": "",
+        "dates": [],
+        "use": false,
+        "predefined": false
+      },
+      {
+        "val": 0,
+        "name": "",
+        "def_name": "",
+        "dates": [],
+        "use": false,
+        "predefined": false
+      },
+      {
+        "val": 0,
+        "name": "",
+        "def_name": "",
+        "dates": [],
+        "use": false,
+        "predefined": false
+      },
+      {
+        "val": 0,
+        "name": "",
+        "def_name": "",
+        "dates": [],
+        "use": false,
+        "predefined": false
+      },
+      {
+        "val": 0,
+        "name": "",
+        "def_name": "",
+        "dates": [],
+        "use": false,
+        "predefined": false
+      }
+    ]
+  },
+  "DA": {
+    "name": "DateAggregates",
+    "members": [
+      {
+        "name": "DateAggregate",
+        "Operator": "OR",
+        "def_name": "WeekDay",
+        "dates": [
+          "Mon",
+          "Tue",
+          "Wed",
+          "Thu",
+          "Fri"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "OR",
+        "def_name": "WeekEnds",
+        "dates": [
+          "Sat",
+          "Sun"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "OR",
+        "def_name": "Closed_Day",
+        "dates": [
+          "WeekEnds",
+          "NationalHolidays"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "NOT",
+        "def_name": "WorkingDay",
+        "dates": [
+          "Closed_Day"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "-1",
+        "def_name": "StartDateMinus1",
+        "dates": [
+          "StartDate"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "-2",
+        "def_name": "StartDateMinus2",
+        "dates": [
+          "StartDate"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "-3",
+        "def_name": "StartDateMinus3",
+        "dates": [
+          "StartDate"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "-4",
+        "def_name": "StartDateMinus4",
+        "dates": [
+          "StartDate"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "-5",
+        "def_name": "StartDateMinus5",
+        "dates": [
+          "StartDate"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "-6",
+        "def_name": "StartDateMinus6",
+        "dates": [
+          "StartDate"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "-7",
+        "def_name": "StartDateMinus7",
+        "dates": [
+          "StartDate"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "-8",
+        "def_name": "StartDateMinus8",
+        "dates": [
+          "StartDate"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "+1",
+        "def_name": "StartDatePlus1",
+        "dates": [
+          "StartDate"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "+2",
+        "def_name": "StartDatePlus2",
+        "dates": [
+          "StartDate"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "+3",
+        "def_name": "StartDatePlus3",
+        "dates": [
+          "StartDate"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "+4",
+        "def_name": "StartDatePlus4",
+        "dates": [
+          "StartDate"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "+5",
+        "def_name": "StartDatePlus5",
+        "dates": [
+          "StartDate"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "+6",
+        "def_name": "StartDatePlus6",
+        "dates": [
+          "StartDate"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "OR",
+        "def_name": "1stWeek",
+        "dates": [
+          "StartDate",
+          "StartDatePlus1",
+          "StartDatePlus2",
+          "StartDatePlus3",
+          "StartDatePlus4",
+          "StartDatePlus5",
+          "StartDatePlus6"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "+7",
+        "def_name": "2ndWeek",
+        "dates": [
+          "1stWeek"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "+7",
+        "def_name": "3rdWeek",
+        "dates": [
+          "2ndWeek"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "+7",
+        "def_name": "4thWeek",
+        "dates": [
+          "3rdWeek"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "+7",
+        "def_name": "5thWeek",
+        "dates": [
+          "4thWeek"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "+7",
+        "def_name": "6thWeek",
+        "dates": [
+          "5thWeek"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "OR",
+        "def_name": "28days",
+        "dates": [
+          "1stWeek",
+          "2ndWeek",
+          "3rdWeek",
+          "4thWeek"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "OR",
+        "def_name": "FromStartDateMinus1",
+        "dates": [
+          "StartDateMinus1",
+          "ThisMonth"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "OR",
+        "def_name": "FromStartDateMinus2",
+        "dates": [
+          "StartDateMinus2",
+          "StartDateMinus1",
+          "ThisMonth"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "OR",
+        "def_name": "FromStartDateMinus3",
+        "dates": [
+          "StartDateMinus3",
+          "StartDateMinus2",
+          "StartDateMinus1",
+          "ThisMonth"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "OR",
+        "def_name": "FromStartDateMinus4",
+        "dates": [
+          "StartDateMinus4",
+          "StartDateMinus3",
+          "StartDateMinus2",
+          "StartDateMinus1",
+          "ThisMonth"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "OR",
+        "def_name": "FromStartDateMinus5",
+        "dates": [
+          "StartDateMinus5",
+          "StartDateMinus4",
+          "StartDateMinus3",
+          "StartDateMinus2",
+          "StartDateMinus1",
+          "ThisMonth"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "OR",
+        "def_name": "FromStartDateMinus6",
+        "dates": [
+          "StartDateMinus6",
+          "StartDateMinus5",
+          "StartDateMinus4",
+          "StartDateMinus3",
+          "StartDateMinus2",
+          "StartDateMinus1",
+          "ThisMonth"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "OR",
+        "def_name": "FromStartDateMinus7",
+        "dates": [
+          "StartDateMinus7",
+          "StartDateMinus6",
+          "StartDateMinus5",
+          "StartDateMinus4",
+          "StartDateMinus3",
+          "StartDateMinus2",
+          "StartDateMinus1",
+          "ThisMonth"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "OR",
+        "def_name": "FromStartDateMinus8",
+        "dates": [
+          "StartDateMinus8",
+          "StartDateMinus7",
+          "StartDateMinus6",
+          "StartDateMinus5",
+          "StartDateMinus4",
+          "StartDateMinus3",
+          "StartDateMinus2",
+          "StartDateMinus1",
+          "ThisMonth"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "-6",
+        "def_name": "FinishDateMinus6",
+        "dates": [
+          "FinishDate"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "-5",
+        "def_name": "FinishDateMinus5",
+        "dates": [
+          "FinishDate"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "-4",
+        "def_name": "FinishDateMinus4",
+        "dates": [
+          "FinishDate"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "-3",
+        "def_name": "FinishDateMinus3",
+        "dates": [
+          "FinishDate"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "-2",
+        "def_name": "FinishDateMinus2",
+        "dates": [
+          "FinishDate"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "-1",
+        "def_name": "FinishDateMinus1",
+        "dates": [
+          "FinishDate"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "OR",
+        "def_name": "FriSatSun",
+        "dates": [
+          "Fri",
+          "Sat",
+          "Sun"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "OR",
+        "def_name": "FriSatSunMon",
+        "dates": [
+          "Fri",
+          "Sat",
+          "Sun",
+          "Mon"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "OR",
+        "def_name": "SatSunMon",
+        "dates": [
+          "Sat",
+          "Sun",
+          "Mon"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "OR",
+        "def_name": "SatSun",
+        "dates": [
+          "Sat",
+          "Sun"
+        ],
+        "use": true
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "OR",
+        "def_name": "",
+        "dates": [],
+        "use": false
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "OR",
+        "def_name": "",
+        "dates": [],
+        "use": false
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "OR",
+        "def_name": "",
+        "dates": [],
+        "use": false
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "OR",
+        "def_name": "",
+        "dates": [],
+        "use": false
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "OR",
+        "def_name": "",
+        "dates": [],
+        "use": false
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "OR",
+        "def_name": "",
+        "dates": [],
+        "use": false
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "OR",
+        "def_name": "",
+        "dates": [],
+        "use": false
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "OR",
+        "def_name": "",
+        "dates": [],
+        "use": false
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "OR",
+        "def_name": "",
+        "dates": [],
+        "use": false
+      },
+      {
+        "name": "DateAggregate",
+        "Operator": "OR",
+        "def_name": "",
+        "dates": [],
+        "use": false
+      }
+    ]
+  },
+  "SA": {
+    "name": "ShiftAggregates",
+    "members": [
+      {
+        "use": false,
+        "name": "ShiftAggregateDef",
+        "def_name": "Night_Shifts",
+        "color": "Gray",
+        "Operator": "OR",
+        "members": [
+          "Beginning_of_Night_Shift",
+          "After_Night_Shift"
+        ],
+        "label": "NS1"
+      },
+      {
+        "use": false,
+        "name": "ShiftAggregateDef",
+        "def_name": "Night_Shifts2",
+        "color": "Gray",
+        "Operator": "OR",
+        "members": [
+          "Semi_Night_Shift",
+          "Late_Night_Shift"
+        ],
+        "label": "NS2"
+      },
+      {
+        "use": false,
+        "name": "ShiftAggregateDef",
+        "def_name": "Early_Late_Shifts",
+        "color": "Gray",
+        "Operator": "OR",
+        "members": [
+          "Early_Shift",
+          "Late_Shift"
+        ],
+        "label": "EL"
+      },
+      {
+        "use": false,
+        "name": "ShiftAggregateDef",
+        "def_name": "Day_Offs",
+        "color": "Gray",
+        "Operator": "OR",
+        "members": [
+          "Legal_Holiday"
+        ],
+        "label": "Os"
+      },
+      {
+        "use": false,
+        "name": "ShiftAggregateDef",
+        "def_name": "Day_Aggregate",
+        "color": "Gray",
+        "Operator": "OR",
+        "members": [
+          "Day_Shift"
+        ],
+        "label": "Ds"
+      },
+      {
+        "use": false,
+        "name": "ShiftAggregateDef",
+        "def_name": "",
+        "color": "Gray",
+        "Operator": "OR",
+        "members": [],
+        "label": ""
+      },
+      {
+        "use": false,
+        "name": "ShiftAggregateDef",
+        "def_name": "",
+        "color": "Gray",
+        "Operator": "OR",
+        "members": [],
+        "label": ""
+      },
+      {
+        "use": false,
+        "name": "ShiftAggregateDef",
+        "def_name": "",
+        "color": "Gray",
+        "Operator": "OR",
+        "members": [],
+        "label": ""
+      },
+      {
+        "use": false,
+        "name": "ShiftAggregateDef",
+        "def_name": "",
+        "color": "Gray",
+        "Operator": "OR",
+        "members": [],
+        "label": ""
+      },
+      {
+        "use": false,
+        "name": "ShiftAggregateDef",
+        "def_name": "",
+        "color": "Gray",
+        "Operator": "OR",
+        "members": [],
+        "label": ""
+      }
+    ]
+  },
+  "PA": {
+    "name": "Phases",
+    "members": [
+      {
+        "shift_name": "Work",
+        "list": [
+          {
+            "type": 0,
+            "name": "PH0",
+            "time_string": "8:0",
+            "color": "White",
+            "day": 0,
+            "phase_no": 0
+          },
+          {
+            "type": 0,
+            "name": "PH1",
+            "time_string": "10:0",
+            "color": "224,224,224",
+            "day": 0,
+            "phase_no": 1
+          },
+          {
+            "type": 0,
+            "name": "PH2",
+            "time_string": "12:0",
+            "color": "Silver",
+            "day": 0,
+            "phase_no": 2
+          },
+          {
+            "type": 0,
+            "name": "PH3",
+            "time_string": "14:0",
+            "color": "DarkGray",
+            "day": 0,
+            "phase_no": 3
+          }
+        ]
+      },
+      {
+        "shift_name": "PH13",
+        "list": [
+          {
+            "type": 0,
+            "name": "PH0",
+            "time_string": "8:0",
+            "color": "White",
+            "day": 0,
+            "phase_no": 0
+          },
+          {
+            "type": 0,
+            "name": "PH1",
+            "time_string": "10:0",
+            "color": "224,224,224",
+            "day": 0,
+            "phase_no": 1
+          },
+          {
+            "type": 0,
+            "name": "PH2",
+            "time_string": "12:0",
+            "color": "Silver",
+            "day": 0,
+            "phase_no": 2
+          }
+        ]
+      },
+      {
+        "shift_name": "PH24",
+        "list": [
+          {
+            "type": 0,
+            "name": "PH1",
+            "time_string": "10:0",
+            "color": "224,224,224",
+            "day": 0,
+            "phase_no": 1
+          },
+          {
+            "type": 0,
+            "name": "PH2",
+            "time_string": "12:0",
+            "color": "Silver",
+            "day": 0,
+            "phase_no": 2
+          },
+          {
+            "type": 0,
+            "name": "PH3",
+            "time_string": "14:0",
+            "color": "DarkGray",
+            "day": 0,
+            "phase_no": 3
+          }
+        ]
+      },
+      {
+        "shift_name": "PH12",
+        "list": [
+          {
+            "type": 0,
+            "name": "PH0",
+            "time_string": "8:0",
+            "color": "White",
+            "day": 0,
+            "phase_no": 0
+          },
+          {
+            "type": 0,
+            "name": "PH1",
+            "time_string": "10:0",
+            "color": "224,224,224",
+            "day": 0,
+            "phase_no": 1
+          }
+        ]
+      },
+      {
+        "shift_name": "PH23",
+        "list": [
+          {
+            "type": 0,
+            "name": "PH1",
+            "time_string": "10:0",
+            "color": "224,224,224",
+            "day": 0,
+            "phase_no": 1
+          },
+          {
+            "type": 0,
+            "name": "PH2",
+            "time_string": "12:0",
+            "color": "Silver",
+            "day": 0,
+            "phase_no": 2
+          }
+        ]
+      },
+      {
+        "shift_name": "PH34",
+        "list": [
+          {
+            "type": 0,
+            "name": "PH2",
+            "time_string": "12:0",
+            "color": "Silver",
+            "day": 0,
+            "phase_no": 2
+          },
+          {
+            "type": 0,
+            "name": "PH3",
+            "time_string": "14:0",
+            "color": "DarkGray",
+            "day": 0,
+            "phase_no": 3
+          }
+        ]
+      }
+    ],
+    "primary_labels": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "alias_labels": [],
+    "dayphase_list": [
+      {
+        "type": 0,
+        "name": "PH0",
+        "time_string": "8:0",
+        "color": "White",
+        "day": 0,
+        "phase_no": 0
+      },
+      {
+        "type": 0,
+        "name": "PH1",
+        "time_string": "10:0",
+        "color": "224,224,224",
+        "day": 0,
+        "phase_no": 1
+      },
+      {
+        "type": 0,
+        "name": "PH2",
+        "time_string": "12:0",
+        "color": "Silver",
+        "day": 0,
+        "phase_no": 2
+      },
+      {
+        "type": 0,
+        "name": "PH3",
+        "time_string": "14:0",
+        "color": "DarkGray",
+        "day": 0,
+        "phase_no": 3
+      }
+    ]
+  },
+  "TAA": {
+    "name": "TaskAggregates",
+    "members": [
+      {
+        "use": false,
+        "name": "TaskAggregateDef",
+        "def_name": "Night_Shifts",
+        "color": "Gray",
+        "Operator": "OR",
+        "members": [],
+        "label": "NS1"
+      },
+      {
+        "use": false,
+        "name": "TaskAggregateDef",
+        "def_name": "Night_Shifts2",
+        "color": "Gray",
+        "Operator": "OR",
+        "members": [],
+        "label": "NS2"
+      },
+      {
+        "use": false,
+        "name": "TaskAggregateDef",
+        "def_name": "Early_Late_Shifts",
+        "color": "Gray",
+        "Operator": "OR",
+        "members": [],
+        "label": "EL"
+      },
+      {
+        "use": false,
+        "name": "TaskAggregateDef",
+        "def_name": "Day_Offs",
+        "color": "Gray",
+        "Operator": "OR",
+        "members": [],
+        "label": "Os"
+      },
+      {
+        "use": false,
+        "name": "TaskAggregateDef",
+        "def_name": "Day_Aggregate",
+        "color": "Gray",
+        "Operator": "OR",
+        "members": [],
+        "label": "Ds"
+      },
+      {
+        "use": false,
+        "name": "TaskAggregateDef",
+        "def_name": "",
+        "color": "Gray",
+        "Operator": "OR",
+        "members": [],
+        "label": ""
+      },
+      {
+        "use": false,
+        "name": "TaskAggregateDef",
+        "def_name": "",
+        "color": "Gray",
+        "Operator": "OR",
+        "members": [],
+        "label": ""
+      },
+      {
+        "use": false,
+        "name": "TaskAggregateDef",
+        "def_name": "",
+        "color": "Gray",
+        "Operator": "OR",
+        "members": [],
+        "label": ""
+      },
+      {
+        "use": false,
+        "name": "TaskAggregateDef",
+        "def_name": "",
+        "color": "Gray",
+        "Operator": "OR",
+        "members": [],
+        "label": ""
+      },
+      {
+        "use": false,
+        "name": "TaskAggregateDef",
+        "def_name": "",
+        "color": "Gray",
+        "Operator": "OR",
+        "members": [],
+        "label": ""
+      }
+    ]
+  },
+  "TO": {
+    "name": "Task Objects",
+    "members": [
+      {
+        "use": true,
+        "name": "TaskDef",
+        "def_name": "History",
+        "auto_schedule": true,
+        "color": "#FFFF00",
+        "label": "Hi",
+        "shift_ag_name": "",
+        "another_labels": [
+          "",
+          ""
+        ],
+        "another_colors": [
+          "Gray",
+          "Gray"
+        ],
+        "work_hours": -1
+      },
+      {
+        "use": true,
+        "name": "TaskDef",
+        "def_name": "Maths",
+        "auto_schedule": true,
+        "color": "#92D050",
+        "label": "Ma",
+        "shift_ag_name": "",
+        "another_labels": [
+          "",
+          ""
+        ],
+        "another_colors": [
+          "Gray",
+          "Gray"
+        ],
+        "work_hours": -1
+      },
+      {
+        "use": true,
+        "name": "TaskDef",
+        "def_name": "English",
+        "auto_schedule": true,
+        "color": "#00B050",
+        "label": "En",
+        "shift_ag_name": "",
+        "another_labels": [
+          "",
+          ""
+        ],
+        "another_colors": [
+          "Gray",
+          "Gray"
+        ],
+        "work_hours": -1
+      },
+      {
+        "use": true,
+        "name": "TaskDef",
+        "def_name": "Empty",
+        "auto_schedule": true,
+        "color": "#FFFFFF",
+        "label": "E",
+        "shift_ag_name": "",
+        "another_labels": [
+          "",
+          ""
+        ],
+        "another_colors": [
+          "Gray",
+          "Gray"
+        ],
+        "work_hours": -1
+      },
+      {
+        "use": false,
+        "name": "TaskDef",
+        "def_name": "",
+        "auto_schedule": true,
+        "color": "Gray",
+        "label": "",
+        "shift_ag_name": "",
+        "another_labels": [
+          "",
+          ""
+        ],
+        "another_colors": [
+          "Gray",
+          "Gray"
+        ],
+        "work_hours": -1
+      }
+    ]
+  },
+  "PO": {
+    "name": "Phase Objects",
+    "members": [
+      {
+        "use": true,
+        "name": "PhaseObjectDef",
+        "def_name": "phase_var1",
+        "auto_schedule": true,
+        "color": "Violet",
+        "label": "PV1",
+        "num_cnt": 1,
+        "work_hours": -1,
+        "tasks": []
+      },
+      {
+        "use": true,
+        "name": "PhaseObjectDef",
+        "def_name": "phase_var2",
+        "auto_schedule": true,
+        "color": "LightPink",
+        "label": "PV2",
+        "num_cnt": 1,
+        "work_hours": -1,
+        "tasks": []
+      },
+      {
+        "use": true,
+        "name": "PhaseObjectDef",
+        "def_name": "phase_var3",
+        "auto_schedule": true,
+        "color": "LightBlue",
+        "label": "PV3",
+        "num_cnt": 1,
+        "work_hours": -1,
+        "tasks": []
+      }
+    ]
+  },
+  "POA": {
+    "name": "PhaseObjectAggregates",
+    "members": [
+      {
+        "use": false,
+        "name": "PhaseObjectDef",
+        "def_name": "POA1",
+        "color": "Gray",
+        "label": "poa1",
+        "phase_object_names": [
+          "phase_var1",
+          "phase_var2"
+        ]
+      },
+      {
+        "use": false,
+        "name": "PhaseObjectDef",
+        "def_name": "POA2",
+        "color": "Gray",
+        "label": "poa2",
+        "phase_object_names": [
+          "phase_var2",
+          "phase_var3"
+        ]
+      }
+    ]
+  },
+  "GP": {
+    "name": "GroupProperties",
+    "members": [
+      {
+        "use": true,
+        "name": "GroupPropertyDef",
+        "def_name": "All_Members",
+        "members": [
+          "A_Member_in_All"
+        ]
+      },
+      {
+        "use": false,
+        "name": "GroupPropertyDef",
+        "def_name": "",
+        "members": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "use": false,
+        "name": "GroupPropertyDef",
+        "def_name": "",
+        "members": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "use": false,
+        "name": "GroupPropertyDef",
+        "def_name": "",
+        "members": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "use": false,
+        "name": "GroupPropertyDef",
+        "def_name": "",
+        "members": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "use": false,
+        "name": "GroupPropertyDef",
+        "def_name": "",
+        "members": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "use": false,
+        "name": "GroupPropertyDef",
+        "def_name": "",
+        "members": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "use": false,
+        "name": "GroupPropertyDef",
+        "def_name": "",
+        "members": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "use": false,
+        "name": "GroupPropertyDef",
+        "def_name": "",
+        "members": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "use": false,
+        "name": "GroupPropertyDef",
+        "def_name": "",
+        "members": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    ]
+  },
+  "GA": {
+    "name": "GroupAggregates",
+    "members": [
+      {
+        "use": false,
+        "name": "GroupAggregateDef",
+        "def_name": "",
+        "Operator": "OR",
+        "members": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "use": false,
+        "name": "GroupAggregateDef",
+        "def_name": "",
+        "Operator": "OR",
+        "members": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "use": false,
+        "name": "GroupAggregateDef",
+        "def_name": "",
+        "Operator": "OR",
+        "members": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "use": false,
+        "name": "GroupAggregateDef",
+        "def_name": "",
+        "Operator": "OR",
+        "members": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "use": false,
+        "name": "GroupAggregateDef",
+        "def_name": "",
+        "Operator": "OR",
+        "members": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "use": false,
+        "name": "GroupAggregateDef",
+        "def_name": "",
+        "Operator": "OR",
+        "members": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "use": false,
+        "name": "GroupAggregateDef",
+        "def_name": "",
+        "Operator": "OR",
+        "members": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "use": false,
+        "name": "GroupAggregateDef",
+        "def_name": "",
+        "Operator": "OR",
+        "members": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "use": false,
+        "name": "GroupAggregateDef",
+        "def_name": "",
+        "Operator": "OR",
+        "members": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "use": false,
+        "name": "GroupAggregateDef",
+        "def_name": "",
+        "Operator": "OR",
+        "members": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    ]
+  },
+  "SP": {
+    "name": "StaffProperties",
+    "members": [
+      {
+        "use": true,
+        "name": "StaffPropertyDef",
+        "def_name": "Staff1",
+        "shifts": [
+          "Day-Off",
+          "PH12",
+          "PH13",
+          "PH23",
+          "PH24",
+          "PH34",
+          "Work"
+        ],
+        "tasks": [
+          "Empty",
+          "English",
+          "Maths"
+        ],
+        "properties": {
+          "All_Members": "A_Member_in_All",
+          "": ""
+        }
+      },
+      {
+        "use": true,
+        "name": "StaffPropertyDef",
+        "def_name": "Staff2",
+        "shifts": [
+          "Day-Off",
+          "PH12",
+          "PH13",
+          "PH23",
+          "PH24",
+          "PH34",
+          "Work"
+        ],
+        "tasks": [
+          "Empty",
+          "English",
+          "History"
+        ],
+        "properties": {
+          "All_Members": "A_Member_in_All",
+          "": ""
+        }
+      },
+      {
+        "use": true,
+        "name": "StaffPropertyDef",
+        "def_name": "Staff3",
+        "shifts": [
+          "Day-Off",
+          "PH12",
+          "PH13",
+          "PH23",
+          "PH24",
+          "PH34",
+          "Work"
+        ],
+        "tasks": [
+          "Empty",
+          "English",
+          "History"
+        ],
+        "properties": {
+          "All_Members": "A_Member_in_All",
+          "": ""
+        }
+      },
+      {
+        "use": true,
+        "name": "StaffPropertyDef",
+        "def_name": "Staff4",
+        "shifts": [
+          "Day-Off",
+          "PH12",
+          "PH13",
+          "PH23",
+          "PH24",
+          "PH34",
+          "Work"
+        ],
+        "tasks": [
+          "Empty",
+          "English",
+          "Maths"
+        ],
+        "properties": {
+          "All_Members": "A_Member_in_All",
+          "": ""
+        }
+      },
+      {
+        "use": true,
+        "name": "StaffPropertyDef",
+        "def_name": "Staff5",
+        "shifts": [
+          "Day-Off",
+          "PH12",
+          "PH13",
+          "PH23",
+          "PH24",
+          "PH34",
+          "Work"
+        ],
+        "tasks": [
+          "Empty",
+          "English",
+          "History",
+          "Maths"
+        ],
+        "properties": {
+          "All_Members": "A_Member_in_All",
+          "": ""
+        }
+      },
+      {
+        "use": true,
+        "name": "StaffPropertyDef",
+        "def_name": "Staff6",
+        "shifts": [
+          "Day-Off",
+          "PH12",
+          "PH13",
+          "PH23",
+          "PH24",
+          "PH34",
+          "Work"
+        ],
+        "tasks": [
+          "Empty",
+          "English",
+          "History"
+        ],
+        "properties": {
+          "All_Members": "A_Member_in_All",
+          "": ""
+        }
+      },
+      {
+        "use": true,
+        "name": "StaffPropertyDef",
+        "def_name": "Staff7",
+        "shifts": [
+          "Day-Off",
+          "PH12",
+          "PH13",
+          "PH23",
+          "PH24",
+          "PH34",
+          "Work"
+        ],
+        "tasks": [
+          "Empty",
+          "English",
+          "History",
+          "Maths"
+        ],
+        "properties": {
+          "All_Members": "A_Member_in_All",
+          "": ""
+        }
+      }
+    ]
+  },
+  "CC": {
+    "name": "ColumnConstraints",
+    "members": [
+      {
+        "phase_mode": true,
+        "name": "ColumnConstraintsGroup",
+        "def_name": "Coloum Phase Constraints",
+        "use": true,
+        "members": [
+          {
+            "name": "ColumnConstraint",
+            "def_name": "History_PH0",
+            "use": true,
+            "shift_type": "PH0",
+            "shift_at_phase": "",
+            "task_type": "History",
+            "primary_day_type": "ThisMonth",
+            "staff_property_type": "A_Member_in_All",
+            "constraint_type": 1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "HistoryA_Member_in_All_max",
+            "dayphase_vec_min": "HistoryA_Member_in_All_min",
+            "max_value": -1,
+            "min_value": -1,
+            "soft_constraint_level": 7,
+            "soft_constraint_level_max": 7
+          },
+          {
+            "name": "ColumnConstraint",
+            "def_name": "History_PH1",
+            "use": true,
+            "shift_type": "PH1",
+            "shift_at_phase": "",
+            "task_type": "History",
+            "primary_day_type": "ThisMonth",
+            "staff_property_type": "A_Member_in_All",
+            "constraint_type": 1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "HistoryA_Member_in_All_max",
+            "dayphase_vec_min": "HistoryA_Member_in_All_min",
+            "max_value": -1,
+            "min_value": -1,
+            "soft_constraint_level": 7,
+            "soft_constraint_level_max": 7
+          },
+          {
+            "name": "ColumnConstraint",
+            "def_name": "History_PH2",
+            "use": true,
+            "shift_type": "PH2",
+            "shift_at_phase": "",
+            "task_type": "History",
+            "primary_day_type": "ThisMonth",
+            "staff_property_type": "A_Member_in_All",
+            "constraint_type": 1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "HistoryA_Member_in_All_max",
+            "dayphase_vec_min": "HistoryA_Member_in_All_min",
+            "max_value": -1,
+            "min_value": -1,
+            "soft_constraint_level": 7,
+            "soft_constraint_level_max": 7
+          },
+          {
+            "name": "ColumnConstraint",
+            "def_name": "History_PH3",
+            "use": true,
+            "shift_type": "PH3",
+            "shift_at_phase": "",
+            "task_type": "History",
+            "primary_day_type": "ThisMonth",
+            "staff_property_type": "A_Member_in_All",
+            "constraint_type": 1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "HistoryA_Member_in_All_max",
+            "dayphase_vec_min": "HistoryA_Member_in_All_min",
+            "max_value": -1,
+            "min_value": -1,
+            "soft_constraint_level": 7,
+            "soft_constraint_level_max": 7
+          },
+          {
+            "name": "ColumnConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_type": "",
+            "shift_at_phase": "",
+            "task_type": "",
+            "primary_day_type": "",
+            "staff_property_type": "",
+            "constraint_type": 0,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "",
+            "dayphase_vec_min": "",
+            "max_value": -1,
+            "min_value": -1,
+            "soft_constraint_level": 0,
+            "soft_constraint_level_max": 0
+          },
+          {
+            "name": "ColumnConstraint",
+            "def_name": "Maths_PH0",
+            "use": true,
+            "shift_type": "PH0",
+            "shift_at_phase": "",
+            "task_type": "Maths",
+            "primary_day_type": "ThisMonth",
+            "staff_property_type": "A_Member_in_All",
+            "constraint_type": 1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "MathsA_Member_in_All_max",
+            "dayphase_vec_min": "MathsA_Member_in_All_min",
+            "max_value": -1,
+            "min_value": -1,
+            "soft_constraint_level": 7,
+            "soft_constraint_level_max": 7
+          },
+          {
+            "name": "ColumnConstraint",
+            "def_name": "Maths_PH1",
+            "use": true,
+            "shift_type": "PH1",
+            "shift_at_phase": "",
+            "task_type": "Maths",
+            "primary_day_type": "ThisMonth",
+            "staff_property_type": "A_Member_in_All",
+            "constraint_type": 1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "MathsA_Member_in_All_max",
+            "dayphase_vec_min": "MathsA_Member_in_All_min",
+            "max_value": -1,
+            "min_value": -1,
+            "soft_constraint_level": 7,
+            "soft_constraint_level_max": 7
+          },
+          {
+            "name": "ColumnConstraint",
+            "def_name": "Maths_PH2",
+            "use": true,
+            "shift_type": "PH2",
+            "shift_at_phase": "",
+            "task_type": "Maths",
+            "primary_day_type": "ThisMonth",
+            "staff_property_type": "A_Member_in_All",
+            "constraint_type": 1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "MathsA_Member_in_All_max",
+            "dayphase_vec_min": "MathsA_Member_in_All_min",
+            "max_value": -1,
+            "min_value": -1,
+            "soft_constraint_level": 7,
+            "soft_constraint_level_max": 7
+          },
+          {
+            "name": "ColumnConstraint",
+            "def_name": "Maths_PH3",
+            "use": true,
+            "shift_type": "PH3",
+            "shift_at_phase": "",
+            "task_type": "Maths",
+            "primary_day_type": "ThisMonth",
+            "staff_property_type": "A_Member_in_All",
+            "constraint_type": 1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "MathsA_Member_in_All_max",
+            "dayphase_vec_min": "MathsA_Member_in_All_min",
+            "max_value": -1,
+            "min_value": -1,
+            "soft_constraint_level": 7,
+            "soft_constraint_level_max": 7
+          },
+          {
+            "name": "ColumnConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_type": "",
+            "shift_at_phase": "",
+            "task_type": "",
+            "primary_day_type": "",
+            "staff_property_type": "",
+            "constraint_type": 0,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "",
+            "dayphase_vec_min": "",
+            "max_value": -1,
+            "min_value": -1,
+            "soft_constraint_level": 0,
+            "soft_constraint_level_max": 0
+          },
+          {
+            "name": "ColumnConstraint",
+            "def_name": "English_PH0",
+            "use": true,
+            "shift_type": "PH0",
+            "shift_at_phase": "",
+            "task_type": "English",
+            "primary_day_type": "ThisMonth",
+            "staff_property_type": "A_Member_in_All",
+            "constraint_type": 1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "EnglishA_Member_in_All_max",
+            "dayphase_vec_min": "EnglishA_Member_in_All_min",
+            "max_value": -1,
+            "min_value": -1,
+            "soft_constraint_level": 7,
+            "soft_constraint_level_max": 7
+          },
+          {
+            "name": "ColumnConstraint",
+            "def_name": "English_PH1",
+            "use": true,
+            "shift_type": "PH1",
+            "shift_at_phase": "",
+            "task_type": "English",
+            "primary_day_type": "ThisMonth",
+            "staff_property_type": "A_Member_in_All",
+            "constraint_type": 1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "EnglishA_Member_in_All_max",
+            "dayphase_vec_min": "EnglishA_Member_in_All_min",
+            "max_value": -1,
+            "min_value": -1,
+            "soft_constraint_level": 7,
+            "soft_constraint_level_max": 7
+          },
+          {
+            "name": "ColumnConstraint",
+            "def_name": "English_PH2",
+            "use": true,
+            "shift_type": "PH2",
+            "shift_at_phase": "",
+            "task_type": "English",
+            "primary_day_type": "ThisMonth",
+            "staff_property_type": "A_Member_in_All",
+            "constraint_type": 1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "EnglishA_Member_in_All_max",
+            "dayphase_vec_min": "EnglishA_Member_in_All_min",
+            "max_value": -1,
+            "min_value": -1,
+            "soft_constraint_level": 7,
+            "soft_constraint_level_max": 7
+          },
+          {
+            "name": "ColumnConstraint",
+            "def_name": "English_PH3",
+            "use": true,
+            "shift_type": "PH3",
+            "shift_at_phase": "",
+            "task_type": "English",
+            "primary_day_type": "ThisMonth",
+            "staff_property_type": "A_Member_in_All",
+            "constraint_type": 1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "EnglishA_Member_in_All_max",
+            "dayphase_vec_min": "EnglishA_Member_in_All_min",
+            "max_value": -1,
+            "min_value": -1,
+            "soft_constraint_level": 7,
+            "soft_constraint_level_max": 7
+          },
+          {
+            "name": "ColumnConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_type": "",
+            "shift_at_phase": "",
+            "task_type": "",
+            "primary_day_type": "",
+            "staff_property_type": "",
+            "constraint_type": 0,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "",
+            "dayphase_vec_min": "",
+            "max_value": -1,
+            "min_value": -1,
+            "soft_constraint_level": 0,
+            "soft_constraint_level_max": 0
+          },
+          {
+            "name": "ColumnConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_type": "",
+            "shift_at_phase": "",
+            "task_type": "",
+            "primary_day_type": "",
+            "staff_property_type": "",
+            "constraint_type": 0,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "",
+            "dayphase_vec_min": "",
+            "max_value": -1,
+            "min_value": -1,
+            "soft_constraint_level": 0,
+            "soft_constraint_level_max": 0
+          }
+        ]
+      },
+      {
+        "phase_mode": false,
+        "name": "ColumnConstraintsGroup",
+        "def_name": "Column Constraint Group1",
+        "use": true,
+        "members": [
+          {
+            "name": "ColumnConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_type": "",
+            "shift_at_phase": "",
+            "task_type": "",
+            "primary_day_type": "",
+            "staff_property_type": "",
+            "constraint_type": 0,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "",
+            "dayphase_vec_min": "",
+            "max_value": -1,
+            "min_value": -1,
+            "soft_constraint_level": 0,
+            "soft_constraint_level_max": 0
+          },
+          {
+            "name": "ColumnConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_type": "",
+            "shift_at_phase": "",
+            "task_type": "",
+            "primary_day_type": "",
+            "staff_property_type": "",
+            "constraint_type": 0,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "",
+            "dayphase_vec_min": "",
+            "max_value": -1,
+            "min_value": -1,
+            "soft_constraint_level": 0,
+            "soft_constraint_level_max": 0
+          },
+          {
+            "name": "ColumnConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_type": "",
+            "shift_at_phase": "",
+            "task_type": "",
+            "primary_day_type": "",
+            "staff_property_type": "",
+            "constraint_type": 0,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "",
+            "dayphase_vec_min": "",
+            "max_value": -1,
+            "min_value": -1,
+            "soft_constraint_level": 0,
+            "soft_constraint_level_max": 0
+          },
+          {
+            "name": "ColumnConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_type": "",
+            "shift_at_phase": "",
+            "task_type": "",
+            "primary_day_type": "",
+            "staff_property_type": "",
+            "constraint_type": 0,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "",
+            "dayphase_vec_min": "",
+            "max_value": -1,
+            "min_value": -1,
+            "soft_constraint_level": 0,
+            "soft_constraint_level_max": 0
+          },
+          {
+            "name": "ColumnConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_type": "",
+            "shift_at_phase": "",
+            "task_type": "",
+            "primary_day_type": "",
+            "staff_property_type": "",
+            "constraint_type": 0,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "",
+            "dayphase_vec_min": "",
+            "max_value": -1,
+            "min_value": -1,
+            "soft_constraint_level": 0,
+            "soft_constraint_level_max": 0
+          },
+          {
+            "name": "ColumnConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_type": "",
+            "shift_at_phase": "",
+            "task_type": "",
+            "primary_day_type": "",
+            "staff_property_type": "",
+            "constraint_type": 0,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "",
+            "dayphase_vec_min": "",
+            "max_value": -1,
+            "min_value": -1,
+            "soft_constraint_level": 0,
+            "soft_constraint_level_max": 0
+          },
+          {
+            "name": "ColumnConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_type": "",
+            "shift_at_phase": "",
+            "task_type": "",
+            "primary_day_type": "",
+            "staff_property_type": "",
+            "constraint_type": 0,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "",
+            "dayphase_vec_min": "",
+            "max_value": -1,
+            "min_value": -1,
+            "soft_constraint_level": 0,
+            "soft_constraint_level_max": 0
+          },
+          {
+            "name": "ColumnConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_type": "",
+            "shift_at_phase": "",
+            "task_type": "",
+            "primary_day_type": "",
+            "staff_property_type": "",
+            "constraint_type": 0,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "",
+            "dayphase_vec_min": "",
+            "max_value": -1,
+            "min_value": -1,
+            "soft_constraint_level": 0,
+            "soft_constraint_level_max": 0
+          },
+          {
+            "name": "ColumnConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_type": "",
+            "shift_at_phase": "",
+            "task_type": "",
+            "primary_day_type": "",
+            "staff_property_type": "",
+            "constraint_type": 0,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "",
+            "dayphase_vec_min": "",
+            "max_value": -1,
+            "min_value": -1,
+            "soft_constraint_level": 0,
+            "soft_constraint_level_max": 0
+          },
+          {
+            "name": "ColumnConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_type": "",
+            "shift_at_phase": "",
+            "task_type": "",
+            "primary_day_type": "",
+            "staff_property_type": "",
+            "constraint_type": 0,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "",
+            "dayphase_vec_min": "",
+            "max_value": -1,
+            "min_value": -1,
+            "soft_constraint_level": 0,
+            "soft_constraint_level_max": 0
+          },
+          {
+            "name": "ColumnConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_type": "",
+            "shift_at_phase": "",
+            "task_type": "",
+            "primary_day_type": "",
+            "staff_property_type": "",
+            "constraint_type": 0,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "",
+            "dayphase_vec_min": "",
+            "max_value": -1,
+            "min_value": -1,
+            "soft_constraint_level": 0,
+            "soft_constraint_level_max": 0
+          },
+          {
+            "name": "ColumnConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_type": "",
+            "shift_at_phase": "",
+            "task_type": "",
+            "primary_day_type": "",
+            "staff_property_type": "",
+            "constraint_type": 0,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "",
+            "dayphase_vec_min": "",
+            "max_value": -1,
+            "min_value": -1,
+            "soft_constraint_level": 0,
+            "soft_constraint_level_max": 0
+          },
+          {
+            "name": "ColumnConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_type": "",
+            "shift_at_phase": "",
+            "task_type": "",
+            "primary_day_type": "",
+            "staff_property_type": "",
+            "constraint_type": 0,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "",
+            "dayphase_vec_min": "",
+            "max_value": -1,
+            "min_value": -1,
+            "soft_constraint_level": 0,
+            "soft_constraint_level_max": 0
+          },
+          {
+            "name": "ColumnConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_type": "",
+            "shift_at_phase": "",
+            "task_type": "",
+            "primary_day_type": "",
+            "staff_property_type": "",
+            "constraint_type": 0,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "",
+            "dayphase_vec_min": "",
+            "max_value": -1,
+            "min_value": -1,
+            "soft_constraint_level": 0,
+            "soft_constraint_level_max": 0
+          },
+          {
+            "name": "ColumnConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_type": "",
+            "shift_at_phase": "",
+            "task_type": "",
+            "primary_day_type": "",
+            "staff_property_type": "",
+            "constraint_type": 0,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "",
+            "dayphase_vec_min": "",
+            "max_value": -1,
+            "min_value": -1,
+            "soft_constraint_level": 0,
+            "soft_constraint_level_max": 0
+          },
+          {
+            "name": "ColumnConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_type": "",
+            "shift_at_phase": "",
+            "task_type": "",
+            "primary_day_type": "",
+            "staff_property_type": "",
+            "constraint_type": 0,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "",
+            "dayphase_vec_min": "",
+            "max_value": -1,
+            "min_value": -1,
+            "soft_constraint_level": 0,
+            "soft_constraint_level_max": 0
+          }
+        ]
+      },
+      {
+        "phase_mode": false,
+        "name": "ColumnConstraintsGroup",
+        "def_name": "Column Constraint Group2",
+        "use": true,
+        "members": [
+          {
+            "name": "ColumnConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_type": "",
+            "shift_at_phase": "",
+            "task_type": "",
+            "primary_day_type": "",
+            "staff_property_type": "",
+            "constraint_type": 0,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "",
+            "dayphase_vec_min": "",
+            "max_value": -1,
+            "min_value": -1,
+            "soft_constraint_level": 0,
+            "soft_constraint_level_max": 0
+          },
+          {
+            "name": "ColumnConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_type": "",
+            "shift_at_phase": "",
+            "task_type": "",
+            "primary_day_type": "",
+            "staff_property_type": "",
+            "constraint_type": 0,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "",
+            "dayphase_vec_min": "",
+            "max_value": -1,
+            "min_value": -1,
+            "soft_constraint_level": 0,
+            "soft_constraint_level_max": 0
+          },
+          {
+            "name": "ColumnConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_type": "",
+            "shift_at_phase": "",
+            "task_type": "",
+            "primary_day_type": "",
+            "staff_property_type": "",
+            "constraint_type": 0,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "",
+            "dayphase_vec_min": "",
+            "max_value": -1,
+            "min_value": -1,
+            "soft_constraint_level": 0,
+            "soft_constraint_level_max": 0
+          },
+          {
+            "name": "ColumnConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_type": "",
+            "shift_at_phase": "",
+            "task_type": "",
+            "primary_day_type": "",
+            "staff_property_type": "",
+            "constraint_type": 0,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "",
+            "dayphase_vec_min": "",
+            "max_value": -1,
+            "min_value": -1,
+            "soft_constraint_level": 0,
+            "soft_constraint_level_max": 0
+          },
+          {
+            "name": "ColumnConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_type": "",
+            "shift_at_phase": "",
+            "task_type": "",
+            "primary_day_type": "",
+            "staff_property_type": "",
+            "constraint_type": 0,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "",
+            "dayphase_vec_min": "",
+            "max_value": -1,
+            "min_value": -1,
+            "soft_constraint_level": 0,
+            "soft_constraint_level_max": 0
+          },
+          {
+            "name": "ColumnConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_type": "",
+            "shift_at_phase": "",
+            "task_type": "",
+            "primary_day_type": "",
+            "staff_property_type": "",
+            "constraint_type": 0,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "",
+            "dayphase_vec_min": "",
+            "max_value": -1,
+            "min_value": -1,
+            "soft_constraint_level": 0,
+            "soft_constraint_level_max": 0
+          },
+          {
+            "name": "ColumnConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_type": "",
+            "shift_at_phase": "",
+            "task_type": "",
+            "primary_day_type": "",
+            "staff_property_type": "",
+            "constraint_type": 0,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "",
+            "dayphase_vec_min": "",
+            "max_value": -1,
+            "min_value": -1,
+            "soft_constraint_level": 0,
+            "soft_constraint_level_max": 0
+          },
+          {
+            "name": "ColumnConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_type": "",
+            "shift_at_phase": "",
+            "task_type": "",
+            "primary_day_type": "",
+            "staff_property_type": "",
+            "constraint_type": 0,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "",
+            "dayphase_vec_min": "",
+            "max_value": -1,
+            "min_value": -1,
+            "soft_constraint_level": 0,
+            "soft_constraint_level_max": 0
+          },
+          {
+            "name": "ColumnConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_type": "",
+            "shift_at_phase": "",
+            "task_type": "",
+            "primary_day_type": "",
+            "staff_property_type": "",
+            "constraint_type": 0,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "",
+            "dayphase_vec_min": "",
+            "max_value": -1,
+            "min_value": -1,
+            "soft_constraint_level": 0,
+            "soft_constraint_level_max": 0
+          },
+          {
+            "name": "ColumnConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_type": "",
+            "shift_at_phase": "",
+            "task_type": "",
+            "primary_day_type": "",
+            "staff_property_type": "",
+            "constraint_type": 0,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "",
+            "dayphase_vec_min": "",
+            "max_value": -1,
+            "min_value": -1,
+            "soft_constraint_level": 0,
+            "soft_constraint_level_max": 0
+          },
+          {
+            "name": "ColumnConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_type": "",
+            "shift_at_phase": "",
+            "task_type": "",
+            "primary_day_type": "",
+            "staff_property_type": "",
+            "constraint_type": 0,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "",
+            "dayphase_vec_min": "",
+            "max_value": -1,
+            "min_value": -1,
+            "soft_constraint_level": 0,
+            "soft_constraint_level_max": 0
+          },
+          {
+            "name": "ColumnConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_type": "",
+            "shift_at_phase": "",
+            "task_type": "",
+            "primary_day_type": "",
+            "staff_property_type": "",
+            "constraint_type": 0,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "",
+            "dayphase_vec_min": "",
+            "max_value": -1,
+            "min_value": -1,
+            "soft_constraint_level": 0,
+            "soft_constraint_level_max": 0
+          },
+          {
+            "name": "ColumnConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_type": "",
+            "shift_at_phase": "",
+            "task_type": "",
+            "primary_day_type": "",
+            "staff_property_type": "",
+            "constraint_type": 0,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "",
+            "dayphase_vec_min": "",
+            "max_value": -1,
+            "min_value": -1,
+            "soft_constraint_level": 0,
+            "soft_constraint_level_max": 0
+          },
+          {
+            "name": "ColumnConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_type": "",
+            "shift_at_phase": "",
+            "task_type": "",
+            "primary_day_type": "",
+            "staff_property_type": "",
+            "constraint_type": 0,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "",
+            "dayphase_vec_min": "",
+            "max_value": -1,
+            "min_value": -1,
+            "soft_constraint_level": 0,
+            "soft_constraint_level_max": 0
+          },
+          {
+            "name": "ColumnConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_type": "",
+            "shift_at_phase": "",
+            "task_type": "",
+            "primary_day_type": "",
+            "staff_property_type": "",
+            "constraint_type": 0,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "",
+            "dayphase_vec_min": "",
+            "max_value": -1,
+            "min_value": -1,
+            "soft_constraint_level": 0,
+            "soft_constraint_level_max": 0
+          },
+          {
+            "name": "ColumnConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_type": "",
+            "shift_at_phase": "",
+            "task_type": "",
+            "primary_day_type": "",
+            "staff_property_type": "",
+            "constraint_type": 0,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "dayphase_vec_max": "",
+            "dayphase_vec_min": "",
+            "max_value": -1,
+            "min_value": -1,
+            "soft_constraint_level": 0,
+            "soft_constraint_level_max": 0
+          }
+        ]
+      }
+    ]
+  },
+  "RC": {
+    "name": "RowConstraints",
+    "members": [
+      {
+        "phase_mode": true,
+        "equal_count_mode": false,
+        "name": "RowConstraintsGroup",
+        "def_name": "Row Phase Constraint Group1",
+        "use": true,
+        "members": [
+          {
+            "phase_mode": true,
+            "equal_count_mode": false,
+            "name": "RowConstraint",
+            "def_name": "Make empty class as little as possible at PH0",
+            "use": true,
+            "primary_day_type": "ThisMonth",
+            "first_day_type": "",
+            "last_day_type": "",
+            "staff_property_type": "A_Member_in_All",
+            "pattern": [
+              {
+                "shift": "Empty",
+                "level": 0,
+                "a_ix": -1
+              }
+            ],
+            "shift_pattern": [],
+            "inv_pattern": [
+              false
+            ],
+            "shift_inv_pattern": [],
+            "A_daytypes": [],
+            "B_daytypes": [],
+            "constraint_type": 0,
+            "max_value": -1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "min_value": -1,
+            "min_staff_property": "",
+            "max_staff_property": "",
+            "soft_constraint_level": 1
+          },
+          {
+            "phase_mode": true,
+            "equal_count_mode": false,
+            "name": "RowConstraint",
+            "def_name": "Make empty class as little as possible at PH1",
+            "use": true,
+            "primary_day_type": "ThisMonth",
+            "first_day_type": "",
+            "last_day_type": "",
+            "staff_property_type": "A_Member_in_All",
+            "pattern": [
+              {
+                "shift": "",
+                "level": 0,
+                "a_ix": -1
+              },
+              {
+                "shift": "Empty",
+                "level": 0,
+                "a_ix": -1
+              }
+            ],
+            "shift_pattern": [],
+            "inv_pattern": [
+              false,
+              false
+            ],
+            "shift_inv_pattern": [],
+            "A_daytypes": [],
+            "B_daytypes": [],
+            "constraint_type": 0,
+            "max_value": -1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "min_value": -1,
+            "min_staff_property": "",
+            "max_staff_property": "",
+            "soft_constraint_level": 1
+          },
+          {
+            "phase_mode": true,
+            "equal_count_mode": false,
+            "name": "RowConstraint",
+            "def_name": "Make empty class as little as possible at PH2",
+            "use": true,
+            "primary_day_type": "ThisMonth",
+            "first_day_type": "",
+            "last_day_type": "",
+            "staff_property_type": "A_Member_in_All",
+            "pattern": [
+              {
+                "shift": "",
+                "level": 0,
+                "a_ix": -1
+              },
+              {
+                "shift": "",
+                "level": 0,
+                "a_ix": -1
+              },
+              {
+                "shift": "Empty",
+                "level": 0,
+                "a_ix": -1
+              }
+            ],
+            "shift_pattern": [],
+            "inv_pattern": [
+              false,
+              false,
+              false
+            ],
+            "shift_inv_pattern": [],
+            "A_daytypes": [],
+            "B_daytypes": [],
+            "constraint_type": 0,
+            "max_value": -1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "min_value": -1,
+            "min_staff_property": "",
+            "max_staff_property": "",
+            "soft_constraint_level": 1
+          },
+          {
+            "phase_mode": true,
+            "equal_count_mode": false,
+            "name": "RowConstraint",
+            "def_name": "Make empty class as little as possible at PH3",
+            "use": true,
+            "primary_day_type": "ThisMonth",
+            "first_day_type": "",
+            "last_day_type": "",
+            "staff_property_type": "A_Member_in_All",
+            "pattern": [
+              {
+                "shift": "",
+                "level": 0,
+                "a_ix": -1
+              },
+              {
+                "shift": "",
+                "level": 0,
+                "a_ix": -1
+              },
+              {
+                "shift": "",
+                "level": 0,
+                "a_ix": -1
+              },
+              {
+                "shift": "Empty",
+                "level": 0,
+                "a_ix": -1
+              }
+            ],
+            "shift_pattern": [],
+            "inv_pattern": [
+              false,
+              false,
+              false,
+              false
+            ],
+            "shift_inv_pattern": [],
+            "A_daytypes": [],
+            "B_daytypes": [],
+            "constraint_type": 0,
+            "max_value": -1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "min_value": -1,
+            "min_staff_property": "",
+            "max_staff_property": "",
+            "soft_constraint_level": 1
+          },
+          {
+            "phase_mode": true,
+            "equal_count_mode": false,
+            "name": "RowConstraint",
+            "def_name": "",
+            "use": false,
+            "primary_day_type": "",
+            "first_day_type": "",
+            "last_day_type": "",
+            "staff_property_type": "",
+            "pattern": [],
+            "shift_pattern": [],
+            "inv_pattern": [],
+            "shift_inv_pattern": [],
+            "A_daytypes": [],
+            "B_daytypes": [],
+            "constraint_type": 0,
+            "max_value": -1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "min_value": -1,
+            "min_staff_property": "",
+            "max_staff_property": "",
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": true,
+            "equal_count_mode": false,
+            "name": "RowConstraint",
+            "def_name": "",
+            "use": false,
+            "primary_day_type": "",
+            "first_day_type": "",
+            "last_day_type": "",
+            "staff_property_type": "",
+            "pattern": [],
+            "shift_pattern": [],
+            "inv_pattern": [],
+            "shift_inv_pattern": [],
+            "A_daytypes": [],
+            "B_daytypes": [],
+            "constraint_type": 0,
+            "max_value": -1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "min_value": -1,
+            "min_staff_property": "",
+            "max_staff_property": "",
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": true,
+            "equal_count_mode": false,
+            "name": "RowConstraint",
+            "def_name": "",
+            "use": false,
+            "primary_day_type": "",
+            "first_day_type": "",
+            "last_day_type": "",
+            "staff_property_type": "",
+            "pattern": [],
+            "shift_pattern": [],
+            "inv_pattern": [],
+            "shift_inv_pattern": [],
+            "A_daytypes": [],
+            "B_daytypes": [],
+            "constraint_type": 0,
+            "max_value": -1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "min_value": -1,
+            "min_staff_property": "",
+            "max_staff_property": "",
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": true,
+            "equal_count_mode": false,
+            "name": "RowConstraint",
+            "def_name": "",
+            "use": false,
+            "primary_day_type": "",
+            "first_day_type": "",
+            "last_day_type": "",
+            "staff_property_type": "",
+            "pattern": [],
+            "shift_pattern": [],
+            "inv_pattern": [],
+            "shift_inv_pattern": [],
+            "A_daytypes": [],
+            "B_daytypes": [],
+            "constraint_type": 0,
+            "max_value": -1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "min_value": -1,
+            "min_staff_property": "",
+            "max_staff_property": "",
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": true,
+            "equal_count_mode": false,
+            "name": "RowConstraint",
+            "def_name": "",
+            "use": false,
+            "primary_day_type": "",
+            "first_day_type": "",
+            "last_day_type": "",
+            "staff_property_type": "",
+            "pattern": [],
+            "shift_pattern": [],
+            "inv_pattern": [],
+            "shift_inv_pattern": [],
+            "A_daytypes": [],
+            "B_daytypes": [],
+            "constraint_type": 0,
+            "max_value": -1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "min_value": -1,
+            "min_staff_property": "",
+            "max_staff_property": "",
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": true,
+            "equal_count_mode": false,
+            "name": "RowConstraint",
+            "def_name": "",
+            "use": false,
+            "primary_day_type": "",
+            "first_day_type": "",
+            "last_day_type": "",
+            "staff_property_type": "",
+            "pattern": [],
+            "shift_pattern": [],
+            "inv_pattern": [],
+            "shift_inv_pattern": [],
+            "A_daytypes": [],
+            "B_daytypes": [],
+            "constraint_type": 0,
+            "max_value": -1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "min_value": -1,
+            "min_staff_property": "",
+            "max_staff_property": "",
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": true,
+            "equal_count_mode": false,
+            "name": "RowConstraint",
+            "def_name": "",
+            "use": false,
+            "primary_day_type": "",
+            "first_day_type": "",
+            "last_day_type": "",
+            "staff_property_type": "",
+            "pattern": [],
+            "shift_pattern": [],
+            "inv_pattern": [],
+            "shift_inv_pattern": [],
+            "A_daytypes": [],
+            "B_daytypes": [],
+            "constraint_type": 0,
+            "max_value": -1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "min_value": -1,
+            "min_staff_property": "",
+            "max_staff_property": "",
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": true,
+            "equal_count_mode": false,
+            "name": "RowConstraint",
+            "def_name": "",
+            "use": false,
+            "primary_day_type": "",
+            "first_day_type": "",
+            "last_day_type": "",
+            "staff_property_type": "",
+            "pattern": [],
+            "shift_pattern": [],
+            "inv_pattern": [],
+            "shift_inv_pattern": [],
+            "A_daytypes": [],
+            "B_daytypes": [],
+            "constraint_type": 0,
+            "max_value": -1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "min_value": -1,
+            "min_staff_property": "",
+            "max_staff_property": "",
+            "soft_constraint_level": 0
+          }
+        ]
+      },
+      {
+        "phase_mode": false,
+        "equal_count_mode": false,
+        "name": "RowConstraintsGroup",
+        "def_name": "Row Constraint Group2",
+        "use": true,
+        "members": [
+          {
+            "phase_mode": false,
+            "equal_count_mode": false,
+            "name": "RowConstraint",
+            "def_name": "Provide a penalty per working day (=NOT OFF)",
+            "use": true,
+            "primary_day_type": "ThisMonth",
+            "first_day_type": "",
+            "last_day_type": "",
+            "staff_property_type": "A_Member_in_All",
+            "pattern": [
+              {
+                "shift": "Day-Off",
+                "level": 0,
+                "a_ix": -1
+              }
+            ],
+            "shift_pattern": [],
+            "inv_pattern": [
+              true
+            ],
+            "shift_inv_pattern": [],
+            "A_daytypes": [],
+            "B_daytypes": [],
+            "constraint_type": 0,
+            "max_value": -1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "min_value": -1,
+            "min_staff_property": "",
+            "max_staff_property": "",
+            "soft_constraint_level": 3
+          },
+          {
+            "phase_mode": false,
+            "equal_count_mode": false,
+            "name": "RowConstraint",
+            "def_name": "",
+            "use": false,
+            "primary_day_type": "",
+            "first_day_type": "",
+            "last_day_type": "",
+            "staff_property_type": "",
+            "pattern": [],
+            "shift_pattern": [],
+            "inv_pattern": [],
+            "shift_inv_pattern": [],
+            "A_daytypes": [],
+            "B_daytypes": [],
+            "constraint_type": 0,
+            "max_value": -1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "min_value": -1,
+            "min_staff_property": "",
+            "max_staff_property": "",
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "equal_count_mode": false,
+            "name": "RowConstraint",
+            "def_name": "",
+            "use": false,
+            "primary_day_type": "",
+            "first_day_type": "",
+            "last_day_type": "",
+            "staff_property_type": "",
+            "pattern": [],
+            "shift_pattern": [],
+            "inv_pattern": [],
+            "shift_inv_pattern": [],
+            "A_daytypes": [],
+            "B_daytypes": [],
+            "constraint_type": 0,
+            "max_value": -1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "min_value": -1,
+            "min_staff_property": "",
+            "max_staff_property": "",
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "equal_count_mode": false,
+            "name": "RowConstraint",
+            "def_name": "",
+            "use": false,
+            "primary_day_type": "",
+            "first_day_type": "",
+            "last_day_type": "",
+            "staff_property_type": "",
+            "pattern": [],
+            "shift_pattern": [],
+            "inv_pattern": [],
+            "shift_inv_pattern": [],
+            "A_daytypes": [],
+            "B_daytypes": [],
+            "constraint_type": 0,
+            "max_value": -1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "min_value": -1,
+            "min_staff_property": "",
+            "max_staff_property": "",
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "equal_count_mode": false,
+            "name": "RowConstraint",
+            "def_name": "",
+            "use": false,
+            "primary_day_type": "",
+            "first_day_type": "",
+            "last_day_type": "",
+            "staff_property_type": "",
+            "pattern": [],
+            "shift_pattern": [],
+            "inv_pattern": [],
+            "shift_inv_pattern": [],
+            "A_daytypes": [],
+            "B_daytypes": [],
+            "constraint_type": 0,
+            "max_value": -1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "min_value": -1,
+            "min_staff_property": "",
+            "max_staff_property": "",
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "equal_count_mode": false,
+            "name": "RowConstraint",
+            "def_name": "",
+            "use": false,
+            "primary_day_type": "",
+            "first_day_type": "",
+            "last_day_type": "",
+            "staff_property_type": "",
+            "pattern": [],
+            "shift_pattern": [],
+            "inv_pattern": [],
+            "shift_inv_pattern": [],
+            "A_daytypes": [],
+            "B_daytypes": [],
+            "constraint_type": 0,
+            "max_value": -1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "min_value": -1,
+            "min_staff_property": "",
+            "max_staff_property": "",
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "equal_count_mode": false,
+            "name": "RowConstraint",
+            "def_name": "",
+            "use": false,
+            "primary_day_type": "",
+            "first_day_type": "",
+            "last_day_type": "",
+            "staff_property_type": "",
+            "pattern": [],
+            "shift_pattern": [],
+            "inv_pattern": [],
+            "shift_inv_pattern": [],
+            "A_daytypes": [],
+            "B_daytypes": [],
+            "constraint_type": 0,
+            "max_value": -1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "min_value": -1,
+            "min_staff_property": "",
+            "max_staff_property": "",
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "equal_count_mode": false,
+            "name": "RowConstraint",
+            "def_name": "",
+            "use": false,
+            "primary_day_type": "",
+            "first_day_type": "",
+            "last_day_type": "",
+            "staff_property_type": "",
+            "pattern": [],
+            "shift_pattern": [],
+            "inv_pattern": [],
+            "shift_inv_pattern": [],
+            "A_daytypes": [],
+            "B_daytypes": [],
+            "constraint_type": 0,
+            "max_value": -1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "min_value": -1,
+            "min_staff_property": "",
+            "max_staff_property": "",
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "equal_count_mode": false,
+            "name": "RowConstraint",
+            "def_name": "",
+            "use": false,
+            "primary_day_type": "",
+            "first_day_type": "",
+            "last_day_type": "",
+            "staff_property_type": "",
+            "pattern": [],
+            "shift_pattern": [],
+            "inv_pattern": [],
+            "shift_inv_pattern": [],
+            "A_daytypes": [],
+            "B_daytypes": [],
+            "constraint_type": 0,
+            "max_value": -1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "min_value": -1,
+            "min_staff_property": "",
+            "max_staff_property": "",
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "equal_count_mode": false,
+            "name": "RowConstraint",
+            "def_name": "",
+            "use": false,
+            "primary_day_type": "",
+            "first_day_type": "",
+            "last_day_type": "",
+            "staff_property_type": "",
+            "pattern": [],
+            "shift_pattern": [],
+            "inv_pattern": [],
+            "shift_inv_pattern": [],
+            "A_daytypes": [],
+            "B_daytypes": [],
+            "constraint_type": 0,
+            "max_value": -1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "min_value": -1,
+            "min_staff_property": "",
+            "max_staff_property": "",
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "equal_count_mode": false,
+            "name": "RowConstraint",
+            "def_name": "",
+            "use": false,
+            "primary_day_type": "",
+            "first_day_type": "",
+            "last_day_type": "",
+            "staff_property_type": "",
+            "pattern": [],
+            "shift_pattern": [],
+            "inv_pattern": [],
+            "shift_inv_pattern": [],
+            "A_daytypes": [],
+            "B_daytypes": [],
+            "constraint_type": 0,
+            "max_value": -1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "min_value": -1,
+            "min_staff_property": "",
+            "max_staff_property": "",
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "equal_count_mode": false,
+            "name": "RowConstraint",
+            "def_name": "",
+            "use": false,
+            "primary_day_type": "",
+            "first_day_type": "",
+            "last_day_type": "",
+            "staff_property_type": "",
+            "pattern": [],
+            "shift_pattern": [],
+            "inv_pattern": [],
+            "shift_inv_pattern": [],
+            "A_daytypes": [],
+            "B_daytypes": [],
+            "constraint_type": 0,
+            "max_value": -1,
+            "min_double": -1.0,
+            "max_double": -1.0,
+            "min_value": -1,
+            "min_staff_property": "",
+            "max_staff_property": "",
+            "soft_constraint_level": 0
+          }
+        ]
+      }
+    ]
+  },
+  "SolP": {
+    "name": "SolvingParameters",
+    "solving_map": {
+      "7": {
+        "column": {
+          "use": true,
+          "value": 3,
+          "total_max_errors": 0,
+          "weight": 7
+        }
+      },
+      "1": {
+        "row": {
+          "use": true,
+          "value": 3,
+          "total_max_errors": 0,
+          "weight": 2
+        },
+        "planned": {
+          "use": true,
+          "value": 3,
+          "total_max_errors": 0,
+          "weight": 8
+        }
+      },
+      "3": {
+        "row": {
+          "use": false,
+          "value": 3,
+          "total_max_errors": 0,
+          "weight": 1
+        }
+      }
+    },
+    "external_constraint": "",
+    "external_constraint_python": "",
+    "python_property_file": "",
+    "python_property_file_post": "",
+    "comment": "Note",
+    "parameters": {
+      "NofCpus": 1,
+      "N_of_solutions": 1,
+      "not_repeat_planned_errors": 1,
+      "implict_hard_to_soft_enable": 0,
+      "HardTimeout": 20,
+      "ErrorAnalysis": 1,
+      "SoftTimeout": 10,
+      "BestEffotsTimeout": 10,
+      "UseExternalConstraint": 0,
+      "ShowUnsatisfactoryHardItems": 0,
+      "ShowUnsatisfactoryHardItemsInline": 0,
+      "Algorithm": 1,
+      "final_soft_timeout": 20,
+      "python_post_operation": 0,
+      "notask_var_allowed_on_active_shifts": 0,
+      "notask_var_allowed_on_only_scheduled_task": 0
+    },
+    "aws_parameters": {
+      "dynamodb_region": "us-east-1",
+      "dynamodb_table_name": "SC_NURSE_TABLE",
+      "dynamodb_key_name": "Name",
+      "dynamodb_item_name": "nobody",
+      "dynamodb_language": "English"
+    }
+  },
+  "Sch": {
+    "name": "Schedules",
+    "members": [
+      [
+        {
+          "shift": "PH24",
+          "level": 1,
+          "a_ix": -1
+        },
+        {
+          "shift": "Day-Off",
+          "level": 1,
+          "a_ix": -1
+        },
+        {
+          "shift": "PH24",
+          "level": 1,
+          "a_ix": -1
+        },
+        {
+          "shift": "Day-Off",
+          "level": 1,
+          "a_ix": -1
+        },
+        {
+          "shift": "Day-Off",
+          "level": 1,
+          "a_ix": -1
+        },
+        {
+          "shift": "Day-Off",
+          "level": 1,
+          "a_ix": -1
+        }
+      ],
+      [
+        {
+          "shift": "Work",
+          "level": 1,
+          "a_ix": -1
+        },
+        {
+          "shift": "Day-Off",
+          "level": 1,
+          "a_ix": -1
+        },
+        {
+          "shift": "Day-Off",
+          "level": 1,
+          "a_ix": -1
+        },
+        {
+          "shift": "Work",
+          "level": 1,
+          "a_ix": -1
+        },
+        {
+          "shift": "PH34",
+          "level": 1,
+          "a_ix": -1
+        },
+        {
+          "shift": "Day-Off",
+          "level": 1,
+          "a_ix": -1
+        }
+      ],
+      [
+        {
+          "shift": "Day-Off",
+          "level": 1,
+          "a_ix": -1
+        },
+        {
+          "shift": "PH24",
+          "level": 1,
+          "a_ix": -1
+        },
+        {
+          "shift": "Work",
+          "level": 1,
+          "a_ix": -1
+        },
+        {
+          "shift": "Day-Off",
+          "level": 1,
+          "a_ix": -1
+        },
+        {
+          "shift": "Day-Off",
+          "level": 1,
+          "a_ix": -1
+        },
+        {
+          "shift": "Day-Off",
+          "level": 1,
+          "a_ix": -1
+        }
+      ],
+      [
+        {
+          "shift": "Day-Off",
+          "level": 1,
+          "a_ix": -1
+        },
+        {
+          "shift": "Day-Off",
+          "level": 1,
+          "a_ix": -1
+        },
+        {
+          "shift": "Day-Off",
+          "level": 1,
+          "a_ix": -1
+        },
+        {
+          "shift": "Work",
+          "level": 1,
+          "a_ix": -1
+        },
+        {
+          "shift": "Work",
+          "level": 1,
+          "a_ix": -1
+        },
+        {
+          "shift": "Work",
+          "level": 1,
+          "a_ix": -1
+        }
+      ],
+      [
+        {
+          "shift": "Day-Off",
+          "level": 1,
+          "a_ix": -1
+        },
+        {
+          "shift": "Work",
+          "level": 1,
+          "a_ix": -1
+        },
+        {
+          "shift": "Day-Off",
+          "level": 1,
+          "a_ix": -1
+        },
+        {
+          "shift": "Day-Off",
+          "level": 1,
+          "a_ix": -1
+        },
+        {
+          "shift": "Day-Off",
+          "level": 1,
+          "a_ix": -1
+        },
+        {
+          "shift": "PH13",
+          "level": 1,
+          "a_ix": -1
+        }
+      ],
+      [
+        {
+          "shift": "PH34",
+          "level": 1,
+          "a_ix": -1
+        },
+        {
+          "shift": "Day-Off",
+          "level": 1,
+          "a_ix": -1
+        },
+        {
+          "shift": "PH34",
+          "level": 1,
+          "a_ix": -1
+        },
+        {
+          "shift": "Day-Off",
+          "level": 1,
+          "a_ix": -1
+        },
+        {
+          "shift": "PH34",
+          "level": 1,
+          "a_ix": -1
+        },
+        {
+          "shift": "Day-Off",
+          "level": 1,
+          "a_ix": -1
+        }
+      ],
+      [
+        {
+          "shift": "Work",
+          "level": 1,
+          "a_ix": -1
+        },
+        {
+          "shift": "Work",
+          "level": 1,
+          "a_ix": -1
+        },
+        {
+          "shift": "Work",
+          "level": 1,
+          "a_ix": -1
+        },
+        {
+          "shift": "Work",
+          "level": 1,
+          "a_ix": -1
+        },
+        {
+          "shift": "Work",
+          "level": 1,
+          "a_ix": -1
+        },
+        {
+          "shift": "Work",
+          "level": 1,
+          "a_ix": -1
+        }
+      ]
+    ]
+  },
+  "TSch": {
+    "name": "TaskSchedules",
+    "members": [
+      [
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        }
+      ],
+      [
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        }
+      ],
+      [
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        }
+      ],
+      [
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        }
+      ],
+      [
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        }
+      ],
+      [
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        }
+      ],
+      [
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        },
+        {
+          "shift": "",
+          "level": 0,
+          "a_ix": -1
+        }
+      ]
+    ],
+    "days_property1": [
+      {
+        "Dic": {
+          "A_Member_in_All": [
+            {
+              "first": "0",
+              "second": "0"
+            },
+            {
+              "first": "1",
+              "second": "1"
+            },
+            {
+              "first": "1",
+              "second": "1"
+            },
+            {
+              "first": "0",
+              "second": "0"
+            },
+            {
+              "first": "0",
+              "second": "0"
+            },
+            {
+              "first": "1",
+              "second": "1"
+            },
+            {
+              "first": "0",
+              "second": "0"
+            },
+            {
+              "first": "1",
+              "second": "1"
+            },
+            {
+              "first": "0",
+              "second": "0"
+            },
+            {
+              "first": "1",
+              "second": "1"
+            },
+            {
+              "first": "1",
+              "second": "1"
+            },
+            {
+              "first": "1",
+              "second": "1"
+            },
+            {
+              "first": "0",
+              "second": "0"
+            },
+            {
+              "first": "1",
+              "second": "1"
+            },
+            {
+              "first": "1",
+              "second": "1"
+            },
+            {
+              "first": "1",
+              "second": "1"
+            },
+            {
+              "first": "0",
+              "second": "0"
+            },
+            {
+              "first": "1",
+              "second": "1"
+            },
+            {
+              "first": "0",
+              "second": "0"
+            },
+            {
+              "first": "1",
+              "second": "1"
+            },
+            {
+              "first": "0",
+              "second": "0"
+            },
+            {
+              "first": "0",
+              "second": "0"
+            },
+            {
+              "first": "0",
+              "second": "0"
+            },
+            {
+              "first": "0",
+              "second": "0"
+            }
+          ]
+        },
+        "task_name": "History"
+      },
+      {
+        "Dic": {
+          "A_Member_in_All": [
+            {
+              "first": "0",
+              "second": "0"
+            },
+            {
+              "first": "1",
+              "second": "1"
+            },
+            {
+              "first": "1",
+              "second": "1"
+            },
+            {
+              "first": "1",
+              "second": "1"
+            },
+            {
+              "first": "0",
+              "second": "0"
+            },
+            {
+              "first": "0",
+              "second": "0"
+            },
+            {
+              "first": "2",
+              "second": "2"
+            },
+            {
+              "first": "0",
+              "second": "0"
+            },
+            {
+              "first": "0",
+              "second": "0"
+            },
+            {
+              "first": "0",
+              "second": "0"
+            },
+            {
+              "first": "1",
+              "second": "1"
+            },
+            {
+              "first": "0",
+              "second": "0"
+            },
+            {
+              "first": "0",
+              "second": "0"
+            },
+            {
+              "first": "0",
+              "second": "0"
+            },
+            {
+              "first": "1",
+              "second": "1"
+            },
+            {
+              "first": "0",
+              "second": "0"
+            },
+            {
+              "first": "0",
+              "second": "0"
+            },
+            {
+              "first": "1",
+              "second": "1"
+            },
+            {
+              "first": "1",
+              "second": "1"
+            },
+            {
+              "first": "2",
+              "second": "2"
+            },
+            {
+              "first": "1",
+              "second": "1"
+            },
+            {
+              "first": "1",
+              "second": "1"
+            },
+            {
+              "first": "0",
+              "second": "0"
+            },
+            {
+              "first": "0",
+              "second": "0"
+            }
+          ]
+        },
+        "task_name": "Maths"
+      },
+      {
+        "Dic": {
+          "A_Member_in_All": [
+            {
+              "first": "0",
+              "second": "0"
+            },
+            {
+              "first": "1",
+              "second": "1"
+            },
+            {
+              "first": "0",
+              "second": "0"
+            },
+            {
+              "first": "2",
+              "second": "2"
+            },
+            {
+              "first": "0",
+              "second": "0"
+            },
+            {
+              "first": "0",
+              "second": "0"
+            },
+            {
+              "first": "0",
+              "second": "0"
+            },
+            {
+              "first": "2",
+              "second": "2"
+            },
+            {
+              "first": "0",
+              "second": "0"
+            },
+            {
+              "first": "0",
+              "second": "0"
+            },
+            {
+              "first": "1",
+              "second": "1"
+            },
+            {
+              "first": "1",
+              "second": "1"
+            },
+            {
+              "first": "1",
+              "second": "1"
+            },
+            {
+              "first": "1",
+              "second": "1"
+            },
+            {
+              "first": "1",
+              "second": "1"
+            },
+            {
+              "first": "1",
+              "second": "1"
+            },
+            {
+              "first": "0",
+              "second": "0"
+            },
+            {
+              "first": "0",
+              "second": "0"
+            },
+            {
+              "first": "1",
+              "second": "1"
+            },
+            {
+              "first": "0",
+              "second": "0"
+            },
+            {
+              "first": "2",
+              "second": "2"
+            },
+            {
+              "first": "1",
+              "second": "1"
+            },
+            {
+              "first": "0",
+              "second": "0"
+            },
+            {
+              "first": "1",
+              "second": "1"
+            }
+          ]
+        },
+        "task_name": "English"
+      }
+    ]
+  },
+  "PIC": {
+    "name": "PairConstraints",
+    "members": [
+      {
+        "phase_mode": false,
+        "name": "PairConstraintsGroup",
+        "def_name": "Pair Constraint Group1",
+        "use": true,
+        "members": [
+          {
+            "phase_mode": false,
+            "phase_str": "",
+            "name": "PairConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_typeA": "",
+            "shift_typeB": "",
+            "day_type": "",
+            "staff_property_typeA": "",
+            "staff_property_typeB": "",
+            "operatorA": "",
+            "operatorB": "",
+            "dayoffset": 0,
+            "constraint_type": 0,
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "phase_str": "",
+            "name": "PairConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_typeA": "",
+            "shift_typeB": "",
+            "day_type": "",
+            "staff_property_typeA": "",
+            "staff_property_typeB": "",
+            "operatorA": "",
+            "operatorB": "",
+            "dayoffset": 0,
+            "constraint_type": 0,
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "phase_str": "",
+            "name": "PairConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_typeA": "",
+            "shift_typeB": "",
+            "day_type": "",
+            "staff_property_typeA": "",
+            "staff_property_typeB": "",
+            "operatorA": "",
+            "operatorB": "",
+            "dayoffset": 0,
+            "constraint_type": 0,
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "phase_str": "",
+            "name": "PairConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_typeA": "",
+            "shift_typeB": "",
+            "day_type": "",
+            "staff_property_typeA": "",
+            "staff_property_typeB": "",
+            "operatorA": "",
+            "operatorB": "",
+            "dayoffset": 0,
+            "constraint_type": 0,
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "phase_str": "",
+            "name": "PairConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_typeA": "",
+            "shift_typeB": "",
+            "day_type": "",
+            "staff_property_typeA": "",
+            "staff_property_typeB": "",
+            "operatorA": "",
+            "operatorB": "",
+            "dayoffset": 0,
+            "constraint_type": 0,
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "phase_str": "",
+            "name": "PairConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_typeA": "",
+            "shift_typeB": "",
+            "day_type": "",
+            "staff_property_typeA": "",
+            "staff_property_typeB": "",
+            "operatorA": "",
+            "operatorB": "",
+            "dayoffset": 0,
+            "constraint_type": 0,
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "phase_str": "",
+            "name": "PairConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_typeA": "",
+            "shift_typeB": "",
+            "day_type": "",
+            "staff_property_typeA": "",
+            "staff_property_typeB": "",
+            "operatorA": "",
+            "operatorB": "",
+            "dayoffset": 0,
+            "constraint_type": 0,
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "phase_str": "",
+            "name": "PairConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_typeA": "",
+            "shift_typeB": "",
+            "day_type": "",
+            "staff_property_typeA": "",
+            "staff_property_typeB": "",
+            "operatorA": "",
+            "operatorB": "",
+            "dayoffset": 0,
+            "constraint_type": 0,
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "phase_str": "",
+            "name": "PairConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_typeA": "",
+            "shift_typeB": "",
+            "day_type": "",
+            "staff_property_typeA": "",
+            "staff_property_typeB": "",
+            "operatorA": "",
+            "operatorB": "",
+            "dayoffset": 0,
+            "constraint_type": 0,
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "phase_str": "",
+            "name": "PairConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_typeA": "",
+            "shift_typeB": "",
+            "day_type": "",
+            "staff_property_typeA": "",
+            "staff_property_typeB": "",
+            "operatorA": "",
+            "operatorB": "",
+            "dayoffset": 0,
+            "constraint_type": 0,
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "phase_str": "",
+            "name": "PairConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_typeA": "",
+            "shift_typeB": "",
+            "day_type": "",
+            "staff_property_typeA": "",
+            "staff_property_typeB": "",
+            "operatorA": "",
+            "operatorB": "",
+            "dayoffset": 0,
+            "constraint_type": 0,
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "phase_str": "",
+            "name": "PairConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_typeA": "",
+            "shift_typeB": "",
+            "day_type": "",
+            "staff_property_typeA": "",
+            "staff_property_typeB": "",
+            "operatorA": "",
+            "operatorB": "",
+            "dayoffset": 0,
+            "constraint_type": 0,
+            "soft_constraint_level": 0
+          }
+        ]
+      },
+      {
+        "phase_mode": false,
+        "name": "PairConstraintsGroup",
+        "def_name": "Pair Constraint Group2",
+        "use": true,
+        "members": [
+          {
+            "phase_mode": false,
+            "phase_str": "",
+            "name": "PairConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_typeA": "",
+            "shift_typeB": "",
+            "day_type": "",
+            "staff_property_typeA": "",
+            "staff_property_typeB": "",
+            "operatorA": "",
+            "operatorB": "",
+            "dayoffset": 0,
+            "constraint_type": 0,
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "phase_str": "",
+            "name": "PairConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_typeA": "",
+            "shift_typeB": "",
+            "day_type": "",
+            "staff_property_typeA": "",
+            "staff_property_typeB": "",
+            "operatorA": "",
+            "operatorB": "",
+            "dayoffset": 0,
+            "constraint_type": 0,
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "phase_str": "",
+            "name": "PairConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_typeA": "",
+            "shift_typeB": "",
+            "day_type": "",
+            "staff_property_typeA": "",
+            "staff_property_typeB": "",
+            "operatorA": "",
+            "operatorB": "",
+            "dayoffset": 0,
+            "constraint_type": 0,
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "phase_str": "",
+            "name": "PairConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_typeA": "",
+            "shift_typeB": "",
+            "day_type": "",
+            "staff_property_typeA": "",
+            "staff_property_typeB": "",
+            "operatorA": "",
+            "operatorB": "",
+            "dayoffset": 0,
+            "constraint_type": 0,
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "phase_str": "",
+            "name": "PairConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_typeA": "",
+            "shift_typeB": "",
+            "day_type": "",
+            "staff_property_typeA": "",
+            "staff_property_typeB": "",
+            "operatorA": "",
+            "operatorB": "",
+            "dayoffset": 0,
+            "constraint_type": 0,
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "phase_str": "",
+            "name": "PairConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_typeA": "",
+            "shift_typeB": "",
+            "day_type": "",
+            "staff_property_typeA": "",
+            "staff_property_typeB": "",
+            "operatorA": "",
+            "operatorB": "",
+            "dayoffset": 0,
+            "constraint_type": 0,
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "phase_str": "",
+            "name": "PairConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_typeA": "",
+            "shift_typeB": "",
+            "day_type": "",
+            "staff_property_typeA": "",
+            "staff_property_typeB": "",
+            "operatorA": "",
+            "operatorB": "",
+            "dayoffset": 0,
+            "constraint_type": 0,
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "phase_str": "",
+            "name": "PairConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_typeA": "",
+            "shift_typeB": "",
+            "day_type": "",
+            "staff_property_typeA": "",
+            "staff_property_typeB": "",
+            "operatorA": "",
+            "operatorB": "",
+            "dayoffset": 0,
+            "constraint_type": 0,
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "phase_str": "",
+            "name": "PairConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_typeA": "",
+            "shift_typeB": "",
+            "day_type": "",
+            "staff_property_typeA": "",
+            "staff_property_typeB": "",
+            "operatorA": "",
+            "operatorB": "",
+            "dayoffset": 0,
+            "constraint_type": 0,
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "phase_str": "",
+            "name": "PairConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_typeA": "",
+            "shift_typeB": "",
+            "day_type": "",
+            "staff_property_typeA": "",
+            "staff_property_typeB": "",
+            "operatorA": "",
+            "operatorB": "",
+            "dayoffset": 0,
+            "constraint_type": 0,
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "phase_str": "",
+            "name": "PairConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_typeA": "",
+            "shift_typeB": "",
+            "day_type": "",
+            "staff_property_typeA": "",
+            "staff_property_typeB": "",
+            "operatorA": "",
+            "operatorB": "",
+            "dayoffset": 0,
+            "constraint_type": 0,
+            "soft_constraint_level": 0
+          },
+          {
+            "phase_mode": false,
+            "phase_str": "",
+            "name": "PairConstraint",
+            "def_name": "",
+            "use": false,
+            "shift_typeA": "",
+            "shift_typeB": "",
+            "day_type": "",
+            "staff_property_typeA": "",
+            "staff_property_typeB": "",
+            "operatorA": "",
+            "operatorB": "",
+            "dayoffset": 0,
+            "constraint_type": 0,
+            "soft_constraint_level": 0
+          }
+        ]
+      }
+    ]
+  },
+  "major_version": 124,
+  "sub_version": 100,
+  "solver_version": 124,
+  "user_class": "",
+  "user_id": "",
+  "eval_id": "",
+  "ProjectName": "C:\\Users\\sugaw\\Documents\\FA\\Project Samples\\Task Work Schedule\\tutoring_work_schedule_demo.nurse3"
+}
