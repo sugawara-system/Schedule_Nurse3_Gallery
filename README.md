@@ -20,3 +20,72 @@ Sample Projects Gallery for Schedule NurseⅢ, commertial Solver for Nurse Sched
 <div align="center"><img src="https://raw.githubusercontent.com/sugawara-system/Schedule_Nurse3_Gallery/main/docs/images/solve_window.png" width="600"/></div>
 
 
+## Second International Nurse Scheduling Competition 
+
+### Solve the project
+
+The appropriate algorithm is 3 or 4. <br>
+These algorithms have no timeouts.<br> Thus, they do not stop until the optimal solution is found.<br>
+In the middle of the process, you can hit a series of aborts or stop. The optimal value up to that point is retained.
+
+<div align="center"><img src="https://raw.githubusercontent.com/sugawara-system/Schedule_Nurse3_Gallery/main/docs/images/inrc2_1.png" width="600"/></div>
+
+
+### Solution to CSV file
+
+Press "Output CSV File" on the right-clicking menu in the shift and task solution view,
+
+<div align="center"><img src="https://raw.githubusercontent.com/sugawara-system/Schedule_Nurse3_Gallery/main/docs/images/inrc2_2.png" width="600"/></div>
+
+Then CSV file should be appeared shown below.
+
+<div align="center"><img src="https://raw.githubusercontent.com/sugawara-system/Schedule_Nurse3_Gallery/main/docs/images/inrc2_4.png" width="600"/></div>
+
+
+### Convert the CSV file to Competition formatted files
+
+We need the csv file to competition formatted files.  <br>
+Python script in Schedule Nurse Project, csv.nurse3 can do it for a fun.<br>
+
+<div align="center"><img src="https://raw.githubusercontent.com/sugawara-system/Schedule_Nurse3_Gallery/main/docs/images/inrc2_11.png" width="600"/></div>
+
+
+Solve button in the project will make open file dialog, then you can select the csv file for a conversion.<br>
+
+<div align="center"><img src="https://raw.githubusercontent.com/sugawara-system/Schedule_Nurse3_Gallery/main/docs/images/inrc2_3.png" width="600"/></div>
+
+
+Then following files should be generated.
+
+<div align="center"><img src="https://raw.githubusercontent.com/sugawara-system/Schedule_Nurse3_Gallery/main/docs/images/inrc2_5.png" width="600"/></div>
+
+
+
+### Copy text files
+
+Copy those files to the following folder.
+
+<div align="center"><img src="https://raw.githubusercontent.com/sugawara-system/Schedule_Nurse3_Gallery/main/docs/images/inrc2_8.png" width="600"/></div>
+
+
+### Invoke validator
+
+
+Edit the sh file and select command line.
+
+<div align="center"><img src="https://raw.githubusercontent.com/sugawara-system/Schedule_Nurse3_Gallery/main/docs/images/inrc2_6.png" width="600"/></div>
+
+
+Paste the command line, and execute.
+<div align="center"><img src="https://raw.githubusercontent.com/sugawara-system/Schedule_Nurse3_Gallery/main/docs/images/inrc2_7.png" width="600"/></div>
+
+
+
+Then, validator.txt should be generated.
+<div align="center"><img src="https://raw.githubusercontent.com/sugawara-system/Schedule_Nurse3_Gallery/main/docs/images/inrc2_9.png" width="600"/></div>
+
+We can see total cost.
+<div align="center"><img src="https://raw.githubusercontent.com/sugawara-system/Schedule_Nurse3_Gallery/main/docs/images/inrc2_10.png" width="600"/></div>
+
+
+  
