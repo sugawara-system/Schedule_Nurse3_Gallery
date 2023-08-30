@@ -11614,7 +11614,7 @@
       "python_post_operation": 0,
       "notask_var_allowed_on_active_shifts": 0,
       "notask_var_allowed_on_only_scheduled_task": 0,
-      "soft_constrain_for_conflicted_tasks": 0,
+      "soft_constrain_for_conflicted_tasks": 1,
       "soft_constrain_for_conflicted_shifts": 0,
       "no_priority_given_to_soft_schedule_constraints": 1
     },

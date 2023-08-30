@@ -4201,12 +4201,14 @@
     "members": [
       {
         "phase_mode": false,
+        "equal_count_mode": false,
         "name": "RowConstraintsGroup",
         "def_name": "夜勤専従夜夜",
         "use": true,
         "members": [
           {
             "phase_mode": false,
+            "equal_count_mode": false,
             "name": "RowConstraint",
             "def_name": "1回夜勤禁止",
             "use": true,
@@ -4238,6 +4240,12 @@
               true
             ],
             "shift_inv_pattern": [],
+            "A_daytypes": [
+              ""
+            ],
+            "B_daytypes": [
+              ""
+            ],
             "constraint_type": 0,
             "max_value": -1,
             "min_double": -1.0,
@@ -4249,6 +4257,7 @@
           },
           {
             "phase_mode": false,
+            "equal_count_mode": false,
             "name": "RowConstraint",
             "def_name": "2回夜勤禁止",
             "use": true,
@@ -4286,6 +4295,12 @@
               true
             ],
             "shift_inv_pattern": [],
+            "A_daytypes": [
+              ""
+            ],
+            "B_daytypes": [
+              ""
+            ],
             "constraint_type": 0,
             "max_value": -1,
             "min_double": -1.0,
@@ -4297,6 +4312,7 @@
           },
           {
             "phase_mode": false,
+            "equal_count_mode": false,
             "name": "RowConstraint",
             "def_name": "4回連続夜勤禁止",
             "use": true,
@@ -4334,6 +4350,12 @@
               false
             ],
             "shift_inv_pattern": [],
+            "A_daytypes": [
+              ""
+            ],
+            "B_daytypes": [
+              ""
+            ],
             "constraint_type": 0,
             "max_value": -1,
             "min_double": -1.0,
@@ -4345,6 +4367,7 @@
           },
           {
             "phase_mode": false,
+            "equal_count_mode": false,
             "name": "RowConstraint",
             "def_name": "3回連続休み禁止",
             "use": true,
@@ -4376,6 +4399,12 @@
               false
             ],
             "shift_inv_pattern": [],
+            "A_daytypes": [
+              ""
+            ],
+            "B_daytypes": [
+              ""
+            ],
             "constraint_type": 0,
             "max_value": -1,
             "min_double": -1.0,
@@ -4387,6 +4416,7 @@
           },
           {
             "phase_mode": false,
+            "equal_count_mode": false,
             "name": "RowConstraint",
             "def_name": "1回休み禁止",
             "use": true,
@@ -4418,6 +4448,12 @@
               true
             ],
             "shift_inv_pattern": [],
+            "A_daytypes": [
+              ""
+            ],
+            "B_daytypes": [
+              ""
+            ],
             "constraint_type": 0,
             "max_value": -1,
             "min_double": -1.0,
@@ -4429,6 +4465,7 @@
           },
           {
             "phase_mode": false,
+            "equal_count_mode": false,
             "name": "RowConstraint",
             "def_name": "",
             "use": false,
@@ -4440,6 +4477,12 @@
             "shift_pattern": [],
             "inv_pattern": [],
             "shift_inv_pattern": [],
+            "A_daytypes": [
+              ""
+            ],
+            "B_daytypes": [
+              ""
+            ],
             "constraint_type": 0,
             "max_value": -1,
             "min_double": -1.0,
@@ -4451,6 +4494,7 @@
           },
           {
             "phase_mode": false,
+            "equal_count_mode": false,
             "name": "RowConstraint",
             "def_name": "",
             "use": false,
@@ -4462,6 +4506,12 @@
             "shift_pattern": [],
             "inv_pattern": [],
             "shift_inv_pattern": [],
+            "A_daytypes": [
+              ""
+            ],
+            "B_daytypes": [
+              ""
+            ],
             "constraint_type": 0,
             "max_value": -1,
             "min_double": -1.0,
@@ -4473,6 +4523,7 @@
           },
           {
             "phase_mode": false,
+            "equal_count_mode": false,
             "name": "RowConstraint",
             "def_name": "",
             "use": false,
@@ -4484,6 +4535,12 @@
             "shift_pattern": [],
             "inv_pattern": [],
             "shift_inv_pattern": [],
+            "A_daytypes": [
+              ""
+            ],
+            "B_daytypes": [
+              ""
+            ],
             "constraint_type": 0,
             "max_value": -1,
             "min_double": -1.0,
@@ -4495,6 +4552,7 @@
           },
           {
             "phase_mode": false,
+            "equal_count_mode": false,
             "name": "RowConstraint",
             "def_name": "",
             "use": false,
@@ -4506,6 +4564,12 @@
             "shift_pattern": [],
             "inv_pattern": [],
             "shift_inv_pattern": [],
+            "A_daytypes": [
+              ""
+            ],
+            "B_daytypes": [
+              ""
+            ],
             "constraint_type": 0,
             "max_value": -1,
             "min_double": -1.0,
@@ -4517,6 +4581,7 @@
           },
           {
             "phase_mode": false,
+            "equal_count_mode": false,
             "name": "RowConstraint",
             "def_name": "",
             "use": false,
@@ -4528,6 +4593,12 @@
             "shift_pattern": [],
             "inv_pattern": [],
             "shift_inv_pattern": [],
+            "A_daytypes": [
+              ""
+            ],
+            "B_daytypes": [
+              ""
+            ],
             "constraint_type": 0,
             "max_value": -1,
             "min_double": -1.0,
@@ -4539,6 +4610,7 @@
           },
           {
             "phase_mode": false,
+            "equal_count_mode": false,
             "name": "RowConstraint",
             "def_name": "",
             "use": false,
@@ -4550,6 +4622,12 @@
             "shift_pattern": [],
             "inv_pattern": [],
             "shift_inv_pattern": [],
+            "A_daytypes": [
+              ""
+            ],
+            "B_daytypes": [
+              ""
+            ],
             "constraint_type": 0,
             "max_value": -1,
             "min_double": -1.0,
@@ -4561,6 +4639,7 @@
           },
           {
             "phase_mode": false,
+            "equal_count_mode": false,
             "name": "RowConstraint",
             "def_name": "",
             "use": false,
@@ -4572,6 +4651,12 @@
             "shift_pattern": [],
             "inv_pattern": [],
             "shift_inv_pattern": [],
+            "A_daytypes": [
+              ""
+            ],
+            "B_daytypes": [
+              ""
+            ],
             "constraint_type": 0,
             "max_value": -1,
             "min_double": -1.0,
@@ -4585,12 +4670,14 @@
       },
       {
         "phase_mode": false,
+        "equal_count_mode": false,
         "name": "RowConstraintsGroup",
         "def_name": "夜勤専従制約夜夜夜",
         "use": true,
         "members": [
           {
             "phase_mode": false,
+            "equal_count_mode": false,
             "name": "RowConstraint",
             "def_name": "1回夜勤禁止",
             "use": true,
@@ -4622,6 +4709,12 @@
               true
             ],
             "shift_inv_pattern": [],
+            "A_daytypes": [
+              ""
+            ],
+            "B_daytypes": [
+              ""
+            ],
             "constraint_type": 0,
             "max_value": -1,
             "min_double": -1.0,
@@ -4633,6 +4726,7 @@
           },
           {
             "phase_mode": false,
+            "equal_count_mode": false,
             "name": "RowConstraint",
             "def_name": "3回連続夜勤禁止",
             "use": true,
@@ -4664,6 +4758,12 @@
               false
             ],
             "shift_inv_pattern": [],
+            "A_daytypes": [
+              ""
+            ],
+            "B_daytypes": [
+              ""
+            ],
             "constraint_type": 0,
             "max_value": -1,
             "min_double": -1.0,
@@ -4675,6 +4775,7 @@
           },
           {
             "phase_mode": false,
+            "equal_count_mode": false,
             "name": "RowConstraint",
             "def_name": "4回連続休み禁止",
             "use": true,
@@ -4712,6 +4813,12 @@
               false
             ],
             "shift_inv_pattern": [],
+            "A_daytypes": [
+              ""
+            ],
+            "B_daytypes": [
+              ""
+            ],
             "constraint_type": 0,
             "max_value": -1,
             "min_double": -1.0,
@@ -4723,6 +4830,7 @@
           },
           {
             "phase_mode": false,
+            "equal_count_mode": false,
             "name": "RowConstraint",
             "def_name": "2回休み禁止",
             "use": true,
@@ -4760,6 +4868,12 @@
               true
             ],
             "shift_inv_pattern": [],
+            "A_daytypes": [
+              ""
+            ],
+            "B_daytypes": [
+              ""
+            ],
             "constraint_type": 0,
             "max_value": -1,
             "min_double": -1.0,
@@ -4771,6 +4885,7 @@
           },
           {
             "phase_mode": false,
+            "equal_count_mode": false,
             "name": "RowConstraint",
             "def_name": "1回休み禁止",
             "use": true,
@@ -4802,6 +4917,12 @@
               true
             ],
             "shift_inv_pattern": [],
+            "A_daytypes": [
+              ""
+            ],
+            "B_daytypes": [
+              ""
+            ],
             "constraint_type": 0,
             "max_value": -1,
             "min_double": -1.0,
@@ -4813,6 +4934,7 @@
           },
           {
             "phase_mode": false,
+            "equal_count_mode": false,
             "name": "RowConstraint",
             "def_name": "",
             "use": false,
@@ -4824,6 +4946,12 @@
             "shift_pattern": [],
             "inv_pattern": [],
             "shift_inv_pattern": [],
+            "A_daytypes": [
+              ""
+            ],
+            "B_daytypes": [
+              ""
+            ],
             "constraint_type": 0,
             "max_value": -1,
             "min_double": -1.0,
@@ -4835,6 +4963,7 @@
           },
           {
             "phase_mode": false,
+            "equal_count_mode": false,
             "name": "RowConstraint",
             "def_name": "",
             "use": false,
@@ -4846,6 +4975,12 @@
             "shift_pattern": [],
             "inv_pattern": [],
             "shift_inv_pattern": [],
+            "A_daytypes": [
+              ""
+            ],
+            "B_daytypes": [
+              ""
+            ],
             "constraint_type": 0,
             "max_value": -1,
             "min_double": -1.0,
@@ -4857,6 +4992,7 @@
           },
           {
             "phase_mode": false,
+            "equal_count_mode": false,
             "name": "RowConstraint",
             "def_name": "",
             "use": false,
@@ -4868,6 +5004,12 @@
             "shift_pattern": [],
             "inv_pattern": [],
             "shift_inv_pattern": [],
+            "A_daytypes": [
+              ""
+            ],
+            "B_daytypes": [
+              ""
+            ],
             "constraint_type": 0,
             "max_value": -1,
             "min_double": -1.0,
@@ -4879,6 +5021,7 @@
           },
           {
             "phase_mode": false,
+            "equal_count_mode": false,
             "name": "RowConstraint",
             "def_name": "",
             "use": false,
@@ -4890,6 +5033,12 @@
             "shift_pattern": [],
             "inv_pattern": [],
             "shift_inv_pattern": [],
+            "A_daytypes": [
+              ""
+            ],
+            "B_daytypes": [
+              ""
+            ],
             "constraint_type": 0,
             "max_value": -1,
             "min_double": -1.0,
@@ -4901,6 +5050,7 @@
           },
           {
             "phase_mode": false,
+            "equal_count_mode": false,
             "name": "RowConstraint",
             "def_name": "",
             "use": false,
@@ -4912,6 +5062,12 @@
             "shift_pattern": [],
             "inv_pattern": [],
             "shift_inv_pattern": [],
+            "A_daytypes": [
+              ""
+            ],
+            "B_daytypes": [
+              ""
+            ],
             "constraint_type": 0,
             "max_value": -1,
             "min_double": -1.0,
@@ -4923,6 +5079,7 @@
           },
           {
             "phase_mode": false,
+            "equal_count_mode": false,
             "name": "RowConstraint",
             "def_name": "",
             "use": false,
@@ -4934,6 +5091,12 @@
             "shift_pattern": [],
             "inv_pattern": [],
             "shift_inv_pattern": [],
+            "A_daytypes": [
+              ""
+            ],
+            "B_daytypes": [
+              ""
+            ],
             "constraint_type": 0,
             "max_value": -1,
             "min_double": -1.0,
@@ -4945,6 +5108,7 @@
           },
           {
             "phase_mode": false,
+            "equal_count_mode": false,
             "name": "RowConstraint",
             "def_name": "",
             "use": false,
@@ -4956,6 +5120,12 @@
             "shift_pattern": [],
             "inv_pattern": [],
             "shift_inv_pattern": [],
+            "A_daytypes": [
+              ""
+            ],
+            "B_daytypes": [
+              ""
+            ],
             "constraint_type": 0,
             "max_value": -1,
             "min_double": -1.0,
@@ -4969,12 +5139,14 @@
       },
       {
         "phase_mode": false,
+        "equal_count_mode": false,
         "name": "RowConstraintsGroup",
         "def_name": "行制約グループ1",
         "use": true,
         "members": [
           {
             "phase_mode": false,
+            "equal_count_mode": false,
             "name": "RowConstraint",
             "def_name": "遅早禁止",
             "use": true,
@@ -5000,6 +5172,12 @@
               false
             ],
             "shift_inv_pattern": [],
+            "A_daytypes": [
+              ""
+            ],
+            "B_daytypes": [
+              ""
+            ],
             "constraint_type": 0,
             "max_value": -1,
             "min_double": -1.0,
@@ -5011,6 +5189,7 @@
           },
           {
             "phase_mode": false,
+            "equal_count_mode": false,
             "name": "RowConstraint",
             "def_name": "連続夜勤では同じ夜勤ロケーション１",
             "use": true,
@@ -5036,6 +5215,12 @@
               false
             ],
             "shift_inv_pattern": [],
+            "A_daytypes": [
+              ""
+            ],
+            "B_daytypes": [
+              ""
+            ],
             "constraint_type": 0,
             "max_value": -1,
             "min_double": -1.0,
@@ -5047,6 +5232,7 @@
           },
           {
             "phase_mode": false,
+            "equal_count_mode": false,
             "name": "RowConstraint",
             "def_name": "連続夜勤では同じ夜勤ロケーション２",
             "use": true,
@@ -5072,6 +5258,12 @@
               false
             ],
             "shift_inv_pattern": [],
+            "A_daytypes": [
+              ""
+            ],
+            "B_daytypes": [
+              ""
+            ],
             "constraint_type": 0,
             "max_value": -1,
             "min_double": -1.0,
@@ -5083,6 +5275,7 @@
           },
           {
             "phase_mode": false,
+            "equal_count_mode": false,
             "name": "RowConstraint",
             "def_name": "連続夜勤では同じ夜勤ロケーション３",
             "use": true,
@@ -5108,6 +5301,12 @@
               false
             ],
             "shift_inv_pattern": [],
+            "A_daytypes": [
+              ""
+            ],
+            "B_daytypes": [
+              ""
+            ],
             "constraint_type": 0,
             "max_value": -1,
             "min_double": -1.0,
@@ -5119,6 +5318,7 @@
           },
           {
             "phase_mode": false,
+            "equal_count_mode": false,
             "name": "RowConstraint",
             "def_name": "連続夜勤では同じ夜勤ロケーション４",
             "use": true,
@@ -5144,6 +5344,12 @@
               false
             ],
             "shift_inv_pattern": [],
+            "A_daytypes": [
+              ""
+            ],
+            "B_daytypes": [
+              ""
+            ],
             "constraint_type": 0,
             "max_value": -1,
             "min_double": -1.0,
@@ -5155,6 +5361,7 @@
           },
           {
             "phase_mode": false,
+            "equal_count_mode": false,
             "name": "RowConstraint",
             "def_name": "連続夜勤では同じ夜勤ロケーション５",
             "use": true,
@@ -5180,6 +5387,12 @@
               false
             ],
             "shift_inv_pattern": [],
+            "A_daytypes": [
+              ""
+            ],
+            "B_daytypes": [
+              ""
+            ],
             "constraint_type": 0,
             "max_value": -1,
             "min_double": -1.0,
@@ -5191,6 +5404,7 @@
           },
           {
             "phase_mode": false,
+            "equal_count_mode": false,
             "name": "RowConstraint",
             "def_name": "連続夜勤では同じ夜勤ロケーション６",
             "use": true,
@@ -5216,6 +5430,12 @@
               false
             ],
             "shift_inv_pattern": [],
+            "A_daytypes": [
+              ""
+            ],
+            "B_daytypes": [
+              ""
+            ],
             "constraint_type": 0,
             "max_value": -1,
             "min_double": -1.0,
@@ -5227,6 +5447,7 @@
           },
           {
             "phase_mode": false,
+            "equal_count_mode": false,
             "name": "RowConstraint",
             "def_name": "連続夜勤では同じ夜勤ロケーション７",
             "use": true,
@@ -5252,6 +5473,12 @@
               false
             ],
             "shift_inv_pattern": [],
+            "A_daytypes": [
+              ""
+            ],
+            "B_daytypes": [
+              ""
+            ],
             "constraint_type": 0,
             "max_value": -1,
             "min_double": -1.0,
@@ -5263,6 +5490,7 @@
           },
           {
             "phase_mode": false,
+            "equal_count_mode": false,
             "name": "RowConstraint",
             "def_name": "連続夜勤では同じ夜勤ロケーション８",
             "use": true,
@@ -5288,6 +5516,12 @@
               false
             ],
             "shift_inv_pattern": [],
+            "A_daytypes": [
+              ""
+            ],
+            "B_daytypes": [
+              ""
+            ],
             "constraint_type": 0,
             "max_value": -1,
             "min_double": -1.0,
@@ -5299,6 +5533,7 @@
           },
           {
             "phase_mode": false,
+            "equal_count_mode": false,
             "name": "RowConstraint",
             "def_name": "連続夜勤では同じ夜勤ロケーション９",
             "use": true,
@@ -5324,6 +5559,12 @@
               false
             ],
             "shift_inv_pattern": [],
+            "A_daytypes": [
+              ""
+            ],
+            "B_daytypes": [
+              ""
+            ],
             "constraint_type": 0,
             "max_value": -1,
             "min_double": -1.0,
@@ -5335,6 +5576,7 @@
           },
           {
             "phase_mode": false,
+            "equal_count_mode": false,
             "name": "RowConstraint",
             "def_name": "連続夜勤では同じ夜勤ロケーション１０",
             "use": true,
@@ -5360,6 +5602,12 @@
               false
             ],
             "shift_inv_pattern": [],
+            "A_daytypes": [
+              ""
+            ],
+            "B_daytypes": [
+              ""
+            ],
             "constraint_type": 0,
             "max_value": -1,
             "min_double": -1.0,
@@ -5371,6 +5619,7 @@
           },
           {
             "phase_mode": false,
+            "equal_count_mode": false,
             "name": "RowConstraint",
             "def_name": "連続夜勤では同じ夜勤ロケーション１１",
             "use": true,
@@ -5396,6 +5645,12 @@
               false
             ],
             "shift_inv_pattern": [],
+            "A_daytypes": [
+              ""
+            ],
+            "B_daytypes": [
+              ""
+            ],
             "constraint_type": 0,
             "max_value": -1,
             "min_double": -1.0,
@@ -5407,6 +5662,7 @@
           },
           {
             "phase_mode": false,
+            "equal_count_mode": false,
             "name": "RowConstraint",
             "def_name": "連続夜勤では同じ夜勤ロケーション１２",
             "use": true,
@@ -5432,6 +5688,12 @@
               false
             ],
             "shift_inv_pattern": [],
+            "A_daytypes": [
+              ""
+            ],
+            "B_daytypes": [
+              ""
+            ],
             "constraint_type": 0,
             "max_value": -1,
             "min_double": -1.0,
@@ -5445,12 +5707,14 @@
       },
       {
         "phase_mode": false,
+        "equal_count_mode": false,
         "name": "RowConstraintsGroup",
         "def_name": "パート制約",
         "use": true,
         "members": [
           {
             "phase_mode": false,
+            "equal_count_mode": false,
             "name": "RowConstraint",
             "def_name": "調理B早番遅番不足時のみ",
             "use": true,
@@ -5470,6 +5734,12 @@
               false
             ],
             "shift_inv_pattern": [],
+            "A_daytypes": [
+              ""
+            ],
+            "B_daytypes": [
+              ""
+            ],
             "constraint_type": 0,
             "max_value": -1,
             "min_double": -1.0,
@@ -5481,6 +5751,7 @@
           },
           {
             "phase_mode": false,
+            "equal_count_mode": false,
             "name": "RowConstraint",
             "def_name": "グループホーム№2夜勤不足時のみ",
             "use": true,
@@ -5500,6 +5771,12 @@
               false
             ],
             "shift_inv_pattern": [],
+            "A_daytypes": [
+              ""
+            ],
+            "B_daytypes": [
+              ""
+            ],
             "constraint_type": 0,
             "max_value": -1,
             "min_double": -1.0,
@@ -5511,6 +5788,7 @@
           },
           {
             "phase_mode": false,
+            "equal_count_mode": false,
             "name": "RowConstraint",
             "def_name": "デイサービス不足時のみ",
             "use": true,
@@ -5530,6 +5808,12 @@
               false
             ],
             "shift_inv_pattern": [],
+            "A_daytypes": [
+              ""
+            ],
+            "B_daytypes": [
+              ""
+            ],
             "constraint_type": 0,
             "max_value": -1,
             "min_double": -1.0,
@@ -5541,6 +5825,7 @@
           },
           {
             "phase_mode": false,
+            "equal_count_mode": false,
             "name": "RowConstraint",
             "def_name": "第4週5週勤務日数",
             "use": true,
@@ -5560,6 +5845,12 @@
               true
             ],
             "shift_inv_pattern": [],
+            "A_daytypes": [
+              ""
+            ],
+            "B_daytypes": [
+              ""
+            ],
             "constraint_type": 1,
             "max_value": -1,
             "min_double": -1.0,
@@ -5571,6 +5862,7 @@
           },
           {
             "phase_mode": false,
+            "equal_count_mode": false,
             "name": "RowConstraint",
             "def_name": "第一週勤務日数",
             "use": true,
@@ -5590,6 +5882,12 @@
               true
             ],
             "shift_inv_pattern": [],
+            "A_daytypes": [
+              ""
+            ],
+            "B_daytypes": [
+              ""
+            ],
             "constraint_type": 1,
             "max_value": -1,
             "min_double": -1.0,
@@ -5601,6 +5899,7 @@
           },
           {
             "phase_mode": false,
+            "equal_count_mode": false,
             "name": "RowConstraint",
             "def_name": "第二週勤務日数",
             "use": true,
@@ -5620,6 +5919,12 @@
               true
             ],
             "shift_inv_pattern": [],
+            "A_daytypes": [
+              ""
+            ],
+            "B_daytypes": [
+              ""
+            ],
             "constraint_type": 1,
             "max_value": -1,
             "min_double": -1.0,
@@ -5631,6 +5936,7 @@
           },
           {
             "phase_mode": false,
+            "equal_count_mode": false,
             "name": "RowConstraint",
             "def_name": "第三週勤務日数",
             "use": true,
@@ -5650,6 +5956,12 @@
               true
             ],
             "shift_inv_pattern": [],
+            "A_daytypes": [
+              ""
+            ],
+            "B_daytypes": [
+              ""
+            ],
             "constraint_type": 1,
             "max_value": -1,
             "min_double": -1.0,
@@ -5661,6 +5973,7 @@
           },
           {
             "phase_mode": false,
+            "equal_count_mode": false,
             "name": "RowConstraint",
             "def_name": "",
             "use": false,
@@ -5672,6 +5985,12 @@
             "shift_pattern": [],
             "inv_pattern": [],
             "shift_inv_pattern": [],
+            "A_daytypes": [
+              ""
+            ],
+            "B_daytypes": [
+              ""
+            ],
             "constraint_type": 0,
             "max_value": -1,
             "min_double": -1.0,
@@ -5683,6 +6002,7 @@
           },
           {
             "phase_mode": false,
+            "equal_count_mode": false,
             "name": "RowConstraint",
             "def_name": "",
             "use": false,
@@ -5694,6 +6014,12 @@
             "shift_pattern": [],
             "inv_pattern": [],
             "shift_inv_pattern": [],
+            "A_daytypes": [
+              ""
+            ],
+            "B_daytypes": [
+              ""
+            ],
             "constraint_type": 0,
             "max_value": -1,
             "min_double": -1.0,
@@ -5705,6 +6031,7 @@
           },
           {
             "phase_mode": false,
+            "equal_count_mode": false,
             "name": "RowConstraint",
             "def_name": "",
             "use": false,
@@ -5716,6 +6043,12 @@
             "shift_pattern": [],
             "inv_pattern": [],
             "shift_inv_pattern": [],
+            "A_daytypes": [
+              ""
+            ],
+            "B_daytypes": [
+              ""
+            ],
             "constraint_type": 0,
             "max_value": -1,
             "min_double": -1.0,
@@ -5727,6 +6060,7 @@
           },
           {
             "phase_mode": false,
+            "equal_count_mode": false,
             "name": "RowConstraint",
             "def_name": "",
             "use": false,
@@ -5738,6 +6072,12 @@
             "shift_pattern": [],
             "inv_pattern": [],
             "shift_inv_pattern": [],
+            "A_daytypes": [
+              ""
+            ],
+            "B_daytypes": [
+              ""
+            ],
             "constraint_type": 0,
             "max_value": -1,
             "min_double": -1.0,
@@ -5751,12 +6091,14 @@
       },
       {
         "phase_mode": false,
+        "equal_count_mode": false,
         "name": "RowConstraintsGroup",
         "def_name": "行制約グループ4",
         "use": true,
         "members": [
           {
             "phase_mode": false,
+            "equal_count_mode": false,
             "name": "RowConstraint",
             "def_name": "4日連続勤務まで",
             "use": true,
@@ -5800,6 +6142,12 @@
               true
             ],
             "shift_inv_pattern": [],
+            "A_daytypes": [
+              ""
+            ],
+            "B_daytypes": [
+              ""
+            ],
             "constraint_type": 0,
             "max_value": -1,
             "min_double": -1.0,
@@ -5811,6 +6159,7 @@
           },
           {
             "phase_mode": false,
+            "equal_count_mode": false,
             "name": "RowConstraint",
             "def_name": "5日連続勤務まで",
             "use": true,
@@ -5860,6 +6209,12 @@
               true
             ],
             "shift_inv_pattern": [],
+            "A_daytypes": [
+              ""
+            ],
+            "B_daytypes": [
+              ""
+            ],
             "constraint_type": 0,
             "max_value": -1,
             "min_double": -1.0,
@@ -5871,6 +6226,7 @@
           },
           {
             "phase_mode": false,
+            "equal_count_mode": false,
             "name": "RowConstraint",
             "def_name": "",
             "use": false,
@@ -5882,6 +6238,12 @@
             "shift_pattern": [],
             "inv_pattern": [],
             "shift_inv_pattern": [],
+            "A_daytypes": [
+              ""
+            ],
+            "B_daytypes": [
+              ""
+            ],
             "constraint_type": 0,
             "max_value": -1,
             "min_double": -1.0,
@@ -5893,6 +6255,7 @@
           },
           {
             "phase_mode": false,
+            "equal_count_mode": false,
             "name": "RowConstraint",
             "def_name": "5日連続勤務まで夜夜休休休防止",
             "use": true,
@@ -5936,6 +6299,12 @@
               false
             ],
             "shift_inv_pattern": [],
+            "A_daytypes": [
+              ""
+            ],
+            "B_daytypes": [
+              ""
+            ],
             "constraint_type": 0,
             "max_value": -1,
             "min_double": -1.0,
@@ -5947,6 +6316,7 @@
           },
           {
             "phase_mode": false,
+            "equal_count_mode": false,
             "name": "RowConstraint",
             "def_name": "5日連続勤務まで夜夜夜防止",
             "use": true,
@@ -5984,6 +6354,12 @@
               false
             ],
             "shift_inv_pattern": [],
+            "A_daytypes": [
+              ""
+            ],
+            "B_daytypes": [
+              ""
+            ],
             "constraint_type": 0,
             "max_value": -1,
             "min_double": -1.0,
@@ -5995,6 +6371,7 @@
           },
           {
             "phase_mode": false,
+            "equal_count_mode": false,
             "name": "RowConstraint",
             "def_name": "5日連続勤務まで夜明休防止",
             "use": true,
@@ -6038,6 +6415,12 @@
               false
             ],
             "shift_inv_pattern": [],
+            "A_daytypes": [
+              ""
+            ],
+            "B_daytypes": [
+              ""
+            ],
             "constraint_type": 0,
             "max_value": -1,
             "min_double": -1.0,
@@ -6049,6 +6432,7 @@
           },
           {
             "phase_mode": false,
+            "equal_count_mode": false,
             "name": "RowConstraint",
             "def_name": "5日連続勤務まで夜休・夜夜明休防止",
             "use": true,
@@ -6086,6 +6470,12 @@
               false
             ],
             "shift_inv_pattern": [],
+            "A_daytypes": [
+              ""
+            ],
+            "B_daytypes": [
+              ""
+            ],
             "constraint_type": 0,
             "max_value": -1,
             "min_double": -1.0,
@@ -6097,6 +6487,7 @@
           },
           {
             "phase_mode": false,
+            "equal_count_mode": false,
             "name": "RowConstraint",
             "def_name": "",
             "use": false,
@@ -6108,6 +6499,12 @@
             "shift_pattern": [],
             "inv_pattern": [],
             "shift_inv_pattern": [],
+            "A_daytypes": [
+              ""
+            ],
+            "B_daytypes": [
+              ""
+            ],
             "constraint_type": 0,
             "max_value": -1,
             "min_double": -1.0,
@@ -6119,6 +6516,7 @@
           },
           {
             "phase_mode": false,
+            "equal_count_mode": false,
             "name": "RowConstraint",
             "def_name": "",
             "use": false,
@@ -6130,6 +6528,12 @@
             "shift_pattern": [],
             "inv_pattern": [],
             "shift_inv_pattern": [],
+            "A_daytypes": [
+              ""
+            ],
+            "B_daytypes": [
+              ""
+            ],
             "constraint_type": 0,
             "max_value": -1,
             "min_double": -1.0,
@@ -6141,6 +6545,7 @@
           },
           {
             "phase_mode": false,
+            "equal_count_mode": false,
             "name": "RowConstraint",
             "def_name": "",
             "use": false,
@@ -6152,6 +6557,12 @@
             "shift_pattern": [],
             "inv_pattern": [],
             "shift_inv_pattern": [],
+            "A_daytypes": [
+              ""
+            ],
+            "B_daytypes": [
+              ""
+            ],
             "constraint_type": 0,
             "max_value": -1,
             "min_double": -1.0,
@@ -6163,6 +6574,7 @@
           },
           {
             "phase_mode": false,
+            "equal_count_mode": false,
             "name": "RowConstraint",
             "def_name": "",
             "use": false,
@@ -6174,6 +6586,12 @@
             "shift_pattern": [],
             "inv_pattern": [],
             "shift_inv_pattern": [],
+            "A_daytypes": [
+              ""
+            ],
+            "B_daytypes": [
+              ""
+            ],
             "constraint_type": 0,
             "max_value": -1,
             "min_double": -1.0,
@@ -6185,6 +6603,7 @@
           },
           {
             "phase_mode": false,
+            "equal_count_mode": false,
             "name": "RowConstraint",
             "def_name": "",
             "use": false,
@@ -6196,6 +6615,12 @@
             "shift_pattern": [],
             "inv_pattern": [],
             "shift_inv_pattern": [],
+            "A_daytypes": [
+              ""
+            ],
+            "B_daytypes": [
+              ""
+            ],
             "constraint_type": 0,
             "max_value": -1,
             "min_double": -1.0,
@@ -6209,12 +6634,14 @@
       },
       {
         "phase_mode": false,
+        "equal_count_mode": false,
         "name": "RowConstraintsGroup",
         "def_name": "不等式制約",
         "use": true,
         "members": [
           {
             "phase_mode": false,
+            "equal_count_mode": false,
             "name": "RowConstraint",
             "def_name": "土日勤務数最大",
             "use": true,
@@ -6234,6 +6661,12 @@
               true
             ],
             "shift_inv_pattern": [],
+            "A_daytypes": [
+              ""
+            ],
+            "B_daytypes": [
+              ""
+            ],
             "constraint_type": 1,
             "max_value": -1,
             "min_double": -1.0,
@@ -6245,6 +6678,7 @@
           },
           {
             "phase_mode": false,
+            "equal_count_mode": false,
             "name": "RowConstraint",
             "def_name": "休み回数",
             "use": true,
@@ -6264,6 +6698,12 @@
               false
             ],
             "shift_inv_pattern": [],
+            "A_daytypes": [
+              ""
+            ],
+            "B_daytypes": [
+              ""
+            ],
             "constraint_type": 1,
             "max_value": -1,
             "min_double": -1.0,
@@ -6275,6 +6715,7 @@
           },
           {
             "phase_mode": false,
+            "equal_count_mode": false,
             "name": "RowConstraint",
             "def_name": "夜勤回数",
             "use": true,
@@ -6294,6 +6735,12 @@
               false
             ],
             "shift_inv_pattern": [],
+            "A_daytypes": [
+              ""
+            ],
+            "B_daytypes": [
+              ""
+            ],
             "constraint_type": 1,
             "max_value": -1,
             "min_double": -1.0,
@@ -6305,6 +6752,7 @@
           },
           {
             "phase_mode": false,
+            "equal_count_mode": false,
             "name": "RowConstraint",
             "def_name": "訪問B平準化",
             "use": true,
@@ -6324,6 +6772,12 @@
               false
             ],
             "shift_inv_pattern": [],
+            "A_daytypes": [
+              ""
+            ],
+            "B_daytypes": [
+              ""
+            ],
             "constraint_type": 1,
             "max_value": 1,
             "min_double": -1.0,
@@ -6335,6 +6789,7 @@
           },
           {
             "phase_mode": false,
+            "equal_count_mode": false,
             "name": "RowConstraint",
             "def_name": "",
             "use": false,
@@ -6346,6 +6801,12 @@
             "shift_pattern": [],
             "inv_pattern": [],
             "shift_inv_pattern": [],
+            "A_daytypes": [
+              ""
+            ],
+            "B_daytypes": [
+              ""
+            ],
             "constraint_type": 0,
             "max_value": -1,
             "min_double": -1.0,
@@ -6357,6 +6818,7 @@
           },
           {
             "phase_mode": false,
+            "equal_count_mode": false,
             "name": "RowConstraint",
             "def_name": "",
             "use": false,
@@ -6368,6 +6830,12 @@
             "shift_pattern": [],
             "inv_pattern": [],
             "shift_inv_pattern": [],
+            "A_daytypes": [
+              ""
+            ],
+            "B_daytypes": [
+              ""
+            ],
             "constraint_type": 0,
             "max_value": -1,
             "min_double": -1.0,
@@ -6379,6 +6847,7 @@
           },
           {
             "phase_mode": false,
+            "equal_count_mode": false,
             "name": "RowConstraint",
             "def_name": "",
             "use": false,
@@ -6390,6 +6859,12 @@
             "shift_pattern": [],
             "inv_pattern": [],
             "shift_inv_pattern": [],
+            "A_daytypes": [
+              ""
+            ],
+            "B_daytypes": [
+              ""
+            ],
             "constraint_type": 0,
             "max_value": -1,
             "min_double": -1.0,
@@ -6401,6 +6876,7 @@
           },
           {
             "phase_mode": false,
+            "equal_count_mode": false,
             "name": "RowConstraint",
             "def_name": "",
             "use": false,
@@ -6412,6 +6888,12 @@
             "shift_pattern": [],
             "inv_pattern": [],
             "shift_inv_pattern": [],
+            "A_daytypes": [
+              ""
+            ],
+            "B_daytypes": [
+              ""
+            ],
             "constraint_type": 0,
             "max_value": -1,
             "min_double": -1.0,
@@ -6423,6 +6905,7 @@
           },
           {
             "phase_mode": false,
+            "equal_count_mode": false,
             "name": "RowConstraint",
             "def_name": "",
             "use": false,
@@ -6434,6 +6917,12 @@
             "shift_pattern": [],
             "inv_pattern": [],
             "shift_inv_pattern": [],
+            "A_daytypes": [
+              ""
+            ],
+            "B_daytypes": [
+              ""
+            ],
             "constraint_type": 0,
             "max_value": -1,
             "min_double": -1.0,
@@ -6445,6 +6934,7 @@
           },
           {
             "phase_mode": false,
+            "equal_count_mode": false,
             "name": "RowConstraint",
             "def_name": "",
             "use": false,
@@ -6456,6 +6946,12 @@
             "shift_pattern": [],
             "inv_pattern": [],
             "shift_inv_pattern": [],
+            "A_daytypes": [
+              ""
+            ],
+            "B_daytypes": [
+              ""
+            ],
             "constraint_type": 0,
             "max_value": -1,
             "min_double": -1.0,
@@ -6467,6 +6963,7 @@
           },
           {
             "phase_mode": false,
+            "equal_count_mode": false,
             "name": "RowConstraint",
             "def_name": "",
             "use": false,
@@ -6478,6 +6975,12 @@
             "shift_pattern": [],
             "inv_pattern": [],
             "shift_inv_pattern": [],
+            "A_daytypes": [
+              ""
+            ],
+            "B_daytypes": [
+              ""
+            ],
             "constraint_type": 0,
             "max_value": -1,
             "min_double": -1.0,
@@ -6489,6 +6992,7 @@
           },
           {
             "phase_mode": false,
+            "equal_count_mode": false,
             "name": "RowConstraint",
             "def_name": "",
             "use": false,
@@ -6500,6 +7004,12 @@
             "shift_pattern": [],
             "inv_pattern": [],
             "shift_inv_pattern": [],
+            "A_daytypes": [
+              ""
+            ],
+            "B_daytypes": [
+              ""
+            ],
             "constraint_type": 0,
             "max_value": -1,
             "min_double": -1.0,
@@ -6513,12 +7023,14 @@
       },
       {
         "phase_mode": false,
+        "equal_count_mode": false,
         "name": "RowConstraintsGroup",
         "def_name": "行制約グループ2",
         "use": true,
         "members": [
           {
             "phase_mode": false,
+            "equal_count_mode": false,
             "name": "RowConstraint",
             "def_name": "夜夜後は明け",
             "use": true,
@@ -6550,6 +7062,12 @@
               true
             ],
             "shift_inv_pattern": [],
+            "A_daytypes": [
+              ""
+            ],
+            "B_daytypes": [
+              ""
+            ],
             "constraint_type": 0,
             "max_value": -1,
             "min_double": -1.0,
@@ -6561,6 +7079,7 @@
           },
           {
             "phase_mode": false,
+            "equal_count_mode": false,
             "name": "RowConstraint",
             "def_name": "Single夜勤の後は、夜勤または休み",
             "use": true,
@@ -6592,6 +7111,12 @@
               true
             ],
             "shift_inv_pattern": [],
+            "A_daytypes": [
+              ""
+            ],
+            "B_daytypes": [
+              ""
+            ],
             "constraint_type": 0,
             "max_value": -1,
             "min_double": -1.0,
@@ -6603,6 +7128,7 @@
           },
           {
             "phase_mode": false,
+            "equal_count_mode": false,
             "name": "RowConstraint",
             "def_name": "1回夜勤明けの禁止",
             "use": true,
@@ -6634,6 +7160,12 @@
               false
             ],
             "shift_inv_pattern": [],
+            "A_daytypes": [
+              ""
+            ],
+            "B_daytypes": [
+              ""
+            ],
             "constraint_type": 0,
             "max_value": -1,
             "min_double": -1.0,
@@ -6645,6 +7177,7 @@
           },
           {
             "phase_mode": false,
+            "equal_count_mode": false,
             "name": "RowConstraint",
             "def_name": "明けの前は、夜",
             "use": true,
@@ -6670,6 +7203,12 @@
               false
             ],
             "shift_inv_pattern": [],
+            "A_daytypes": [
+              ""
+            ],
+            "B_daytypes": [
+              ""
+            ],
             "constraint_type": 0,
             "max_value": -1,
             "min_double": -1.0,
@@ -6681,6 +7220,7 @@
           },
           {
             "phase_mode": false,
+            "equal_count_mode": false,
             "name": "RowConstraint",
             "def_name": "明けの後は公休",
             "use": true,
@@ -6706,6 +7246,12 @@
               true
             ],
             "shift_inv_pattern": [],
+            "A_daytypes": [
+              ""
+            ],
+            "B_daytypes": [
+              ""
+            ],
             "constraint_type": 0,
             "max_value": -1,
             "min_double": -1.0,
@@ -6717,6 +7263,7 @@
           },
           {
             "phase_mode": false,
+            "equal_count_mode": false,
             "name": "RowConstraint",
             "def_name": "夜勤ショート１",
             "use": true,
@@ -6748,6 +7295,12 @@
               false
             ],
             "shift_inv_pattern": [],
+            "A_daytypes": [
+              ""
+            ],
+            "B_daytypes": [
+              ""
+            ],
             "constraint_type": 0,
             "max_value": -1,
             "min_double": -1.0,
@@ -6759,6 +7312,7 @@
           },
           {
             "phase_mode": false,
+            "equal_count_mode": false,
             "name": "RowConstraint",
             "def_name": "夜勤ショート２",
             "use": true,
@@ -6796,6 +7350,12 @@
               false
             ],
             "shift_inv_pattern": [],
+            "A_daytypes": [
+              ""
+            ],
+            "B_daytypes": [
+              ""
+            ],
             "constraint_type": 0,
             "max_value": -1,
             "min_double": -1.0,
@@ -6807,6 +7367,7 @@
           },
           {
             "phase_mode": false,
+            "equal_count_mode": false,
             "name": "RowConstraint",
             "def_name": "夜勤ショート３",
             "use": true,
@@ -6850,6 +7411,12 @@
               false
             ],
             "shift_inv_pattern": [],
+            "A_daytypes": [
+              ""
+            ],
+            "B_daytypes": [
+              ""
+            ],
             "constraint_type": 0,
             "max_value": -1,
             "min_double": -1.0,
@@ -6861,6 +7428,7 @@
           },
           {
             "phase_mode": false,
+            "equal_count_mode": false,
             "name": "RowConstraint",
             "def_name": "夜勤ショート４",
             "use": false,
@@ -6910,6 +7478,12 @@
               false
             ],
             "shift_inv_pattern": [],
+            "A_daytypes": [
+              ""
+            ],
+            "B_daytypes": [
+              ""
+            ],
             "constraint_type": 0,
             "max_value": -1,
             "min_double": -1.0,
@@ -6921,6 +7495,7 @@
           },
           {
             "phase_mode": false,
+            "equal_count_mode": false,
             "name": "RowConstraint",
             "def_name": "夜明休パターン",
             "use": true,
@@ -6952,6 +7527,12 @@
               true
             ],
             "shift_inv_pattern": [],
+            "A_daytypes": [
+              ""
+            ],
+            "B_daytypes": [
+              ""
+            ],
             "constraint_type": 0,
             "max_value": -1,
             "min_double": -1.0,
@@ -6963,6 +7544,7 @@
           },
           {
             "phase_mode": false,
+            "equal_count_mode": false,
             "name": "RowConstraint",
             "def_name": "",
             "use": false,
@@ -6974,6 +7556,12 @@
             "shift_pattern": [],
             "inv_pattern": [],
             "shift_inv_pattern": [],
+            "A_daytypes": [
+              ""
+            ],
+            "B_daytypes": [
+              ""
+            ],
             "constraint_type": 0,
             "max_value": -1,
             "min_double": -1.0,
@@ -7052,11 +7640,14 @@
       "UseExternalConstraint": 0,
       "ShowUnsatisfactoryHardItems": 0,
       "ShowUnsatisfactoryHardItemsInline": 0,
-      "Algorithm": 1,
+      "Algorithm": 3,
       "final_soft_timeout": 20,
       "python_post_operation": 0,
       "notask_var_allowed_on_active_shifts": 0,
-      "notask_var_allowed_on_only_scheduled_task": 0
+      "notask_var_allowed_on_only_scheduled_task": 0,
+      "soft_constrain_for_conflicted_tasks": 0,
+      "soft_constrain_for_conflicted_shifts": 1,
+      "no_priority_given_to_soft_schedule_constraints": 1
     },
     "aws_parameters": {
       "dynamodb_region": "us-east-1",
@@ -13558,11 +14149,11 @@
       }
     ]
   },
-  "major_version": 121,
+  "major_version": 125,
   "sub_version": 100,
-  "solver_version": 121,
+  "solver_version": 125,
   "user_class": "",
   "user_id": "",
   "eval_id": "",
-  "ProjectName": "C:\\Users\\sugaw\\Documents\\FA\\sc3\\kindle本\\小規模多機能施設\\小規模多機能.nurse3"
+  "ProjectName": "C:\\Users\\sugaw\\Documents\\Git1\\Schedule_nurse3_Gallery\\Schedule_Nurse3_Gallery\\Japanese\\プロジェクトサンプル\\kindle本\\小規模多機能施設\\小規模多機能.nurse3"
 }
