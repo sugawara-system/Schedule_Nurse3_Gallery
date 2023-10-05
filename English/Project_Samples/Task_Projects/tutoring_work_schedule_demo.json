@@ -3621,7 +3621,7 @@
       "dynamodb_table_name": "SC_NURSE_TABLE",
       "dynamodb_key_name": "Name",
       "dynamodb_item_name": "nobody",
-      "dynamodb_language": "English"
+      "dynamodb_language": "Japanese"
     }
   },
   "Sch": {
@@ -5458,5 +5458,5 @@
   "user_class": "",
   "user_id": "",
   "eval_id": "",
-  "ProjectName": "C:\\Users\\sugaw\\Documents\\FA\\Project Samples\\Task Work Schedule\\tutoring_work_schedule_demo.nurse3"
+  "ProjectName": "C:\\Users\\sugaw\\Documents\\Git1\\Schedule_nurse3_Gallery\\Schedule_Nurse3_Gallery\\English\\Project_Samples\\Task_Projects\\tutoring_work_schedule_demo.nurse3"
 }
