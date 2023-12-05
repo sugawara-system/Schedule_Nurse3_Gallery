@@ -4689,7 +4689,7 @@
       "soft_constrain_for_conflicted_tasks": 0,
       "soft_constrain_for_conflicted_shifts": 1,
       "no_priority_given_to_soft_schedule_constraints": 1,
-      "python_allowable_errors_overide": 0
+      "python_allowable_errors_overide": 1
     },
     "aws_parameters": {
       "dynamodb_region": "us-east-1",
